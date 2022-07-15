@@ -55,8 +55,20 @@ HOD/Technology & Design<center>
 <center> <b>Ms Maria Marzuki<br> </b>
 Year Head<center>
 	
-<img src="/images/ms%20maria%20marzuki.jpeg" 
+<img src="/images/mdm%20soo%20woon%20siew.jpeg" 
      style="width:25%">
-<center> <b>Ms Maria Marzuki<br> </b>
+<center> <b>Mdm Soo Woon Siew<br> </b>
 Year Head<center>
+	
+<img src="/images/ms%20nurul%20atika%20bte%20ramli.jpeg" 
+     style="width:25%">
+<center> <b>Ms Nurul Atika Bte Ramli<br> </b>
+Assistant Year Head<center>
+	
+<img src="/images/mr%20huang%20kai%20sen%20clement.jpeg" 
+     style="width:25%">
+<center> <b>Mr Huang Kai Sen Clement<br> </b>
+Assistant Year Head<center>
+
+
 	
