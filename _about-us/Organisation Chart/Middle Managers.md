@@ -89,6 +89,9 @@ SH/ English Language<center>
      style="width:25%">
 <center> <b>Miss Teo Shi Yun Madeline<br> </b>
 SH/Food & Nutrition<center>
+	
+<img src="/images/miss%20haslinda%20bte%20safiee.jpeg" 
+     style="width:25%">
+<center> <b>Mdm Haslinda Bte Safiee<br> </b>
+SH/Geography<center>
 
-	
-	
