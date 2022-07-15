@@ -104,3 +104,6 @@ SH/ICT<center>
      style="width:25%">
 <center> <b>Mr Chan Chi Thio<br> </b>
 SH/Mathematics<center>
+	
+<center> <b>Dr Bernadette Ashley<br> </b>
+SH/Physical Education<center>
