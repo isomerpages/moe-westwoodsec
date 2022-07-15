@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Organisation Chart/Executive and Administration Staff.md
       - Organisation Chart/Lead Teachers & Senior Teachers.md
       - Organisation Chart/Middle Managers.md
       - Organisation Chart/School Leaders.md
