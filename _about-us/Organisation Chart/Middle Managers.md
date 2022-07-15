@@ -79,3 +79,16 @@ Assistant Discipline Mistress<center>
      style="width:25%">
 <center> <b>Mr Li Yundong<br> </b>
 HOD/Mother Tongue Languages (covering)<center>
+	
+<img src="/images/mr%20neo%20jin%20ping.jpeg" 
+     style="width:25%">
+<center> <b>Mr Neo Jin Ping<br> </b>
+SH/ English Language<center>
+	
+<img src="/images/miss%20teo%20shi%20yun%20madeline.jpeg" 
+     style="width:25%">
+<center> <b>Miss Teo Shi Yun Madeline<br> </b>
+SH/Food & Nutrition<center>
+
+	
+	
