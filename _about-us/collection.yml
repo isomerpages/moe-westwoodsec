@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Organisation Chart/Lead Teachers & Senior Teachers.md
       - Organisation Chart/Middle Managers.md
       - Organisation Chart/School Leaders.md
       - Organisation Chart/.keep
