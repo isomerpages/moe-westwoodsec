@@ -3,9 +3,8 @@ title: Principal's Message
 permalink: /about-us/principals-message
 description: ""
 ---
-
 <img src="/images/Mr%20Abdul%20Harris.jpeg" 
-     style="width: 35%">
+     style="width:25%">
 Westwood Secondary School is a very good school. We strive to meet the needs of our students and stakeholders, equipping them with the skills, competencies and values that will prepare them to meet the challenges of the future.   
 
  
