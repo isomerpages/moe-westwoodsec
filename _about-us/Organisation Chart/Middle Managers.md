@@ -100,4 +100,7 @@ SH/Geography<center>
 <center> <b>Mr Chan Chi Thio<br> </b>
 SH/ICT<center>
 	
-
+<img src="/images/mr%20lee%20chuen%20hing.jpeg" 
+     style="width:25%">
+<center> <b>Mr Chan Chi Thio<br> </b>
+SH/Mathematics<center>
