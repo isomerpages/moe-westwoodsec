@@ -23,3 +23,15 @@ ST/Mathematics<center>
      style="width:25%">
 <center> <b>Mr Muhammad Hamim B Abdul Rahim<br> </b>
 ST/PE<center>
+	
+
+<img src="/images/mr%20syed%20ali%20bin%20mohd%20alhabshee.jpeg" 
+     style="width:25%">
+<center> <b>Mr Syed Ali Bin Mohamed Alhabshee<br> </b>
+ST/Science<center>
+	
+<img src="/images/mr%20ahmad%20luqman%20bin%20ghazali.jpeg" 
+     style="width:25%">
+<center> <b>Ahmad Luqman Bin Ghazali<br> </b>
+ST/CCE<center>
+	
