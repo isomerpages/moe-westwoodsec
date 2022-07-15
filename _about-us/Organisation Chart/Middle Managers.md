@@ -19,4 +19,27 @@ HOD/Character & Citizenship Education<center>
      style="width:25%">
 <center> <b>Mdm Amarjit Kaur<br> </b>
 HOD/Humanities<center>
+	
+<img src="/images/mdm%20quek%20liza.jpeg" 
+     style="width:25%">
+<center> <b>Mdm Quek Liza<br> </b>
+HOD/ICT<center>
+
+<img src="/images/mr%20lau%20yongxing%20bob.jpeg" 
+     style="width:25%">
+<center> <b>Mr Lau Yongxing Bob<br> </b>
+HOD/Mathematics<center>
+	
+<img src="/images/mdm%20nur%20hidayah%20binte%20moktar.jpeg" 
+     style="width:25%">
+<center> <b>Mdm Nur Hidayah Bte Moktar<br> </b>
+School Staff Developer<center>
+	
+<img src="/images/miss%20ng%20puay%20san%20christina.jpeg" 
+     style="width:25%">
+<center> <b>Ms Ng Puay San Christina<br> </b>
+HOD/CCA & Aesthetics<center>
+
+
+	
 
