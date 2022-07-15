@@ -13,3 +13,18 @@ third_nav_title: Organisation Chart
      style="width:25%">
 <center> <b>Mr Wang Pok Shien  <br> </b>
 Administration Manager<center>
+	
+
+
+	
+<img src="/images/mr%20mohd%20jafrey%20bin%20jamal.jpeg" 
+     style="width:25%" >
+<center> <b>Mr Mohd Jafrey Bin Jamal  <br> </b>
+Administration Manager<center>
+
+<img src="/images/mr%20low%20yoong%20chee.jpeg" 
+     style="width:25%" >
+<center> <b>Mr Low Yoong Chee Frankie <br> </b>
+Administration Manager<center>
+	
+![](/images/executive%20and%20administrative%20staff%202.jpeg)
