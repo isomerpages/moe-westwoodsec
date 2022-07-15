@@ -18,4 +18,8 @@ ST/Chinese Language<center>
      style="width:25%">
 <center> <b>Mdm Puvaneswari d/o Raman<br> </b>
 ST/Mathematics<center>
-
+	
+<img src="/images/mr%20muhamad%20hamim%20b%20abdul%20rahim.jpeg" 
+     style="width:25%">
+<center> <b>Mr Muhammad Hamim B Abdul Rahim<br> </b>
+ST/PE<center>
