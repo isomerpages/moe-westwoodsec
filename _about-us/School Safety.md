@@ -33,3 +33,7 @@ The School Safety Committee, headed by a Vice-Principal and assisted by various 
 6.  All students are insured under the NTUC Income Group Personal Accident Insurance Plan for Students. 
 7.  Emergency evacuation drills are conducted to familiarise students with real-time emergencies.
 8.  School staff are trained and certified in First-Aid, CPR and AED.
+
+### TRAFFIC MANAGEMENT PLAN
+
+Please download Westwood Secondary School Traffic Management Plan [here](/files/School%20Traffic%20Management%20Plan_2020.pdf)
