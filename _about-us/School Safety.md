@@ -37,3 +37,17 @@ The School Safety Committee, headed by a Vice-Principal and assisted by various 
 ### TRAFFIC MANAGEMENT PLAN
 
 Please download Westwood Secondary School Traffic Management Plan [here](/files/School%20Traffic%20Management%20Plan_2020.pdf)
+
+### COMMUNITY PARTNERSHIPS
+
+The school seeks to collaborate with community partners in training and disseminating messages on safety, security and emergency preparedness:  
+
+1.  The Singapore Civil Defence Force (SCDF) in conducting fire evacuation drills for the school population and the Community Emergency Preparedness Programme (CEPP) to train school staff in basic First-Aid, CPR and firefighting skills.
+2.  The Singapore Police Force (SPF) on SGSecure matters.
+3.  The Singapore Road Safety Council, Traffic Police, Land Transport Authority and Town Council on road safety matters.
+
+  
+
+### CLARIFICATIONS 
+
+For further information and clarifications, please do contact us via email [westwood\_ss@moe.edu.sg](mailto:westwood_ss@moe.edu.sg) or call us at 6792 9737.
