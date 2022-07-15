@@ -49,5 +49,14 @@ HOD/Science<center>
      style="width:25%">
 <center> <b>Mr Heng Yih Foo Hector<br> </b>
 HOD/Technology & Design<center>
-
+	
+<img src="/images/ms%20maria%20marzuki.jpeg" 
+     style="width:25%">
+<center> <b>Ms Maria Marzuki<br> </b>
+Year Head<center>
+	
+<img src="/images/ms%20maria%20marzuki.jpeg" 
+     style="width:25%">
+<center> <b>Ms Maria Marzuki<br> </b>
+Year Head<center>
 	
