@@ -14,4 +14,9 @@ HOD/Character & Citizenship Education<center>
      style="width:25%">
 <center> <b>Ms Lee Chew Yen<br> </b>
 HOD/Character & Citizenship Education<center>
-	
+
+<img src="/images/mdm%20amarjit%20kaur.jpeg" 
+     style="width:25%">
+<center> <b>Mdm Amarjit Kaur<br> </b>
+HOD/Humanities<center>
+
