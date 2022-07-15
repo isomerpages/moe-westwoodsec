@@ -9,3 +9,9 @@ third_nav_title: Organisation Chart
 <center> <b>Mr Abdul Harris Bin Sumardi  <br> </b>
 HOD/Character & Citizenship Education<center>
 	
+	
+<img src="/images/miss%20lee%20chew%20yen.jpeg" 
+     style="width:25%">
+<center> <b>Ms Lee Chew Yen<br> </b>
+HOD/Character & Citizenship Education<center>
+	
