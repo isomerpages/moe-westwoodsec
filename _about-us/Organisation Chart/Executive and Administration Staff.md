@@ -8,3 +8,8 @@ third_nav_title: Organisation Chart
      style="width:25%">
 <center> <b>Mr Lek Chun Guan  <br> </b>
 	Vice-Principal (Administration) <center>
+		
+<img src="/images/mr%20wang%20pok%20shien.jpeg" 
+     style="width:25%">
+<center> <b>Mr Wang Pok Shien  <br> </b>
+Administration Manager<center>
