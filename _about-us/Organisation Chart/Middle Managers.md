@@ -94,4 +94,10 @@ SH/Food & Nutrition<center>
      style="width:25%">
 <center> <b>Mdm Haslinda Bte Safiee<br> </b>
 SH/Geography<center>
+	
+<img src="/images/mr%20chan%20chi%20thio.jpeg" 
+     style="width:25%">
+<center> <b>Mr Chan Chi Thio<br> </b>
+SH/ICT<center>
+	
 
