@@ -69,6 +69,10 @@ Assistant Year Head<center>
      style="width:25%">
 <center> <b>Mr Huang Kai Sen Clement<br> </b>
 Assistant Year Head<center>
-
-
 	
+<img src="/images/mdm%20nur%20rakeezah%20bte%20abdul%20rahim.jpeg" 
+     style="width:25%">
+<center> <b>Mdm Nur Rakeezah Bte Abdul Rahim<br> </b>
+Assistant Discipline Mistress<center>
+	
+
