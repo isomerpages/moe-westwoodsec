@@ -40,6 +40,14 @@ School Staff Developer<center>
 <center> <b>Ms Ng Puay San Christina<br> </b>
 HOD/CCA & Aesthetics<center>
 
+<img src="/images/mdm%20goh%20sok%20fern.jpeg" 
+     style="width:25%">
+<center> <b>Mdm Goh Sok Fern<br> </b>
+HOD/Science<center>
+	
+<img src="/images/mr%20heng%20yih%20foo%20hector.jpeg" 
+     style="width:25%">
+<center> <b>Mr Heng Yih Foo Hector<br> </b>
+HOD/Technology & Design<center>
 
 	
-
