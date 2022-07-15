@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Theme Song.md
       - School Song.md
       - Organisation Chart/.keep
       - Organisation Chart/School Leaders.md
