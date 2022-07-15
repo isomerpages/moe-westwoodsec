@@ -14,3 +14,8 @@ LT/English Language<center>
 <center> <b>Mdm Wang Fang<br> </b>
 ST/Chinese Language<center>
 	
+<img src="/images/mdm%20puvaneswari%20do%20raman.jpeg" 
+     style="width:25%">
+<center> <b>Mdm Puvaneswari d/o Raman<br> </b>
+ST/Mathematics<center>
+
