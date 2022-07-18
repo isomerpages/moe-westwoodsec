@@ -2,7 +2,6 @@ collections:
   academic-matters:
     output: true
     order:
-      - Departments/Infocomm Technology.md
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mathematics.md
@@ -12,6 +11,7 @@ collections:
       - Departments/Technology & Design.md
       - Departments/Physical Education.md
       - Departments/Music.md
+      - Departments/Infocomm Technology.md
       - Subjects Offered.md
       - Homework Policy.md
       - Assessment Calender.md
