@@ -113,7 +113,7 @@ third_nav_title: Uniformed Groups
 
 ### OTHER BADGES/AWARDS
 
-NYAA Bronze & NYAA Silver, Kayaking Star 1, Anti-Drug Abuse Course (SANA), Singapore Anti-Tuberculosis Association Course (SATA), Civil Defence Course, Total Defence Course and First Aid  
+NYAA Bronze &amp; NYAA Silver, Kayaking Star 1, Anti-Drug Abuse Course (SANA), Singapore Anti-Tuberculosis Association Course (SATA), Civil Defence Course, Total Defence Course and First Aid  
 
 ### PROGRAMMES / EVENTS
 
@@ -183,3 +183,5 @@ NYAA Bronze & NYAA Silver, Kayaking Star 1, Anti-Drug Abuse Course (SANA), Singa
   </tr>
 </tbody>
 </table>
+
+<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4YGtOxODPv3DPT1u6h2U5soSSNQUVl0BtO1TkkPyQbirO8jP1AZTdNMPkTBqIOsmSt3R7EP2lRI8y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
