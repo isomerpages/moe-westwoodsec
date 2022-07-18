@@ -141,3 +141,59 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
 
 
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnYb6RPzssx12PugBck3AJK1LAPB5o8QY2g_O9FKIqPOUMSLqU92g4yCR8Gbps7a1Fm0vM-YC8pnLU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### Useful Links
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-av5t{background-color:#FFF;color:#3AA66F;text-align:left;vertical-align:top}
+.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">LINK</span></th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DESCRIPTION</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-av5t"><a href="http://infopedia.nl.sg/"><span style="text-decoration:none;color:#3AA66F">Singapore Infopedia</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">An electronic encyclopedia on Singapore, by the National Library Board</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="http://www.historylearningsite.co.uk/"><span style="text-decoration:none;color:#3AA66F">History Learning Site</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">Contains easy-to-read information. Useful for e-learning and/or self-directed learning</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="http://www.schoolhistory.co.uk/"><span style="text-decoration:none;color:#3AA66F">SchoolHistory.co.uk</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">Online resource for Upper Secondary History. Contains games, lesson plans, useful links and ideas for ICT.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="http://www.bbc.co.uk/history"><span style="text-decoration:none;color:#3AA66F">BBC History</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">This site is dedicated to bringing history to life, for the casual browser and the total enthusiast.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="http://www.epa.gov/recyclecity/"><span style="text-decoration:none;color:#3AA66F">Recycle, Reduce, and Reuse</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">A great website with colourful cartoons that teaches users about recycling efforts in an imaginary city. For example, users can learn what industries and individials can do to minimize pollution and waste as the click on the different facilities in the city.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="http://www.nationalgeographic.com/"><span style="text-decoration:none;color:#3AA66F">General Geography</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">A site featuring a myriad of information about the wonders on Earth. Includes videos and games.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="http://www.wfp.org/"><span style="text-decoration:none;color:#3AA66F">Geography of Food</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">The World Food Programm (WFP) websites provides news and information about operations, policies, publications, appeals and how to help. Includes special reports, questions and answers and video.  A must-read for all graduating pupils offering Geography</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="http://www.singstat.gov.sg/"><span style="text-decoration:none;color:#3AA66F">Singapore Statistics</span></a><span style="color:#565656"> </span></td>
+    <td class="tg-mwz3"><span style="color:#565656"> National Statistical Authority website provides reliable, relevant and timely statistics to support Singapore’s social and economic development. It is useful for Upper Secondary students to practice their data-reading skills.</span></td>
+  </tr>
+</tbody>
+</table>
