@@ -7,3 +7,63 @@ third_nav_title: Departments
 ### VISION/GOALS
 
 Competent, Dynamic, and Committed in Nurturing Life-Long Passion for the Language and Culture
+
+
+### Programmes / Events
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-0y1c{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
+.tg .tg-njgx{background-color:#FFF;color:#565656;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">NAME OF PROGRAMME / EVENT</span></th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DATE / MONTH</span></th>
+    <th class="tg-0y1c">OBJECTIVES OF PROGRAMME / EVENT</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mwz3"><span style="color:#565656">Reading Programme</span></td>
+    <td class="tg-mwz3"><span style="color:#565656"> January - September</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">The MTL Reading programme is a structured programme infused into the curriculum which aims to expose the students to different genres of writing; from narrative stories to news articles so that they can be critical and creative thinkers who are connected locally and globally.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mwz3"><span style="color:#565656">Essay Writing Publication</span></td>
+    <td class="tg-mwz3"><span style="color:#565656"> Term 1 to 3 </span></td>
+    <td class="tg-njgx"><span style="background-color:initial">Intra-school essay writing publication that promotes literary excellence, ethics, encouragement, creativity and awareness of current affairs.</span><br><br><span style="background-color:initial">E-Publication of good works across different levels aim to acknowledge and showcase students’ writing talents.</span><br><br>Click <a href="https://read.bookcreator.com/hZRhBliVO3M75UYpHyzXzEhqzks2/dJQOksxdRKGiYpy3U0ifSA"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Chinese Language Version《晨风作品集》 (2020).   <br><br> Click <a href="https://read.bookcreator.com/hZRhBliVO3M75UYpHyzXzEhqzks2/nf2A273BS0Wsq-QP19IjDg"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Malay Language Version《Menyingkap Tabir Ilham》 (2020).</td>
+  </tr>
+  <tr>
+    <td class="tg-mwz3"><span style="color:#565656">Mother Tongue Fortnight Programme</span></td>
+    <td class="tg-mwz3"><span style="color:#565656"> Term 1 to 2</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">The objective of MTL Fortnight is to ignite students’ interest and appreciation for the Mother Tongue Languages and culture. It provides an enhanced and immersive learning experience for students through various cultural workshops and engaging language activities within and outside of the classroom.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-njgx"><span style="color:#565656">Mother Tongue Languages Intensive Programme</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Term 2</span><br><span style="color:#565656">Week 9 to 10</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Targeted for Secondary Express/ 5 Normal Academic and 4 Normal Academic (‘O’ Level students), this programme aims to prepare graduating students for the O Levels paper in late May/ early June.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mwz3"><span style="color:#565656">Chinese Calligraphy</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Term 1 to 2</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Secondary One Higher Chinese Language students get the opportunity to grasp the depth and breadth of Chinese culture, allowing them to get in touch with their inner self in a busy metropolitan environment.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mwz3"><span style="color:#565656">Theatre Exposure</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Term 2 to 4</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Different levels will be exposed to different types of drama and theatre performances with the aim of inculcating appreciation of the arts and culture as well as to develop critical analytical skills.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mwz3"><span style="color:#565656">Learning Journey – Heritage Trail</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Term 3</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">To provide students with the opportunity to explore different heritage sites in Singapore and have a greater understanding about their culture through various activities and authentic learning experiences.</span></td>
+  </tr>
+</tbody>
+</table>
