@@ -2,7 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCE/Citizen Education.md
+      - CCE/Citizenship Education.md
       - CCE/Character Education.md
       - CCE/Character & Citizenship Education.md
       - CCE/.keep
