@@ -2,4 +2,5 @@ collections:
   administration:
     output: true
     order:
+      - Financial Assistance Scheme.md
       - Service Providers.md
