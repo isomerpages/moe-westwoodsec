@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCE/Education & Career Guidance.md
       - CCE/Citizenship Education.md
       - CCE/Character Education.md
       - CCE/Character & Citizenship Education.md
