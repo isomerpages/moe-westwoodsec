@@ -2,5 +2,6 @@ collections:
   administration:
     output: true
     order:
+      - School Management Committee/.keep
       - Service Providers.md
       - Financial Assistance Scheme.md
