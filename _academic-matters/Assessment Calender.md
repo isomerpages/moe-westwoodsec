@@ -19,3 +19,10 @@ description: ""
 
 * [4EXP / 5NA Prelim Timetable](/files/2022%20O%20Prelim_Timetable_4E5N_Final.pdf)
 *   [4NA (O) Prelim Timetable](/files/2022%20O%20Prelim_Timetable_4NO_Final.pdf)
+
+
+**4 . End-of-Year Examination**
+
+*   Sec 1 EYE Timetable
+*   Sec 2 EYE Timetable
+*   Sec 3 EYE Timetable
