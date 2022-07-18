@@ -84,3 +84,17 @@ At Westwood Secondary School, the _eTeens_ programme will be implemented as fo
   </tr>
 </tbody>
 </table>
+
+###  INFORMATION FOR PARENTS
+
+10. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. You may click [here](https://form.gov.sg/61ec31f16794960014a47162) to complete the opt-out form. 
+
+12. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. You may click [here](https://form.gov.sg/#!/61ec380b2686c20012090d50) to complete the opt-out form
+
+13. Parents can contact the school at 6792 9737 or email us at [westwood\_ss@moe.edu.sg](mailto:westwood_ss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+  
+
+14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
