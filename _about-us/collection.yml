@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - Direct School Admission.md
-      - School Safety.md
-      - School Rules.md
-      - Theme Song.md
-      - School Song.md
+      - About Westwood.md
+      - Principal's Message.md
       - Organisation Chart/.keep
       - Organisation Chart/School Leaders.md
       - Organisation Chart/Middle Managers.md
       - Organisation Chart/Lead Teachers & Senior Teachers.md
       - Organisation Chart/Executive and Administration Staff.md
-      - Principal's Message.md
-      - About Westwood.md
+      - School Song.md
+      - Theme Song.md
+      - School Rules.md
+      - School Safety.md
+      - Direct School Admission.md
