@@ -33,7 +33,7 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
 </thead>
 <tbody>
   <tr>
-    <td class="tg-olsu" colspan="3"><span style="font-weight:700;color:#3AA66F">GEOGRAPHY </span></td>
+    <td colspan="3" class="tg-olsu"><span style="font-weight:700;color:#3AA66F">GEOGRAPHY </span></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656"> NUS Geography Challenge (NUS GC)</span></td>
@@ -66,7 +66,7 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
     <td class="tg-mwz3"><span style="color:#565656"> Secondary Three Pure Geography students will visit the beach to learn how to do beach profiling and about beach management techniques. </span></td>
   </tr>
   <tr>
-    <td class="tg-olsu" colspan="3"><span style="font-weight:700;color:#3AA66F"> HISTORY </span></td>
+    <td colspan="3" class="tg-olsu"><span style="font-weight:700;color:#3AA66F"> HISTORY </span></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Historical Investigation on life during the Japanese Occupation </span></td>
@@ -89,7 +89,7 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
     <td class="tg-mwz3"><span style="color:#565656">Secondary One History students will engage in a Historical Investigation of colonial Singapore.</span></td>
   </tr>
   <tr>
-    <td class="tg-olsu" colspan="3"><span style="font-weight:700;color:#3AA66F"> SOCIAL STUDIES</span></td>
+    <td colspan="3" class="tg-olsu"><span style="font-weight:700;color:#3AA66F"> SOCIAL STUDIES</span></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Social Studies Issues Investigation in school</span><br></td>
@@ -98,3 +98,46 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
   </tr>
 </tbody>
 </table>
+
+### Department Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">YEAR</span></th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">AWARD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2020</span></td>
+    <td class="tg-tsok">Bronze Award for Historical Scenes Investigation<br>Silver and Bronze Awards for NUS Geography Challenge</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"> 2019</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Top 15% placing in the Preliminary Round for NUS Geography Challenge (Individual Component)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2018</span></td>
+    <td class="tg-tsok">Merit Award for Historical Scene Investigation Competition<br>Merit Award for SG StoryMaps Challenge<br>Silver Award for Istana Heritage Gallery Competition</td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2017</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Winner of Project Scribe conducted by History Association</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnYb6RPzssx12PugBck3AJK1LAPB5o8QY2g_O9FKIqPOUMSLqU92g4yCR8Gbps7a1Fm0vM-YC8pnLU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
