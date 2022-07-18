@@ -27,7 +27,7 @@ Character for life - CCA promotes life skills learning and leadership training
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">- Boys' Brigade<br>- Girls' Guide<br>- National Cadet Corp<br>- National Police Cadet Corp<br>- National Civil Defence Cadet Corp</td>
+    <td class="tg-0pky">- Boys' Brigade<br>- Girls' Brigade<br>- National Cadet Corp<br>- National Police Cadet Corp<br>- National Civil Defence Cadet Corp</td>
     <td class="tg-0pky">- Badminton<br>- Basketball<br>- Bowling<br>- Football<br>- Netball<br>- Tchoukball</td>
     <td class="tg-0pky">- AVA<br>- Robotics<br>- Westwood Flying Club</td>
     <td class="tg-0pky">- Concert Band<br>- English Drama<br>- Guitar Ensemble<br>- Modern Dance<br>- Show Choir<br>- Visual Arts</td>
