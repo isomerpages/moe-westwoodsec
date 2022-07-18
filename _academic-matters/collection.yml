@@ -2,6 +2,7 @@ collections:
   academic-matters:
     output: true
     order:
+      - Departments/Infocomm Technology.md
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mathematics.md
