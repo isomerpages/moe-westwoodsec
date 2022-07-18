@@ -19,8 +19,8 @@ third_nav_title: Departments
 
 **Values**
 
-*   Resilience & Integrity - Do the right thing even when the going gets tough
-*   Innovation, Compassion, & Continual Learning - Seek opportunities to serve and grow in all endeavors
+*   Resilience &amp; Integrity - Do the right thing even when the going gets tough
+*   Innovation, Compassion, &amp; Continual Learning - Seek opportunities to serve and grow in all endeavors
 
 **Goals**
 
@@ -28,7 +28,7 @@ third_nav_title: Departments
 *   To provide platforms for innovation to take place
 *   To provide a synergy of curriculum packages to equip students with skills to adapt to changes in the future
 
-### D&T
+### D&amp;T
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -61,7 +61,7 @@ third_nav_title: Departments
 </tbody>
 </table>
 
-### F&N
+### F&amp;N
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -174,3 +174,5 @@ third_nav_title: Departments
   </tr>
 </tbody>
 </table>
+
+<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQw2z-qGp47Jylt_q1NZ76NKA2ssmR-geByE_P6TiFR0tE-jWhz1P1icvNziv9tXY0hvtnWGQxS0YfN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
