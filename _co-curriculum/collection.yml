@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCE/Cyber Wellness.md
       - CCE/Sexuality Education.md
       - CCE/Education & Career Guidance.md
       - CCE/Citizenship Education.md
