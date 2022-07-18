@@ -98,3 +98,46 @@ Every student is a discerning and responsible ICT user
   </tr>
 </tbody>
 </table>
+
+### Useful Links
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-av5t{background-color:#FFF;color:#3AA66F;text-align:left;vertical-align:top}
+.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">LINK</span></th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DESCRIPTION</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-av5t"><a href="http://www.webopedia.com/"><span style="text-decoration:none;color:#3AA66F">Webopedia: Online Computer Dictionary</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">An online dictionary and search engine for computer and Internet technology definitions.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="http://computer.howstuffworks.com/"><span style="text-decoration:none;color:#3AA66F">How Stuff Works?</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">HowStuffWorks Computer answers your home networking questions and more. Find explanations, reviews, videos and prices on peripherals, hardware, Internet and software.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="http://www.openoffice.org/"><span style="text-decoration:none;color:#3AA66F">Open Office</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">Open-source office software suite for word processing, spreadsheets, presentations, graphics, databases.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="http://scratch.mit.edu/"><span style="text-decoration:none;color:#3AA66F">SCRATCH</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">Scratch is a programming language that makes it easy to create your own interactive stories, animations, games, music, and art -- and share your creations on the web.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://inkscape.org/en/"><span style="text-decoration:none;color:#3AA66F">Inkscape</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">An open source vector graphics editor with capabilities similar to Illustrator and CorelDraw.</span></td>
+  </tr>
+</tbody>
+</table>
