@@ -2,13 +2,13 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCE/Cyber Wellness.md
-      - CCE/Sexuality Education.md
-      - CCE/Education & Career Guidance.md
-      - CCE/Citizenship Education.md
-      - CCE/Character Education.md
-      - CCE/Character & Citizenship Education.md
       - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/Character Education.md
+      - CCE/Citizenship Education.md
+      - CCE/Education & Career Guidance.md
+      - CCE/Sexuality Education.md
+      - CCE/Cyber Wellness.md
       - Student Development/Student Well Being.md
       - Student Development/Student Development.md
       - Student Development/.keep
