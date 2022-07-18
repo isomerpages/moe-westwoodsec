@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCE/Character Education.md
       - CCE/Character & Citizenship Education.md
       - CCE/.keep
       - Student Development/Student Well Being.md
