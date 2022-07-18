@@ -2,12 +2,12 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Niche Programmes/Art Project.md
-      - Niche Programmes/Live@Westwood.md
-      - Niche Programmes/Dance and Percussion Ensemble Programme.md
       - Niche Programmes/.keep
       - Niche Programmes/Niche Programmes.md
       - Niche Programmes/Learning for Life Programme.md
+      - Niche Programmes/Dance and Percussion Ensemble Programme.md
+      - Niche Programmes/Live@Westwood.md
+      - Niche Programmes/Art Project.md
       - Enrichment & Life Skills.md
       - Values in Action.md
       - Student Leadership Development.md
