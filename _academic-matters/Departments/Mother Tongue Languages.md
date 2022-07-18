@@ -67,3 +67,47 @@ Competent, Dynamic, and Committed in Nurturing Life-Long Passion for the Languag
   </tr>
 </tbody>
 </table>
+
+### Department Achievements 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-cmm0{background-color:#FFF;color:#666;text-align:left;vertical-align:top}
+.tg .tg-zqva{background-color:#FFF;color:#666;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">Year</span></th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">Awards</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"> 2</span>021</td>
+    <td class="tg-cmm0">12th Global Youth Bilingual Language Conference (CL) Bronze<br><br>Text Recital Competition for primary and secondary schools (CL) Bronze<br><br>W3 Mother Tongue Languages Fiesta<br><br>Chinese Creative Essay Writing Competition: 1st place<br>Chinese Language &amp; Cultural Quiz (Group): 1st place<br>Malay Creative Essay Writing Competition: 2nd place<br>Malay Language &amp; Cultural Quiz (Group): 1st place</td>
+  </tr>
+  <tr>
+    <td class="tg-zqva">2020</td>
+    <td class="tg-cmm0">11th Global Youth Bilingual Language Conference (CL)<br>Bronze</td>
+  </tr>
+  <tr>
+    <td class="tg-zqva">2019</td>
+    <td class="tg-cmm0">W3 Mother Tongue Languages Fiesta <br>ML: 1st <br>CL: 4th</td>
+  </tr>
+  <tr>
+    <td class="tg-zqva"> 2019</td>
+    <td class="tg-cmm0">SPH Journalism Camp and Competition (ML)<br>1st</td>
+  </tr>
+  <tr>
+    <td class="tg-zqva"> 2019</td>
+    <td class="tg-cmm0"> National Malay Writing Competition (ML)<br>Gold Medalist</td>
+  </tr>
+</tbody>
+</table>
