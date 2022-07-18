@@ -4,10 +4,47 @@ permalink: /academic-matters/Departments/mathematics
 description: ""
 third_nav_title: Departments
 ---
-### ### VISION/GOALS
+### VISION/GOALS
 
-**For pupils** <br>
+**For pupils**&nbsp;<br>
 To be equipped with the necessary knowledge, skills and attitude to solve authentic Mathematical problems confidently.
 
 **For teachers** <br>
 To be exemplary leaders in the teaching and learning of Mathematics so as to add value to every Westwood pupil.
+
+### Programmes/ Events
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-0y1c{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
+.tg .tg-njgx{background-color:#FFF;color:#565656;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">NAME OF PROGRAMME / EVENT</span></th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DATE / MONTH</span></th>
+    <th class="tg-0y1c">OBJECTIVES OF PROGRAMME / EVENT</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mwz3"><span style="color:#565656">Sec 2 and 3</span><br><span style="color:#565656">Problem Solving Project</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">May - July</span><br><br><br></td>
+    <td class="tg-njgx">Secondary 2 and 3 students will apply what they learnt in the classroom to solve real world problems in the school and the community.</td>
+  </tr>
+  <tr>
+    <td class="tg-mwz3"><span style="color:#565656">Sec 1 Code for fun</span><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">July - September</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Secondary 1 students will be exposed to basic coding as well as computational thinking. </span></td>
+  </tr>
+</tbody>
+</table>
+
+<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTHwGM3UTwaPZ_4Jv7jycNCEG2IqTXEdsEyAAZv6-SW94YV6Jm_7xcjOCO-pLL_bj5m2V84HZ2ngJRl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
