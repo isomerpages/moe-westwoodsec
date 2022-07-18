@@ -101,3 +101,54 @@ Every Westwoodian to be exposed to Aesthetics programmes from various art forms 
 </table>
 
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRf61HlHGNdxp8PurDtQQBsSQKuBfTYkoxbtT5nQfTMIYDHDyoLcCbev4ntG5vcpz8CH47st4FHuP3B/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### Useful Links
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-mfrk{color:#3AA66F;text-align:left;vertical-align:top}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-v4io{color:#565656;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">LINK</span></th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DESCRIPTION</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mfrk"><a href="http://www.sso.org.sg/"><span style="text-decoration:none;color:#3AA66F">Singapore Symphony Orchestra</span></a></td>
+    <td class="tg-v4io"><span style="color:#565656">A local classical orchestra</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mfrk"><a href="https://www.sco.org.sg/"><span style="text-decoration:none;color:#3AA66F">Singapore Chinese Orchestra</span></a></td>
+    <td class="tg-v4io"><span style="color:#565656">A local Chinese orchestra</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mfrk"><a href="http://www.omsyouth.blogspot.sg/"><span style="text-decoration:none;color:#3AA66F">Singapore Malay Orchestra</span></a></td>
+    <td class="tg-v4io"><span style="color:#565656">A local Malay orchestra</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mfrk"><a href="http://en.wikipedia.org/wki/singapore_Indian_Orchestra_and%20_choir"><span style="text-decoration:none;color:#3AA66F">Singapore Indian Orchestra and Choir</span></a></td>
+    <td class="tg-v4io"><span style="color:#565656">Information on Wikipedia about the Singapore Indian orchestra </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-mfrk"><a href="http://www.sistic.com.sg/"><span style="text-decoration:none;color:#3AA66F">SISTIC</span></a></td>
+    <td class="tg-v4io"><span style="color:#565656">Purchase tickets to performance</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mfrk"><a href="http://music.nus.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Yong Siew Toh Conservatory of Music</span></a></td>
+    <td class="tg-v4io"><span style="color:#565656">Singapore's first conservatory of music</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mfrk"><a href="http://www.lasalle.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Lasalle College of the Arts</span></a></td>
+    <td class="tg-v4io"><span style="color:#565656">An arts educational institution in Singapore</span></td>
+  </tr>
+</tbody>
+</table>
