@@ -176,3 +176,152 @@ third_nav_title: Departments
 </table>
 
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQw2z-qGp47Jylt_q1NZ76NKA2ssmR-geByE_P6TiFR0tE-jWhz1P1icvNziv9tXY0hvtnWGQxS0YfN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### Useful Links
+
+
+**D&T**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-av5t{background-color:#FFF;color:#3AA66F;text-align:left;vertical-align:top}
+.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">LINK</span></th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DESCRIPTION</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.technologystudent.com/"><span style="text-decoration:none;color:#3AA66F">Technology student</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">This website contains useful information on the D&amp;T subject.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.bbc.co.uk/schools/gcsebitesize/design/"><span style="text-decoration:none;color:#3AA66F">Bitesize Revision</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">This website contains useful information on the D&amp;T subject</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.tamiya.com/english/e-home.htm"><span style="text-decoration:none;color:#3AA66F">Tamiya Mechanical Toys</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">This website contains information on mechanical toys.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.edisonnation.com/"><span style="text-decoration:none;color:#3AA66F">Edison Nation</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">This website shows innovative products as well as a forum for discussion into possible design opportunities and creative ideas. </span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://sketchup.google.com/intl/en/training/videos/new_to_gsu.html"><span style="text-decoration:none;color:#3AA66F">Sketchup Tutorials</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">This website contains tutorials that teaches the basic tools used in  Sketchup.</span></td>
+  </tr>
+</tbody>
+</table>
+
+**F&N**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-0y1c{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-av5t{background-color:#FFF;color:#3AA66F;text-align:left;vertical-align:top}
+.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0y1c">LINK</th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DESCRIPTION</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-av5t"><a href="https://focos.hpb.gov.sg/eservices/RecipeAnalysis/RecipeAnalysis.aspx"><span style="text-decoration:none;color:#3AA66F">Recipe Analyser</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">To analyse nutrient content of dishes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://focos.hpb.gov.sg/Eservices/FIA/FIAPersonalInfo.aspx"><span style="text-decoration:none;color:#3AA66F">Food Intake Assessment</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">To calculate average nutrient intake</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://focos.hpb.gov.sg/eservices/ENCF/"><span style="text-decoration:none;color:#3AA66F">Energy and Nutrient Composition of Food</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">To calculate the amount of energy and nutrient a dish contains.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.hpb.gov.sg/HOPPortal/"><span style="text-decoration:none;color:#3AA66F">Health Promotion Board</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">A platform where students are able to find updated information on nutrition</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.craftybaking.com/"><span style="text-decoration:none;color:#3AA66F">Crafty Baking formerly known as Baking 911</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">To understand the science behind baking.</span></td>
+  </tr>
+</tbody>
+</table>
+
+**ART**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-0y1c{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-av5t{background-color:#FFF;color:#3AA66F;text-align:left;vertical-align:top}
+.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0y1c">LINK</th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DESCRIPTION</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-av5t"><a href="https://westwood-art.blogspot.com/"><span style="text-decoration:none;color:#3AA66F">Westwood Art Shed</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">Pupils can find their work on display in this blog. Teachers put up lesson slides, instructions, and worksheets for pupils to download. Renowned artists' life and work are also on display as part of raising awareness and appreciation of art in historical and cultural contexts.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.singart.com/"><span style="text-decoration:none;color:#3AA66F">Singapore Art Museum</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">Find out about the exhibitions and programmes at SAM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.getty.edu/education/"><span style="text-decoration:none;color:#3AA66F">Education at the Getty</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">Related activities, lessons, and resources offered by the Getty</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://artsedge.kennedy-center.org/"><span style="text-decoration:none;color:#3AA66F">ARTSEDGE</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">The National Arts and Education Network offers free, standards-based teaching materials for use in and out of the classroom, as well as professional development resources, student materials, and guidelines for arts-based instruction and assessment.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.nga.gov/"><span style="text-decoration:none;color:#3AA66F">National Gallery of Art</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">NGA Classroom - Online lessons, interactives, and art information for teachers and students.</span><br><span style="color:#565656">NGA Kids-Games and activities for kids of all ages</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.moma.org/collection/terms/"><span style="text-decoration:none;color:#3AA66F">Museum of Modern Art (MOMA): Art Terms</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">MOMA offers samples of artworks related techniques, mediums and art movements</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.nsead.org/"><span style="text-decoration:none;color:#3AA66F">National Society for Education in Art &amp; Design</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">NSEAD offers comprehensive source of information for art and design teachers</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.moma.org/learn/moma_learning"><span style="text-decoration:none;color:#3AA66F">Museum of Modern Art (MOMALearning)</span></a> </td>
+    <td class="tg-mwz3"><span style="color:#565656">MOMA Learning provides resources and information on modern and contemporary art.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.aiga.org/"><span style="text-decoration:none;color:#3AA66F">American Institute of Graphic Arts</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">AIGA supports the interests of professionals, educators, and students who are engaged in the process of designing, regardless of where they are in the arc of their careers.</span></td>
+  </tr>
+</tbody>
+</table>
