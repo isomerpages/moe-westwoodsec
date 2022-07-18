@@ -2,5 +2,6 @@ collections:
   academic-matters:
     output: true
     order:
+      - Assessment Policy.md
       - Teaching & Learning.md
       - Academic Programme Committee.md
