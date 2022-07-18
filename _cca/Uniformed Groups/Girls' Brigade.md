@@ -7,10 +7,10 @@ third_nav_title: Uniformed Groups
 ### OBJECTIVES
 
 *   To develop and groom every Girl to be a leader
-*   To develop each Girl to her fullest potential by equipping, empowering and enabling. 
-*    To provide the holistic development for every Girl in spiritual, physical, educational and social domain
+*   To develop each Girl to her fullest potential by equipping, empowering and enabling.&nbsp;
+*   &nbsp;To provide the holistic development for every Girl in spiritual, physical, educational and social domain
 
-### TEACHERS IN-CHARGE   
+### TEACHERS IN-CHARGE&nbsp;  
 
 *   Ms Wang Jia Ning Jenny (TIC – until June 2022)
 *   Ms Lim Si Min (TIC from June 2022)  
@@ -163,3 +163,5 @@ third_nav_title: Uniformed Groups
   </tr>
 </tbody>
 </table>
+
+<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQL-n92_RvIepytWIZVghqo_4sZcfbUiOMFqUSsPeHIEbUooGesiT4wmEATVMEXBx0YSJ62q8nK-caU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
