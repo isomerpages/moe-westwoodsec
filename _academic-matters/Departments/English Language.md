@@ -97,3 +97,30 @@ To develop confident and effective communicators, critical readers who read exte
   </tr>
 </tbody>
 </table>
+
+### Useful Links
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0y1c{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-av5t{background-color:#FFF;color:#3AA66F;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0y1c">LINK</th>
+    <th class="tg-0y1c">DESCRIPTION</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.nlb.gov.sg/"><span style="text-decoration:none;color:#3AA66F">National Library Board</span></a></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">A website for students to borrow books and/or participate in NLB programmes</span></td>
+  </tr>
+</tbody>
+</table>
