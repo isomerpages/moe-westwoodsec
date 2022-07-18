@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Niche Programmes/Live@Westwood.md
       - Niche Programmes/Dance and Percussion Ensemble Programme.md
       - Niche Programmes/.keep
       - Niche Programmes/Niche Programmes.md
