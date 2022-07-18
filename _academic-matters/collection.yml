@@ -2,7 +2,6 @@ collections:
   academic-matters:
     output: true
     order:
-      - Departments/Physical Education.md
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mathematics.md
@@ -10,6 +9,7 @@ collections:
       - Departments/Humanities.md
       - Departments/Mother Tongue Languages.md
       - Departments/Technology & Design.md
+      - Departments/Physical Education.md
       - Subjects Offered.md
       - Homework Policy.md
       - Assessment Calender.md
