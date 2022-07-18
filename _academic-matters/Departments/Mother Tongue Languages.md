@@ -119,3 +119,42 @@ Competent, Dynamic, and Committed in Nurturing Life-Long Passion for the Languag
 ### Mother Tongue - Malay Language
 
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7tQdZYAAdI_3x5YdDA4NRYJNYSj0HhKtZwDTJKx7ljyroQBovOcNTAoTGPrXip7aIyTy1tyfpjFiK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### Useful Links
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-av5t{background-color:#FFF;color:#3AA66F;text-align:left;vertical-align:top}
+.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">LINK</span></th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DESCRIPTION</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-av5t"><a href="http://www.dbp.gov.my/"><span style="text-decoration:none;color:#3AA66F">Dewan Bahasa dan Pastaka</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">The central resource for information on Malay Language </span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="http://beritaharian.sg/"><span style="text-decoration:none;color:#3AA66F">Berita Harian Online</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">E-newspaper for Malay Language </span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="http://www.zaobao.com/"><span style="text-decoration:none;color:#3AA66F">Lian He Zao Bao</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">E-newspaper for Chinese Language </span></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="http://www.zbschools.sg/"><span style="text-decoration:none;color:#3AA66F">SPH ZB Comma</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">E-newspaper for Chinese Language</span><br><span style="color:#565656">Clips for listening and oral practices </span></td>
+  </tr>
+</tbody>
+</table>
