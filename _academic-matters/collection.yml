@@ -2,13 +2,13 @@ collections:
   academic-matters:
     output: true
     order:
-      - Departments/Technology & Design.md
-      - Departments/Mother Tongue Languages.md
-      - Departments/Humanities.md
-      - Departments/Science.md
-      - Departments/Mathematics.md
-      - Departments/English Language.md
       - Departments/.keep
+      - Departments/English Language.md
+      - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Humanities.md
+      - Departments/Mother Tongue Languages.md
+      - Departments/Technology & Design.md
       - Subjects Offered.md
       - Homework Policy.md
       - Assessment Calender.md
