@@ -112,4 +112,10 @@ Competent, Dynamic, and Committed in Nurturing Life-Long Passion for the Languag
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdggsEZ7mPloGAk79XBx5jeBgWsK6XKpFFGZAIAaJImmqgoQTyp2XBre0V_u--7oXF385Q1f9cq-B_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+### Mother Tongue - Chinese Langugage
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQdggsEZ7mPloGAk79XBx5jeBgWsK6XKpFFGZAIAaJImmqgoQTyp2XBre0V_u--7oXF385Q1f9cq-B_/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="560" height="569" allowfullscreen="true"></iframe>
+
+### Mother Tongue - Malay Language
+
+<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7tQdZYAAdI_3x5YdDA4NRYJNYSj0HhKtZwDTJKx7ljyroQBovOcNTAoTGPrXip7aIyTy1tyfpjFiK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
