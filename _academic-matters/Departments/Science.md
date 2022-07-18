@@ -8,20 +8,20 @@ third_nav_title: Departments
 
 **Inquiring Minds, Independent Thinkers**
 
-### AIMS 
+### AIMS&nbsp;
 
-1.     We instil joy of learning in Science by inspiring our pupils’ curiosity about our world and discovering the relevance of Science in real world context. We aim to enthuse pupils to innovate and pursue STEM for future learning and work. 
+1.&nbsp;&nbsp;&nbsp;&nbsp; We instil joy of learning in Science by inspiring our pupils’ curiosity about our world and discovering the relevance of Science in real world context. We aim to enthuse pupils to innovate and pursue STEM for future learning and work.&nbsp;
 
   
 
- 2.     We facilitate pupils’ acquisition of scientific knowledge, understanding, skills and attitudes through inquiry based learning so that they become confident, self-directed and lifelong learners for the future. 
+&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp; We facilitate pupils’ acquisition of scientific knowledge, understanding, skills and attitudes through inquiry based learning so that they become confident, self-directed and lifelong learners for the future.&nbsp;
 
-The abilities, skills and attitude that we aim to develop are as follows. 
+The abilities, skills and attitude that we aim to develop are as follows.&nbsp;
 
-*   logical and critical thinking 
+*   logical and critical thinking&nbsp;
 *   creative problem solving
-*   use of scientific method in practice of science 
-*   effective communication 
+*   use of scientific method in practice of science&nbsp;
+*   effective communication&nbsp;
 *   safe laboratory practice
 *   integrity
 *   objectivity
@@ -83,3 +83,41 @@ The abilities, skills and attitude that we aim to develop are as follows. 
   </tr>
 </tbody>
 </table>
+
+### Department Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">YEAR</span></th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">AWARD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2019</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">8th International Biomedical Quiz – Gold winner</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2019</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Singapore Junior Chemistry Olympiad – Certificate of Award &amp; Merit</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2019</span></td>
+    <td class="tg-tsok"><span style="color:#222;background-color:#FFF">NYP Science &amp; Technology Challenge – 3rd place winner </span></td>
+  </tr>
+</tbody>
+</table>
+
+<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIsQcJqXhj6kcWie-obwcfIHbJolnUJE6NKZDzOpvZ5REYTDXN3L7YhZjAEkztpQI3Bpk6-3vLZVp1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
