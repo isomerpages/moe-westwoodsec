@@ -14,6 +14,7 @@ The Westwood Student Development Team oversees the design and delivery of a holi
 Each level is overseen by an Assistant Year Head/Level Coordinator who works closely with the Form Teachers and Co-Form Teachers of that level to provide socio-emotional support for students. The Assistant Year Head/Level Coordinator also partners the CCE Coordinators and Level Discipline Master/Mistress to work with all staff on the use of Restorative Practice to establish and maintain positive relationships with their students.
 
 ![](/images/student%20development%20team%202.jpeg)
+
 **First row from left to right:**  
 Mdm Soo Woon Siew, Ms Tan Ming Ming, Mr Elijah Chai, Mrs Diana Kang, Mr Abdul Harris Bin Sumardi, Mr Kong Chee Chiew  
   
