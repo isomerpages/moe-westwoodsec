@@ -106,3 +106,46 @@ For more information, please refer to the following links:
 </table>
 
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTU4wJ2RAJnPPVXvVwSrCd0U7PHyrvpv8aZnIfo13VMmmD7gpE46w5oCVpGLMzEOwxgcpg3OE3BfNxY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### Useful Links
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-61iw{background-color:#FFF;color:#F00;text-align:left;vertical-align:top}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-qrq8{background-color:#FFF;color:#565656;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-av5t{background-color:#FFF;color:#3AA66F;text-align:left;vertical-align:top}
+.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">LINK</span></th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DESCRIPTION</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-qrq8" colspan="2">Physical activity information</td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://hpb.gov.sg/healthy-living/physical-activity/move-it"><span style="text-decoration:none;color:#3AA66F">https://hpb.gov.sg/healthy-living/physical-activity/move-it</span></a><br></td>
+    <td class="tg-61iw"><span style="color:#565656">Move It programmes for everyone</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.healthhub.sg/programmes/93/bmi-calculator"><span style="text-decoration:none;color:#3AA66F">https://www.healthhub.sg/programmes/93/bmi-calculator</span></a><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">Calculate BMI and know the risks of obesity-related diseases.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-qrq8" colspan="2">Secondary school fitness tests engage young woman less likely than young men</td>
+  </tr>
+  <tr>
+    <td class="tg-av5t"><a href="https://www.healio.com/news/womens-health-ob-gyn/20210902/secondary-school-fitness-tests-engage-young-women-less-likely-than-young-men"><span style="text-decoration:none;color:#3AA66F">https://www.healio.com/news/womens-health-ob-gyn/20210902/secondary-school-fitness-tests-engage-young-women-less-likely-than-young-men</span></a><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">Student enjoyment of fitness testing is a key factor for engagement.</span></td>
+  </tr>
+</tbody>
+</table>
