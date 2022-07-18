@@ -2,9 +2,9 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Niche Programmes/Learning for Life Programme.md
-      - Niche Programmes/Niche Programmes.md
       - Niche Programmes/.keep
+      - Niche Programmes/Niche Programmes.md
+      - Niche Programmes/Learning for Life Programme.md
       - Enrichment & Life Skills.md
       - Values in Action.md
       - Student Leadership Development.md
