@@ -2,6 +2,9 @@ collections:
   administration:
     output: true
     order:
+      - Service Providers.md
+      - Financial Assistance Scheme.md
+      - School Management Committee/.keep
       - School Management Committee/Executive & Administrative Staff.md
       - School Management Committee/Others.md
       - School Management Committee/Secondary 4 & 5.md
@@ -9,6 +12,3 @@ collections:
       - School Management Committee/Secondary 2.md
       - School Management Committee/Secondary 1.md
       - School Management Committee/School Management Committee.md
-      - School Management Committee/.keep
-      - Service Providers.md
-      - Financial Assistance Scheme.md
