@@ -99,28 +99,23 @@ third_nav_title: Sports
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-61iw{background-color:#FFF;color:#F00;text-align:left;vertical-align:top}
-.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-njgx{background-color:#FFF;color:#565656;text-align:left;vertical-align:top}
+.tg .tg-6ewm{background-color:#FFF;border-color:inherit;color:#565656;text-align:left;vertical-align:top}
+.tg .tg-lk3d{background-color:#3AA66F;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-jx4j{background-color:#FFF;border-color:inherit;color:#F00;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 1443px" class="tg">
-<colgroup>
-<col style="width: 523px">
-<col style="width: 111px">
-<col style="width: 809px">
-</colgroup>
+<table class="tg">
 <thead>
   <tr>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">NAME OF PROGRAMME / EVENT</span></th>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DATE / MONTH</span></th>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">OBJECTIVES OF PROGRAMME / EVENT</span></th>
+    <th class="tg-lk3d"><span style="color:#FFF;background-color:#3AA66F">NAME OF PROGRAMME / EVENT</span></th>
+    <th class="tg-lk3d"><span style="color:#FFF;background-color:#3AA66F">DATE / MONTH</span></th>
+    <th class="tg-lk3d"><span style="color:#FFF;background-color:#3AA66F">OBJECTIVES OF PROGRAMME / EVENT</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-njgx"><span style="background-color:initial">National Schools Tenpin Bowling Championships</span><br><br>B Division<br>C Division</td>
-    <td class="tg-njgx"><br><span style="color:#565656">March (B Div)</span><br><br><span style="color:#565656"> July (C Div)</span></td>
-    <td class="tg-61iw">Bowlers who are well-disciplined and have shown superior competency will be selected to represent the school at National level. <br><br>Provide a level playing field for bowling enthusiasts in Westwood<br>Develop bowling skills of all members through constant practice, training and coaching.</td>
+    <td class="tg-6ewm"><br><span style="background-color:initial">National Schools Tenpin Bowling Championships</span><br>- B Division<br>- C Division</td>
+    <td class="tg-6ewm"><br><span style="color:#565656">March (B Div)</span><br><br><span style="color:#565656"> July (C Div)</span></td>
+    <td class="tg-jx4j"><span style="color:#333">Bowlers who are well-disciplined and have shown superior competency will be selected to represent the school at National level. </span><br><br><span style="color:#333">- Provide a level playing field for bowling enthusiasts in Westwood</span><br><span style="color:#333">-Develop bowling skills of all members through constant practice, training and coaching.</span></td>
   </tr>
 </tbody>
 </table>
