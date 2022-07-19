@@ -19,7 +19,7 @@ third_nav_title: Visual & Performing Arts
 
 *   Ms Yeo Wan Qiu Jennifer (TIC)
 *   Mdm Jaskirath Kaur
-*   Miss Chakraborty Priyanka   
+*   Miss Chakraborty Priyanka&nbsp;  
     
 
   
@@ -146,3 +146,5 @@ third_nav_title: Visual & Performing Arts
   </tr>
 </tbody>
 </table>
+
+<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSiviFgTIiAHi21Cev4NtGwgE6P8Dz8WocvaXzv0k29U-WLcY2zMWltCx-k6QnAtzny6ytr1Y0Uva_L/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
