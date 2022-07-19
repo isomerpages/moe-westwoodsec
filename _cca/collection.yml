@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs/Westwood Flying Club.md
       - Clubs/Robotics.md
       - Clubs/AVA.md
       - Clubs/.keep
