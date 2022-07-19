@@ -6,7 +6,7 @@ third_nav_title: Clubs
 ---
 ### OBJECTIVES
 
-*   To promote aviation and inculcate a strong passion for flying among our students.       
+*   To promote aviation and inculcate a strong passion for flying among our students.&nbsp; &nbsp; &nbsp; &nbsp;
 *   To develop leadership qualities in students.
 *   To build good character and inculcate values in students
 
@@ -45,13 +45,13 @@ third_nav_title: Clubs
 </tbody>
 </table>
 
-**PRE-REQUISITES (ACCORDING TO SINGAPORE YOUTH FLYING CLUB RULES)** 
+**PRE-REQUISITES (ACCORDING TO SINGAPORE YOUTH FLYING CLUB RULES)**&nbsp;
 
 STUDENTS MUST BE
 
 *   MEDICALLY FIT
 
-For further information, please visit [www.syfc.sg](http://www.syfc.sg/)
+For further information, please visit&nbsp;[www.syfc.sg](http://www.syfc.sg/)
 
 ### CCA ACHIEVEMENTS
 
@@ -143,3 +143,5 @@ For further information, please visit [www.syfc.sg](http://www.syfc.sg/)
   </tr>
 </tbody>
 </table>
+
+<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRmHJj1X8UG4Bn61-3rZXl3iaYF52jNgiKoPLiFcXvKpIUXjm0N04ZnqkmxKsQ6aVW326slPfPqj4JG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
