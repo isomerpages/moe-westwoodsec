@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts/Concert Band.md
       - Visual & Performing Arts/.keep
       - Clubs/Westwood Flying Club.md
       - Clubs/Robotics.md
