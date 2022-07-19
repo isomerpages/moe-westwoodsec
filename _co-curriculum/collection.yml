@@ -2,14 +2,10 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Niche Programmes/.keep
-      - Niche Programmes/Niche Programmes.md
-      - Niche Programmes/Learning for Life Programme.md
-      - Niche Programmes/Dance and Percussion Ensemble Programme.md
-      - Niche Programmes/Live@Westwood.md
-      - Niche Programmes/Art Project.md
-      - Enrichment & Life Skills.md
-      - Values in Action.md
+      - Student Development Team.md
+      - Student Development/.keep
+      - Student Development/Student Well Being.md
+      - Student Development/Student Development.md
       - Student Leadership Development.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
@@ -18,7 +14,11 @@ collections:
       - CCE/Education & Career Guidance.md
       - CCE/Sexuality Education.md
       - CCE/Cyber Wellness.md
-      - Student Development/Student Well Being.md
-      - Student Development/Student Development.md
-      - Student Development/.keep
-      - Student Development Team.md
+      - Enrichment & Life Skills.md
+      - Values in Action.md
+      - Niche Programmes/.keep
+      - Niche Programmes/Niche Programmes.md
+      - Niche Programmes/Learning for Life Programme.md
+      - Niche Programmes/Dance and Percussion Ensemble Programme.md
+      - Niche Programmes/Live@Westwood.md
+      - Niche Programmes/Art Project.md
