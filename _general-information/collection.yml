@@ -1,5 +1,5 @@
 collections:
-  administration:
+  general-information:
     output: true
     order:
       - Service Providers.md
