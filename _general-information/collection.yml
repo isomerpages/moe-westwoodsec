@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Administration/Service Providers.md
       - Administration/.keep
       - Financial Assistance Scheme.md
       - School Management Committee/.keep
