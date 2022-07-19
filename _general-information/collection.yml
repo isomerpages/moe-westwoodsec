@@ -2,14 +2,9 @@ collections:
   general-information:
     output: true
     order:
-      - Class Timetables.md
-      - Useful Links/Student Learning Space.md
-      - Useful Links/For Students.md
-      - Useful Links/For Staff.md
-      - Useful Links/.keep
+      - Administration/.keep
       - Administration/Financial Assistance Scheme.md
       - Administration/Service Providers.md
-      - Administration/.keep
       - School Management Committee/.keep
       - School Management Committee/Executive & Administrative Staff.md
       - School Management Committee/Others.md
@@ -18,4 +13,9 @@ collections:
       - School Management Committee/Secondary 2.md
       - School Management Committee/Secondary 1.md
       - School Management Committee/School Management Committee.md
+      - Class Timetables.md
+      - Useful Links/.keep
+      - Useful Links/Student Learning Space.md
+      - Useful Links/For Students.md
+      - Useful Links/For Staff.md
       - Getting There.md
