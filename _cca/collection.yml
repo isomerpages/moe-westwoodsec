@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Sports/Tchoukball.md
-      - Sports/Netball.md
-      - Sports/Football.md
-      - Sports/Bowling.md
-      - Sports/Basketball.md
-      - Sports/Badminton.md
       - Sports/.keep
+      - Sports/Badminton.md
+      - Sports/Basketball.md
+      - Sports/Bowling.md
+      - Sports/Football.md
+      - Sports/Netball.md
+      - Sports/Tchoukball.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
