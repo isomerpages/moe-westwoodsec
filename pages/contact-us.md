@@ -5,31 +5,16 @@ permalink: /contact-us/
 agency_name: Westwood Secondary School
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
-    operating_hours:
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
-    maps_link: ""
-    title: Main Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
+      - "11 Jurong West Street 25 "
+      - "Singapore "
+      - "648350"
     operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+    maps_link: ""
+    title: General Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6792 9737
+      - email: westwood_ss@moe.edu.sg
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 ---
