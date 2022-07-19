@@ -102,6 +102,3 @@ third_nav_title: Useful Links
 </tbody>
 </table>
 
-# Class Timetables
-
-[Class Timetables](/files/2022%20sem2%2013%20jul.pdf)
