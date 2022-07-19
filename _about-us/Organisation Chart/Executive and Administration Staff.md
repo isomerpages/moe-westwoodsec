@@ -27,4 +27,4 @@ Administration Manager<center>
 <center> <b>Mr Low Yoong Chee Frankie <br> </b>
 Administration Manager<center>
 	
-![](/images/executive%20and%20administrative%20staff%202.jpeg)
+<img src= "/images/executive%20and%20administrative%20staff%202.jpeg">
