@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Administration/.keep
-      - Service Providers.md
       - Financial Assistance Scheme.md
       - School Management Committee/.keep
       - School Management Committee/Executive & Administrative Staff.md
