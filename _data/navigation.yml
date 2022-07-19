@@ -10,4 +10,6 @@ links:
     collection: administration
   - title: Co-Curriculum
     url: /co-curriculum/student-development-team
-    sublinks: []
+    sublinks:
+      - title: Student Development Team
+        url: /co-curriculum/student-development-team
