@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Calendar of Events.md
       - Administration/.keep
       - Administration/Financial Assistance Scheme.md
       - Administration/Service Providers.md
@@ -19,4 +18,5 @@ collections:
       - Useful Links/Student Learning Space.md
       - Useful Links/For Students.md
       - Useful Links/For Staff.md
+      - Calendar of Events.md
       - Getting There.md
