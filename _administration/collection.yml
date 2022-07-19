@@ -2,7 +2,6 @@ collections:
   administration:
     output: true
     order:
-      - Getting There.md
       - Service Providers.md
       - Financial Assistance Scheme.md
       - School Management Committee/.keep
@@ -13,3 +12,4 @@ collections:
       - School Management Committee/Secondary 2.md
       - School Management Committee/Secondary 1.md
       - School Management Committee/School Management Committee.md
+      - Getting There.md
