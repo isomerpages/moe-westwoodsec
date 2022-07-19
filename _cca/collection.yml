@@ -2,17 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Visual & Performing Arts/Visual Arts.md
-      - Visual & Performing Arts/.keep
-      - Visual & Performing Arts/Concert Band.md
-      - Visual & Performing Arts/English Drama.md
-      - Visual & Performing Arts/Guitar Ensemble.md
-      - Visual & Performing Arts/Modern Dance.md
-      - Visual & Performing Arts/Show Choir.md
-      - Clubs/Westwood Flying Club.md
-      - Clubs/Robotics.md
-      - Clubs/AVA.md
-      - Clubs/.keep
+      - Co Curricular Activities.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Girls' Brigade.md
+      - Uniformed Groups/National Cadet Corp.md
+      - Uniformed Groups/National Police Cadet Corp.md
+      - Uniformed Groups/National Civil Defence Cadet Corp.md
       - Sports/.keep
       - Sports/Badminton.md
       - Sports/Basketball.md
@@ -20,10 +16,14 @@ collections:
       - Sports/Football.md
       - Sports/Netball.md
       - Sports/Tchoukball.md
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Boys' Brigade.md
-      - Uniformed Groups/Girls' Brigade.md
-      - Uniformed Groups/National Cadet Corp.md
-      - Uniformed Groups/National Police Cadet Corp.md
-      - Uniformed Groups/National Civil Defence Cadet Corp.md
-      - Co Curricular Activities.md
+      - Clubs/.keep
+      - Clubs/Westwood Flying Club.md
+      - Clubs/Robotics.md
+      - Clubs/AVA.md
+      - Visual & Performing Arts/.keep
+      - Visual & Performing Arts/Visual Arts.md
+      - Visual & Performing Arts/Concert Band.md
+      - Visual & Performing Arts/English Drama.md
+      - Visual & Performing Arts/Guitar Ensemble.md
+      - Visual & Performing Arts/Modern Dance.md
+      - Visual & Performing Arts/Show Choir.md
