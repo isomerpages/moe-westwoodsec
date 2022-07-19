@@ -4,10 +4,6 @@ links:
     collection: about-us
   - title: Academic Matters
     collection: academic-matters
-  - title: Partners
-    collection: partners
-  - title: Adminstration
-    collection: administration
   - title: Co-Curriculum
     url: /co-curriculum/student-development-team
     sublinks:
@@ -27,3 +23,7 @@ links:
         url: /co-curriculum/Niche-Programmes
       - title: CCAs
         url: /cca
+  - title: Partners
+    collection: partners
+  - title: General Information
+    collection: administration
