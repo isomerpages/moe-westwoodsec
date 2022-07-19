@@ -2,6 +2,12 @@ collections:
   academic-matters:
     output: true
     order:
+      - Academic Programme Committee.md
+      - Teaching & Learning.md
+      - Assessment Policy.md
+      - Assessment Calender.md
+      - Homework Policy.md
+      - Subjects Offered.md
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mathematics.md
@@ -12,9 +18,3 @@ collections:
       - Departments/Physical Education.md
       - Departments/Music.md
       - Departments/Infocomm Technology.md
-      - Subjects Offered.md
-      - Homework Policy.md
-      - Assessment Calender.md
-      - Assessment Policy.md
-      - Teaching & Learning.md
-      - Academic Programme Committee.md
