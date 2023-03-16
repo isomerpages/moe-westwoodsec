@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-westwoodsec-staging.netlify.app
-prod: https://moe-westwoodsec-prod.netlify.app
+staging: https://staging.d36961hs8umuel.amplifyapp.com/
+prod: https://master.d36961hs8umuel.amplifyapp.com/
 shareicon: /images/westwood-secondary-school.png
 is_government: false
 facebook-pixel: ""
