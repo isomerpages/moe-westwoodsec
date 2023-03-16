@@ -1,6 +1,6 @@
 ---
 title: Visual Arts
-permalink: /cca/Visual-and-Performing-Arts/visual-arts
+permalink: /cca/visual-and-performing-arts/visual-arts/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---

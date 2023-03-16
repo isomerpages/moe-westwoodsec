@@ -1,6 +1,6 @@
 ---
 title: Music
-permalink: /academic-matters/Departments/music
+permalink: /academic-matters/departments/music/
 description: ""
 third_nav_title: Departments
 ---

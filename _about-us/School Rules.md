@@ -1,6 +1,6 @@
 ---
 title: School Rules
-permalink: /about-us/school-rules
+permalink: /about-us/school-rules/
 description: ""
 ---
 1.  All students who are Singapore Citizens must sing the National Anthem and take the Pledge. The right fist must be placed over the heart when taking the Pledge.

@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /academic-matters/Departments/mathematics
+permalink: /academic-matters/departments/mathematics/
 description: ""
 third_nav_title: Departments
 ---

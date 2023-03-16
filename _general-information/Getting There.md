@@ -1,6 +1,6 @@
 ---
 title: Getting There
-permalink: /administration/getting-there
+permalink: /administration/getting-there/
 description: ""
 ---
 <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7977.409297970981!2d103.701795!3d1.353785!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7af35174576b8b8f!2sWestwood%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1658198906240!5m2!1sen!2ssg"></iframe>

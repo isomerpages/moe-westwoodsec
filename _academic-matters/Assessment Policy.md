@@ -1,6 +1,6 @@
 ---
 title: Assessment Policy
-permalink: /academic-matters/assessment-policy
+permalink: /academic-matters/assessment-policy/
 description: ""
 ---
 ### PHILOSOPHY 

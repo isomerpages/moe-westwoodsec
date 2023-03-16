@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /about-us/principals-message
+permalink: /about-us/principals-message/
 description: ""
 ---
 <img src="/images/Mr%20Abdul%20Harris.jpeg" 

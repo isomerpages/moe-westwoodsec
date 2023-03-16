@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space
-permalink: /general-information/Useful-Links/student-learning-space
+permalink: /general-information/useful-links/student-learning-space/
 description: ""
 third_nav_title: Useful Links
 ---

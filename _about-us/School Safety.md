@@ -1,6 +1,6 @@
 ---
 title: School Safety
-permalink: /about-us/school-safety
+permalink: /about-us/school-safety/
 description: ""
 ---
 In Westwood Secondary School, we believe in providing our students and staff with a safe and secure environment for holistic development and work.  To achieve this purpose, we seek strong collaboration with parents and the community.  

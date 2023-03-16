@@ -1,6 +1,6 @@
 ---
 title: Subjects Offered
-permalink: /academic-matters/subjects-offered
+permalink: /academic-matters/subjects-offered/
 description: ""
 ---
 <style type="text/css">

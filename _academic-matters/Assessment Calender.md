@@ -1,6 +1,6 @@
 ---
 title: Assessment Calender
-permalink: /academic-matters/assessment-calendar
+permalink: /academic-matters/assessment-calendar/
 description: ""
 ---
 **1. Mid-Year Examination**

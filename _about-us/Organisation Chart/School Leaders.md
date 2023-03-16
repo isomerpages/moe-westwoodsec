@@ -1,6 +1,6 @@
 ---
 title: School Leaders
-permalink: /about-us/Organisation-Chart/school-leaders
+permalink: /about-us/organisation-chart/school-leaders/
 description: ""
 third_nav_title: Organisation Chart
 ---

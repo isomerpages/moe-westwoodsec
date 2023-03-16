@@ -1,6 +1,6 @@
 ---
 title: Homework Policy
-permalink: /academic-matters/homework-policy
+permalink: /academic-matters/homework-policy/
 description: ""
 ---
 ### WESTWOOD HOMEWORK GUIDELINES

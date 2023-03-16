@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /partners/parent-support-group
+permalink: /partners/parent-support-group/
 description: ""
 ---
 The Westwood PSG hopes to be a community of active and involved parents working in collaboration with the school to maximize the potential of the students.

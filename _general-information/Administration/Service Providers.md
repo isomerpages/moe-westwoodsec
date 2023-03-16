@@ -1,6 +1,6 @@
 ---
 title: Service Providers
-permalink: /administration/service-providers
+permalink: /administration/service-providers/
 description: ""
 third_nav_title: Administration
 ---

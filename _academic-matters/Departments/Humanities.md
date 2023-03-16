@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /academic-matters/Departments/humanities
+permalink: /academic-matters/departments/humanities/
 description: ""
 third_nav_title: Departments
 ---

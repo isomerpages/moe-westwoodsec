@@ -1,6 +1,6 @@
 ---
 title: Student Well Being
-permalink: /co-curriculum/Student-Development/student-well-being
+permalink: /co-curriculum/student-development/student-well-being/
 description: ""
 third_nav_title: Student Development
 ---

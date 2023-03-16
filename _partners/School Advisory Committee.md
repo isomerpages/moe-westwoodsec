@@ -1,6 +1,6 @@
 ---
 title: School Advisory Committee
-permalink: /partners/school-advisory-committee
+permalink: /partners/school-advisory-committee/
 description: ""
 ---
 The Westwood School Advisory Committee (SAC) comprising representatives from grassroot organisations, business owners, working professionals and parents, aims to

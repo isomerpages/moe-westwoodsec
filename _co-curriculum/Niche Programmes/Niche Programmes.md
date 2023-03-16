@@ -1,6 +1,6 @@
 ---
 title: Niche Programmes
-permalink: /co-curriculum/Niche-Programmes
+permalink: /co-curriculum/niche-programmes/
 description: ""
 third_nav_title: Niche Programmes
 ---

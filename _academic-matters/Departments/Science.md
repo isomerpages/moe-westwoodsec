@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /academic-matters/Departments/science
+permalink: /academic-matters/departments/science/
 description: ""
 third_nav_title: Departments
 ---

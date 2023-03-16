@@ -1,6 +1,6 @@
 ---
 title: About Westwood
-permalink: /about-us/about-westwood
+permalink: /about-us/about-westwood/
 description: ""
 ---
 

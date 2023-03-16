@@ -1,6 +1,6 @@
 ---
 title: Netball
-permalink: /cca/Sports/netball
+permalink: /cca/sports/netball/
 description: ""
 third_nav_title: Sports
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tchoukball
-permalink: /cca/Sports/tchoukball
+permalink: /cca/sports/tchoukball/
 description: ""
 third_nav_title: Sports
 ---

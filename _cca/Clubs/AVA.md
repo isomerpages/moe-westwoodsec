@@ -1,6 +1,6 @@
 ---
 title: AVA
-permalink: /cca/Clubs/AVA
+permalink: /cca/clubs/ava/
 description: ""
 third_nav_title: Clubs
 ---

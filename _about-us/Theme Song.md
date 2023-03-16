@@ -1,6 +1,6 @@
 ---
 title: Theme Song
-permalink: /about-us/theme-song
+permalink: /about-us/theme-song/
 description: ""
 ---
 # Take A Step

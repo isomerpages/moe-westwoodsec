@@ -1,6 +1,6 @@
 ---
 title: Academic Programme Committee
-permalink: /academic-matters/academic-programme-committee
+permalink: /academic-matters/academic-programme-committee/
 description: ""
 ---
 The Academic Programme Committee, (APC) comprising Instructional Programme (IP) Heads, oversees the school’s academic and instructional programmes. The committee’s work includes formulating and implementing policies related to the academic curriculum, monitoring the effective implementation of the academic curriculum for engaged learning and overseeing the implementation of assessment strategies to enhance and assess students’ learning. The committee also supports the school in overseeing the planning, administration and management processes related to academic programmes.

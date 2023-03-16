@@ -1,6 +1,6 @@
 ---
 title: Student Development
-permalink: /co-curriculum/Student-Development
+permalink: /co-curriculum/student-development/
 description: ""
 third_nav_title: Student Development
 ---

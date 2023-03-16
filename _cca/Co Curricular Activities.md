@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities
-permalink: /cca
+permalink: /cca/
 description: ""
 ---
 ### VISION

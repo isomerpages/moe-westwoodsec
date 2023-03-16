@@ -1,6 +1,6 @@
 ---
 title: Student Development Team
-permalink: /co-curriculum/student-development-team
+permalink: /co-curriculum/student-development-team/
 description: ""
 ---
 ### ROLE OF THE WESTWOOD STUDENT DEVELOPMENT TEAM 

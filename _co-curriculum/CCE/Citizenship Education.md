@@ -1,6 +1,6 @@
 ---
 title: Citizenship Education
-permalink: /co-curriculum/CCE/citizen-education
+permalink: /co-curriculum/cce/citizen-education/
 description: ""
 third_nav_title: CCE
 ---

@@ -1,6 +1,6 @@
 ---
 title: Character Education
-permalink: /co-curriculum/CCE/character-education
+permalink: /co-curriculum/cce/character-education/
 description: ""
 third_nav_title: CCE
 ---

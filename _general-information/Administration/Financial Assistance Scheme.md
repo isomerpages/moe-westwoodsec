@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance Scheme
-permalink: /administration/financial-assistance-scheme
+permalink: /administration/financial-assistance-scheme/
 description: ""
 third_nav_title: Administration
 ---

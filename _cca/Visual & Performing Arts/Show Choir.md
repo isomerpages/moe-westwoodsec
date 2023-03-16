@@ -1,6 +1,6 @@
 ---
 title: Show Choir
-permalink: /cca/Visual-and-Performing-Arts/show-choir
+permalink: /cca/visual-and-performing-arts/show-choir/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---

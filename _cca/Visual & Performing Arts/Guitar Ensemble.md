@@ -1,6 +1,6 @@
 ---
 title: Guitar Ensemble
-permalink: /cca/Visual-and-Performing-Arts/guitar-ensemble
+permalink: /cca/visual-and-performing-arts/guitar-ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---

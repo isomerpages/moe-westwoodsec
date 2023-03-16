@@ -1,6 +1,6 @@
 ---
 title: For Students
-permalink: /general-information/Useful-Links/for-students
+permalink: /general-information/useful-links/for-students/
 description: ""
 third_nav_title: Useful Links
 ---

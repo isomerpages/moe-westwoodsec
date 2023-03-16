@@ -1,6 +1,6 @@
 ---
 title: Others
-permalink: /administration/School-Management-Committee/others
+permalink: /administration/school-management-committee/others/
 description: ""
 third_nav_title: School Management Committee
 ---

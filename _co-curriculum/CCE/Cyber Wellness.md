@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness
-permalink: /co-curriculum/CCE/cyber-wellness
+permalink: /co-curriculum/cce/cyber-wellness/
 description: ""
 third_nav_title: CCE
 ---
