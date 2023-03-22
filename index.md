@@ -9,4 +9,14 @@ sections:
   - hero:
       title: Westwood Secondary School
       background: /images/hero-banner.gif
+      key_highlights:
+        - title: For Students
+          description: ""
+          url: ""
+        - title: Timetable
+          description: ""
+          url: ""
+        - title: Latest updates
+          description: ""
+          url: ""
 ---
