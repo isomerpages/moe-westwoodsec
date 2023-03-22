@@ -10,12 +10,12 @@ sections:
       title: Westwood Secondary School
       background: /images/hero-banner.gif
       key_highlights:
-        - title: For Students
+        - title: For staff
           description: ""
           url: ""
-        - title: Timetable
+        - title: for student
           description: ""
-          url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://staging.d36961hs8umuel.amplifyapp.com/files/2022%20sem2%2013%20jul.pdf
+          url: ""
         - title: Latest updates
           description: ""
           url: ""
