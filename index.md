@@ -15,7 +15,7 @@ sections:
           url: ""
         - title: Timetable
           description: ""
-          url: ""
+          url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://staging.d36961hs8umuel.amplifyapp.com/files/2022%20sem2%2013%20jul.pdf
         - title: Latest updates
           description: ""
           url: ""
