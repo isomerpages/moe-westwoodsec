@@ -19,5 +19,5 @@ sections:
         - title: Latest updates
           description: ""
           url: ""
-      url: /classtimetable
+      url: 2022 3HCL MYE Timetable_30 Mar.pdf
 ---
