@@ -19,4 +19,5 @@ sections:
         - title: Latest updates
           description: ""
           url: ""
+      url: /classtimetable
 ---
