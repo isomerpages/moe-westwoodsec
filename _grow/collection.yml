@@ -1,5 +1,5 @@
 collections:
-  ww-distinctive-programmes:
+  grow:
     output: true
     order:
       - Student Development Team.md
