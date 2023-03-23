@@ -17,6 +17,8 @@ third_nav_title: Sports
 
 *   Mr Tan Jin Kiang Joel (TIC)
 *   Mr Jeremiah Lim
+*   Mr Eric Liow Choon Cheang
+*   Mr Ahmad Luqman Bin Ghazali
 
 ### TRAINING DAYS
 
