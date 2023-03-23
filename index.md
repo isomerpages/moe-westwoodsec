@@ -10,13 +10,16 @@ sections:
       title: Westwood Secondary School
       background: /images/hero-banner.gif
       key_highlights:
-        - title: For staff
-          description: ""
-          url: /general-information/useful-links/for-staff/
-        - title: for student
+        - title: School Updates
           description: ""
           url: ""
-        - title: Latest updates
+        - title: students timetable
+          description: ""
+          url: ""
+        - title: school calendar
+          description: ""
+          url: ""
+        - title: useful links
           description: ""
           url: ""
 ---
