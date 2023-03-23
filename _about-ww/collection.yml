@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about-ww:
     output: true
     order:
       - About Westwood.md
