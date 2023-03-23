@@ -20,6 +20,7 @@ third_nav_title: Visual & Performing Arts
 *   Ms Yeo Wan Qiu Jennifer (TIC)
 *   Mdm Jaskirath Kaur
 *   Miss Chakraborty Priyanka&nbsp;  
+*   Mdm Maria Loh May Kay
     
 
   
