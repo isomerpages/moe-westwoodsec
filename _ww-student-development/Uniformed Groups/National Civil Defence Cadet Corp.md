@@ -16,8 +16,8 @@ _“We Learn, We Lead, We Serve”_ &nbsp;
 ### **TEACHERS IN-CHARGE**
 
 *   Mr Terrance Lee Jin Han (TIC)
-*   Mdm Farhana Bte Mokhtar&nbsp;
 *   Ms Lim Lay Ping
+*   Mr Wong Poh Shen
 
   
 
