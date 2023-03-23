@@ -16,6 +16,7 @@ third_nav_title: Clubs
 
 *   Mdm Sim Lay Ling (TIC)
 *   Mdm&nbsp;Nadia Eddy
+*   Mr Chan Chi Thio
 
   
 
