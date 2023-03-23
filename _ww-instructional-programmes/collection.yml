@@ -1,5 +1,5 @@
 collections:
-  academic-matters:
+  ww-instructional-programmes:
     output: true
     order:
       - Academic Programme Committee.md
