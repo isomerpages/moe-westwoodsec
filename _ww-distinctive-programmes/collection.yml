@@ -1,5 +1,5 @@
 collections:
-  co-curriculum:
+  ww-distinctive-programmes:
     output: true
     order:
       - Student Development Team.md
