@@ -11,8 +11,8 @@ third_nav_title: Uniformed Groups
 
 ### TEACHERS-IN-CHARGE
 
-*   Ms&nbsp;Julitta Chia Meng You (TIC)
-*   Ms&nbsp;Alliot See Ai Xin
+*   Ms Julitta Chia Meng You (TIC)
+*   Ms Alliot See Ai Xin
 *   Mr Zavier Ho Chee Yong
 
 ### TRAINING DAYS
