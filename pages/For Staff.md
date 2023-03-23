@@ -3,7 +3,7 @@ title: For Staff
 permalink: /forstaff/
 description: ""
 ---
-## | Useful Links for staff |
+##  Useful Links for staff 
 
 <table style="width:486.4pt;mso-cellspacing:.6pt;background:white;mso-yfti-tbllook:
  1184;mso-padding-alt:0in 0in 0in 0in" width="649" cellpadding="0" cellspacing="1" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:197.25pt;border:solid white 1.0pt;
@@ -88,8 +88,3 @@ description: ""
   &quot;Times New Roman&quot;;color:#565656"><a target="_blank" href="https://tinyurl.com/near-miss-incident"><span style="color:#3AA66F">Near-Miss &amp; Others Reporting Form</span></a><br>(Log in to iCON before clicking the link)</span></p></td><td style="border:solid white 1.0pt;mso-border-alt:solid white .75pt;
   background:#EDEBD4;padding:0in 0in 0in 0in" valign="top"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.5pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#565656">https://tinyurl.com/near-miss-incident</span></p></td></tr></tbody></table>
-
-
-
-
-
