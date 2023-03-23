@@ -4,7 +4,7 @@ links:
     collection: about-us
   - title: WW instructional Programmes
     collection: academic-matters
-  - title: Co-Curriculum
+  - title: WW student development
     url: /co-curriculum/student-development-team
     sublinks:
       - title: Student Development Team
@@ -25,7 +25,7 @@ links:
         url: /cca
   - title: WW Distinctive programmes
     collection: about-us
-  - title: Partners
+  - title: WW family
     collection: partners
-  - title: General Information
+  - title: Administrative
     collection: general-information
