@@ -13,10 +13,11 @@ third_nav_title: Sports
 
 ### TEACHERS IN-CHARGE
 
-*   Ms Khadijah Saidi&nbsp;(TIC)
-*   Ms Koh Jia Rui
+*   Ms Naomi Chua (TIC)  
+*   Mdm Farhana Binte Mokhtar
+*   Ms Koh Jia Rui  
+*   Ms Khadijah Bte Saidi
 
-  
 
 ### TRAINING DAYS
 
