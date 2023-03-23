@@ -17,8 +17,9 @@ third_nav_title: Visual & Performing Arts
 ### TEACHERS IN-CHARGE
 
 *   Ms Siti Mahmudah Binte Mohd Omar (TIC)  
-*   Ms Nyam Lee Chin Ivy (Covering TIC for Semester 1)  
+*   Ms Nyam Lee Chin Ivy
 *   Mdm Kang Lu
+*   Ms Madeline Teo
 
 ### TRAINING DAYS
 
