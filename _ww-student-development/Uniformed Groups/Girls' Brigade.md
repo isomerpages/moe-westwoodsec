@@ -12,10 +12,11 @@ third_nav_title: Uniformed Groups
 
 ### TEACHERS IN-CHARGE&nbsp;  
 
-*   Ms Wang Jia Ning Jenny (TIC – until June 2022)
-*   Ms Lim Si Min (TIC from June 2022)  
-*   Ms Belicia Ong Sze Han (NIE trainee)  
-*   Ms Naomi Chua (NIE trainee)
+*   Ms Lim Simin   
+    
+*   Ms Belicia Ong Sze Han   
+    
+*   Mdm Wang Fang
 
 ### TRAINING DAYS
 
