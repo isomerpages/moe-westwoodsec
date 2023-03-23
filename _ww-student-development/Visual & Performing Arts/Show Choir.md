@@ -18,6 +18,7 @@ third_nav_title: Visual & Performing Arts
 *   Mdm Tang Tai-Chi (TIC)  
 *   Mr Mohammad Redzuan Bin Jaafar
 *   Mdm You Chow Ling
+*   Mdm Insyirah Jumat
 
   
 
