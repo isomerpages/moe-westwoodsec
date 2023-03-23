@@ -1,5 +1,5 @@
 collections:
-  partners:
+  ww-family:
     output: true
     order:
       - School Advisory Committee.md
