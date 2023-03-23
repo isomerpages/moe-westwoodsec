@@ -2,7 +2,6 @@ collections:
   ww-instructional-programmes:
     output: true
     order:
-      - Academic Programme Committee.md
       - Teaching & Learning.md
       - Assessment Policy.md
       - Assessment Calender.md
@@ -18,3 +17,4 @@ collections:
       - Departments/Physical Education.md
       - Departments/Music.md
       - Departments/Infocomm Technology.md
+      - Academic Programme Committee.md
