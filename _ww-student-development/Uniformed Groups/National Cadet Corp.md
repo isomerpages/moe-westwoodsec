@@ -17,8 +17,8 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
 ### TEACHERS-IN-CHARGE
 
 *   CPT Khatijah Bee Bte Syed Abdul Kadir (TIC)
-*   CPT Wong Poh Shen  
 *   CPT Nicholas Seah
+*   Mr How Choon Keat
 
 ### TRAINING DAYS
 
