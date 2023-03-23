@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: about WW
-    collection: about-us
+  - title: About Ww
+    collection: about-ww
   - title: WW instructional Programmes
     collection: academic-matters
   - title: WW student development
@@ -23,8 +23,8 @@ links:
         url: /co-curriculum/niche-programmes
       - title: CCAs
         url: /cca
-  - title: WW Distinctive programmes
-    collection: about-us
+  - title: About Ww
+    collection: about-ww
   - title: WW family
     collection: partners
   - title: Administrative
