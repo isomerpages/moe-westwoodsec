@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: For staff
           description: ""
-          url: /forstaff/
+          url: /general-information/useful-links/for-staff/
         - title: for student
           description: ""
           url: ""
