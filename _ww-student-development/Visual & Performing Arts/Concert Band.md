@@ -14,7 +14,9 @@ third_nav_title: Visual & Performing Arts
 ### TEACHERS IN-CHARGE
 
 *   Mdm Nur Nadiah Binte Razni&nbsp;(TIC)
-*   Mr Liow Choon Cheang Eric
+*   Mrs Jasmine Wong  
+*   Mr Lee Chuen Hing
+*   Mdm Nurul Atika Ramli
 
 ### TRAINING DAYS
 
