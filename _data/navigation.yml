@@ -2,8 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Ww
     collection: about-ww
-  - title: WW instructional Programmes
-    collection: academic-matters
+  - title: Ww Instructional Programmes
+    collection: ww-instructional-programmes
   - title: WW student development
     url: /co-curriculum/student-development-team
     sublinks:
