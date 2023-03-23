@@ -18,6 +18,7 @@ third_nav_title: Visual & Performing Arts
 *   Mdm Lim Shi Lei (TIC)
 *   Ms Hanisah Binte Salim  
 *   Mdm Farah Zila Hassan
+*   Mr Lim Jun Wei
 
   
 
