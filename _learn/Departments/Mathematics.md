@@ -47,7 +47,7 @@ To be exemplary leaders in the teaching and learning of Mathematics so as to add
 	<tr>
     <td class="tg-mwz3"><span style="color:#565656">Sec 2 Coding Programme</span><br></td>
     <td class="tg-mwz3"><span style="color:#565656">April - September</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Selected Secondary 2 students who are interested in coding are given opportunities to further their interest, meet people in the industry and to take part in curated competition.
+    <td class="tg-mwz3"><span style="color:#565656">Selected Secondary 2 students who are interested in coding are given opportunities to further their interest, meet people in the industry and to take part in curated competition.</td></tr>
 </tbody>
 </table>
 
