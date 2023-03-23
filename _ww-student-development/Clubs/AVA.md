@@ -13,9 +13,10 @@ third_nav_title: Clubs
 
 ### TEACHERS IN-CHARGE
 
-*   Mr Chua Yeow Huat Jeffrey (TIC)  
-*   Ms&nbsp;Maria Loh May-Kay
+*   Mr Jeffrey Chua Yeow Huat (TIC)  
+*   Mr Clement Huang
 *   Mr Lawrence Chia  
+*   Mr Md Hamim Bar 
     
 
   
