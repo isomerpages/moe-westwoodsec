@@ -14,7 +14,8 @@ third_nav_title: Uniformed Groups
 ### TEACHERS IN-CHARGE
 
 *   Mr Terence Tsang (TIC)
-*   Mr Lim Jun Wei
+*   Ms Tan Rou Jing Geraldine
+*   Mr Peh Teow Peng
 
 ### TRAINING DAYS
 
