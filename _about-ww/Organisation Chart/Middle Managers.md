@@ -115,8 +115,8 @@ SH/Mathematics<center>
 <center> <b>Mr Lee Teck Choon Robert<br> </b>
 SH/Physical Education<center>
 
-	
-<br><br><br>
+<img src="/images/miss melissa manuela rama shan.jpg" 
+     style="width:25%">
 <center> <b>Ms Melissa Manuela  
 Rama Shan<br> </b>
 SH/Chemistry<center>
