@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Art Project.md
       - Live@Westwood.md
       - Dance and Percussion Ensemble Programme.md
       - Learning for Life Programme.md
