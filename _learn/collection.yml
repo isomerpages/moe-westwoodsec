@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Teaching & Learning.md
-      - Teaching and Learning/Assessment Policy.md
       - Teaching and Learning/.keep
-      - Teaching and Learning/Subjects Offered.md
-      - Teaching and Learning/Homework Policy.md
+      - Teaching and Learning/Assessment Policy.md
       - Teaching and Learning/Assessment Calender.md
+      - Teaching and Learning/Homework Policy.md
+      - Teaching and Learning/Subjects Offered.md
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mathematics.md
