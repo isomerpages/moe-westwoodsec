@@ -13,7 +13,7 @@ sections:
         - title: School Updates
           description: ""
           url: ""
-        - title: students timetable
+        - title: student timetable
           description: ""
           url: ""
         - title: school calendar
