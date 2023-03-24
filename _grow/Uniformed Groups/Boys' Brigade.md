@@ -62,9 +62,13 @@ third_nav_title: Uniformed Groups
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-kggv"><span style="color:#565656">2020</span></td>
-    <td class="tg-ddui"><span style="color:#565656">BB Founder’s MAN AWARD –</span> LIM YU LIANG <span style="color:#565656">and</span> CHEW RUI CONG, OWEN<br></td>
+	<tr>
+    <td class="tg-kggv"><span style="color:#565656"> 2021 </span></td>
+    <td class="tg-mwz3"><span style="color:#565656">J M FRASER AWARD FOR EXCELLENCE - GOLD </td>
+  </tr>
+	<tr>
+    <td class="tg-kggv"><span style="color:#565656"> 2020 </span></td>
+    <td class="tg-mwz3"><span style="color:#565656">FOUNDER'S MAN AWARD - LIM YU LIANG AND CHEW RUI CONG, OWEN. </td>
   </tr>
   <tr>
     <td class="tg-kggv"><span style="color:#565656"> 2020 </span></td>
