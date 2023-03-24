@@ -11,7 +11,7 @@ third_nav_title: Organisation Chart
 	
 	
 
-<img src="/images/Derrick%20Hoi.jpeg" 
+<img src="/images/mr derrick hoi.jpg" 
      style="width:25%">
 <center> <b>Mr Derrick Hoi Weng Kit  <br> </b>
 	Vice-Principal  <center>
