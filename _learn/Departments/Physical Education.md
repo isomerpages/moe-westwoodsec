@@ -23,27 +23,9 @@ The aims of the syllabus are for students to:&nbsp;
 *   acquire acquire and apply the knowledge in exercise physiology, biomechanics, and sports psychology to analyse, evaluate and improve practical performances in physical exercises and sports;
 *   develop develop the movement concepts and motor skills to be proficient in the performance of a team and an individual / dual sport;
 *   understand understand the benefits and risks associated with physical exercise and sports to manage personal participation in physical activities; and
-*   examine examine issues related to sports and participation in physical activities from socio-cultural and global perspectives.&nbsp;
+*   examine examine issues related to sports and participation in physical activities from socio-cultural and global perspectives.&nbsp; <br><br>The format of the national examination comprises two compulsory components: <br>1. Theory component (60%): E-Examination Paper and Developmental Log<br>2. Practical component (40%): Coursework – 2 practical activities consisting of<br>a. One Individual/ Dual Sport such as Track &amp; Field, Cross Country Running, Swimming or&nbsp;Badminton AND<br>b. One Team Sport such as Basketball, Football and Netball
 
-  
-
-The format of the national examination comprises two compulsory components:
-
-1. Theory component (60%): E-Examination Paper and Developmental Log
-
-2. Practical component (40%): Coursework – 2 practical activities consisting of
-
-- a. One Individual/ Dual Sport such as Track &amp; Field, Cross Country Running, Swimming or&nbsp;Badminton AND
-
-- b. One Team Sport such as Basketball, Football and Netball
-
-  
-
-For more information, please refer to the following links:
-
-1. [ESS Syllabus Information](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6081_y22_sy.pdf)
-
-2. [The Straits Times article on ESS](https://www.straitstimes.com/singapore/exercise-and-sports-science-to-replace-pe-at-o-levels)
+For more information, please refer to the following links:<br>1. [ESS Syllabus Information](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6081_y22_sy.pdf)<br>2. [The Straits Times article on ESS](https://www.straitstimes.com/singapore/exercise-and-sports-science-to-replace-pe-at-o-levels)
 
 ### Programmes / Events
 
