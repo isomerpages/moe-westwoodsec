@@ -4,12 +4,12 @@ permalink: /about-us/organisation-chart/middle-managers/
 description: ""
 third_nav_title: Organisation Chart
 ---
-<img src="/images/mdm%20fauziah%20bte%20ahmad.jpeg" 
+<img src="/images/mdm%20fauziah%20bte%20ahmad.jpg" 
      style="width:25%">
 <center> <b>Mdm Fauziah Bte Ahmad<br></b>
 HOD/Character & Citizenship Education<center>
 	
-<img src="/images/miss%20lee%20chew%20yen.jpeg" 
+<img src="/images/miss%20lee%20chew%20yen.jpg" 
      style="width:25%">
 <center> <b>Ms Lee Chew Yen<br> </b>
 HOD/Character & Citizenship Education<center>
@@ -21,7 +21,7 @@ HOD/Character & Citizenship Education<center>
 <center> <b>Mr Zhong Shenghan Desmond<br> </b>
 HOD/Humanities<center>
 	
-<img src="/images/mdm%20quek%20liza.jpeg" 
+<img src="/images/mdm%20quek%20liza.jpg" 
      style="width:25%">
 <center> <b>Mdm Quek Liza<br> </b>
 HOD/ICT<center>
@@ -30,27 +30,27 @@ HOD/ICT<center>
      style="width:25%">
 <center> <b>Mr Lau Yongxing Bob<br> </b>
 HOD/Mathematics<center>
-<br><br>
+<br><br><br>
 	
 
 <center> <b>Mr Li Yundong<br> </b>
 HOD/Mother Tongue Languages<center>
 	
-<img src="/images/mdm%20goh%20sok%20fern.jpeg" 
+<img src="/images/mdm%20goh%20sok%20fern.jpg" 
      style="width:25%">
 <center> <b>Mdm Goh Sok Fern<br> </b>
-HOD/Science<center> <img src="/images/mdm%20nur%20rakeezah%20bte%20abdul%20rahim.jpeg" 
+HOD/Science<center> <img src="/images/mdm%20nur%20rakeezah%20bte%20abdul%20rahim.jpg" 
      style="width:25%">
 <center> <b>Mdm Nur Rakeezah Bte Abdul Rahim<br> </b>
 Assistant Discipline Mistress<center>
 
 		
-<img src="/images/mr%20heng%20yih%20foo%20hector.jpeg" 
+<img src="/images/mr%20heng%20yih%20foo%20hector.jpg" 
      style="width:25%">
 <center> <b>Mr Heng Yih Foo Hector<br> </b>
 HOD/Technology & Design<center>
 	
-<img src="/images/mdm%20nur%20hidayah%20binte%20moktar.jpeg" style="width:25%">
+<img src="/images/mdm%20nur%20hidayah%20binte%20moktar.jpg" style="width:25%">
 <center> <b>Mdm Nur Hidayah Bte Moktar<br> </b>
 School Staff Developer<center>
 	
@@ -61,17 +61,17 @@ School Staff Developer<center>
 <center> <b>Ms Maria Marzuki<br> </b>
 Year Head<center>
 	
-<img src="/images/mdm%20soo%20woon%20siew.jpeg" 
+<img src="/images/mdm%20soo%20woon%20siew.jpg" 
      style="width:25%">
 <center> <b>Mdm Soo Woon Siew<br> </b>
 Year Head<center>
 	
-<img src="/images/ms%20nurul%20atika%20bte%20ramli.jpeg" 
+<img src="/images/ms%20nurul%20atika%20bte%20ramli.jpg" 
      style="width:25%">
 <center> <b>Ms Nurul Atika Bte Ramli<br> </b>
 Assistant Year Head<center>
 	
-<img src="/images/mr%20huang%20kai%20sen%20clement.jpeg" 
+<img src="/images/mr%20huang%20kai%20sen%20clement.jpg" 
      style="width:25%">
 <center> <b>Mr Huang Kai Sen Clement<br> </b>
 Assistant Year Head<center>
