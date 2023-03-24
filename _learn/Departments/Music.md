@@ -77,13 +77,17 @@ Every Westwoodian to be exposed to Aesthetics programmes from various art forms 
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"> 2022</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">SYF Celebration Youth Station Competition, Open Category, Honorable Mentions</span></td>
+  </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"> 2021</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">SYF Celebration Youth Station Competition, Top 5</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">SYF Celebration Youth Station Competition, Lower Secondary Category, Top 5</span></td>
   </tr>
   <tr>
     <td class="tg-lygy"> 2020</td>
-    <td class="tg-tsok">SYF Celebration Youth Station Competition, Top 5</td>
+    <td class="tg-tsok">SYF Celebration Youth Station Competition, Lower Secondary Category, Top 5</td>
   </tr>
   <tr>
     <td class="tg-lygy"> 2019</td>
