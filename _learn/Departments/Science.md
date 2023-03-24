@@ -112,7 +112,7 @@ The abilities, skills and attitude that we aim to develop are as follows.&nbsp;
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2019</span></td>
-    <td class="tg-tsok"><span style="color:#222;background-color:#FFF">NYP Science &amp; Technology Challenge – 3rd place winner </span></td>
+    <td class="tg-tsok"><span style="color:#222;background-color:#FFF">NYP Science &amp; Technology Challenge – 3rd place winner </span><br><br></td>
   </tr>
 </tbody>
 </table>
