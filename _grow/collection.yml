@@ -2,6 +2,7 @@ collections:
   grow:
     output: true
     order:
+      - Visual & Performing Arts/.keep
       - Clubs/.keep
       - Sports/.keep
       - Uniformed Groups/.keep
