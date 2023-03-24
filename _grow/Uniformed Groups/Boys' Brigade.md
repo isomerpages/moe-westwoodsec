@@ -166,11 +166,6 @@ NYAA Bronze & NYAA Silver, Kayaking 1 Star, Total Defence, and First Aid
     <td class="tg-mwz3"><span style="color:#565656">Our Orienteering/Expedition activity allows Boys to apply skills such as map reading, teamwork, navigation and outdoor cooking, through an extended land expedition . </span><br></td>
   </tr>
   <tr>
-    <td class="tg-61iw"><span style="color:#565656">Life Skills Camp </span></td>
-    <td class="tg-61iw"><span style="color:#565656">November</span></td>
-    <td class="tg-61iw"><span style="color:#565656">A 3-day-2-night fun camp that promotes team-building and leadership skills through fun-filled games and activities. </span></td>
-  </tr>
-  <tr>
     <td class="tg-61iw"><span style="color:#000">Boys’ Brigade Share-A-Gift </span><br><span style="color:#565656">(BBSG)</span></td>
     <td class="tg-mwz3"><span style="color:#565656">December</span></td>
     <td class="tg-61iw"><span style="color:#565656">This nationwide VIA initiative aims to bring cheer to the less fortunate in Singapore during the festive season of Christmas, to inculcate the spirit of community service among members of The Boys’ Brigade and to promote the spirit of caring and sharing among Singaporeans. Boys from different companies work together to collect food items and fulfilling Christmas wishes of the beneficiaries. </span></td>
