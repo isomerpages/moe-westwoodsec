@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Direct School Admission.md
-      - Uniformed Groups/.keep
       - Sports/.keep
       - Clubs/.keep
       - Visual & Performing Arts/.keep
