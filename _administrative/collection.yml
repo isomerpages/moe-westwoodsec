@@ -2,6 +2,7 @@ collections:
   administrative:
     output: true
     order:
+      - Financial Assistance Scheme.md
       - Service Providers.md
       - Administration/.keep
       - Contact Us/.keep
