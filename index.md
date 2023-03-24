@@ -15,7 +15,7 @@ sections:
           url: ""
         - title: student timetable
           description: ""
-          url: ""
+          url: https://drive.google.com/drive/folders/1KSmzPUyBmsfz5kIdw06KeiIyAWB1Jpkg
         - title: school calendar
           description: ""
           url: ""
