@@ -93,9 +93,8 @@ SH/Character & Citizenship Education<center>
      style="width:25%">
 <center> <b>Miss Teo Shi Yun Madeline<br> </b>
 SH/Food & Nutrition<center>
-	<br><br>
 	
-<img src="/images/miss loh may kay-maria.jpg"
+<img src="/images/miss loh may-kay maria.jpg"
      style="width:25%">
 <center> <b>Ms Loh May-Kay Maria<br> </b>
 SH/Social Studies (covering)<center>
