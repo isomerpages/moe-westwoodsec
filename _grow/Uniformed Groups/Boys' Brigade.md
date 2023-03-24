@@ -4,7 +4,6 @@ permalink: /cca/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ### OBJECTIVES
 
 *   To nurture Boys’ moral character and leadership potential so that they build up their confidence and play an active role in contributing to the community
@@ -30,22 +29,15 @@ third_nav_title: Uniformed Groups
 .tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
 .tg .tg-njgx{background-color:#FFF;color:#565656;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DAY</span></th>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">TIME</span></th>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">VENUE</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Saturday</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">8:00am -12:30pm</span></td>
-    <td class="tg-njgx"><span style="color:#565656">BB Room / Classrooms</span></td>
-  </tr>
-</tbody>
-</table>
+
+	
+
+| Day | Time | Venue |
+| -------- | -------- | -------- |
+| Saturday    | 8:00am - 12:30pm    | BB Room/ Quadrangle/ Classrooms     |
+| Friday (last Friday of each month)    | 2:00 - 5:30pm   | BB Room/ Quadrangle/ Classrooms    |
+
+
 
 ### CCA Achievements
 
