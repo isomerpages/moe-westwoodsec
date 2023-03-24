@@ -4,7 +4,6 @@ permalink: /cca/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ### OBJECTIVES
 
 *   To develop and groom every Girl to be a leader
@@ -72,6 +71,14 @@ third_nav_title: Uniformed Groups
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-zqva">2022</td>
+    <td class="tg-cmm0">Silver Company Award <br></td>
+  </tr>
+  <tr>
+    <td class="tg-zqva">2021</td>
+    <td class="tg-cmm0">Bronze Company Award<br></td>
+  </tr>
   <tr>
     <td class="tg-zqva">2020</td>
     <td class="tg-cmm0">Gold Company Award <br></td>
@@ -80,10 +87,7 @@ third_nav_title: Uniformed Groups
     <td class="tg-zqva">2019</td>
     <td class="tg-cmm0">Gold Company Award<br></td>
   </tr>
-  <tr>
-    <td class="tg-zqva"> 2018 </td>
-    <td class="tg-cmm0">Bronze Company Award</td>
-  </tr>
+  
 </tbody>
 </table>
 
