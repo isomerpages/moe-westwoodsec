@@ -137,11 +137,7 @@ third_nav_title: Uniformed Groups
     <td class="tg-mwz3"><span style="color:#565656">April</span></td>
     <td class="tg-mwz3"><span style="color:#565656">This is an event organized by the GB HQ to recognize efforts contributed by teachers, officer and girls.</span></td>
   </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">NCO Training Camp</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">June</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">This is the beginning of the series of National level leadership training programmes organised by the GB HQ to equip the girls with basic leadership qualities before their promotion to their Corporals’ Rank or Sergeants’ Rank.</span></td>
-  </tr>
+  
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">GB Friendship Day </span></td>
     <td class="tg-mwz3"><span style="color:#565656">July</span></td>
