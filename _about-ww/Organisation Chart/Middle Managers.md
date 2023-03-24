@@ -30,9 +30,10 @@ HOD/ICT<center>
      style="width:25%">
 <center> <b>Mr Lau Yongxing Bob<br> </b>
 HOD/Mathematics<center>
-<br><br><br>
-	
 
+	
+<img src="/images/mr li yundong.jpeg" 
+     style="width:25%">
 <center> <b>Mr Li Yundong<br> </b>
 HOD/Mother Tongue Languages<center>
 	
@@ -75,25 +76,27 @@ Assistant Year Head<center>
      style="width:25%">
 <center> <b>Mr Huang Kai Sen Clement<br> </b>
 Assistant Year Head<center>
-<br><br><br>
-	
 
+	
+<img src="/images/miss see ai xin alliot.jpg" 
+     style="width:25%">
 <center> <b>Ms See Ai Xin Alliot<br> </b>
 Assistant Year Head (covering)<center>
 	
-<br><br>
 	
-
+<img src="/images/ms nadia binte eddy razali.jpg"
+     style="width:25%">
 <center> <b>Mdm Nadia Binte Eddy Razali<br> </b>
 SH/Character & Citizenship Education<center>
 	
-<img src="/images/miss%20teo%20shi%20yun%20madeline.jpeg" 
+<img src="/images/miss%20teo%20shi%20yun%20madeline.jpg" 
      style="width:25%">
 <center> <b>Miss Teo Shi Yun Madeline<br> </b>
 SH/Food & Nutrition<center>
 	<br><br>
 	
-
+<img src="/images/miss loh may kay-maria.jpg"
+     style="width:25%">
 <center> <b>Ms Loh May-Kay Maria<br> </b>
 SH/Social Studies (covering)<center>
 	
@@ -118,7 +121,8 @@ SH/Physical Education<center>
 Rama Shan<br> </b>
 SH/Chemistry<center>
 	
-<br><br><br>
+<img src="/images/mr mohammad redzuan bin ja'afar.jpg" 
+     style="width:25%">
 <center> <b>Mr Mohammad Redzuan  
 Bin Jaafar<br> </b>
 SH/Student Management<center>
