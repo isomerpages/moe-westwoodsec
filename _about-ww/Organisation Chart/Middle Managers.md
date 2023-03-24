@@ -75,7 +75,7 @@ Assistant Year Head<center>
      style="width:25%">
 <center> <b>Mr Huang Kai Sen Clement<br> </b>
 Assistant Year Head<center>
-<br><br>
+<br><br><br>
 	
 
 <center> <b>Ms See Ai Xin Alliot<br> </b>
@@ -106,7 +106,7 @@ SH/ICT<center>
      style="width:25%">
 <center> <b>Mr Lee Chuen Hing<br> </b>
 SH/Mathematics<center>
-	<br><br>
+<br><br><br>
 	
 
 <center> <b>Mr Lee Teck Choon Robert<br> </b>
