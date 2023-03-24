@@ -2,6 +2,7 @@ collections:
   grow:
     output: true
     order:
+      - Co Curricular Activities.md
       - Student Leadership Development.md
       - Uniformed Groups/.keep
       - Sports/.keep
