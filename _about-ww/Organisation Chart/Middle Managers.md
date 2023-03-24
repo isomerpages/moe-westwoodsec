@@ -51,7 +51,7 @@ Assistant Discipline Mistress<center>
 <center> <b>Mr Heng Yih Foo Hector<br> </b>
 HOD/Technology & Design<center>
 	
-<img src="/images/mdm%20nur%20hidayah%20binte%20moktar.jpg" style="width:25%">
+<img src="/images/mdm nur hidayah binte moktar.jpg" style="width:25%">
 <center> <b>Mdm Nur Hidayah Bte Moktar<br> </b>
 School Staff Developer<center>
 	
