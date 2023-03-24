@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Uniformed Groups/.keep
-      - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/National Cadet Corp.md
       - Uniformed Groups/National Police Cadet Corp.md
       - Uniformed Groups/National Civil Defence Cadet Corp.md
