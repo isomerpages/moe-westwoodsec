@@ -4,7 +4,7 @@ permalink: /academic-matters/departments/technology-n-design/
 description: ""
 third_nav_title: Departments
 ---
-### ### VISION/GOALS
+### VISION/GOALS
 
 **Vision**
 
