@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Leadership Development.md
-      - Co Curricular Activities/.keep
       - Uniformed Groups/.keep
       - Sports/.keep
       - Clubs/.keep
