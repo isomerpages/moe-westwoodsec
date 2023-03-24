@@ -2,32 +2,36 @@ collections:
   grow:
     output: true
     order:
+      - Student Development Team.md
+      - Student Development/.keep
+      - Student Development/Student Development.md
+      - Student Development/Student Well Being.md
       - Co Curricular Activities.md
       - Student Leadership Development.md
+      - Uniformed Groups/.keep
       - Uniformed Groups/National Civil Defence Cadet Corp.md
       - Uniformed Groups/National Police Cadet Corp.md
       - Uniformed Groups/National Cadet Corp.md
       - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/Boys' Brigade.md
-      - Uniformed Groups/.keep
+      - Sports/.keep
       - Sports/Tchoukball.md
       - Sports/Netball.md
       - Sports/Football.md
       - Sports/Bowling.md
       - Sports/Basketball.md
       - Sports/Badminton.md
-      - Sports/.keep
+      - Clubs/.keep
       - Clubs/Westwood Flying Club.md
       - Clubs/Robotics.md
       - Clubs/AVA.md
-      - Clubs/.keep
+      - Visual & Performing Arts/.keep
       - Visual & Performing Arts/Visual Arts.md
       - Visual & Performing Arts/Show Choir.md
       - Visual & Performing Arts/Modern Dance.md
       - Visual & Performing Arts/Guitar Ensemble.md
       - Visual & Performing Arts/English Drama.md
       - Visual & Performing Arts/Concert Band.md
-      - Visual & Performing Arts/.keep
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/Sexuality Education.md
@@ -35,10 +39,6 @@ collections:
       - CCE/Cyber Wellness.md
       - CCE/Character Education.md
       - CCE/Citizenship Education.md
-      - Student Development Team.md
-      - Student Development/.keep
-      - Student Development/Student Development.md
-      - Student Development/Student Well Being.md
       - Enrichment & Life Skills.md
       - Values in Action.md
       - Niche Programmes/.keep
