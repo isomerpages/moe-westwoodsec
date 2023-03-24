@@ -88,11 +88,11 @@ third_nav_title: Useful Links
     <td class="tg-sxrn">https://rbs.avero-tech.com/<br></td>
   </tr>
   <tr>
-    <td class="tg-7s4v"><a href="https://forms.gle/ksAv6VpT6XQ26QZ9A"><span style="text-decoration:none;color:#3AA66F">Fault Reporting Form</span></a><br><br></td>
+    <td class="tg-7s4v"><a href="http://go.gov.sg/sw9yzq"><span style="text-decoration:none;color:#3AA66F">Fault Reporting Form</span></a><br><br></td>
     <td class="tg-kgfz">https://forms.gle/ksAv6VpT6XQ26QZ9A<br></td>
   </tr>
   <tr>
-    <td class="tg-sxrn"><a href="https://goo.gl/TLdw7Y"><span style="text-decoration:none;color:#3AA66F">AV and IT Request Form</span></a><br>(Log in to iCON before clicking the link)<br></td>
+    <td class="tg-sxrn"><a href="http://go.gov.sg/47sptz"><span style="text-decoration:none;color:#3AA66F">AV and IT Request Form</span></a><br>(Log in to iCON before clicking the link)<br></td>
     <td class="tg-sxrn">https://goo.gl/TLdw7Y<br></td>
   </tr>
   <tr>
