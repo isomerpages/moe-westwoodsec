@@ -4,7 +4,6 @@ collections:
     order:
       - Uniformed Groups/.keep
       - Sports/.keep
-      - Sports/Basketball.md
       - Sports/Bowling.md
       - Sports/Football.md
       - Sports/Netball.md
