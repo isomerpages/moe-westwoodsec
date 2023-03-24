@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Dance and Percussion Ensemble Programme.md
       - Learning for Life Programme.md
       - Niche Programmes.md
       - Direct School Admission.md
