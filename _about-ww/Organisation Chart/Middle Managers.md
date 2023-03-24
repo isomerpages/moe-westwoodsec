@@ -4,7 +4,121 @@ permalink: /about-us/organisation-chart/middle-managers/
 description: ""
 third_nav_title: Organisation Chart
 ---
-<div id="_ptod_54949" class="description ive_editable ive_ptod ive_content"><table class="iveo_table ive_eobj_center ives_tab_1" style="width: 100%;"><tbody><tr><td><div style="line-height: 19.6px; color: rgb(86, 86, 86);"><img style="width:%" src="/images/mdm%20fauziah%20bte%20ahmad.jpeg"><b>Mdm Fauziah Bte Ahmad</b></div><div style="line-height: 19.6px; color: rgb(86, 86, 86);">HOD/Character &amp; Citizenship Education</div>
-	<div style="line-height: 19.6px; color: rgb(86, 86, 86);"></div></td><td><b style="background-color: transparent; color: rgb(86, 86, 86); line-height: 19.6px;"></b><span style="background-color: transparent; line-height: 19.6px; color: rgb(86, 86, 86);"><div style="line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"></b></div><div style="line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><img style="width:87%" src="/images/miss%20lee%20chew%20yen.jpeg">Ms Lee Chew Yen</b></b></b></b></div><div style="line-height: 19.6px;"><div style="line-height: 19.6px;"><div style="line-height: 19.6px; color: rgb(34, 34, 34);"><span style="color: rgb(86, 86, 86); line-height: 19.6px; background-color: transparent;">HOD/English Language &amp; Literature</span></div></div></div></span></td><td><b style="color: rgb(86, 86, 86); line-height: 19.6px;"></b><b style="color: rgb(86, 86, 86); background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><br><br><br><br><br><br><br>Mr Zhong Shenghan Desmond</b><br></b><div style="line-height: 19.6px; color: rgb(86, 86, 86);"><div style="line-height: 19.6px; color: rgb(34, 34, 34);"><span style="color: rgb(86, 86, 86); line-height: 19.6px; background-color: transparent;">HOD/Humanities</span></div></div></td></tr>
-	<tr><td><img style="width:%" src="/images/mdm%20quek%20liza.jpeg"><b style="color: rgb(86, 86, 86); background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"> Mdm Quek Liza</b><br></b><div style="line-height: 19.6px; color: rgb(86, 86, 86);"><div style="line-height: 19.6px; color: rgb(34, 34, 34);"><span style="color: rgb(86, 86, 86); line-height: 19.6px; background-color: transparent;">HOD/ICT</span></div></div></td><td><img style="width:85%" src="/images/mr%20lau%20yongxing%20bob.jpeg"><div style="line-height: 19.6px; color: rgb(86, 86, 86);"><div style="line-height: 19.6px; color: rgb(34, 34, 34);"><span style="color: rgb(86, 86, 86); line-height: 19.6px; background-color: transparent;"><b>Mr Lau Yongxing Bob</b></span></div><div style="line-height: 19.6px; color: rgb(34, 34, 34);"><span style="color: rgb(86, 86, 86); line-height: 19.6px; background-color: transparent;">HOD/Mathematics</span></div></div></td><td><img style="width:93%" src="/images/mr%20li%20yundong.jpeg"><span style="background-color: transparent; color: rgb(86, 86, 86);"><b>Mr Li Yundong</b><br>HOD/Mother Tongue Languages</span></td></tr><tr><td><b style="color: rgb(86, 86, 86); background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><img src="/images/mdm%20goh%20sok%20fern.jpeg" style="width:%">Mdm Goh Sok Fern</b></b><br><div style="line-height: 19.6px; color: rgb(86, 86, 86);"><div style="line-height: 19.6px; color: rgb(34, 34, 34);"><span style="color: rgb(86, 86, 86); line-height: 19.6px; background-color: transparent;">HOD/Science</span></div></div></td><td><div style="line-height: 19.6px; color: rgb(86, 86, 86);"><img src="/images/mdm%20nur%20rakeezah%20bte%20abdul%20rahim.jpeg" style="width:79%"><span style="background-color: transparent; font-weight: bold;"><span style="background-color: transparent; font-weight: bold;">Mdm Nur Rakeezah</span></div><div style="line-height: 19.6px; color: rgb(86, 86, 86);"><span style="background-color: transparent; font-weight: bold;">Bte Abdul Rahim</span></div><div style="line-height: 19.6px; color: rgb(86, 86, 86);">HOD/Student Management</div></td><td><b style="color: rgb(86, 86, 86); background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><img src="/images/mr%20heng%20yih%20foo%20hector.jpeg" style="width:100%">Mr Heng Yih Foo </b><b style="background-color: transparent; line-height: 19.6px;">Hector</b></b></b></b><br><span style="background-color: transparent; color: rgb(86, 86, 86);">HOD/Technology &amp; Design</span></td></tr><tr><td><div style="line-height: 19.6px; color: rgb(86, 86, 86);"></div><div style="line-height: 19.6px; color: rgb(86, 86, 86);"><b style="background-color: transparent; line-height: 19.6px;"></b></div><div style="line-height: 19.6px; color: rgb(86, 86, 86);"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"></b></b></b></b></div><div style="line-height: 19.6px;"><div style="color: rgb(86, 86, 86); line-height: 19.6px;"><b style="line-height: 19.6px;"></b></div><div style="line-height: 19.6px;"><span style="line-height: 19.6px;"><img src="/images/mdm%20nur%20hidayah%20binte%20moktar.jpeg" style="width:%"><font color="#565656"><b></b></font></span></div><div style="line-height: 19.6px;"><span style="line-height: 19.6px;"><font color="#565656"><b></b></font></span></div><div style="line-height: 19.6px;"><span style="line-height: 19.6px;"><font color="#565656"><b>Mdm Nur Hidayah Bte Moktar</b></font></span></div><div style="line-height: 19.6px;"><span style="line-height: 19.6px;"><span style="color: rgb(86, 86, 86); font-weight: 400;">School Staff Developer</span></span></div></div></td><td><div style="color: rgb(86, 86, 86); line-height: 19.6px;"></div><div style="color: rgb(86, 86, 86); line-height: 19.6px;"><div style="line-height: 19.6px;"><b style="line-height: 19.6px; background-color: transparent;"></b><div style="line-height: 19.6px;"><span style="background-color: transparent; line-height: 19.6px;"><span style="background-color: transparent; line-height: 19.6px;"><div style="font-weight: 400; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"></b></b></b></b></b></b></div><div style="font-weight: 400; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"></b></b></b></b></div><div style="font-weight: 400; line-height: 19.6px;"><b style="line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"></b></b></div><div style="font-weight: 400; line-height: 19.6px;"></div><div style="font-weight: 400; line-height: 19.6px;"><div style="line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"></b></div><div style="line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><div style="line-height: 19.6px; font-weight: 400;"><b style="background-color: transparent; line-height: 19.6px;"><b style="line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><img src="/images/ms%20maria%20marzuki.jpeg" style="width:80%"></b>Ms Maria Marzuki</b></b></div><div style="line-height: 19.6px; font-weight: 400;">Year Head</div></b></div></div></span></span></div></div></div></td><td><div style="color: rgb(86, 86, 86); line-height: 19.6px;"><div style="line-height: 19.6px;"><div style="line-height: 19.6px;"><b style="line-height: 19.6px;"></b></div><div style="line-height: 19.6px;"><div style="line-height: 19.6px;"><div style="line-height: 19.6px; color: rgb(34, 34, 34);"><font color="#565656"><b><br></b></font></div><div style="line-height: 19.6px; color: rgb(34, 34, 34);"><img src="/images/mdm%20soo%20woon%20siew.jpeg" style="width:88%"><div style="line-height: 19.6px; color: rgb(34, 34, 34);"><font color="#565656"><b>Mdm Soo Woon Siew</b></font></div><div style="line-height: 19.6px; color: rgb(34, 34, 34);">Year Head</div></div></div></div></div></td></tr><tr><td><div style="line-height: 19.6px; color: rgb(86, 86, 86);"><div style="line-height: 19.6px;"><b style="line-height: 19.6px;"></b></div><div style="line-height: 19.6px;"><div style="line-height: 19.6px;"><b style="line-height: 19.6px; background-color: transparent;"></b></div><div style="line-height: 19.6px;"><b style="line-height: 19.6px;"></b></div><div style="line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"><div style="line-height: 19.6px; font-weight: 400;"><b style="background-color: transparent; line-height: 19.6px;"></b></div><div style="line-height: 19.6px; font-weight: 400;"><b style="background-color: transparent; line-height: 19.6px;"></b></div><div style="line-height: 19.6px; font-weight: 400;"><div style="line-height: 19.6px;"><div style="line-height: 19.6px; color: rgb(34, 34, 34);"><img src="/images/ms%20nurul%20atika%20bte%20ramli.jpeg" style="width:%"></div><div style="line-height: 19.6px;"><b style="background-color: transparent; color: rgb(86, 86, 86);">Mdm Nurul Atika</b> Assistant Year Head</div></div></div></div></b></div></div></div></td><td><div style="line-height: 19.6px; font-weight: 400;"><span style="line-height: 19.6px;"><img src="/images/mr%20huang%20kai%20sen%20clement.jpeg" style="width:80%"><b style="background-color: transparent; color: rgb(86, 86, 86);">Mr Huang Kai Sen Clement</b><br></div><div style="line-height: 19.6px; color: rgb(34, 34, 34);">Assistant Year Head</div></div></div></div></div></span></div></span></div></div></td><td></div><div style="line-height: 19.6px;"><br></div><div style="line-height: 19.6px;"><br></div><br><br><div style="line-height: 19.6px;"><br></div><div style="line-height: 19.6px;"><br></div><div style="line-height: 19.6px;"><br></div><div style="line-height: 19.6px;"><br></div><div style="line-height: 19.6px;"><b style="color: rgb(86, 86, 86); background-color: transparent;">Ms See Ai Xin Alliot</b><br></div><div style="line-height: 19.6px;"><div style="line-height: 19.6px;">Assistant Year Head (covering)</div></div></div></div></div></span></div></div></div></div></div></div></td></tr><tr><td><br><br><br><br><br><br><br><div style="line-height: 19.6px;"><span style="background-color: transparent;"><b>Mdm Nadia Binte Eddy Razali</span><span style="background-color: transparent; font-weight: 400;"> SH/Character &amp; Citizenship Education</span><br></div></div></div></div></div></b></div></div></td><td><b><img src="/images/miss%20teo%20shi%20yun%20madeline.jpeg" style="width:80%"><div style="color: rgb(86, 86, 86); line-height: 19.6px;"><b></b></div><div style="color: rgb(86, 86, 86); line-height: 19.6px;"><b></b></div><div style="color: rgb(86, 86, 86); line-height: 19.6px;"><b>Ms Teo Shi Yun Madeline</b></div><div style="color: rgb(86, 86, 86); line-height: 19.6px;"><div style="line-height: 19.6px;">SH/Food &amp; Nutrition</div><div style="line-height: 19.6px;"></div><div style="line-height: 19.6px;"></td><td><br><br><br><br><br><br><br><div style="line-height: 19.6px;"><b style="background-color: transparent;">Ms&nbsp;</b><font style="font-weight: 400; background-color: transparent;" color="#565656"><b>Loh May-Kay Maria</b></font><br></div><div style="font-weight: 400;"><div style="line-height: 19.6px;">SH/Social Studies (covering)</div></div></div></div></b></div></div></b></div></div></div></div></td></tr><tr><td><span style="line-height: 19.6px;"><img src="/images/mr%20chan%20chi%20thio.jpeg" style="width:100%"><b style="color: rgb(86, 86, 86); background-color: transparent; line-height: 19.6px;">Mr Chan Chi Thio</b><br></span><b style="color: rgb(86, 86, 86); background-color: transparent; line-height: 19.6px;"><div style="line-height: 19.6px; font-weight: 400; display: inline !important;">SH/ICT</div></b></div></div></td><td><b style="color: rgb(86, 86, 86); background-color: transparent; line-height: 19.6px;"></b><img src="/images/mr%20lee%20chuen%20hing.jpeg" style="width:80%"><b style="background-color: transparent; line-height: 19.6px;">Mr Lee Chuen Hing</b><br></div><span style="color: rgb(86, 86, 86); line-height: 19.6px;">SH/Mathematics</span><br><div style="line-height: 19.6px; color: rgb(86, 86, 86);"><b style="line-height: 19.6px; background-color: transparent;"></b></div><div style="line-height: 19.6px; color: rgb(86, 86, 86);"><div style="line-height: 19.6px;"><div style="line-height: 19.6px;"></div><div style="line-height: 19.6px;"><div style="line-height: 19.6px;"><b style="background-color: transparent; line-height: 19.6px;"></b></div><div style="line-height: 19.6px;"></div></div></div></div></td><td><span style="color: rgb(86, 86, 86); background-color: transparent; line-height: 19.6px;"><div style="line-height: 19.6px;"><div style="line-height: 19.6px;"><br><br><br><br><br><br><br><br><b>Mr Lee Teck Choon Robert</b></div><div style="line-height: 19.6px;">SH/Physical Education</div></div></div></div></span></td></tr><tr><td><span style="line-height: 19.6px;"><b style="color: rgb(86, 86, 86); background-color: transparent; line-height: 19.6px;"><br><br><br><br><br><br>Ms Melissa Manuela <br>Rama Shan<br></b></span><b style="background-color: transparent; color: rgb(86, 86, 86); line-height: 19.6px;"><div style="line-height: 19.6px; font-weight: 400; display: inline !important;">SH/Chemistry</div></b></td><td><br><br><br><br><br><br>&nbsp;<b style="color: rgb(86, 86, 86); background-color: transparent; line-height: 19.6px;">Mr Mohammad Redzuan <br>Bin Jaafar</b><br><b style="background-color: transparent; color: rgb(86, 86, 86); line-height: 19.6px;"><div style="line-height: 19.6px; font-weight: 400; display: inline !important;">SH/Student Management</div></b></td><td>&nbsp;</td></tr></tbody></table><br><br>
-</div>
+<img src="/images/mdm%20fauziah%20bte%20ahmad.jpeg" 
+     style="width:25%">
+<center> <b>Mdm Fauziah Bte Ahmad<br></b>
+HOD/Character & Citizenship Education<center>
+	
+<img src="/images/miss%20lee%20chew%20yen.jpeg" 
+     style="width:25%">
+<center> <b>Ms Lee Chew Yen<br> </b>
+HOD/Character & Citizenship Education<center>
+<br>
+	
+<br><br>
+	
+
+<center> <b>Mr Zhong Shenghan Desmond<br> </b>
+HOD/Humanities<center>
+	
+<img src="/images/mdm%20quek%20liza.jpeg" 
+     style="width:25%">
+<center> <b>Mdm Quek Liza<br> </b>
+HOD/ICT<center>
+
+<img src="/images/mr%20lau%20yongxing%20bob.jpeg" 
+     style="width:25%">
+<center> <b>Mr Lau Yongxing Bob<br> </b>
+HOD/Mathematics<center>
+<br><br>
+	
+
+<center> <b>Mr Li Yundong<br> </b>
+HOD/Mother Tongue Languages<center>
+	
+<img src="/images/mdm%20goh%20sok%20fern.jpeg" 
+     style="width:25%">
+<center> <b>Mdm Goh Sok Fern<br> </b>
+HOD/Science<center> <img src="/images/mdm%20nur%20rakeezah%20bte%20abdul%20rahim.jpeg" 
+     style="width:25%">
+<center> <b>Mdm Nur Rakeezah Bte Abdul Rahim<br> </b>
+Assistant Discipline Mistress<center>
+
+		
+<img src="/images/mr%20heng%20yih%20foo%20hector.jpeg" 
+     style="width:25%">
+<center> <b>Mr Heng Yih Foo Hector<br> </b>
+HOD/Technology & Design<center>
+	
+<img src="/images/mdm%20nur%20hidayah%20binte%20moktar.jpeg" style="width:25%">
+<center> <b>Mdm Nur Hidayah Bte Moktar<br> </b>
+School Staff Developer<center>
+	
+
+	
+<img src="/images/ms%20maria%20marzuki.jpeg" 
+     style="width:25%">
+<center> <b>Ms Maria Marzuki<br> </b>
+Year Head<center>
+	
+<img src="/images/mdm%20soo%20woon%20siew.jpeg" 
+     style="width:25%">
+<center> <b>Mdm Soo Woon Siew<br> </b>
+Year Head<center>
+	
+<img src="/images/ms%20nurul%20atika%20bte%20ramli.jpeg" 
+     style="width:25%">
+<center> <b>Ms Nurul Atika Bte Ramli<br> </b>
+Assistant Year Head<center>
+	
+<img src="/images/mr%20huang%20kai%20sen%20clement.jpeg" 
+     style="width:25%">
+<center> <b>Mr Huang Kai Sen Clement<br> </b>
+Assistant Year Head<center>
+<br><br>
+	
+
+<center> <b>Ms See Ai Xin Alliot<br> </b>
+Assistant Year Head (covering)<center>
+	
+<br><br>
+	
+
+<center> <b>Mdm Nadia Binte Eddy Razali<br> </b>
+SH/Character & Citizenship Education<center>
+	
+<img src="/images/miss%20teo%20shi%20yun%20madeline.jpeg" 
+     style="width:25%">
+<center> <b>Miss Teo Shi Yun Madeline<br> </b>
+SH/Food & Nutrition<center>
+	<br><br>
+	
+
+<center> <b>Ms Loh May-Kay Maria<br> </b>
+SH/Social Studies (covering)<center>
+	
+<img src="/images/mr%20chan%20chi%20thio.jpeg" 
+     style="width:25%">
+<center> <b>Mr Chan Chi Thio<br> </b>
+SH/ICT<center>
+	
+<img src="/images/mr%20lee%20chuen%20hing.jpeg" 
+     style="width:25%">
+<center> <b>Mr Lee Chuen Hing<br> </b>
+SH/Mathematics<center>
+	<br><br>
+	
+
+<center> <b>Mr Lee Teck Choon Robert<br> </b>
+SH/Physical Education<center>
+
+	
+<br><br><br>
+<center> <b>Ms Melissa Manuela  
+Rama Shan<br> </b>
+SH/Chemistry<center>
+	
+<br><br><br>
+<center> <b>Mr Mohammad Redzuan  
+Bin Jaafar<br> </b>
+SH/Student Management<center>
