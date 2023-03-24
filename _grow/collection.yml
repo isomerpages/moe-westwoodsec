@@ -2,12 +2,12 @@ collections:
   grow:
     output: true
     order:
-      - Visual & Performing Arts/.keep
-      - Clubs/.keep
-      - Sports/.keep
-      - Uniformed Groups/.keep
       - Student Leadership Development.md
       - Co Curricular Activities/.keep
+      - Uniformed Groups/.keep
+      - Sports/.keep
+      - Clubs/.keep
+      - Visual & Performing Arts/.keep
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/Sexuality Education.md
