@@ -163,7 +163,7 @@ NYAA Bronze & NYAA Silver, Kayaking 1 Star, Total Defence, and First Aid
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Orienteering/Expedition </span></td>
     <td class="tg-mwz3"><span style="color:#565656">August</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Our Orienteering/Expedition activity allows Boys to apply skills such as map reading, teamwork, navigation and outdoor cooking, through a short expedition walk </span><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">Our Orienteering/Expedition activity allows Boys to apply skills such as map reading, teamwork, navigation and outdoor cooking, through an extended land expedition . </span><br></td>
   </tr>
   <tr>
     <td class="tg-61iw"><span style="color:#565656">Life Skills Camp </span></td>
