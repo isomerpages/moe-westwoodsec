@@ -72,6 +72,10 @@ Every student is a discerning and responsible ICT user
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"> 2022</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">AGM Competition (Animation Category)</span><br><span style="color:#222;background-color:#FFF">Silver Award</span><br><span style="color:#222;background-color:#FFF">Mohammad Zaihairy Qushairy Bin Mohammad Zaidy (Class 2A)</span><br><br><span style="color:#222;background-color:#FFF">AGM Competition (Game Category)</span><br><span style="color:#222;background-color:#FFF">Silver Award</span><br><span style="color:#222;background-color:#FFF">Md Nadman Gazi Ihsan (Class 3A)</span></td>
+  </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"> 2021</span></td>
     <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">MEC Competition 2021 (Animation Category)</span><br><span style="color:#222;background-color:#FFF">Bronze Award</span><br><span style="color:#222;background-color:#FFF">Ian Ang Kim Yi (Class 2A)</span><br><br><span style="color:#222;background-color:#FFF">MEC Competition 2021 (Game Category)</span><br><span style="color:#222;background-color:#FFF">Certificate of Participation</span><br><span style="color:#222;background-color:#FFF">Izzatul Hafiz Bin Hanafia (Class 3A) </span></td>
