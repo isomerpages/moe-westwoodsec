@@ -2,9 +2,9 @@ collections:
   explore:
     output: true
     order:
+      - Niche Programmes.md
+      - Learning for Life Programme.md
       - Art Project.md
       - Live@Westwood.md
       - Dance and Percussion Ensemble Programme.md
-      - Learning for Life Programme.md
-      - Niche Programmes.md
       - Direct School Admission.md
