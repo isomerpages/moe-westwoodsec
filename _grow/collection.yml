@@ -2,12 +2,12 @@ collections:
   grow:
     output: true
     order:
+      - Student Leadership Development.md
       - Student Development Team.md
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Student Well Being.md
       - Co Curricular Activities.md
-      - Student Leadership Development.md
       - Uniformed Groups/.keep
       - Uniformed Groups/National Civil Defence Cadet Corp.md
       - Uniformed Groups/National Police Cadet Corp.md
