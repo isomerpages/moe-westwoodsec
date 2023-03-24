@@ -2,8 +2,8 @@ collections:
   grow:
     output: true
     order:
-      - Co Curricular Activities/.keep
       - Student Leadership Development.md
+      - Co Curricular Activities/.keep
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/Character Education.md
