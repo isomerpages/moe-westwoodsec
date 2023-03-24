@@ -4,7 +4,7 @@ permalink: /about-us/organisation-chart/executive-and-administrative-staff/
 description: ""
 third_nav_title: Organisation Chart
 ---
-<img src="/images/mr%20lek%20chun%20guan.jpeg" 
+<img src="/images/mr%20lek%20chun%20guan.jpg" 
      style="width:25%">
 <center> <b>Mr Lek Chun Guan  <br> </b>
 	Vice-Principal (Administration) <center>
@@ -27,4 +27,3 @@ Administration Manager<center>
 <center> <b>Mr Low Yoong Chee Frankie <br> </b>
 Administration Manager<center>
 	
-<img src= "/images/executive%20and%20administrative%20staff%202.jpeg">
