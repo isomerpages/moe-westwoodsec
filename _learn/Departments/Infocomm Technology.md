@@ -78,11 +78,11 @@ Every student is a discerning and responsible ICT user
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"> 2021</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">MEC Competition 2021 (Animation Category)</span><br><span style="color:#222;background-color:#FFF">Bronze Award</span><br><span style="color:#222;background-color:#FFF">Ian Ang Kim Yi (Class 2A)</span><br><br><span style="color:#222;background-color:#FFF">MEC Competition 2021 (Game Category)</span><br><span style="color:#222;background-color:#FFF">Certificate of Participation</span><br><span style="color:#222;background-color:#FFF">Izzatul Hafiz Bin Hanafia (Class 3A) </span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">AGM Competition 2021 (Animation Category)</span><br><span style="color:#222;background-color:#FFF">Bronze Award</span><br><span style="color:#222;background-color:#FFF">Ian Ang Kim Yi (Class 2A)</span><br><br><span style="color:#222;background-color:#FFF">AGM Competition 2021 (Game Category)</span><br><span style="color:#222;background-color:#FFF">Certificate of Participation</span><br><span style="color:#222;background-color:#FFF">Izzatul Hafiz Bin Hanafia (Class 3A) </span></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2020</span></td>
-    <td class="tg-61iw"><span style="color:#000">MEC Competition 2019 (Animation category)</span><br><span style="color:#000">Bronze award  </span><br><span style="color:#000">Shimashree Dewi d/o Sinnasamy (Class 2A)</span><br><br><span style="color:#000">MEC Competition 2020 (Game category)</span><br><span style="color:#000">Silver award</span><br><span style="color:#000">Muhammad Adriyan Bin Zainal Izzuddin (Class 3A)</span></td>
+    <td class="tg-61iw"><span style="color:#000">AGM Competition 2019 (Animation category)</span><br><span style="color:#000">Bronze award  </span><br><span style="color:#000">Shimashree Dewi d/o Sinnasamy (Class 2A)</span><br><br><span style="color:#000">AGM Competition 2020 (Game category)</span><br><span style="color:#000">Silver award</span><br><span style="color:#000">Muhammad Adriyan Bin Zainal Izzuddin (Class 3A)</span></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2019</span></td>
