@@ -89,8 +89,12 @@ Competent, Dynamic, and Committed in Nurturing Life-Long Passion for the Languag
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-zqva">2022</td>
+    <td class="tg-cmm0">Text Recital Competition for primary and secondary schools (CL) - Silver<br><br>W3 Mother Tongue Languages Fiesta<br><br>Chinese Creative Essay Writing Competition: 3rd<br>Chinese Language & Cultural Quiz (group): 1st<br>Malay Language & Cultural Quiz (group): 2nd<br><br>13th Good talk international children and youth bilingual speech conference - Silver<br><br>20th National creative writing competition: 3rd</td>
+  </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"> 2</span>021</td>
+    <td class="tg-zqva">2021</td>
     <td class="tg-cmm0">12th Global Youth Bilingual Language Conference (CL) Bronze<br><br>Text Recital Competition for primary and secondary schools (CL) Bronze<br><br>W3 Mother Tongue Languages Fiesta<br><br>Chinese Creative Essay Writing Competition: 1st place<br>Chinese Language &amp; Cultural Quiz (Group): 1st place<br>Malay Creative Essay Writing Competition: 2nd place<br>Malay Language &amp; Cultural Quiz (Group): 1st place</td>
   </tr>
   <tr>
