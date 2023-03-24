@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Co Curricular Activities.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
