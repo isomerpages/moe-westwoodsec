@@ -79,16 +79,7 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
     <td class="tg-mwz3"><span style="color:#565656">Term 3</span></td>
     <td class="tg-mwz3"><span style="color:#565656">The History Challenge allows Secondary 3 students to demonstrate their knowledge of the subject and conceptual understanding.</span></td>
   </tr>
-  <tr>
-    <td class="tg-61iw"><span style="color:#565656">Prove-It Contest </span></td>
-    <td class="tg-61iw"><span style="color:#565656">Term 3 </span></td>
-    <td class="tg-61iw"><span style="color:#565656">Secondary Two students have the opportunity to engage in critical thinking to discern online falsehood and misinformation. They will also learn research skills through the engagement of sources provided by National Library Board.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Learning Journey to National Museum of Singapore</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Term 3</span><br></td>
-    <td class="tg-mwz3"><span style="color:#565656">Secondary One History students will engage in a Historical Investigation of colonial Singapore.</span></td>
-  </tr>
+
   <tr>
     <td colspan="3" class="tg-olsu"><span style="font-weight:700;color:#3AA66F"> SOCIAL STUDIES</span></td>
   </tr>
