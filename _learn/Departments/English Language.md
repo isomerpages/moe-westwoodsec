@@ -36,20 +36,12 @@ To develop confident and effective communicators, critical readers who read exte
     <td class="tg-mwz3"><span style="color:#565656">To encourage good reading habits by engaging students to read widely.</span><br></td>
   </tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Public Speaking </span><br><span style="color:#565656">(for Secondary Three students)</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Term 4</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Public Speaking / Prepared Speech </span><br><span style="color:#565656">(for Secondary Three students)</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Terms 2 and 3</span></td>
     <td class="tg-mwz3"><span style="color:#565656">To develop students’ confidence in speaking in formal settings, emphasizing on the importance of punctuation, articulation and pacing and developing personal response.</span></td>
   </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Interview Skills</span><br><span style="color:#565656">(for Secondary Four students)</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Term 1</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">To develop students’ confidence in speaking in formal settings, emphasizing on developing personal response.</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Singapore Secondary Schools Debating Championship</span><br><span style="color:#565656">(for selected Secondary Three to Four students)</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Terms 1 and 2</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">To develop students’ confidence in the language; their critical thinking and creativity and their analytical ability in developing and sustaining new perspectives in an argument.</span></td>
-  </tr>
+  
+  
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">W3/ West Zone Literature Symposium</span><br><span style="color:#565656">(for Secondary Three students)</span>    </td>
     <td class="tg-mwz3"><span style="color:#565656">Term 3</span></td>
@@ -57,7 +49,7 @@ To develop confident and effective communicators, critical readers who read exte
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Exposure to Play</span><br><span style="color:#565656">(for Secondary Three and Four students taking Pure Literature)</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Term 3</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Term 2</span></td>
     <td class="tg-mwz3"><span style="color:#565656">To provide the opportunity for students to watch a play come to live.</span></td>
   </tr>
 </tbody>
