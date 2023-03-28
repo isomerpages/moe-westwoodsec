@@ -108,6 +108,14 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2022</span></td>
+    <td class="tg-tsok">Bronze Award for Historical Scenes Investigation</td>
+  </tr>
+	<tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2021</span></td>
+    <td class="tg-tsok">Bronze Award for NUS Geography Challenge</td>
+  </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2020</span></td>
     <td class="tg-tsok">Bronze Award for Historical Scenes Investigation<br>Silver and Bronze Awards for NUS Geography Challenge</td>
