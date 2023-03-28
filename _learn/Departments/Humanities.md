@@ -37,29 +37,20 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656"> NUS Geography Challenge (NUS GC)</span></td>
-    <td class="tg-mwz3"><span style="color:#565656"> Term 1/2</span></td>
+    <td class="tg-mwz3"><span style="color:#565656"> Term 1</span></td>
     <td class="tg-mwz3"><span style="color:#565656"> Selected Secondary Four students will be given the opportunity to compete with their peers in the NUS Geography Challenge under the guidance of teachers.</span></td>
   </tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Geographical Investigation on tourism in Singapore</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Geographical Investigation on the Tropical Rainforest</span></td>
     <td class="tg-mwz3"><span style="color:#565656"> Term 2</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Secondary Four and Five Geography students will be brought to a tourist destination in Singapore. There students will investigate on factors that make the destination attractive to tourists through observation and conducting interviews and/or bipolar surveys.  </span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Secondary One Geography students will be engaged in a Geographical Investigation to learn more about the tropical rainforest at Singapore Botanical Gardens. They will then collaborate with one another to apply their knowledge on the usefulness of the tropical rainforest to both the environment and human.</span></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Geographical Investigation on public  housing in Singapore </span></td>
-    <td class="tg-mwz3"><span style="color:#565656"> Term 2</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Secondary Two Geography students work together in groups to find out about what makes a neighbourhood special to residents and why. They will be visiting the Living space gallery to learn about Singapore's Public Housing Story. Students will then create and conduct interviews to understand more about their neighbourhood.</span><br></td>
+    <td class="tg-mwz3"><span style="color:#565656"> Term 3</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Secondary Two Geography students will collaborate in groups to research about sustainable efforts done in cities around the world and re-imagine a Singapore of the future that is even more sustainable and livable. </span><br></td>
   </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Geographical Investigation on the Tropical Rainforest </span></td>
-    <td class="tg-mwz3"><span style="color:#565656"> Term 2</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Secondary One Geography students will be engaged in a Geographical Investigation to learn more about the tropical rainforest at Singapore Botanical Gardens. </span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656"> Geographical Investigation on factors affecting temperature in the school</span></td>
-    <td class="tg-mwz3"><span style="color:#565656"> Term 2</span></td>
-    <td class="tg-njgx"><span style="color:#565656">Secondary Three Geography students will investigate why temperature varies at different locations in the school. This will allow students the opportunity to apply what was learnt in the classroom to real world context. </span></td>
-  </tr>
+ 
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Geographical Investigation on beach profiling and coastal management strategies</span></td>
     <td class="tg-mwz3"><span style="color:#565656"> Term 4</span></td>
@@ -68,15 +59,25 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
   <tr>
     <td colspan="3" class="tg-olsu"><span style="font-weight:700;color:#3AA66F"> HISTORY </span></td>
   </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Historical Investigation on life during the Japanese Occupation </span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Term 1</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Secondary Two History students will work together in groups to gather and analyse sources to investigate how life was like during the Japanese Occupation.</span></td>
+	<tr>
+    <td class="tg-mwz3"><span style="color:#565656">Learning Journey to National Museum of Singapore </span></td>
+    <td class="tg-mwz3"><span style="color:#565656"> Term 2</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Secondary Two History students will engage in a National Education Cohort Learning Journey and be able to appreciate the artefacts which they study about in the History classroom.</span></td>
+  </tr>
+	<tr>
+    <td class="tg-mwz3"><span style="color:#565656">Prove-It-Contest</span></td>
+    <td class="tg-mwz3"><span style="color:#565656"> Term 2/3</span></td>
+    <td class="tg-njgx"><span style="color:#565656">Secondary Two students have the opportunity to engage in critical thinking to discern online falsehood and misinformation. They will also learn research skills through the engagement of sources provided by National Library Board.</span></td>
   </tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Istana Heritage Gallery Competition</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Term 1</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Secondary One students have the opportunity to learn about the cultural heritage of the Istana. They will engage in various activities at the Istana Heritage Gallery to learn more about its significance to Singapore’s history.</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Historical Scene Investigation (H.S.I) Challenge</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Term 3</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">The Historical Scene Investigation (H.S.I) Challenge gives Secondary Two students the opportunity to conduct a historical inquiry on an assigned topic and to put their research skills to the test.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mwz3"><span style="color:#565656">History Challenge</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Term 3</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">The History Challenge allows Secondary 3 students to demonstrate their knowledge of the subject and conceptual understanding.</span></td>
   </tr>
   <tr>
     <td class="tg-61iw"><span style="color:#565656">Prove-It Contest </span></td>
