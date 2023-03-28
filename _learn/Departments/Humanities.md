@@ -80,7 +80,7 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
     <td colspan="3" class="tg-olsu"><span style="font-weight:700;color:#3AA66F"> SOCIAL STUDIES</span></td>
   </tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Social Studies Issues Investigation in school</span><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">Social Studies Issues Investigation on diversity in Singapore</span><br></td>
     <td class="tg-mwz3"><span style="color:#565656">Term 2 </span></td>
     <td class="tg-61iw"><span style="color:#565656">Secondary Three Social Studies students will be investigating social issues arising from having increased diversity in Singapore.</span></td>
   </tr>
