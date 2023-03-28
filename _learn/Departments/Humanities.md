@@ -42,7 +42,7 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Geographical Investigation on the Tropical Rainforest</span></td>
-    <td class="tg-mwz3"><span style="color:#565656"> Term 2</span></td>
+    <td class="tg-mwz3"><span style="color:#565656"> Term 3</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Secondary One Geography students will be engaged in a Geographical Investigation to learn more about the tropical rainforest at Singapore Botanical Gardens. They will then collaborate with one another to apply their knowledge on the usefulness of the tropical rainforest to both the environment and human.</span></td>
   </tr>
   <tr>
@@ -51,11 +51,7 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
     <td class="tg-mwz3"><span style="color:#565656">Secondary Two Geography students will collaborate in groups to research about sustainable efforts done in cities around the world and re-imagine a Singapore of the future that is even more sustainable and livable. </span><br></td>
   </tr>
  
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Geographical Investigation on beach profiling and coastal management strategies</span></td>
-    <td class="tg-mwz3"><span style="color:#565656"> Term 4</span></td>
-    <td class="tg-mwz3"><span style="color:#565656"> Secondary Three Pure Geography students will visit the beach to learn how to do beach profiling and about beach management techniques. </span></td>
-  </tr>
+  
   <tr>
     <td colspan="3" class="tg-olsu"><span style="font-weight:700;color:#3AA66F"> HISTORY </span></td>
   </tr>
