@@ -164,22 +164,5 @@ third_nav_title: Uniformed Groups
   </tr>
 </tbody>
 </table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-</thead>
-<tbody>
-
-### OTHER BADGES/AWARDS
-NYAA Bronze & NYAA Silver, Kayaking 1 Star, Total Defence, and First Aid</table>
-
+<br>
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4YGtOxODPv3DPT1u6h2U5soSSNQUVl0BtO1TkkPyQbirO8jP1AZTdNMPkTBqIOsmSt3R7EP2lRI8y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
