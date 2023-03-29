@@ -37,11 +37,6 @@ Every student is a discerning and responsible ICT user
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">IT Programme</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Whole Year</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Aims to improve baseline ICT skills and basic coding skills to Secondary One students.</span></td>
-  </tr>
-  <tr>
     <td class="tg-mwz3"><span style="color:#565656">CPA Course Projects</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Term 3</span></td>
     <td class="tg-mwz3"><span style="color:#565656">At Secondary One, students will use a variety of software such as Inkscape, MS Word and MS PowerPoint to organize, analyse and communicate information effectively and responsibly.</span><br><br><span style="color:#565656">At Secondary Two, the students will be creating an animated story using the software SCRATCH. The best students’ work will be selected for submission to the National Media Computing Competition.</span><br><br><span style="color:#565656">At Secondary Three, the students will be designing and developing an animated game using the software SCRATCH. The best students’ work will be selected for submission to the Media Computing Competition organized by MOE Curriculum Planning and Development Division.</span></td>
