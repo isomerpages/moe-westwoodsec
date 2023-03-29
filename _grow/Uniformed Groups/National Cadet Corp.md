@@ -4,7 +4,6 @@ permalink: /cca/uniformed-groups/national-cadet-corp/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ### OBJECTIVES
 
 The National Cadet Corps (NCC) is a premier uniformed youth organisation supported by the Ministry of Education (MOE) of Singapore. The primary mission of the organisation is to “develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military-related activities.” The NCC has also remained as one of the largest Uniformed Groups (UG) in Singapore. Mission: To Nurture Inspiring Leaders and Committed Citizens through fun, adventurous and military-related activities. Vision: Extraordinary Youth Leaders Motto: To serve with pride and dedication
