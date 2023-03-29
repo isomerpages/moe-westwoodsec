@@ -4,7 +4,6 @@ permalink: /cca/sports/badminton/
 description: ""
 third_nav_title: Sports
 ---
-
 ### OBJECTIVES
 
 *   To promote enjoyment and appreciation of the physical and mental aspects of badminton while building up a sense of team spirit.
@@ -95,6 +94,37 @@ third_nav_title: Sports
     <td class="tg-mwz3"><span style="color:#565656">CCA Camp </span></td>
     <td class="tg-mwz3"><span style="color:#565656">November</span></td>
     <td class="tg-mwz3"><span style="color:#565656">This camp aims to develop the leadership skills of our Upper Secondary members in planning and executing the activities for a camp and it helps to improve team bonding as well. </span></td>
+  </tr>
+</tbody>
+</table>
+
+### CCA ACHIEVEMENTS
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
+.tg .tg-njgx{background-color:#FFF;color:#565656;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">YEAR</span></th>
+    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">AWARD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mwz3"><span style="color:#565656">2023</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">B Division Boys Top 8 in West Zone National Badminton Tournament</span></td>
+  </tr>
+  <tr>
+    <td class="tg-mwz3"><span style="color:#565656">2022</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">B Division Girls Top 8 in West Zone National Badminton Tournament</span></td>
   </tr>
 </tbody>
 </table>
