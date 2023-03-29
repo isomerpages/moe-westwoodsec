@@ -156,6 +156,9 @@ third_nav_title: Uniformed Groups
     <td class="tg-mwz3"><span style="color:#565656">Boys’ Brigade Share-A-Gift (BBSG)</span></td>
     <td class="tg-mwz3"><span style="color:#565656">December</span></td>
     <td class="tg-njgx"><span style="background-color:initial">This nationwide VIA initiative aims to bring cheer to the less fortunate in Singapore during the festive season of Christmas, to inculcate the spirit of community service among members of The Boys’ Brigade and to promote the spirit of caring and sharing among Singaporeans. Boys from different companies work together to collect food items and fulfilling Christmas wishes of the beneficiaries.</span></td></tr></tbody></table>
+		
+### Other Badges/Awards
 
+NYAA Bronze & NYAA Silver, Kayaking 1 Star, Total Defence, and First Aid
 
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4YGtOxODPv3DPT1u6h2U5soSSNQUVl0BtO1TkkPyQbirO8jP1AZTdNMPkTBqIOsmSt3R7EP2lRI8y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
