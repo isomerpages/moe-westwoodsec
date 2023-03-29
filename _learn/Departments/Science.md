@@ -142,20 +142,12 @@ The abilities, skills and attitude that we aim to develop are as follows.&nbsp;
     <td class="tg-mwz3"><span style="color:#565656">Use of arrows to represent forces. The resultant force appears when the forces are placed correctly.</span></td>
   </tr>
   <tr>
-    <td class="tg-av5t"><a href="http://funbasedlearning.com/chemistry/default.htm"><span style="text-decoration:none;color:#3AA66F">Chembalancer (Balancing Equation)</span></a></td>
-    <td class="tg-mwz3"><span style="color:#565656">An online interactive game to allow students to balance chemical equations visually</span></td>
+    <td class="tg-av5t"><a href="https://phet.colorado.edu/en/simulations/filter?type=html"><span style="text-decoration:none;color:#3AA66F">pHet Interative Simulations</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">Interactive Math and Science simulations that engages through an intuitive, game-like environment where students learn through exploration and discovery</span></td>
   </tr>
   <tr>
-    <td class="tg-av5t"><a href="http://www.quia.com/cb/36842.html"><span style="text-decoration:none;color:#3AA66F">Atomic Structure Jeopardy</span></a></td>
-    <td class="tg-mwz3"><span style="color:#565656">An online interactive platform to test the students' understanding of atomic structure through questions posed.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-av5t"><a href="http://www.quia.com/rr/31119.html"><span style="text-decoration:none;color:#3AA66F">Rags to Riches (Element, Compound and Mixture)</span></a></td>
-    <td class="tg-mwz3"><span style="color:#565656">An online interactive platform to test the students' understanding of element, compound, and mixture through questions posed.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-av5t"><a href="http://www.visionlearning.com/library/module_viewer.php?mid=55&mcid=&l="><span style="text-decoration:none;color:#3AA66F">Vision Learning-Chemical Bonding</span></a></td>
-    <td class="tg-mwz3"><span style="color:#565656">Online tutorial for different Sciences, Interactive practice exercises and links are available.</span></td>
+    <td class="tg-av5t"><a href="http://www.visionlearning.com/library/module_viewer.php?mid=55&mcid=&l= "><span style="text-decoration:none;color:#3AA66F">Vision Learning- Chemical Bonding </span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">Online tutorial for different Sciences. Interactive practice exercises and links are available. </span></td>
   </tr>
 </tbody>
 </table>
