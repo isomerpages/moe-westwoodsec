@@ -37,9 +37,13 @@ third_nav_title: Uniformed Groups
 </thead>
 	<tbody>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Wednesday</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">3:15pm to 5:30pm</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">GB Room / Quadrangle / Classroom</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Saturday</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">8:00am to 12:30pm</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">BB Room / Quadrangle / Classroom</span></td>
+  </tr><tr>
+    <td class="tg-mwz3"><span style="color:#565656">Friday (last Friday of the month)</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">2:00pm to 5:30pm</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">BB Room / Quadrangle / Classroom</span></td>
   </tr></tbody></table>
 		
 
