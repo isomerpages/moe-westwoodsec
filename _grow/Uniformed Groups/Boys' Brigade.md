@@ -150,7 +150,7 @@ third_nav_title: Uniformed Groups
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Orienteering/Expedition </span></td>
     <td class="tg-mwz3"><span style="color:#565656">August</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">TOur Orienteering/Expedition activity allows Boys to apply skills such as map reading, teamwork, navigation and outdoor cooking, through an extended land expedition.</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Our Orienteering/Expedition activity allows Boys to apply skills such as map reading, teamwork, navigation and outdoor cooking, through an extended land expedition.</span></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Boys’ Brigade Share-A-Gift (BBSG)</span></td>
