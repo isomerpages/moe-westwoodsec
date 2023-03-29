@@ -106,8 +106,8 @@ third_nav_title: Uniformed Groups
     <td class="tg-zqva"> 2014 </td>
     <td class="tg-cmm0">BB FOUNDER’S MAN AWARD (Highest honor for BB Boy) – CHEN KIAN LEONG and OWEN GAN </td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
+
 
 ### OTHER BADGES/AWARDS
 
