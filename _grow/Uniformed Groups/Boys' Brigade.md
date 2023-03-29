@@ -18,7 +18,6 @@ third_nav_title: Uniformed Groups
 *   Mr Peh Teow Peng
 
 ### TRAINING DAYS
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -27,7 +26,8 @@ third_nav_title: Uniformed Groups
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
-</style><table class="tg">
+</style>
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DAY</span></th>
@@ -35,19 +35,13 @@ third_nav_title: Uniformed Groups
     <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">VENUE</span></th>
   </tr>
 </thead>
-<tbody>
+	<tbody>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Saturday/span></td>
-    <td class="tg-mwz3"><span style="color:#565656">8:00am - 12:30pm</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">BB Room / Quadrangle / Classroom</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Friday (last Friday of each month)</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">2:00pm - 5:30pm</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">BB Room / Quadrangle / Classroom</span></td>
-  </tr>
-</tbody>
-</table>
+    <td class="tg-mwz3"><span style="color:#565656">Wednesday</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">3:15pm to 5:30pm</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">GB Room / Quadrangle / Classroom</span></td>
+  </tr></tbody></table>
+		
 
 ### CCA Achievements
 
@@ -161,5 +155,3 @@ third_nav_title: Uniformed Groups
 
 
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4YGtOxODPv3DPT1u6h2U5soSSNQUVl0BtO1TkkPyQbirO8jP1AZTdNMPkTBqIOsmSt3R7EP2lRI8y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-			
-			
