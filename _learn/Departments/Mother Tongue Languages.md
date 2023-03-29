@@ -38,17 +38,17 @@ Competent, Dynamic, and Committed in Nurturing Life-Long Passion for the Languag
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Essay Writing Publication</span></td>
     <td class="tg-mwz3"><span style="color:#565656"> Term 1 to 3 </span></td>
-    <td class="tg-njgx"><span style="background-color:initial">Intra-school essay writing publication that promotes literary excellence, ethics, encouragement, creativity and awareness of current affairs.</span><br><br><span style="background-color:initial">E-Publication of good works across different levels aim to acknowledge and showcase students’ writing talents.</span><br><br>Click <a href="https://read.bookcreator.com/hZRhBliVO3M75UYpHyzXzEhqzks2/dJQOksxdRKGiYpy3U0ifSA"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Chinese Language Version《晨风作品集》 (2020).   <br><br> Click <a href="https://read.bookcreator.com/hZRhBliVO3M75UYpHyzXzEhqzks2/nf2A273BS0Wsq-QP19IjDg"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Malay Language Version《Menyingkap Tabir Ilham》 (2020).</td>
+    <td class="tg-njgx"><span style="background-color:initial">Intra-school essay writing publication that promotes literary excellence, ethics, encouragement, creativity and awareness of current affairs.</span><br><br><span style="background-color:initial">E-Publication of good works across different levels aim to acknowledge and showcase students’ writing talents.</span><br><br>Click <a href="https://read.bookcreator.com/hZRhBliVO3M75UYpHyzXzEhqzks2/dJQOksxdRKGiYpy3U0ifSA"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Chinese Language Version《晨风作品集》 (2020).<br><br>Click<a href="https://www.canva.com/design/DAFQSeqkpZ0/CRd_5hKnAbRb-NiwHWesfQ/view#3"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Chinese Language Version《晨风作品集》 (2022).<br><br>Click <a href="https://www.canva.com/design/DAFTZEq0wtQ/S0hv1vT-v8Bn94jVWDn9wQ/view#4"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Chinese Language Version《晨风作品集》 (2022).<br><br>Click <a href="https://read.bookcreator.com/hZRhBliVO3M75UYpHyzXzEhqzks2/nf2A273BS0Wsq-QP19IjDg"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Malay Language Version《Menyingkap Tabir Ilham》 (2020).<br><br>Click <a href="https://read.bookcreator.com/SRaWqmvEgrbQn7RrYIGcg3RqFm72/WegQBFaHSk6qInkMWdiIhA"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Malay Language Version《Menyingkap Tabir Ilham》 (2021).<br><br>Click <a href="https://bit.ly/3kA6UPA"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Malay Language Version《Menyingkap Tabir Ilham》 (2022).</td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Mother Tongue Fortnight Programme</span></td>
     <td class="tg-mwz3"><span style="color:#565656"> Term 1 to 2</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">The objective of MTL Fortnight is to ignite students’ interest and appreciation for the Mother Tongue Languages and culture. It provides an enhanced and immersive learning experience for students through various cultural workshops and engaging language activities within and outside of the classroom.</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">The objective of MTL Fortnight is to ignite students’ interest and appreciation for the Mother Tongue Languages and culture. It provides an enhanced and immersive learning experience for students through various cultural workshops and engaging language activities within and beyond the classroom. </span></td>
   </tr>
   <tr>
     <td class="tg-njgx"><span style="color:#565656">Mother Tongue Languages Intensive Programme</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Term 2</span><br><span style="color:#565656">Week 9 to 10</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Targeted for Secondary Express/ 5 Normal Academic and 4 Normal Academic (‘O’ Level students), this programme aims to prepare graduating students for the O Levels paper in late May/ early June.</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Targeted for Secondary Express/ 5 Normal Academic and 4 Normal Academic (‘O’ Level students), this programme aims to prepare graduating students for the O Levels paper in late May/ early June through intensive revision and practices.</span></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Chinese Calligraphy</span></td>
@@ -145,7 +145,7 @@ Competent, Dynamic, and Committed in Nurturing Life-Long Passion for the Languag
 </thead>
 <tbody>
   <tr>
-    <td class="tg-av5t"><a href="http://www.dbp.gov.my/"><span style="text-decoration:none;color:#3AA66F">Dewan Bahasa dan Pastaka</span></a></td>
+    <td class="tg-av5t"><a href="http://prpm.dbp.gov.my"><span style="text-decoration:none;color:#3AA66F">Dewan Bahasa dan Pastaka</span></a></td>
     <td class="tg-mwz3"><span style="color:#565656">The central resource for information on Malay Language </span></td>
   </tr>
   <tr>
@@ -159,6 +159,10 @@ Competent, Dynamic, and Committed in Nurturing Life-Long Passion for the Languag
   <tr>
     <td class="tg-av5t"><a href="http://www.zbschools.sg/"><span style="text-decoration:none;color:#3AA66F">SPH ZB Comma</span></a></td>
     <td class="tg-mwz3"><span style="color:#565656">E-newspaper for Chinese Language</span><br><span style="color:#565656">Clips for listening and oral practices </span></td>
+  </tr>
+	<tr>
+    <td class="tg-av5t"><a href="https://www.cpcll.sg/"><span style="text-decoration:none;color:#3AA66F">Committee to promote Chinese Language Learning</span></a></td>
+    <td class="tg-mwz3"><span style="color:#565656">Interesting activities for Chinese students</span><br><span style="color:#565656"></span></td>
   </tr>
 </tbody>
 </table>
