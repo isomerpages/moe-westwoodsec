@@ -56,7 +56,7 @@ third_nav_title: Departments
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">D&amp;T Design Awards  - Upper Secondary</span><br></td>
     <td class="tg-mwz3"><span style="color:#565656">January to October</span><br></td>
-    <td class="tg-njgx"><span style="background-color:initial">The D&amp;T Design Awards is organized by MOE in conjunction with NIE, DTES and supported by Science Centre Singapore.  The Annual Design Awards aims to encourage D&amp;T pupils to engage in thoughtful design thinking process so as to derive meaningful design solutions.</span><br><br><span style="background-color:initial">The upper secondary students will have a chance to participate in this competition by submitting their design derived from the design coursework facilitated by their teachers.</span></td>
+    <td class="tg-njgx"><span style="background-color:initial">The D&amp;T Design Awards is organized by MOE in conjunction with NIE, DTES and supported by Science Centre Singapore.  The Annual Design Awards aims to encourage D&amp;T pupils to engage in thoughtful design thinking process so as to derive at meaningful design solutions.</span><br><br><span style="background-color:initial">The upper secondary students will have a chance to participate in this competition by submitting their design derived from the design coursework facilitated by their teachers.</span></td>
   </tr>
 </tbody>
 </table>
@@ -86,7 +86,7 @@ third_nav_title: Departments
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Food Culture in Singapore Show and Tell Project (Secondary 1)</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Semester 1</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">To provide students with opportunities to conduct research using various sources of information on different ethnic groups and their food culture in Singapore and display their findings through creative forms of presentation such as scrapbooking. Through this project, students get to treasure our heritage and take pride in shaping our own unique way of life in Singapore. Based on their research conducted, students will create and prepare a fusion dish for practical exam in Term 2.</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">To provide students with opportunities to conduct research using various sources of information on different ethnic groups and their food culture in Singapore and display their findings through show and tell. Through this project, students get to treasure our heritage and take pride in shaping our own unique way of life in Singapore. Based on their research conducted, students will create and prepare a fusion dish for practical exam in Term 2. Students also get to build self-confidence and presentation skills for show and tell.</span></td>
   </tr>
   <tr>
     <td class="tg-61iw"><span style="color:#565656">Food Innovation Project (Secondary 2)</span><br></td>
@@ -158,19 +158,15 @@ third_nav_title: Departments
 <tbody>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2019</span></td>
-    <td class="tg-tsok">YISS Junior Chef Competition – 2nd Runner up <br>Caloric Hunt Competition – 1st &amp; Most Amazing Team <br>W3 Cluster Culinary Competition – Most Tasty<br>Award Design &amp; Technology Awards 2018 - Certificate of Participations<br></td>
+    <td class="tg-tsok">Design & Technology Awards 2019 - Certificate of Commendations<br><br>
+Keat Hong Sandwich Making Competition 2019 - Participation<br><br>W3 Cluster Culinary Competition 2019 - 1st Runner Up & Certificates of Participation <br></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"> 2018</span></td>
-    <td class="tg-tsok">YISS Junior Chef Competition – 2nd Runner up <br><br>Caloric Hunt Competition – 1st &amp; Most Amazing Team <br><br>W3 Cluster Culinary Competition – Most Tasty Award </td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2017</span></td>
-    <td class="tg-tsok">chef 2017 by Republic Polytechnic - Consolation winners Caloric Hunt <br>Challenge 2017 by Ngee Ann Polytechnic - 2nd runner up Cluster West <br>3 Culinary Competition - 2nd runner up <br></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2016</span></td>
-    <td class="tg-tsok">National Pushcart Challenge - Finalist, Best Sales Pitch and National Bronze Award <br>Financial Literacy cum Cooking with Love Competition 2016 by Citi NIE Financial Literacy and Hougang Mall - 2nd runner up <br>Decorate to appreciate 2016 (Annual Baking Competition by Assumption Pathway School) - Consolation</td>
+	<tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2018</span></td>
+    <td class="tg-tsok">YISS Junior Chef Competition – 2nd Runner up<br><br>
+Caloric Hunt Competition – 1st & Most Amazing Team<br><br>
+W3 Cluster Culinary Competition – Most Tasty Award<br><br>
+Design & Technology Awards 2018 - Certificate of Participations<br><br></td>
   </tr>
 </tbody>
 </table>
@@ -216,7 +212,7 @@ third_nav_title: Departments
     <td class="tg-mwz3"><span style="color:#565656">This website shows innovative products as well as a forum for discussion into possible design opportunities and creative ideas. </span></td>
   </tr>
   <tr>
-    <td class="tg-av5t"><a href="https://sketchup.google.com/intl/en/training/videos/new_to_gsu.html"><span style="text-decoration:none;color:#3AA66F">Sketchup Tutorials</span></a></td>
+    <td class="tg-av5t"><a href="https://www.sketchup.com/learn/videos/826"><span style="text-decoration:none;color:#3AA66F">Sketchup Tutorials</span></a></td>
     <td class="tg-mwz3"><span style="color:#565656">This website contains tutorials that teaches the basic tools used in  Sketchup.</span></td>
   </tr>
 </tbody>
@@ -256,7 +252,7 @@ third_nav_title: Departments
     <td class="tg-mwz3"><span style="color:#565656">To calculate the amount of energy and nutrient a dish contains.</span></td>
   </tr>
   <tr>
-    <td class="tg-av5t"><a href="https://www.hpb.gov.sg/HOPPortal/"><span style="text-decoration:none;color:#3AA66F">Health Promotion Board</span></a></td>
+    <td class="tg-av5t"><a href="https://www.hpb.gov.sg/about/about-us"><span style="text-decoration:none;color:#3AA66F">Health Promotion Board</span></a></td>
     <td class="tg-mwz3"><span style="color:#565656">A platform where students are able to find updated information on nutrition</span></td>
   </tr>
   <tr>
