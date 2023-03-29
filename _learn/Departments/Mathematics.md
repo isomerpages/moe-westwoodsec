@@ -76,19 +76,21 @@ To be exemplary leaders in the teaching and learning of Mathematics so as to add
     <td class="tg-qrq8">National Examination Syllabus </td>
   </tr>
   <tr>
-    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2020syllabus/4048_y20_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Elementary Mathematics (Express)</span></a></td>
+    <td class="tg-av5t"><a href=""><span style="text-decoration:none;color:#3AA66F">Elementary Mathematics (Express)(Revised)</span></a></td>
   </tr>
   <tr>
-    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2020syllabus/4045_y20_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Mathematics Syllabus A (Normal Academic)</span></a></td>
+    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/4052_y23_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Mathematics Syllabus A (Normal Academic)(Revised)</span></a></td>
   </tr>
   <tr>
-    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2020syllabus/4046_y20_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Mathematics Syllabus T (Normal Technical)</span></a><br></td>
+    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/4045_y23_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Mathematics Syllabus T (Normal Technical)(Revised)</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/4049_y21_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Additional Mathematics (Express)</span></a></td>
+    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/4046_y23_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Additional Mathematics (Express)</span></a></td>
   </tr>
   <tr>
-    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/4051_y21_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Additional Mathematics (Normal Academic)</span></a></td>
+    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/4049_y23_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Additional Mathematics (Normal Academic)</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/4051_y23_sy.pdf">
 </tbody>
 </table>
