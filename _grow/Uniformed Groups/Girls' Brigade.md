@@ -12,7 +12,7 @@ third_nav_title: Uniformed Groups
 
 ### TEACHERS IN-CHARGE&nbsp;  
 
-*   Ms Lim Simin   
+*   Ms Lim Simin (TIC)   
     
 *   Ms Belicia Ong Sze Han   
     
@@ -45,7 +45,7 @@ third_nav_title: Uniformed Groups
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Saturday</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">8:30pm - 12:00pm</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">9:00am - 12:00pm</span></td>
     <td class="tg-mwz3"><span style="color:#565656">GB Room / Quadrangle / Classroom</span></td>
   </tr>
 </tbody>
