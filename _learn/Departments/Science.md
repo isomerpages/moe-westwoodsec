@@ -59,7 +59,7 @@ The abilities, skills and attitude that we aim to develop are as follows.&nbsp;
 </span></td>
   </tr>
   <tr>
-    <td class="tg-qrq8"><span style="color:#565656">Nebula+</span><br></td>
+    <td class="tg-qrq8"><span style="color:#565656">Nebula+ (Secondary 3)</span><br></td>
     <td class="tg-njgx"><span style="color:#565656">Term 4 </span></td>
     <td class="tg-mwz3"><span style="color:#565656">This is a cohort-wide programme for our Secondary 3 students that aims to deepen the skills taught in the Nebula programme for our Lower Secondary students. Our aims are for students to appreciate the relevance of STEM-related concepts to the context of sustainability, to analyze data and generate creative solutions to problems relating to sustainability based on evidence, and to apply relevant STEM-related knowledge to make responsible decisions.</span><br></td>
   </tr>
