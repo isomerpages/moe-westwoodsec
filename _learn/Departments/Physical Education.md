@@ -49,35 +49,32 @@ For more information, please refer to the following links:<br>1. [ESS Syllabus I
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Rev-Up</span></td>
-    <td class="tg-mwz3"><span style="color:#565656"> Whole Year</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Rev-Up is part of the Westwood Bytes programme that aims to strengthen bonding among students and teachers leading to greater sense of affiliation to the school. All Westwoodians come together in their Houses and engage actively in a wide variety of team activities such as Tchoukball, Captain’s Ball and Vertical Run.</span></td>
-  </tr>
+  
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Cross Country</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">25 Feb</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">24 Feb</span></td>
     <td class="tg-61iw"><span style="color:#565656">The annual Cross-Country is a mass participation event that develops students’ mental tenacity and perseverance through running.  Students compete in a physical or virtual setting to cultivate the school values and 21st CCE competencies.</span><br></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Level Camps</span><br><br></td>
-    <td class="tg-mwz3"><span style="color:#565656">9 to 11 March</span><br><span style="color:#565656">OBS (TBC)</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">9 to 11 March</span><br><span style="color:#565656"></span></td>
     <td class="tg-mwz3"><span style="color:#565656">The Level Camps focus on the students’ holistic development integrating outdoor education.  Students learn to appreciate the outdoors, develop their self-reliance via experiential learning, and build meaningful relationships with their peers and teachers.</span><br></td>
+		<tr>
+    <td class="tg-mwz3"><span style="color:#565656">MOE-OBS Challenge Programme</span><br><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">6 to 10 February</span><br><span style="color:#565656"></span></td>
+    <td class="tg-mwz3"><span style="color:#565656">The MOE-OBS Challenge (MOC) programme offers a unique opportunity for the Secondary Three Students. During the OBS course, students undergo a shared Outdoor Adventure Learning (OAL) experience and are provided opportunities to learn to work together in new, challenging, and authentic situations with their peers to overcome various challenges.</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Urbanathlon</span><br><br></td>
-    <td class="tg-mwz3"><span style="color:#565656">11 March</span><br><br></td>
-    <td class="tg-mwz3"><span style="color:#565656">Urbanathlon is an event for secondary 3 students to build self-confidence, resilience, and problem solving skills.  This sporting event also encourages peer bonding and support.</span><br></td>
   </tr>
+ 
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Inter/Intra-Class Games</span></td>
     <td class="tg-mwz3"><span style="color:#565656"> Whole Year</span></td>
     <td class="tg-mwz3"><span style="color:#565656">The Inter/Intra-Class Games provide a platform for students to apply their knowledge and skills of games learnt during PE lessons.  Students develop their competence, enthusiasm, and sportsmanship in these games.</span><br></td>
   </tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Inter-House Games</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Whole Year</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">The Inter-House Games create a greater sense of affiliation and loyalty of students and staff to the school.  Students and staff represent their respective Houses in various competitions throughout the academic year.  The Challenge Shield is awarded to the champion house at the end of year to celebrate the achievements.</span><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">Sports Carnival/ Inter-House Games</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">5 May</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">The Sports Carnival/Inter-House Games create a greater sense of affiliation and loyalty of students and staff to the school.  Students and staff represent their respective Houses in various competitions throughout the academic year.  The Challenge Shield is awarded to the champion house at the end of year to celebrate the achievements.</span><br></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">PE Assessments</span></td>
