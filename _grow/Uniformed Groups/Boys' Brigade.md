@@ -27,10 +27,7 @@ third_nav_title: Uniformed Groups
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
-</style>
-
-
-<table class="tg">
+</style><table class="tg">
 <thead>
   <tr>
     <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DAY</span></th>
