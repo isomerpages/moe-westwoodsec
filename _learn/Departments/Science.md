@@ -103,16 +103,11 @@ The abilities, skills and attitude that we aim to develop are as follows.&nbsp;
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2019</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">8th International Biomedical Quiz – Gold winner</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2022</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">C. B. Paul Science Quiz – Merit, Bronze & Silver Award<br>Singapore Junior Chemistry Olympiad – Merit & Bronze Award<br>International Biomedical Quiz<br>Singapore Junior Physics Olympiad – Bronze & Silver Award</span></td>
   </tr>
+
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2019</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Singapore Junior Chemistry Olympiad – Certificate of Award &amp; Merit</span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2019</span></td>
-    <td class="tg-tsok"><span style="color:#222;background-color:#FFF">NYP Science &amp; Technology Challenge – 3rd place winner </span><br><br></td>
   </tr>
 </tbody>
 </table>
