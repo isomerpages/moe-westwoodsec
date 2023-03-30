@@ -4,7 +4,6 @@ permalink: /cca/sports/tchoukball/
 description: ""
 third_nav_title: Sports
 ---
-
 ### OBJECTIVES
 
 *   To promote sporting excellence, character development and sportsmanship in students through tchoukball&nbsp; &nbsp; &nbsp;
@@ -44,12 +43,12 @@ third_nav_title: Sports
 <tbody>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Wednesday</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">3:00pm - 6:00pm</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Sec 1 - 2<br>3:00pm - 5:00pm<br>Sec 3 - 4<br>4:00 - 6:00pm</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Quadrangle/ISH/Basketball Court</span></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Friday</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">1:30pm - 4:30pm</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Sec 1 - 2<br>1:30pm - 3:30pm<br>Sec 3 - 4<br>2:30pm-4:30pm</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Quadrangle/ISH/Basketball Court</span><br></td>
   </tr>
 </tbody>
@@ -75,6 +74,10 @@ third_nav_title: Sports
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-zqva">2022</td>
+    <td class="tg-cmm0">15th Inter-school Tchoukball National Championship ‘C’ Division Girls, Champion<br><br>14th Inter-school Tchoukball National Championship ‘B’ Division Girls (Plate Cup), 1st Runner-Up<br><br>14th Inter-school Tchoukball National Championship ‘B’ Division Girls (Bowl Cup), 3rd Runner-Up</td>
+  </tr>
   <tr>
     <td class="tg-zqva">2019</td>
     <td class="tg-cmm0">14th Inter-school Tchoukball National Championship ‘C’ Division Girls, Champions</td>
