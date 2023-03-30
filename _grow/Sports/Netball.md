@@ -4,7 +4,6 @@ permalink: /cca/sports/netball/
 description: ""
 third_nav_title: Sports
 ---
-
 ### OBJECTIVES
 
 1.  To equip players with Netball skills for tournaments and competitions at the highest level possible.
@@ -44,12 +43,12 @@ third_nav_title: Sports
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Tuesday</span></td>
     <td class="tg-mwz3"><span style="color:#565656">3:00pm - 6:00pm</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">ISH </span></td>
+    <td class="tg-mwz3"><span style="color:#565656">ISH/Quadrangle </span></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Friday</span></td>
     <td class="tg-mwz3"><span style="color:#565656">1:30pm - 4:30pm</span></td>
-    <td class="tg-njgx">ISH </td>
+    <td class="tg-njgx">ISH/Quadrangle </td>
   </tr>
 </tbody>
 </table>
@@ -104,38 +103,33 @@ third_nav_title: Sports
 <tbody>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">SSSC Inter-school Netball Competition (West Zone)</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Feb/Jul</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">January/April</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Main tournament of the year for B and C Division.</span></td>
   </tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Active Umpiring Course Assessment</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">March &amp; June</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Selected Sec 2 and 3 players will have the opportunity to improve understanding of game rules and become qualified umpires.</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Schools Challenge League</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">March - May</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">The team will play in a healthy competition amongst themselves to educate the players on sportsmanship and the importance of teamwork.</span></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Intra Netball Competition</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">March - April</span>    </td>
+    <td class="tg-mwz3"><span style="color:#565656">February - November</span>    </td>
     <td class="tg-mwz3"><span style="color:#565656">The team will play in a healthy competition amongst themselves to educate the players on sportsmanship and the importance of teamwork.</span></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">M1 Netball School Challenge League</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">March - May</span>   </td>
+    <td class="tg-mwz3"><span style="color:#565656">TBC</span>   </td>
     <td class="tg-mwz3"><span style="color:#565656">Second main tournament of the year for B and C Division.</span></td>
-  </tr>
+	</tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Kaki Bukit CSC Schools Netball Competition</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">June</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Promote sporting excellence through competitions to select main players for the current year.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-njgx"><span style="color:#565656">Student-led Netball Carnival for Secondary Schools (Cluster) </span></td>
-    <td class="tg-mwz3"><span style="color:#565656">June</span>   </td>
-    <td class="tg-njgx"><span style="color:#565656">Opportunity to promote leadership, collaboration skills among players and to provide networking sessions with players from other schools </span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Annual Netball Training Camp</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Nov / Dec</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Annual Netball Training Camp SEP</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">November / December</span></td>
     <td class="tg-mwz3"><span style="color:#565656">To develop the leadership skills of our Upper Secondary members in planning and executing the activities for a camp and also to promote team bonding within the team</span></td>
+  </tr>
+	<tr>
+    <td class="tg-mwz3"><span style="color:#565656">Netball Academy</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">November</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Promote sporting excellence through competitions to prepare main players for next year.</span></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Netops Carnival</span></td>
