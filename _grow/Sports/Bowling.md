@@ -4,7 +4,6 @@ permalink: /cca/sports/bowling/
 description: ""
 third_nav_title: Sports
 ---
-
 ### OBJECTIVES
 
 *   To develop sportsmanship among students.&nbsp;
@@ -73,6 +72,10 @@ third_nav_title: Sports
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"> </span>2022</td>
+    <td class="tg-cmm0">National Schools Ten Pin Bowling Championships 2022<br>B Division Boys Doubles Silver: Chua Jia Wei and<br> Athan Lim Jun Da</td>
+  </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"> </span>2021</td>
     <td class="tg-cmm0">National Schools Ten Pin Bowling Championships 2021<br>B Division Boys All Events Champion: Ryan Toh Hong Rui<br>B Division Boys Singles Champion: Ryan Toh Hong Rui<br></td>
@@ -115,8 +118,8 @@ third_nav_title: Sports
 <tbody>
   <tr>
     <td class="tg-6ewm"><br><span style="background-color:initial">National Schools Tenpin Bowling Championships</span><br>- B Division<br>- C Division</td>
-    <td class="tg-6ewm"><br><span style="color:#565656">March (B Div)</span><br><br><span style="color:#565656"> July (C Div)</span></td>
-    <td class="tg-jx4j"><span style="color:#333">Bowlers who are well-disciplined and have shown superior competency will be selected to represent the school at National level. </span><br><br><span style="color:#333">- Provide a level playing field for bowling enthusiasts in Westwood</span><br><span style="color:#333">-Develop bowling skills of all members through constant practice, training and coaching.</span></td>
+    <td class="tg-6ewm"><br><span style="color:#565656">March<br> (B Div)</span><br><br><span style="color:#565656"> July<br> (C Div)</span></td>
+    <td class="tg-jx4j"><span style="color:#333">Bowlers who are well-disciplined and have shown competence will be selected to represent the school at National level. </span><br><br><span style="color:#333">Provide a level playing field for bowling enthusiasts in Westwood.<br></span><br><span style="color:#333">Develop mental strength and tenacity in our bowlers.</span></td>
   </tr>
 </tbody>
 </table>
