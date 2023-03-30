@@ -4,7 +4,6 @@ permalink: /cca/sports/football/
 description: ""
 third_nav_title: Sports
 ---
-
 ### OBJECTIVES
 
 *   To promote sporting excellence
@@ -75,6 +74,10 @@ third_nav_title: Sports
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-gktn"><span style="color:#222;background-color:#FFF">2022</span></td>
+    <td class="tg-k81l"><span style="color:#222;background-color:#FFF">NSG Football West Zone ‘B’ Division Boys Championships – Top 8<br>NSG Football West Zone ‘C’ Division Boys Championships – Top 8 </td>
+  </tr>
   <tr>
     <td class="tg-gktn"><span style="color:#222;background-color:#FFF">2019</span></td>
     <td class="tg-k81l"><span style="color:#222;background-color:#FFF">National School Games C’ Division Football Championships League 5 - 3</span>rd <span style="color:#222;background-color:#FFF">position</span></td>
@@ -106,7 +109,7 @@ third_nav_title: Sports
 <tbody>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">SSSC National School Games B’ Division Football Championships</span><br></td>
-    <td class="tg-mwz3"><span style="color:#565656">April</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">January</span></td>
     <td class="tg-mwz3"><span style="color:#565656">To promote sporting excellence, character development and sportsmanship in students through competition.</span></td>
   </tr>
   <tr>
