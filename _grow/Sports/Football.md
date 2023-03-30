@@ -76,7 +76,7 @@ third_nav_title: Sports
 <tbody>
 	<tr>
     <td class="tg-gktn"><span style="color:#222;background-color:#FFF">2022</span></td>
-    <td class="tg-k81l"><span style="color:#222;background-color:#FFF">NSG Football West Zone ‘B’ Division Boys Championships – Top 8<br>NSG Football West Zone ‘C’ Division Boys Championships – Top 8 </td>
+    <td class="tg-k81l"><span style="color:#222;background-color:#FFF">NSG Football West Zone ‘B’ Division Boys Championships – Top 8<br>NSG Football West Zone ‘C’ Division Boys Championships – Top 8 </span></td>
   </tr>
   <tr>
     <td class="tg-gktn"><span style="color:#222;background-color:#FFF">2019</span></td>
