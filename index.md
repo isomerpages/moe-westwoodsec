@@ -18,7 +18,7 @@ sections:
           url: https://drive.google.com/file/d/1XR4PuZCAe5G8AmkklNyV8OIRM9p60PpO/view?usp=sharing
         - title: school calendar
           description: ""
-          url: ""
+          url: /general-information/calendar-of-events/
         - title: useful links
           description: ""
           url: /administrative/usefullinks/
