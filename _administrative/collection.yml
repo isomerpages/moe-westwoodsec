@@ -2,7 +2,6 @@ collections:
   administrative:
     output: true
     order:
-      - Useful Links.md
       - Financial Assistance Scheme.md
       - Service Providers.md
       - Contact Us/.keep
