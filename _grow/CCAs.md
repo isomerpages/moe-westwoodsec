@@ -7,7 +7,6 @@ description: ""
 
 Character for life - CCA promotes life skills learning and leadership training
 
-
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="186" valign="top" style="width:139.25pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#33CC33;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
@@ -32,6 +31,8 @@ Character for life - CCA promotes life skills learning and leadership training
   Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1">CLUBS</span></b></p></td><td width="162" valign="top" style="width:121.25pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;background:#33CC33;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:14.0pt;mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1">&nbsp;</span></b></p><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal"><b><span style="font-size:14.0pt;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:white;mso-themecolor:background1">VISUAL &amp; PERFORMING ARTS</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td width="186" valign="top" style="width:139.25pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
