@@ -2,6 +2,7 @@ collections:
   administrative:
     output: true
     order:
+      - For Staff.md
       - For Students.md
       - Financial Assistance Scheme.md
       - Service Providers.md
