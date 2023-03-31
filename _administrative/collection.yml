@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Useful Links.md
-      - For Staff.md
       - For Students.md
       - Financial Assistance Scheme.md
       - Service Providers.md
