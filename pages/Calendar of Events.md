@@ -5,3 +5,7 @@ description: ""
 ---
 [Add calendar to personal device](https://calendar.google.com/calendar/embed?src=c_c27edb745216958e2821c1418e2876293886088bd3c1d86e1b43e5f1e6a0e98e%40group.calendar.google.com&amp;ctz=Asia%2FSingapore)
 
+
+
+
+*All the events are subjected to changes.\*
