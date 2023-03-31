@@ -21,5 +21,5 @@ sections:
           url: ""
         - title: useful links
           description: ""
-          url: Useful Links
+          url: /general-information/useful-links
 ---
