@@ -148,4 +148,5 @@ third_nav_title: Visual & Performing Arts
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8tCueKEcHeU8ctopfrTrVBKwxjQ-29J7mCXO3STmUZut3SEMrQt_sfy4TitvD0ChTQAaua0dzGOBd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS3T_nz-hTJ26LBrtmZZIKzj2gZAFk5izUH-RrdzM2z1-hb5VU2bDuEQu4Xp7JkP8DkjKN2BlwxHX0g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
