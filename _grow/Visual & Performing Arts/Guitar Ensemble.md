@@ -2,9 +2,8 @@
 title: Guitar Ensemble
 permalink: /cca/visual-and-performing-arts/guitar-ensemble/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
-
 ### OBJECTIVES
 
 *   To cultivate a love and passion for performing arts.
@@ -158,4 +157,4 @@ third_nav_title: Visual & Performing Arts
 </table>
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFaUeOV_zA0tZOd7TgpmQWbHqr3QhHWGJ3BCHvy38xUL5OBTUZcLV3LBzqivJOlt3p4AzmSLYT2KHJ/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFaUeOV_zA0tZOd7TgpmQWbHqr3QhHWGJ3BCHvy38xUL5OBTUZcLV3LBzqivJOlt3p4AzmSLYT2KHJ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
