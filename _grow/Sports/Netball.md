@@ -139,4 +139,4 @@ third_nav_title: Sports
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_3zu15m5Zywvp_Q6Bpzu9Ghwg_mjXEox46Xg3xBja-ZNkkEaTF-0jOAGLLyVTyQFOcR8Shxaz0C1c/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2CP4zumkjjjgEJHJxTGQHkiUgwQtWuomsg-pcDkeoj854io9in7MQqGHROIOQsFPsV_dJBZmXoXPe/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
