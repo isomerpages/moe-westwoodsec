@@ -46,12 +46,12 @@ third_nav_title: Visual &amp; Performing Arts
 <tbody>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Wednesday</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">3:00pm - 5:00pm</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">3:00pm - 6:00pm</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Teacher’s Hub</span></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Friday</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">2:30pm - 5:30pm</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">2:00pm - 5:00pm</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Teacher’s Hub</span></td>
   </tr>
 </tbody>
