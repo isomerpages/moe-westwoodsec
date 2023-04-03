@@ -93,4 +93,4 @@ third_nav_title: Clubs
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3R_R7VNqtUIaNSS4MjQAflziHqhV17zXzYIkXcZdnICK_DxNJPPMFlRgm-UNcRN99B_MiVgGtHbXW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROzHz8B7Qq9tRcD4lwOl9cpA8OCn08S-A6gHMepysLy5bukmZSBVGGyfoN5w-6Ez1EW29qZeqz0Eys/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
