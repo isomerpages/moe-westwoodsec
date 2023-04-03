@@ -161,4 +161,4 @@ third_nav_title: Uniformed Groups
 
 NYAA Bronze & NYAA Silver, Kayaking 1 Star, Total Defence, and First Aid
 
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4YGtOxODPv3DPT1u6h2U5soSSNQUVl0BtO1TkkPyQbirO8jP1AZTdNMPkTBqIOsmSt3R7EP2lRI8y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8R1f2vbH086HIIZg6e6HHktqrqs2BEuMZfQc6Gb5C41I8PTIvOZ-tPVgCfJqPQS6v1hODRClySOmK/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
