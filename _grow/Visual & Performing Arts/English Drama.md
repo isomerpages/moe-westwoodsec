@@ -2,9 +2,8 @@
 title: English Drama
 permalink: /cca/visual-and-performing-arts/english-drama/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
-
 ### OBJECTIVES
 
 *   To build confident communicators through drama
@@ -18,9 +17,9 @@ third_nav_title: Visual & Performing Arts
 
 ### TEACHERS IN-CHARGE
 
-*   Ms Yeo Wan Qiu Jennifer (TIC)
+*   Ms Priyanka Chakraborty (TIC) 
 *   Mdm Jaskirath Kaur
-*   Miss Chakraborty Priyanka&nbsp;  
+*   Miss Yeo Wan Qiu Jennifer 
 *   Mdm Maria Loh May Kay
     
 
