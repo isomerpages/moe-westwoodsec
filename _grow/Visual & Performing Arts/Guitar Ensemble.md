@@ -124,9 +124,19 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-mwz3"><span style="color:#565656">The CCA Fair provides a platform for the Guitar Ensemble to showcase our programmes and attract the Sec 1s to join the CCA. At the booths, members will share the various programmes the ensemble takes part in over the years and allow the Sec 1s to try out the guitars under the guidance of the ensemble members. </span></td>
   </tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Chinese New Year Concert </span></td>
-    <td class="tg-mwz3"><span style="color:#565656">February</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">The Guitar Ensemble performs for the school as part of the Chinese New Year Celebrations through a video recording. The students hone their skills and confidence by entertaining the audience with familiar Chinese New Year melodies.   </span><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">Masterclass workshop (to prepare for SYF)</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">March</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">The workshop allows the students to get valuable feedback from other conductors on how to improve on the articulation and dynamics on the set piece for their Singapore Youth Festival (SYF) Competition.</span><br></td>
+  </tr>
+	 <tr>
+    <td class="tg-mwz3"><span style="color:#565656">Exchange with other school Guitar Ensemble</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">March</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Building up to the Singapore Youth Festival (SYF), the Guitar Ensemble will be going on exchange with other schools to share good practices and techniques on how to improve their individual playing. </span><br></td>
+  </tr>
+	<tr>
+    <td class="tg-mwz3"><span style="color:#565656">2023 Singapore Youth Festival</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">April</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">The Singapore Youth Festival (SYF) is an annual event organised by the Ministry of Education to celebrate the achievements of our youths in their co-curricular activities (CCAs). Starting in April and culminating in a month-long celebration in July, the SYF will engage students from schools across Singapore involved in the performing arts, sports, and uniformed group CCAs.</span><br></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Learning Journeys / e-Concerts / workshops for various guitar performances / skills</span><br></td>
@@ -136,22 +146,17 @@ third_nav_title: Visual &amp; Performing Arts
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Annual Bonding &amp; Training Camp</span></td>
     <td class="tg-mwz3"><span style="color:#565656">October / November</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">The annual Bonding Day is held during the Year-End holiday so as:</span><br><br><br>to forge a stronger bond among Sec 1 to Sec 3 students through fun and games.<br>to provide opportunity to the sec 3 CCA leaders to practice their leadership skills by empowering them to plan and run activities themselves. <br>to nurture and identify potential leaders and provide them with the necessary skills for future appointment in guitar.</td>
+    <td class="tg-mwz3"><span style="color:#565656">The annual Bonding Day is held during the Year-End holiday so as:</span><br><br><br>To forge a stronger bond among Sec 1 to Sec 3 students through fun and games.<br><br>To provide opportunity to the sec 3 CCA leaders to practice their leadership skills by empowering them to plan and run activities themselves. <br><br>To nurture and identify potential leaders and provide them with the necessary skills for future appointment in guitar.</td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Guitar Ensemble Leadership Camp (organised by CCAB) </span><br></td>
     <td class="tg-mwz3"><span style="color:#565656">November</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Selected student leaders will attend a nationwide leadership camp for them to:</span><br><br><br>Be trained in Basic Conducting, Classical Guitar Technique, Rehearsal<br>Learn techniques, Score Reading and Body Percussion<br>Know how to conduct student-led ensemble practice sessions</td>
+    <td class="tg-mwz3"><span style="color:#565656">Selected student leaders will attend a nationwide leadership camp for them to:</span><br><br><br>Be trained in Basic Conducting, Classical Guitar Technique, Rehearsal<br><br>Learn techniques, Score Reading and Body Percussion<br><br>Know how to conduct student-led ensemble practice sessions</td>
   </tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Preparation for CCA Fair 2022– Introduction of new songs</span><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">Preparation for CCA Fair 2024– Introduction of new songs</span><br></td>
     <td class="tg-mwz3"><span style="color:#565656">September -  December</span></td>
     <td class="tg-njgx">Preparation for the CCA Fair for the following year. <br></td>
-  </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Preparation for SYF Arts Presentation: Guitar Ensemble</span><br></td>
-    <td class="tg-mwz3"><span style="color:#565656">September - December</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Preparation for SYF Arts Presentation for the following year.</span></td>
   </tr>
 </tbody>
 </table>
