@@ -2,9 +2,8 @@
 title: Concert Band
 permalink: /cca/visual-and-performing-arts/concert-band/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
-
 ### OBJECTIVES
 
 *   To develop an appreciation of good music and interest in music making
@@ -41,12 +40,12 @@ third_nav_title: Visual & Performing Arts
 <tbody>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Wednesday</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">3:00pm - 5:30pm</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">3:00pm - 6:00pm</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Band Room</span></td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Friday</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">1:45pm - 5:30pm</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">1:30pm - 5:30pm</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Band Room</span></td>
   </tr>
 </tbody>
@@ -131,8 +130,8 @@ third_nav_title: Visual & Performing Arts
     <td class="tg-mwz3"><span style="color:#565656">To allow students to learn of different musical interpretations and performance practices from other leaders in the field and to know the interpretation of the music scores better.</span></td>
   </tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Singapore Youth Festival  </span><br><br><br><br><span style="color:#565656">National Band Competition</span><br><br></td>
-    <td class="tg-mwz3"><span style="color:#565656">Alternate years – March - April</span><br><br><br><span style="color:#565656">Alternate years – July</span><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">Singapore Youth Festival  </span><br><br><br><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">Alternate years – March - April</span><br><br><br></td>
     <td class="tg-mwz3"><span style="color:#565656">To provide band members with an opportunity to showcase their musicality and compete with other school bands.</span></td>
   </tr>
   <tr>
@@ -140,13 +139,18 @@ third_nav_title: Visual & Performing Arts
     <td class="tg-mwz3"><span style="color:#565656">Mid year</span><br></td>
     <td class="tg-mwz3"><span style="color:#565656">To provide a platform for band members to enjoy bonding activities with each other, and for a session for the graduating batch of seniors to pass out (Passing-out-parade)</span></td>
   </tr>
+	<tr>
+    <td class="tg-mwz3"><span style="color:#565656">National Day Parade</span></td>
+    <td class="tg-61iw"><span style="color:#565656"><br>August</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">To provide a background music to support the commands made by the Uniform Group students, as well as performing the national anthem.</span><br></td>
+  </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Values In Action</span></td>
-    <td class="tg-61iw"><span style="color:#565656">End of Year</span></td>
+    <td class="tg-61iw"><span style="color:#565656"><br><br>End of Year</span></td>
     <td class="tg-mwz3"><span style="color:#565656">To provide a platform for band members to be socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills.</span><br></td>
   </tr>
 </tbody>
 </table>
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS3T_nz-hTJ26LBrtmZZIKzj2gZAFk5izUH-RrdzM2z1-hb5VU2bDuEQu4Xp7JkP8DkjKN2BlwxHX0g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS3T_nz-hTJ26LBrtmZZIKzj2gZAFk5izUH-RrdzM2z1-hb5VU2bDuEQu4Xp7JkP8DkjKN2BlwxHX0g/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
