@@ -240,4 +240,4 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKEHV1R8X3mvW7M8ejsyYAmdjuy1AK0wYkMiP9utmP_9Jo0YEVtdL1GbYfY-c-Iia3oMrJFvZTsXso/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjEjr8_jATJ66gVemfsh9i__2aDRgTgZhZuGC__oWEpfGc_qM8UkRyprf5XUkvbjZMa6tOYZsqZ0_e/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
