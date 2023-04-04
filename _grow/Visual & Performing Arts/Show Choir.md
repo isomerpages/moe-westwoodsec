@@ -2,9 +2,8 @@
 title: Show Choir
 permalink: /cca/visual-and-performing-arts/show-choir/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
-
 ### OBJECTIVES
 
 *   To develop students’ confidence in self-expression through elements of singing, dancing and acting &nbsp;
@@ -16,9 +15,9 @@ third_nav_title: Visual & Performing Arts
 
 ### TEACHERS IN-CHARGE
 
-*   Mdm Tang Tai-Chi (TIC)  
+*   Mdm You Chow Ling (TIC)  
 *   Mr Mohammad Redzuan Bin Jaafar
-*   Mdm You Chow Ling
+*   Mdm Tang Tai-Chi
 *   Mdm Insyirah Jumat
 
   
@@ -47,11 +46,11 @@ third_nav_title: Visual & Performing Arts
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Wednesday </span></td>
     <td class="tg-mwz3"><span style="color:#565656">3:00pm - 5:30pm</span></td>
-    <td class="tg-njgx">MRL</td>
+    <td class="tg-njgx">Music Room</td>
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Friday</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">2:30pm - 5:00pm</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">2:30pm - 4:30pm</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Dance Studio</span></td>
   </tr>
 </tbody>
@@ -77,6 +76,11 @@ third_nav_title: Visual & Performing Arts
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2022</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Platinum Award for Show Choir Festival B-Dazzled 2022
+Best Vocals Award Festival B-Dazzled 2022</span></td>
+  </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2019</span></td>
     <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Platinum Award for Show Choir Festival B-Dazzled 2019</span></td>
@@ -151,4 +155,4 @@ third_nav_title: Visual & Performing Arts
 </tbody>
 </table>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3fd7_HvvoadQSDJp8ousGWfjjB5Tlcy71nPVzEOHDRxS3fcJsnRYogXTbB98rbVG-mQZvDQAs00FY/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3fd7_HvvoadQSDJp8ousGWfjjB5Tlcy71nPVzEOHDRxS3fcJsnRYogXTbB98rbVG-mQZvDQAs00FY/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
