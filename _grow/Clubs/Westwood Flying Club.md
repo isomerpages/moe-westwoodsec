@@ -113,32 +113,32 @@ For further information, please visit&nbsp;[www.syfc.sg](http://www.syfc.sg/)
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Singapore Amazing Flying Machine Competition (SAFMC)</span><br><br>Category B - Unpowered Glider<br>Category C2 – FPV Flight<br><br>Organised by: Singapore Science Centre</td>
     <td class="tg-mwz3"><span style="color:#565656">March - April</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Rationale<br>Unpowered Glider<br><br>Category B: Furthest Distance<br><br>Design and build small unpowered gliders to be bungee-launched from designated launcher in a bid to fly the furthest.
+    <td class="tg-mwz3"><span style="color:#565656">**Unpowered Glider**<br><br>Category B: Furthest Distance<br><br>Design and build small unpowered gliders to be bungee-launched from designated launcher in a bid to fly the furthest.
 Design and build small unpowered gliders to be Radio Control Flight<br><br>Category C2:  FPV Flight (Drones)<br>
 Bring or design a FPV (first-person view) air platform to navigate an obstacle course.
 </span></td>
   </tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656"></span><span style="background-color:transparent">Flight Experience Programmes<br>
-DA-40 planes<br>F50 and visit to Changi Airbase<br>C130 and visit to Paya Lebar Airbase<br>DA-40 planes<br><br>Organised by: Singapore Youth Flying Club
+    <td class="tg-mwz3"><span style="color:#565656"></span><span style="background-color:transparent">Flight Experience Programmes<br><br>
+DA-40 planes<br><br>F50 and visit to Changi Airbase<br><br>C130 and visit to Paya Lebar Airbase DA-40 planes<br><br>Organised by: Singapore Youth Flying Club
 </span></td>
     <td class="tg-mwz3"><span style="color:#565656">June and December holidays</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Target Group<br>All students</span><br></td>
   </tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Singapore Youth Flying Club Courses<br>Aviation Instructors’ (AI) Courses<br><br>Organised by: Singapore Youth Flying Club
+    <td class="tg-mwz3"><span style="color:#565656">Singapore Youth Flying Club Courses<br><br>Aviation Instructors’ (AI) Courses<br><br>Organised by: Singapore Youth Flying Club
 </span></td>
     <td class="tg-mwz3"><span style="color:#565656">June and December holidays</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Target Group<br>All students</span></td>
   </tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Inter-Schools Aeromodelling Competitions<br>Aircraft Simulator Juniors &amp; Seniors Competitions<br><br>Organised by: Singapore Youth Flying Club
+    <td class="tg-mwz3"><span style="color:#565656">Inter-Schools Aeromodelling Competitions<br><br>Aircraft Simulator Juniors &amp; Seniors Competitions<br><br>Organised by: Singapore Youth Flying Club
 </span></td>
     <td class="tg-mwz3"><span style="color:#565656">July - September</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Target Group<br>All students</span></td>
   </tr>
 <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Westwood Flying Enrichment Activities<br>Organised by: Westwood Flying Club</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Westwood Flying Enrichment Activities<br><br>Organised by: Westwood Flying Club</span></td>
     <td class="tg-mwz3"><span style="color:#565656">October/November</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Target Group<br>All students</span></td>
   </tr>
