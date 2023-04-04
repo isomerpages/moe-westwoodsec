@@ -2,13 +2,12 @@
 title: Visual Arts
 permalink: /cca/visual-and-performing-arts/visual-arts/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
-
 ### OBJECTIVES
 
-*   To reinforce stronger culture of Arts in Westwood&nbsp;  
-*   To broaden perspectives of art through more exposure to different forms of Art Making and Appreciation  
+*   To encourage and develop the reinforce stronger culture of Arts in Westwood 
+*   To broaden perspectives of art through exposure to different forms of Art Making and Art Appreciation  
 *   To build confidence in self-expression through art
 
   
@@ -17,7 +16,7 @@ third_nav_title: Visual & Performing Arts
 
 *   Ms Mumtazah Binte Mohd Haron (TIC)
 *   Ms Claris Ang Gian Yi  
-*   Mdm Siti Hajar
+*   Mdm&nbsp;Siti Hajar
     
 
   
@@ -45,7 +44,7 @@ third_nav_title: Visual & Performing Arts
 <tbody>
   <tr>
     <td class="tg-v4io"><span style="color:#565656">Wednesday</span></td>
-    <td class="tg-v4io"><span style="color:#565656">3:00pm - 5:30pm</span></td>
+    <td class="tg-v4io"><span style="color:#565656">3:15pm - 5:30pm</span></td>
     <td class="tg-h4ku"><span style="color:#565656">Art Room</span><br></td>
   </tr>
 </tbody>
@@ -84,6 +83,11 @@ third_nav_title: Visual & Performing Arts
     <td class="tg-zqva">Semester 1 </td>
     <td class="tg-cmm0"><span style="color:#666">Students will understand the basics of using clay as a medium for artistic ceramic creations.  This creates a fun-filled environment and engages students in the learning of ceramic making. </span><br></td>
   </tr>
+	<tr>
+    <td class="tg-cmm0">Paper &amp; Fabric Marbling Workshop </td>
+    <td class="tg-zqva">Semester 1 </td>
+    <td class="tg-cmm0"><span style="color:#666">Students will demonstrate mastery of materials, tools, and processes in marbling on paper and fabric. They will also develop the ability to analyze and critique artwork using the vocabulary of marbling art, engaging them in a unique art form.</span><br></td>
+  </tr>
   <tr>
     <td class="tg-cmm0">Painting Practice<br></td>
     <td class="tg-tsok"><br>Semester 2</td>
@@ -99,6 +103,12 @@ third_nav_title: Visual & Performing Arts
     <td class="tg-cmm0">Semester 2 </td>
     <td class="tg-cmm0">Students will appreciate art as a vehicle for expression of ideas as well as gain skills and confidence to take on future community projects.  </td>
   </tr>
+	<tr>
+    <td class="tg-cmm0">Art Excursions &amp; Learning Journeys</td>
+    <td class="tg-cmm0">Semester 2 </td>
+    <td class="tg-cmm0">Through learning journeys, students gain exposure to a local practising artist and experience being in an artist studio.
+Experience hands-on activity and complete an artwork under the guidance of an artist.</td>
+  </tr>
   <tr>
     <td class="tg-cmm0">Creating art pieces for competitions and SYF<span style="color:#222;background-color:#FFF"> </span></td>
     <td class="tg-cmm0">All year round </td>
@@ -107,10 +117,10 @@ third_nav_title: Visual & Performing Arts
   <tr>
     <td class="tg-cmm0">Year End Closing/Rounding Up<br>Cleaning of Art Room and Art Storeroom<br>Stock Taking<br><br><br><br>Reflection</td>
     <td class="tg-cmm0"><span style="color:#666">Term 4</span><br></td>
-    <td class="tg-lygy"><br>Discussion of students’ progress and experience with teachers<br><br>Tidying up their work space for the next year<br><br>Closure of the CCA for the year and planning for next year’s CCA Fair<br><br>Personal Reflection</td>
+    <td class="tg-cmm0"><br>Discussion of students’ progress and experience with teachers<br><br>Tidying up their work space for the next year<br><br>Closure of the CCA for the year and planning for next year’s CCA Fair<br><br>Personal Reflection</td>
   </tr>
 </tbody>
 </table>
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeZFU1caHeo-t5MGcHe7a9WYUugoQO6S1eq9uytN6mAXCU91Un-oneyM1diBBV0CslDGbcz3yn-Old/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeZFU1caHeo-t5MGcHe7a9WYUugoQO6S1eq9uytN6mAXCU91Un-oneyM1diBBV0CslDGbcz3yn-Old/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
