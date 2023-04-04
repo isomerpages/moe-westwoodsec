@@ -4,7 +4,6 @@ permalink: /cca/clubs/robotics/
 description: ""
 third_nav_title: Clubs
 ---
-
 ### OBJECTIVES
 
 *   To produce team members who exhibit teamwork and discipline during CCA training
@@ -44,7 +43,7 @@ third_nav_title: Clubs
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Wednesday</span></td>
     <td class="tg-mwz3"><span style="color:#565656">3:00pm - 5:30pm</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Robotics Room / Computer Lab 3 &amp; 4</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Robotics Room / Computer Lab 1 &amp; 2</span></td>
   </tr>
 </tbody>
 </table>
@@ -87,10 +86,10 @@ third_nav_title: Clubs
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">National Robotics Competition</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">September</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">August - September</span></td>
     <td class="tg-mwz3"><span style="color:#565656">This robotics competition encourages students to develop problem solving skills, entrepreneur skills, creative thinking skills, and team spirit among the participants. For members of all levels.</span></td>
   </tr>
 </tbody>
 </table>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROzHz8B7Qq9tRcD4lwOl9cpA8OCn08S-A6gHMepysLy5bukmZSBVGGyfoN5w-6Ez1EW29qZeqz0Eys/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROzHz8B7Qq9tRcD4lwOl9cpA8OCn08S-A6gHMepysLy5bukmZSBVGGyfoN5w-6Ez1EW29qZeqz0Eys/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
