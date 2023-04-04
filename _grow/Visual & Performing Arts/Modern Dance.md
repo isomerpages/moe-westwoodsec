@@ -2,9 +2,8 @@
 title: Modern Dance
 permalink: /cca/visual-and-performing-arts/modern-dance/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
-
 ### OBJECTIVES
 
 *   To build confident and passionate dancers. &nbsp;&nbsp;
@@ -17,7 +16,7 @@ third_nav_title: Visual & Performing Arts
 ### TEACHERS IN-CHARGE
 
 *   Mdm Lim Shi Lei (TIC)
-*   Ms Hanisah Binte Salim  
+*   Mdm Hanisah Binte Salim  
 *   Mdm Farah Zila Hassan
 *   Mr Lim Jun Wei
 
@@ -46,7 +45,7 @@ third_nav_title: Visual & Performing Arts
 <tbody>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Wednesday</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">3:00pm - 6:00pm</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">3:00pm - 5:30pm</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Dance Studio</span></td>
   </tr>
   <tr>
@@ -119,9 +118,14 @@ third_nav_title: Visual & Performing Arts
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-mwz3"><span style="color:#565656">CCA Fair </span></td>
+    <td class="tg-mwz3"><span style="color:#565656">January</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">To build confident dancers and to gain performing experience.</span></td>
+  </tr>
   <tr>
-    <td class="tg-kwiv"><span style="color:#565656">CCA Fair</span><br><br><br><span style="color:#565656">School performances</span><br></td>
-    <td class="tg-mwz3"><span style="color:#565656">January</span><br><br><br><span style="color:#565656">All year round</span><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">School performances</span><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">All year round</span><br></td>
     <td class="tg-mwz3"><span style="color:#565656">To build confident dancers and to gain performing experience.</span></td>
   </tr>
   <tr>
@@ -135,7 +139,7 @@ third_nav_title: Visual & Performing Arts
     <td class="tg-mwz3"><span style="color:#565656">To gain awareness and learn from dancers from different dance background and genres </span></td>
   </tr>
   <tr>
-    <td class="tg-kwiv"><span style="color:#565656">Dance Camp </span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Dance Camp </span></td>
     <td class="tg-mwz3"><span style="color:#565656">November / December</span></td>
     <td class="tg-mwz3"><span style="color:#565656">To foster leadership skills and teambuilding. To expose them and encourage networking with dancers from other genres and other schools while learning from the experts of the dance scene.   </span></td>
   </tr>
@@ -143,4 +147,4 @@ third_nav_title: Visual & Performing Arts
 </table>
 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTA09gJjqeuPmK9nOZQinFgPYvP008UZN7wSzzaIAiFpK34SHGzFMnJpWs06HIprrrvSLFMPqujeNNc/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTA09gJjqeuPmK9nOZQinFgPYvP008UZN7wSzzaIAiFpK34SHGzFMnJpWs06HIprrrvSLFMPqujeNNc/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
