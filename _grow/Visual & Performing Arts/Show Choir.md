@@ -122,35 +122,27 @@ Best Vocals Award Festival B-Dazzled 2022</span></td>
     <td class="tg-mwz3"><span style="color:#565656">January</span></td>
     <td class="tg-njgx">The choir is fully prepared to ‘charm’ potential sec 1 members with an extensive Show Choir program that encompasses singing, dancing and acting elements.</td>
   </tr>
-  <tr>
-    <td class="tg-njgx"><span style="color:#565656">Sec 1 Welcome Tea </span></td>
-    <td class="tg-njgx"><span style="color:#565656">February </span></td>
-    <td class="tg-njgx"><span style="color:#565656">The choir welcomes our new babies into this big family with bonding activities such as games, singing and food. This is to make sure that our sec 1s feel at home with us and are ready to be integrated into this new environment. </span></td>
+	<tr>
+    <td class="tg-mwz3"><span style="color:#565656">SYF Camp</span><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">March School Holiday</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">To prepare all the members well for our first SYF in April, this holiday camp aims to hone every member’s singing and dancing skills through focused rehearsals. 
+</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Choir Farewell (POP)</span><br></td>
-    <td class="tg-mwz3"><span style="color:#565656">March</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">The juniors will now say goodbye to their seniors in a day of games, food and farewell speeches and performances to celebrate their camaraderie.</span><br></td>
-  </tr>
-  <tr>
+	<tr>
     <td class="tg-mwz3"><span style="color:#565656">SYF (Choir)</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">TBC</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">April</span></td>
     <td class="tg-mwz3"><span style="color:#565656">SYF is a bi-annual competition where all secondary school choirs in Singapore will participate in. This is the first year the Westwood Show Choir is going to participate in SYF since our conversion from traditional choir to a show choir. We look forward to bringing some show choir elements into SYF this year.</span></td>
   </tr>
   <tr>
-    <td class="tg-mwz3"><span style="color:#565656">School exchange with participating schools of Show Choir Festival B-Dazzled! 2021</span><br></td>
-    <td class="tg-mwz3"><span style="color:#565656">TBC</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">To allow the students the opportunity to showcase their competition piece in front of an audience before the actual competition and to expose them to what the other Show Choirs items are like, especially since they will not get to watch others’ performances during the competition.</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Choir Farewell (POP)</span><br></td>
+    <td class="tg-mwz3"><span style="color:#565656">May</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">The juniors will now say goodbye to their seniors in a day of games, food and farewell speeches and performances to celebrate their camaraderie.</span><br></td>
   </tr>
+  
   <tr>
-    <td class="tg-njgx"><span style="color:#565656">Show Choir Festival B-Dazzled! (2021) </span></td>
-    <td class="tg-mwz3"><span style="color:#565656">TBC</span></td>
+    <td class="tg-njgx"><span style="color:#565656">Show Choir Festival B-Dazzled! (2023) </span></td>
+    <td class="tg-mwz3"><span style="color:#565656">November</span></td>
     <td class="tg-mwz3"><span style="color:#565656">To showcase the fruit of our labor for the first half of the year and as an opportunity for our students to perform on a big stage in an indoor theatre, our show choristers will be attending the annual Show Choir Festival Competition this year to gain further insight on competitive singing and dancing. </span></td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Choir Camp<span style="color:#565656"> </span></td>
-    <td class="tg-mwz3"><span style="color:#565656">October/November</span></td>
-    <td class="tg-njgx"><span style="color:#565656">The camp aims to hone every member’s singing, dancing, and acting skills through focused rehearsals. With the planning of the executive committee, fellow members learn to be relational leaders by bonding through various interactive games and activities. Choristers will have their stamina put to the test, but this rigorous training immerses students in a fun and intensive experience on the way to becoming all rounded performers. </span></td>
   </tr>
 </tbody>
 </table>
