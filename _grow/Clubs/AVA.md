@@ -4,7 +4,6 @@ permalink: /cca/clubs/ava/
 description: ""
 third_nav_title: Clubs
 ---
-
 ### OBJECTIVES
 
 *   To provide the school with good AVA support on a daily basis during morning assembly and all school events.&nbsp;
@@ -45,7 +44,7 @@ third_nav_title: Clubs
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Wednesday</span></td>
     <td class="tg-mwz3"><span style="color:#565656">3:00pm - 6:00pm</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Hall</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Computer Lab 3 / Hall</span></td>
   </tr>
 </tbody>
 </table>
@@ -70,6 +69,14 @@ third_nav_title: Clubs
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2022</span>    </td>
+    <td class="tg-tsok"><span style="color:#222;background-color:#FFF">Video Featured and showcased in ‘Gratitude in Life’ <br>PIXEL Perfect SYFgoesOnline 2022</span></td>
+  </tr>
+	<tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2022</span>    </td>
+    <td class="tg-tsok"><span style="color:#222;background-color:#FFF">Honorable Mentioned for ”Our Schools, Our Stories” Photo and Video Contest (Junior Categeory)</span></td>
+  </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2021</span>    </td>
     <td class="tg-tsok"><span style="color:#222;background-color:#FFF">Honorable Mentioned for ”Our Schools, Our Stories” Photo and Video Contest (Youth Categeory)</span></td>
