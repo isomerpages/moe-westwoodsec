@@ -4,7 +4,6 @@ permalink: /cca/clubs/westwood-flying-club/
 description: ""
 third_nav_title: Clubs
 ---
-
 ### OBJECTIVES
 
 *   To promote aviation and inculcate a strong passion for flying among our students.&nbsp; &nbsp; &nbsp; &nbsp;
@@ -85,7 +84,7 @@ For further information, please visit&nbsp;[www.syfc.sg](http://www.syfc.sg/)
   </tr>
   <tr>
     <td class="tg-zqva">2016</td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Most Creative in Singapore Amazing Flying Machine Race R/C Category</span></td>
+    <td class="tg-cmm0">Most Creative in Singapore Amazing Flying Machine Race R/C Category</td>
   </tr>
 </tbody>
 </table>
