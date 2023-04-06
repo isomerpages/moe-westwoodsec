@@ -12,15 +12,12 @@ description: ""
 4.&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged to observe good cyber wellness habits when doing work online.&nbsp;
 
 **RESOURCES FOR PARENTS**
-
-We hope to partner parents/guardians by inculcating in your child/ward the skills to self-manage and take ownership for their own learning. You may refer to the parent kit for key information on BL and tips on how to support your child/ward on BL days.
+<br>We hope to partner parents/guardians by inculcating in your child/ward the skills to self-manage and take ownership for their own learning. You may refer to the parent kit for key information on BL and tips on how to support your child/ward on BL days.
 
 [Experiencing Blended Learning (BL) with Our Children](https://drive.google.com/file/d/1SEia12wmBAIkNLrTaqWxw_QALjR1FysG/view?usp=share_link)[  
 ](https://westwoodsec.moe.edu.sg/qql/slot/u558/Latest%20Update/HBL/Parent-Kit-Experiencing-Blended-Learning.pdf)
 
-**ACCESS TO SLS**
-
-The SLS can be accessed from&nbsp;[https://learning.moe.edu.sg](https://learning.moe.edu.sg/). The SLS is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.&nbsp;  
+**ACCESS TO SLS**<br>The SLS can be accessed from&nbsp;[https://learning.moe.edu.sg](https://learning.moe.edu.sg/). The SLS is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.&nbsp;  
   
 There are 2 login methods:  
   
@@ -28,17 +25,13 @@ There are 2 login methods:
 The SLS Username consists of&nbsp;**first 5 characters of the student’s full name and last 5 characters of the student’s NRIC/FIN**. Students can approach any of their subject teachers or IT department personnel to reset their SLS password if they had forgotten and unable to do self-reset.&nbsp;  
   
 **2\. Login with MIMS**  
-  
-
 The MIMS Username is&nbsp;**student’s NRIC/FIN**. Students can approach IT department personnel to reset their MIMS password if they had forgotten the password.  
   
 Refer to&nbsp;[Guide to SLS account login.  
 ](https://www.learning.moe.edu.sg/sls/students/index.html)
 
 
-##### **SLS Support**
-
-**School Operating Hours**<br>
+##### **SLS Support** <br><br>**School Operating Hours**<br>
 During school operating hours, students should contact the SLS school-based helpline for SLS queries such as&nbsp;password, login and account issues.
 
 * School-based helpline: 6792 9737
