@@ -142,14 +142,14 @@ All shortlisted candidates are required to attend an in-person interview / audit
 *   Shortlisted portfolios would be granted an audition which would be held in August 2022.&nbsp;
 *   Candidates would be expected to draw a still-life object given by the Panel during the audition.
 
-### **PHASE 2: DIALOGUE SESSION WITH SCHOOL LEADERSHIP TEAM**
+#### **PHASE 2: DIALOGUE SESSION WITH SCHOOL LEADERSHIP TEAM**
 
 
 **Applicants who are shortlisted from the Interview / Audition in Phase 1**&nbsp;will be invited to attend an in-person Dialogue Session with the School Leadership Team which will&nbsp; be held in Westwood Secondary School. Applicants will need to&nbsp;**be present for the Dialogue Session**. The school will only consider re-scheduling the in-person Dialogue Session for applicants who are unwell (e.g. tested COVID-19 positive).
 
   
 
-### APPLICATION OUTCOME
+#### APPLICATION OUTCOME
 
 *   The decision of the DSA-Sec application interview panel is&nbsp;FINAL  
     
@@ -159,7 +159,7 @@ All shortlisted candidates are required to attend an in-person interview / audit
     
 *   Successful applicants who have accepted the DSA-Sec application are&nbsp;NOT&nbsp;allowed to transfer to another school after the release of the PSLE results
 
-### Key Dates
+#### Key Dates
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
