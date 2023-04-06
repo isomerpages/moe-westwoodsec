@@ -28,7 +28,7 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-7s4v"><a target="_blank" href="https://drive.google.com/file/d/1GSjC_XxSwQJra0EgTCyTdvJEHI32JfNy/view?usp=share_link"><span style="text-decoration:none;color:#3AA66F">Student Handbook 2023</span></a></td>
-    <td class="tg-kgfz">http://www.ace-learning.com</td>
+    <td class="tg-kgfz">https://go.gov.sg/wwwssstudenthandbook2023</td>
   </tr>
   <tr>
     <td class="tg-7s4v"><a href="https://www.ace-learning.com/"><span style="text-decoration:none;color:#3AA66F">Ace-Learning Math e-learning portal</span></a></td>
