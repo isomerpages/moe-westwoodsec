@@ -131,5 +131,6 @@ third_nav_title: Clubs
   </tr>
 </tbody>
 </table>
+</ul>
 
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyaTCLRRgfGU0Ug0nADrxdVB_4nHQBkUQC9F5z1XbcFtgSJtJ2fQg2w6kC71aUOeYhYEkNKV21KDwP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
