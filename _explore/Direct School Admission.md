@@ -3,9 +3,7 @@ title: Direct School Admission
 permalink: /about-us/direct-school-admission/
 description: ""
 ---
-
-
-Westwood Secondary School warmly welcomes applications from Primary 6 students through the 2022 Direct School Admission (DSA) Exercise for admission to Secondary One in 2023.  We welcome Primary 6 students who have passion and talents in one of the following areas:
+Westwood Secondary School warmly welcomes applications from Primary 6 students through the 2022 Direct School Admission (DSA) Exercise for admission to Secondary One in 2023. &nbsp;We welcome Primary 6 students who have passion and talents in&nbsp;one&nbsp;of the following areas:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -68,18 +66,18 @@ Westwood Secondary School warmly welcomes applications from Primary 6 students t
 </tbody>
 </table>
 
-# DSA Application Instructions
+#### DSA Application Instructions
 
-### PHASE 1: INTERVIEW / AUDITION
+#### PHASE 1: INTERVIEW / AUDITION
 
-All shortlisted candidates are required to attend an in-person interview / audition.  Please refer to **Key Dates** for the date and time. 
+All shortlisted candidates are required to attend an in-person interview / audition.&nbsp; Please refer to&nbsp;**Key Dates**&nbsp;for the date and time.&nbsp;
 
   
 
-#### Applied Learning Programme (Innovation and Social Entrepreneurship) 
+#### Applied Learning Programme (Innovation and Social Entrepreneurship)&nbsp;
 
-*   Applicants who apply for DSA in Westwood’s **Applied Learning Programme (Innovation and Social Entrepreneurship)** will undergo an in-person interview held in Westwood Secondary School.
-*   Applicants will need to need to **be present for the interview**. The school will only consider re-scheduling the in-person interview for applicants who are unwell (e.g. tested COVID-19 positive).
+*   Applicants who apply for DSA in Westwood’s&nbsp;**Applied Learning Programme (Innovation and Social Entrepreneurship)**&nbsp;will undergo an in-person interview held in Westwood Secondary School.
+*   Applicants will need to&nbsp;need to&nbsp;**be present for the interview**. The school will only consider re-scheduling the in-person interview for applicants who are unwell (e.g. tested COVID-19 positive).
 
   
 
@@ -88,16 +86,14 @@ All shortlisted candidates are required to attend an in-person interview / audit
 *   Innovation/(Social) entrepreneurship experiences (which may include related competitions)
 *   Interest in Science Technology Engineering and Mathematics (STEM), including sustainability issues  
     
-*   Background in coding/programming 
+*   Background in coding/programming&nbsp;
 *   Leadership positions held in school
-
-  
 
 #### **Learning for Life Programme (Arts for Life!)**
 
-*   Applications who apply for DSA in Westwood’s **Learning for Life Programme (Arts for Life!)** will have to go through audition in the specific art form via in-person audition held in Westwood Secondary School.
+*   Applications who apply for DSA in Westwood’s&nbsp;**Learning for Life Programme (Arts for Life!)**&nbsp;will have to go through audition in the specific art form via in-person audition held in Westwood Secondary School.
     
-*   Applicants will need to **be present for the audition**. The school will only consider re-scheduling the in-person audition for applicants who are unwell (e.g. tested COVID-19 positive).
+*   Applicants will need to&nbsp;**be present for the audition**. The school will only consider re-scheduling the in-person audition for applicants who are unwell (e.g. tested COVID-19 positive).
     
 **Concert Band**
 
@@ -115,8 +111,8 @@ All shortlisted candidates are required to attend an in-person interview / audit
 
 **Dance – International (Hip Hop)**
 
-*   Candidates to put up a 1-minute dance item with music, preferably from the competition or performance they had performed previously.
-*   Candidates would be expected to learn a simple routine from the Panel and thereafter perform on the spot.   
+*   Candidates to put up a 1-minute dance item with music,&nbsp;preferably from the competition or performance they had performed previously.
+*   Candidates would be expected to learn a simple routine from the Panel and thereafter perform on the spot.&nbsp;  
     
 **Show Choir**  
     
@@ -126,10 +122,10 @@ All shortlisted candidates are required to attend an in-person interview / audit
 *   Candidates might be asked to sing only part of the song during the audition.  
     
 *   Basic aural and range tests will be administered.
-*   Candidates would be expected to learn a simple routine from the Panel and thereafter perform on the spot.   
+*   Candidates would be expected to learn a simple routine from the Panel and thereafter perform on the spot.&nbsp; &nbsp;
 **Guitar Ensemble**
 
-*   Candidates to play one music piece of their choice for the audition, preferably from the competition or performance they had performed previously.
+*   Candidates to play one music piece of their choice for the audition,&nbsp;preferably from the competition or performance they had performed previously.
 *   Candidates to email the following to the Teacher-in-charge ([ng\_puay\_san\_christina@moe.edu.sg](mailto:ng_puay_san_christina@moe.edu.sg)):
 
 *   the music track of their choice at least 3 days in advance,
@@ -141,27 +137,27 @@ All shortlisted candidates are required to attend an in-person interview / audit
 **Visual Arts**
 
 *   Submit portfolio by email to Teacher-in-charge ([ng\_puay\_san\_christina@moe.edu.sg](mailto:ng_puay_san_christina@moe.edu.sg)).
-*   To submit portfolio, latest by 30 July 2022. Portfolio to consist of a write-up & introduction of your arts ability. Also, to explain the art works submitted, to describe if the works are their achievements or enhancements from other sources.  
+*   To submit portfolio, latest by 30 July 2022. Portfolio to consist of a write-up &amp; introduction of your arts ability. Also, to explain the art works submitted, to describe if the works are their achievements or enhancements from other sources.  
     
-*   Shortlisted portfolios would be granted an audition which would be held in August 2022. 
+*   Shortlisted portfolios would be granted an audition which would be held in August 2022.&nbsp;
 *   Candidates would be expected to draw a still-life object given by the Panel during the audition.
 
 ### **PHASE 2: DIALOGUE SESSION WITH SCHOOL LEADERSHIP TEAM**
 
 
-**Applicants who are shortlisted from the Interview / Audition in Phase 1** will be invited to attend an in-person Dialogue Session with the School Leadership Team which will  be held in Westwood Secondary School. Applicants will need to **be present for the Dialogue Session**. The school will only consider re-scheduling the in-person Dialogue Session for applicants who are unwell (e.g. tested COVID-19 positive).
+**Applicants who are shortlisted from the Interview / Audition in Phase 1**&nbsp;will be invited to attend an in-person Dialogue Session with the School Leadership Team which will&nbsp; be held in Westwood Secondary School. Applicants will need to&nbsp;**be present for the Dialogue Session**. The school will only consider re-scheduling the in-person Dialogue Session for applicants who are unwell (e.g. tested COVID-19 positive).
 
   
 
 ### APPLICATION OUTCOME
 
-*   The decision of the DSA-Sec application interview panel is FINAL  
+*   The decision of the DSA-Sec application interview panel is&nbsp;FINAL  
     
 *   Westwood Secondary reserves the right not to reveal the reasons for the non-selection of applicants  
     
-*   Successful applicants who have accepted the DSA-Sec application are NOT allowed to participate in the 2023 Secondary One Posting Exercise   
+*   Successful applicants who have accepted the DSA-Sec application are&nbsp;NOT&nbsp;allowed to participate in the 2023 Secondary One Posting Exercise&nbsp;  
     
-*   Successful applicants who have accepted the DSA-Sec application are NOT allowed to transfer to another school after the release of the PSLE results
+*   Successful applicants who have accepted the DSA-Sec application are&nbsp;NOT&nbsp;allowed to transfer to another school after the release of the PSLE results
 
 ### Key Dates
 
@@ -206,7 +202,7 @@ All shortlisted candidates are required to attend an in-person interview / audit
 </table>
 
 
-Parents and students are strongly encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.   
+Parents and students are strongly encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.&nbsp;  
 
   
 
@@ -214,15 +210,15 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
   
 
-Please refer to [MOE DSA](https://www.moe.gov.sg/secondary/dsa) website for the latest update.  
+Please refer to&nbsp;[MOE DSA](https://www.moe.gov.sg/secondary/dsa)&nbsp;website for the latest update.  
 
   
 
 For further clarifications and enquiries, please contact Westwood at:  
 
 Telephone Number: 6792 9737 <br>
-Email Address: [westwood\_ss@moe.edu.sg](mailto:westwood_ss@moe.edu.sg)
+Email Address:&nbsp;[westwood\_ss@moe.edu.sg](mailto:westwood_ss@moe.edu.sg)
 
   
 
-For email inquiry, please indicate “**Westwood DSA 2022**” as the **subject title** of your email.
+For email inquiry, please indicate “**Westwood DSA 2022**” as the&nbsp;**subject title**&nbsp;of your email.
