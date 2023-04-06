@@ -2,7 +2,7 @@ collections:
   learn:
     output: true
     order:
-      - FULL SUBJECT BASED BANDING.md
+      - Full Subject Based Banding.md
       - Teaching & Learning.md
       - Teaching and Learning/.keep
       - Teaching and Learning/Assessment Policy.md
