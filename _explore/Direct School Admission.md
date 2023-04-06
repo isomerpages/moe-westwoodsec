@@ -221,4 +221,4 @@ Email Address:&nbsp;[westwood\_ss@moe.edu.sg](mailto:westwood_ss@moe.edu.sg)
 
   
 
-For email inquiry, please indicate “**Westwood DSA 2022**” as the&nbsp;**subject title**&nbsp;of your email.
+For email inquiry, please indicate “**Westwood DSA 2023**” as the&nbsp;**subject title**&nbsp;of your email.
