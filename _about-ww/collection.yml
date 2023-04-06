@@ -2,6 +2,7 @@ collections:
   about-ww:
     output: true
     order:
+      - Zzzz test.md
       - About Westwood.md
       - Principal's Message.md
       - School Song.md
