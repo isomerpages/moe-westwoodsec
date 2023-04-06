@@ -2,6 +2,7 @@ collections:
   administrative:
     output: true
     order:
+      - Parent Gateway.md
       - Financial Assistance Scheme.md
       - Service Providers.md
       - Contact Us/.keep
