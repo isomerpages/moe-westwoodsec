@@ -3,6 +3,6 @@ title: School Updates
 permalink: /permalink/
 description: ""
 ---
-[Parent Gateway](/permalink/parentgateway)
+##### [Parent Gateway](/permalink/parentgateway)
 
-gghgjg
+##### [Student Handbook 2023](https://go.gov.sg/wwwssstudenthandbook2023)
