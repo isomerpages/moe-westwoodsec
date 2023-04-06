@@ -14,6 +14,7 @@ description: ""
 ##### [Use and Publication of Photos and Video Recordings](/permalink/useandpublication/)
 
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;
@@ -32,19 +33,19 @@ description: ""
 </thead>
 <tbody>
 	<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Parent Gateway</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a href="/permalink/parentgateway/">Parent Gateway </a></span></td>
   </tr>
 	<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Student Handbook 2023</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="https://go.gov.sg/wwwssstudenthandbook2023">Student Handbook 2023</a></span></td>
   </tr>
 		<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Blended Learning</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a href="/permalink/blendedlearning/">Blended Learning</a></span></td>
   </tr>
 			<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Personal Digital Learning Programme</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a href="/permalink/pldinitiative/">Personal Digital Learning Programme</a></span></td>
   </tr>
 				<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Use and Publication of Photos and Video Recordings</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a href="/permalink/useandpublication/">Use and Publication of Photos and Video Recordings</a></span></td>
   </tr>
 </tbody>
 </table>
