@@ -3,18 +3,6 @@ title: School Updates
 permalink: /permalink/schoolupdates/
 description: ""
 ---
-##### [Parent Gateway](/permalink/parentgateway)
-
-##### [Student Handbook 2023](https://go.gov.sg/wwwssstudenthandbook2023)
-
-##### [Blended Learning](/permalink/blendedlearning/)
-
-##### [Personal Digital Learning Programme](/permalink/pldinitiative/)
-
-##### [Use and Publication of Photos and Video Recordings](/permalink/useandpublication/)
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;
@@ -27,9 +15,6 @@ description: ""
 
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">UPDATES</span></th>
-  </tr>
 </thead>
 <tbody>
 	<tr>
