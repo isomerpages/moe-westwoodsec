@@ -26,6 +26,10 @@ description: ""
     <td class="tg-udx9"><a href="https://workspace.google.com/dashboard"><span style="text-decoration:none;color:#3AA66F">Student iCON</span></a><br></td>
     <td class="tg-sxrn">https://workspace.google.com/dashboard</td>
   </tr>
+	<tr>
+    <td class="tg-7s4v"><a target="_blank" href="https://drive.google.com/file/d/1GSjC_XxSwQJra0EgTCyTdvJEHI32JfNy/view?usp=share_link"><span style="text-decoration:none;color:#3AA66F">Student Handbook 2023</span></a></td>
+    <td class="tg-kgfz">http://www.ace-learning.com</td>
+  </tr>
   <tr>
     <td class="tg-7s4v"><a href="https://www.ace-learning.com/"><span style="text-decoration:none;color:#3AA66F">Ace-Learning Math e-learning portal</span></a></td>
     <td class="tg-kgfz">http://www.ace-learning.com</td>
