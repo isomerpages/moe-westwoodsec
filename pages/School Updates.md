@@ -10,3 +10,5 @@ description: ""
 ##### [Blended Learning](/permalink/blendedlearning/)
 
 ##### [Personal Digital Learning Programme](/permalink/pldinitiative/)
+
+##### [Parent Gateway](/permalink/parentgateway/)
