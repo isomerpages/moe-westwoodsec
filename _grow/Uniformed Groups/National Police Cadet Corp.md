@@ -147,7 +147,7 @@ third_nav_title: Uniformed Groups
     <td class="tg-61iw"><span style="color:#565656">To equip cadets with relevant knowledge on crime cases which most teenagers are likely to encounter, to cultivate in them a strong sense of respect for the law, and to instill a sense of responsibility in upholding the law</span><br></td>
   </tr>
   <tr>
-		<tr>
+		</tr><tr>
     <td class="tg-mwz3"><span style="color:#565656">Visit to Neighbourhood Police Centre (Secondary 1)</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Term 2</span></td>
     <td class="tg-61iw"><span style="color:#565656">To provide cadets insight to the activities that go on inside a neighbourhood police centre</span><br></td>
@@ -239,5 +239,3 @@ third_nav_title: Uniformed Groups
   </tr>
 </tbody>
 </table>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjEjr8_jATJ66gVemfsh9i__2aDRgTgZhZuGC__oWEpfGc_qM8UkRyprf5XUkvbjZMa6tOYZsqZ0_e/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
