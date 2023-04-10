@@ -8,26 +8,9 @@ Westwood Secondary School is one of 30+ secondary schools which will implement F
 **PURPOSE OF FULL SBB**
 
 Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.
-
-By 2024, secondary schools will have implemented the following aspects of Full SBB:
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Offering of Humanities subjects at a more demanding level from Secondary 2; and
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mixed form classes with the provision of a common curriculum.
-
-**FULL SBB IN WESTWOOD SECONDARY SCHOOL IN 2023**
-
-Westwood Secondary School is one of 30+ secondary schools which will implement Full Subject-Based Banding (Full SBB) from 2023.
-
-**PURPOSE OF FULL SBB**
-
-Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.
-
-By 2024, secondary schools will have implemented the following aspects of Full SBB:
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Offering of Humanities subjects at a more demanding level from Secondary 2; and
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mixed form classes with the provision of a common curriculum.
+ <br><br>By 2024, secondary schools will have implemented the following aspects of Full SBB:<br>
+* Offering of Humanities subjects at a more demanding level from Secondary 2; and<br>
+* Mixed form classes with the provision of a common curriculum.
 
 **FULL SBB IN WESTWOOD SECONDARY SCHOOL IN 2023**
 
