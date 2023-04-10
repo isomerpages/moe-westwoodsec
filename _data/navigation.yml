@@ -22,7 +22,8 @@ links:
       - title: Values in Action (VIA)
         url: /co-curriculum/values-in-action
   - title: Explore
-    collection: explore
+    url: /co-curriculum/niche-programmes/
+    sublinks: []
   - title: WW Family
     collection: ww-family
   - title: Administration
