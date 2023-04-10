@@ -29,8 +29,8 @@ Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and d
 <thead>
   <tr>
     <th class="tg-0y1c">Aspect of Full SBB</th>
-    <th class="tg-0y1c">How will this aspect be implemented?
-  </th></tr>
+    <th class="tg-0y1c">How will this aspect be implemented</th>
+</tr>
 </thead>
 <tbody>
   <tr>
