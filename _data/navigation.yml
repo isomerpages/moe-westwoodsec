@@ -23,7 +23,9 @@ links:
         url: /co-curriculum/values-in-action
   - title: Explore
     url: /co-curriculum/niche-programmes/
-    sublinks: []
+    sublinks:
+      - title: Learning for Life Programme
+        url: /co-curriculum/niche-programmes/learning-for-life-programme/
   - title: WW Family
     collection: ww-family
   - title: Administration
