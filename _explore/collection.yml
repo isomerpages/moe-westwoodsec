@@ -1,0 +1,11 @@
+collections:
+  explore:
+    output: true
+    order:
+      - Niche Programmes.md
+      - Learning for Life Programme/Competitions.md
+      - Learning for Life Programme/.keep
+      - Learning for Life Programme/Art Project.md
+      - Learning for Life Programme/Dance and Percussion Ensemble Programme.md
+      - Learning for Life Programme/Live@Westwood.md
+      - Direct School Admission.md

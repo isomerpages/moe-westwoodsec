@@ -1,0 +1,16 @@
+collections:
+  administrative:
+    output: true
+    order:
+      - Financial Assistance Scheme.md
+      - Service Providers.md
+      - Parent Gateway.md
+      - Contact Us/.keep
+      - Contact Us/School Management Committee.md
+      - Contact Us/Secondary 1.md
+      - Contact Us/Secondary 2.md
+      - Contact Us/Secondary 3.md
+      - Contact Us/Secondary 4 & 5.md
+      - Contact Us/Executive & Administrative Staff.md
+      - Contact Us/Others.md
+      - Getting There.md
