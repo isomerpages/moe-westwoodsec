@@ -2,7 +2,6 @@ collections:
   learn:
     output: true
     order:
-      - Full Subject Based Banding.md
       - Teaching & Learning.md
       - Teaching and Learning/.keep
       - Teaching and Learning/Assessment Policy.md
@@ -19,4 +18,5 @@ collections:
       - Departments/Physical Education.md
       - Departments/Music.md
       - Departments/Infocomm Technology.md
+      - Full Subject Based Banding.md
       - Academic Programme Committee.md
