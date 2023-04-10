@@ -83,3 +83,28 @@ By 2024, secondary schools will have implemented the following aspects of Full S
   &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
   inter-ideograph;line-height:14.7pt"><span style="font-size:12.0pt;font-family:
   &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#222222">English Language, Mother Tongue Languages, Mathematics, and Science will continue to be offered at Express Level, N(A) Level, and N(T) Level. The criteria for taking these subjects at a more demanding level from the start of Secondary One is based on students’ PSLE AL Score for each subject. Students will be grouped in different classes based on their subject level for each subject.</span></p></td></tr></tbody></table>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0y1c{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-av5t{background-color:#FFF;color:#3AA66F;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0y1c">Aspect of Full SBB</th>
+    <th class="tg-0y1c">How will this aspect be implemented</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-av5t"><span style="text-decoration:none;color:#3AA66F">Offering of Humanities subjects at a more demanding level from Secondary 2
+    </span></td><td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Currently, secondary school students can offer English Language, Mother Tongue Languages, Mathematics and Science at a more demanding level from the start of Secondary One based on students’ PSLE Achievement Level (AL) for each subject. Beyond the start of Secondary 1, students may also offer these subjects at a more demanding level based on their performance in secondary school. <br><br>Our school will also provide Secondary 2 students the opportunity to take Humanities subjects at a more demanding level, if they meet subject-specific criteria. This is applicable to students who are in the Secondary 2 Normal (Technical) course from 2023, and students who are in the Normal (Academic) course from 2024.<br><br>The criteria for taking Humanities at a more demanding level will be based on students’ aptitude for and interest in these subjects at Secondary 1. They should also possess positive attitude towards learning and strong commitment to offer the subject at a more demanding level.</span></td>
+</tr>
+</tbody>
+</table>
