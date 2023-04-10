@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Learning for Life Programme/Dance and Percussion Ensemble Programme.md
       - Learning for Life Programme/Live@Westwood.md
       - Learning for Life Programme/Art Project.md
       - Learning for Life Programme/.keep
