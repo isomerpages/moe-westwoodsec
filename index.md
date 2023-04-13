@@ -2,7 +2,7 @@
 layout: homepage
 title: Westwood Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/schlogo.JPG
+image: /images/westwood-secondary-school.png
 permalink: /
 notification: ""
 sections:
