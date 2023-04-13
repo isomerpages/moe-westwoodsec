@@ -1,6 +1,6 @@
 ---
-title: Privacy Statement
-permalink: /privacystatement/
+title: privacy
+permalink: /privacy/
 description: ""
 ---
 ### Privacy Statement
