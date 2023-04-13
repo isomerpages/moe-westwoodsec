@@ -88,7 +88,7 @@ third_nav_title: Visual &amp; Performing Arts
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2018 </span></td>
-    <td class="tg-kwiv"><span style="color:#222;background-color:#FFF">Dance Production “Carpe Diem” </span></td>
+    <td class="tg-tsok"><span style="color:#222;background-color:#FFF">Dance Production “Carpe Diem” </span></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2018 </span></td>

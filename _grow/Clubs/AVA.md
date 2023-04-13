@@ -69,15 +69,15 @@ third_nav_title: Clubs
 </thead>
 <tbody>
 	<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2022</span>    </td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2022</span></td>
     <td class="tg-tsok"><span style="color:#222;background-color:#FFF">Video Featured and showcased in ‘Gratitude in Life’ <br>PIXEL Perfect SYFgoesOnline 2022</span></td>
   </tr>
 	<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2022</span>    </td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2022</span></td>
     <td class="tg-tsok"><span style="color:#222;background-color:#FFF">Honorable Mentioned for ”Our Schools, Our Stories” Photo and Video Contest (Junior Categeory)</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2021</span>    </td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2021</span></td>
     <td class="tg-tsok"><span style="color:#222;background-color:#FFF">Honorable Mentioned for ”Our Schools, Our Stories” Photo and Video Contest (Youth Categeory)</span></td>
   </tr>
 </tbody>
@@ -127,6 +127,6 @@ third_nav_title: Clubs
   </tr>
 </tbody>
 </table>
-</ul>
+
 
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyaTCLRRgfGU0Ug0nADrxdVB_4nHQBkUQC9F5z1XbcFtgSJtJ2fQg2w6kC71aUOeYhYEkNKV21KDwP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

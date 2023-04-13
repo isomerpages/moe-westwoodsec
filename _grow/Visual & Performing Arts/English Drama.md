@@ -93,11 +93,11 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-cmm0"><span style="color:#222;background-color:#FFF">Certificate of Merit for Singapore Youth Festival</span></td>
   </tr>
   <tr>
-		<td class="tg-a3jw"><span style="color:#222;background-color:#FFF">2016</span></td>
+		<td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2016</span></td>
     <td class="tg-cmm0"><span style="color:#222;background-color:#FFF">Distinctions for Trinity College London in Acting<br></span></td>
   </tr>
   <tr>
-		<td class="tg-a3jw"><span style="color:#222;background-color:#FFF">2015</span></td>
+		<td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2015</span></td>
     <td class="tg-cmm0"><span style="color:#222;background-color:#FFF">Certificate of Merit for Singapore Youth Festival</span></td>
   </tr>
 </tbody>

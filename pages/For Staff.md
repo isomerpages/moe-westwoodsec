@@ -9,11 +9,11 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxrn{background-color:#FBF6E3;color:#565656;text-align:left;vertical-align:top}
-.tg .tg-udx9{background-color:#FBF6E3;color:#3AA66F;text-align:left;vertical-align:top}
-.tg .tg-7s4v{background-color:#EDEBD4;color:#3AA66F;text-align:left;vertical-align:top}
-.tg .tg-kgfz{background-color:#EDEBD4;color:#565656;text-align:left;vertical-align:top}
+.tg .tg-0y1c{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zqva{background-color:#FFF;color:#666;text-align:left;vertical-align:top}
+.tg .tg-cmm0{background-color:#FFF;color:#666;text-align:left;vertical-align:top}
 </style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -79,7 +79,7 @@ description: ""
     <td class="tg-sxrn">https://www.mesrc.net<br></td>
   </tr>
   <tr>
-    <td class="tg-7s4v"><a href="https://go.gov.sg/wwstaffpd"><span style="text-decoration:none;color:#3AA66F">Westwood PD Site</span></a><br>(Log in to iCON before clicking the link)<br></td>
+    <td class="tg-7s4v"><a href="https://go.gov.sg/wwstaffpd"><span style="text-decoration:none;color:#3AA66F">Westwood PD Site</span></a><br>(Requires Log in to iCON)<br></td>
     <td class="tg-kgfz">https://go.gov.sg/wwstaffpd<br></td>
   </tr>
   <tr>
@@ -91,11 +91,11 @@ description: ""
     <td class="tg-kgfz">http://go.gov.sg/sw9yzq<br></td>
   </tr>
   <tr>
-    <td class="tg-sxrn"><a href="http://go.gov.sg/47sptz"><span style="text-decoration:none;color:#3AA66F">AV and IT Request Form</span></a><br>(Log in to iCON before clicking the link)<br></td>
+    <td class="tg-sxrn"><a href="http://go.gov.sg/47sptz"><span style="text-decoration:none;color:#3AA66F">AVA and ICT Request Form</span></a><br>(Requires Log in to iCON)<br></td>
     <td class="tg-sxrn">http://go.gov.sg/47sptz<br></td>
   </tr>
   <tr>
-    <td class="tg-7s4v"><a href="https://tinyurl.com/near-miss-incident"><span style="text-decoration:none;color:#3AA66F">Near-Miss &amp; Others Reporting Form</span></a><br>(Log in to iCON before clicking the link)</td>
+    <td class="tg-7s4v"><a href="https://tinyurl.com/near-miss-incident"><span style="text-decoration:none;color:#3AA66F">Near-Miss &amp; Others Reporting Form</span></a><br>(Requires Log in to iCON)</td>
     <td class="tg-kgfz">https://tinyurl.com/near-miss-incident</td>
   </tr>
 </tbody>
