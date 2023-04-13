@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d36961hs8umuel.amplifyapp.com/
 prod: https://master.d36961hs8umuel.amplifyapp.com/
-shareicon: /images/schlogo.JPG
+shareicon: /images/westwood-secondary-school.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
