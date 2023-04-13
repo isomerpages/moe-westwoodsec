@@ -39,7 +39,7 @@ Please refer to the booklist for details on sales of textbooks and uniform durin
 * [Sec 3 NT](/files/3nt%202023.pdf)
 
 **Secondary 4 &amp; 5**
-* [Sec 4 Express](/files/WWSS%202022%20S4E.pdf)
-* [Sec 4 NA](/files/WWSS%202022%20S4NA.pdf)
-* [Sec 4 NT](/files/WWSS%202022%20S4NT.pdf)
-* [Sec 5 NA](/files/WWSS%202022%20S5NA.pdf)
+* [Sec 4 Express](/files/4exp%202023.pdf)
+* [Sec 4 NA](/files/4na%202023.pdf)
+* [Sec 4 NT](/files/4nt%202023.pdf)
+* [Sec 5 NA](/files/5na%202023.pdf)
