@@ -34,8 +34,8 @@ description: ""
     <td class="tg-kgfz">https://go.gov.sg/wwwssstudenthandbook2023</td>
   </tr>
 		<tr>
-    <td class="tg-7s4v"><a target="_blank" href="https://go.gov.sg/urk8h7"><span style="text-decoration:none;color:#3AA66F">PLD Fault Reporting</span></a></td>
-    <td class="tg-kgfz">https://go.gov.sg/urk8h7</td>
+    <td class="tg-7s4v"><a target="_blank" href=""><span style="text-decoration:none;color:#3AA66F">PLD Fault Reporting</span></a></td>
+    <td class="tg-kgfz"></td>
   </tr>
   <tr>
     <td class="tg-7s4v"><a href="https://www.ace-learning.com/"><span style="text-decoration:none;color:#3AA66F">Ace-Learning Math e-learning portal</span></a></td>
