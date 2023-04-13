@@ -26,6 +26,10 @@ description: ""
     <td class="tg-sxrn">https://workspace.google.com/dashboard</td>
   </tr>
 	<tr>
+    <td class="tg-zqva"><a href="https://go.gov.sg/pdlpwwss"><span style="text-decoration:none;color:#3AA66F">Westwood Sec PDLP Resource Site</span></a><br></td>
+    <td class="tg-sxrn">https://go.gov.sg/pdlpwwss</td>
+  </tr>
+	<tr>
     <td class="tg-7s4v"><a target="_blank" href="https://drive.google.com/file/d/1GSjC_XxSwQJra0EgTCyTdvJEHI32JfNy/view?usp=share_link"><span style="text-decoration:none;color:#3AA66F">Student Handbook 2023</span></a></td>
     <td class="tg-kgfz">https://go.gov.sg/wwwssstudenthandbook2023</td>
   </tr>
