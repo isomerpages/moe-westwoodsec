@@ -19,7 +19,7 @@ Email:&nbsp;[sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <b
 Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
 Opening hours: 730 am to 230 pm (during school term)
 
-### Booklist 2022
+### Booklist 2023
 Please refer to the booklist for details on sales of textbooks and uniform during the school holiday period.
 
 
