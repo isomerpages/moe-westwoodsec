@@ -10,7 +10,7 @@ HOD/Character &amp; Citizenship Education<center>
 	
 <img src="/images/miss%20lee%20chew%20yen.jpg" style="width:25%">
 <center> <b>Ms Lee Chew Yen<br> </b>
-HOD/Character &amp; Citizenship Education<center>
+HOD/English Language &amp; Literature<center>
 <br>
 	
 <br><br>
