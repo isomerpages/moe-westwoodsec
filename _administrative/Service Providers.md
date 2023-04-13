@@ -24,22 +24,22 @@ Please refer to the booklist for details on sales of textbooks and uniform durin
 
 
 **Secondary 1**
-* [Sec 1 Express](/files/1exp%202023.pdf)
-* [Sec 1 NA](/files/1na%202023.pdf)
-* [Sec 1 NT](/files/1nt%202023.pdf)
+* [Sec 1 Express](/files/1exp%202023.pdf"target="_blank")
+* [Sec 1 NA](/files/1na%202023.pdf"target="_blank")
+* [Sec 1 NT](/files/1nt%202023.pdf"target="_blank")
 
 **Secondary 2**
-* [Sec 2 Express](/files/2exp%202023.pdf)
-* [Sec 2 NA](/files/2na%202023.pdf)
-* [Sec 2 NT](/files/2nt%202023.pdf)
+* [Sec 2 Express](/files/2exp%202023.pdf"target="_blank")
+* [Sec 2 NA](/files/2na%202023.pdf"target="_blank")
+* [Sec 2 NT](/files/2nt%202023.pdf"target="_blank")
 
 **Secondary 3**
-* [Sec 3 Express](/files/3exp%202023.pdf)
-* [Sec 3 NA](/files/3na%202023.pdf)
-* [Sec 3 NT](/files/3nt%202023.pdf)
+* [Sec 3 Express](/files/3exp%202023.pdf"target="_blank")
+* [Sec 3 NA](/files/3na%202023.pdf"target="_blank")
+* [Sec 3 NT](/files/3nt%202023.pdf"target="_blank")
 
 **Secondary 4 &amp; 5**
-* [Sec 4 Express](/files/4exp%202023.pdf)
-* [Sec 4 NA](/files/4na%202023.pdf)
-* [Sec 4 NT](/files/4nt%202023.pdf)
-* [Sec 5 NA](/files/5na%202023.pdf)
+* [Sec 4 Express](/files/4exp%202023.pdf"target="_blank")
+* [Sec 4 NA](/files/4na%202023.pdf"target="_blank")
+* [Sec 4 NT](/files/4nt%202023.pdf"target="_blank")
+* [Sec 5 NA](/files/5na%202023.pdf"target="_blank")
