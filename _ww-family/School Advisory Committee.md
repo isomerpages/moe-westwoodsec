@@ -19,8 +19,8 @@ The Westwood School Advisory Committee (SAC) comprising representatives from gra
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0y1c{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-zqva{background-color:#FFF;color:#666;text-align:center;vertical-align:top}
+.tg .tg-0y1c{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zqva{background-color:#FFF;color:#666;text-align:left;vertical-align:top}
 .tg .tg-cmm0{background-color:#FFF;color:#666;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
