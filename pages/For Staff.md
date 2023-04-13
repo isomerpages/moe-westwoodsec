@@ -3,17 +3,18 @@ title: For Staff
 permalink: /general-information/useful-links/for-staff/
 description: ""
 ---
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxrn{background-color:#FBF6E3;color:#565656;text-align:left;vertical-align:top}
-.tg .tg-udx9{background-color:#FBF6E3;color:#3AA66F;text-align:left;vertical-align:top}
-.tg .tg-7s4v{background-color:#EDEBD4;color:#3AA66F;text-align:left;vertical-align:top}
-.tg .tg-kgfz{background-color:#EDEBD4;color:#565656;text-align:left;vertical-align:top}
+.tg .tg-0y1c{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zqva{background-color:#FFF;color:#666;text-align:left;vertical-align:top}
+.tg .tg-cmm0{background-color:#FFF;color:#666;text-align:left;vertical-align:top}
 </style>
+
 <table class="tg">
 <thead>
   <tr>
