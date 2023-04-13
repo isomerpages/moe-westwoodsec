@@ -3,7 +3,6 @@ title: For Staff
 permalink: /general-information/useful-links/for-staff/
 description: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -80,7 +79,7 @@ description: ""
     <td class="tg-sxrn">https://www.mesrc.net<br></td>
   </tr>
   <tr>
-    <td class="tg-7s4v"><a href="https://go.gov.sg/wwstaffpd"><span style="text-decoration:none;color:#3AA66F">Westwood PD Site</span></a><br>(Log in to iCON before clicking the link)<br></td>
+    <td class="tg-7s4v"><a href="https://go.gov.sg/wwstaffpd"><span style="text-decoration:none;color:#3AA66F">Westwood PD Site</span></a><br>(Requires Log in to iCON)<br></td>
     <td class="tg-kgfz">https://go.gov.sg/wwstaffpd<br></td>
   </tr>
   <tr>
@@ -92,11 +91,11 @@ description: ""
     <td class="tg-kgfz">http://go.gov.sg/sw9yzq<br></td>
   </tr>
   <tr>
-    <td class="tg-sxrn"><a href="http://go.gov.sg/47sptz"><span style="text-decoration:none;color:#3AA66F">AV and IT Request Form</span></a><br>(Log in to iCON before clicking the link)<br></td>
+    <td class="tg-sxrn"><a href="http://go.gov.sg/47sptz"><span style="text-decoration:none;color:#3AA66F">AVA and ICT Request Form</span></a><br>(Requires Log in to iCON)<br></td>
     <td class="tg-sxrn">http://go.gov.sg/47sptz<br></td>
   </tr>
   <tr>
-    <td class="tg-7s4v"><a href="https://tinyurl.com/near-miss-incident"><span style="text-decoration:none;color:#3AA66F">Near-Miss &amp; Others Reporting Form</span></a><br>(Log in to iCON before clicking the link)</td>
+    <td class="tg-7s4v"><a href="https://tinyurl.com/near-miss-incident"><span style="text-decoration:none;color:#3AA66F">Near-Miss &amp; Others Reporting Form</span></a><br>(Requires Log in to iCON)</td>
     <td class="tg-kgfz">https://tinyurl.com/near-miss-incident</td>
   </tr>
 </tbody>
