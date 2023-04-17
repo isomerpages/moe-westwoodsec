@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Westwood Secondary School
-      background: /images/banner.jpg
+      background: /images/rooted in character and skills to soar for the nation (2).gif
       key_highlights:
         - title: School Updates
           description: ""
