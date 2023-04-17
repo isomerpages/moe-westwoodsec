@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Westwood Secondary School
-      background: /images/test banner no resize.gif
+      background: /images/test banner.gif
       key_highlights:
         - title: School Updates
           description: ""
