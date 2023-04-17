@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Westwood Secondary School
-      background: /images/bannerv4.gif
+      background: /images/homepage.gif
       key_highlights:
         - title: School Updates
           description: ""
