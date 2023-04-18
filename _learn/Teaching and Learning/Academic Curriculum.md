@@ -1,7 +1,8 @@
 ---
-title: Teaching & Learning
-permalink: /academic-matters/teaching-n-learning/
+title: Academic Curriculum
+permalink: /academic-matters/academic-curriculum/
 description: ""
+third_nav_title: Teaching and Learning
 ---
 The academic curriculum serves to guide the school in providing quality academic programmes for Westwoodians. It is aligned to the Singapore Teaching Practice (STP) model and Westwood Assessment Policy. Through the academic curriculum, we seek to develop every Westwoodian to be a life-long and self-directed learner. 
 

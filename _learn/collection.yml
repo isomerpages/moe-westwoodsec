@@ -2,7 +2,7 @@ collections:
   learn:
     output: true
     order:
-      - Teaching & Learning.md
+      - Teaching and Learning/Academic Curriculum.md
       - Teaching and Learning/.keep
       - Teaching and Learning/Assessment Policy.md
       - Teaching and Learning/Homework Policy.md
