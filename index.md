@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.jpg
+      background: /images/bannergif.gif
       key_highlights:
         - title: School Updates
           description: ""
