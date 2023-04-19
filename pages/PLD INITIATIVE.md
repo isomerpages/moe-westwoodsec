@@ -3,8 +3,6 @@ title: PLD INITIATIVE
 permalink: /permalink/pldinitiative/
 description: ""
 ---
-         
-
 One of the components of the National Digital Literacy Programme (NDLP) is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD).
 
 **PROCUREMENT OF PLD**
@@ -13,7 +11,7 @@ The [Letter to Parents for PDLP Procurement](http://westwoodsec.moe.edu.sg/qql/
 
 To proceed with the purchase of your child’s/ward’s PLD, please fill in the **PLD Procurement Form** via the link by **20 January 2023**. You will require your Singpass to access the form. Do ensure that you enter your child’s/ward’s details (Name, NRIC/FIN, School, Class) correctly. You will receive an email acknowledgement with a summary of your response. 
 
-For parents who are provided with hardcopy form, please complete the form and submit to your child's/ward's class form teacher by **20 January 2022**.
+For parents who are provided with hardcopy form, please complete the form and submit to your child's/ward's class form teacher by **20 January 2023**.
 
 **DEVICE COLLECTION**
 
