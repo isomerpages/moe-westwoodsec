@@ -15,10 +15,10 @@ third_nav_title: Sports
 
 ### TEACHERS IN-CHARGE
 
-*   Mr Tan Jin Kiang Joel (TIC)
-*   Mr Jeremiah Lim
+*   Mr Jeremiah Lim (TIC)
 *   Mr Eric Liow Choon Cheang
 *   Mr Ahmad Luqman Bin Ghazali
+*   Mr Joel Tan
 
 ### TRAINING DAYS
 
@@ -136,10 +136,10 @@ third_nav_title: Sports
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Friendly Matches</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Pre-Season before the start of their B & C Division</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">Pre-Season before the start of their B &amp; C Division</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Friendly matches will be arranged for Basketballers to gain match experience and prepare for major tournaments.</span></td>
   </tr>
 </tbody>
 </table>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyz56MI6chz24C1OvB_bMVEOHaSUsYDngAbJGSvoxv0zM9-td7RhaIpPfytr7rodsEmM38ceAFsKo5/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyz56MI6chz24C1OvB_bMVEOHaSUsYDngAbJGSvoxv0zM9-td7RhaIpPfytr7rodsEmM38ceAFsKo5/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
