@@ -20,4 +20,5 @@ sections:
         - title: useful links
           description: ""
           url: /administrative/usefullinks/
+      background: /images/school website png.png
 ---
