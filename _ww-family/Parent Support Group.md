@@ -51,10 +51,6 @@ The Westwood PSG hopes to be a community of active and involved parents working 
     <td class="tg-zqva">Asst Treasurer </td>
   </tr>
   <tr>
-    <td class="tg-zqva">Ms Christina Ng<br></td>
-    <td class="tg-zqva"> Teacher Liaison<br></td>
-  </tr>
-  <tr>
     <td class="tg-zqva">Mr Charles Chou <br></td>
     <td class="tg-zqva">Teacher Liaison</td>
   </tr>
