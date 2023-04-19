@@ -12,7 +12,7 @@ third_nav_title: Organisation Chart
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   margin;mso-element-top:59.4pt;mso-height-rule:exactly">        
-<img style="width:25%" src="/images/mdm%20saha%20mousumi.jpeg"><b>Mdm Saha Mousumi<br></b>LT/English Language</p></td></tr><tr style="mso-yfti-irow:1"><td width="312" valign="top" style="width:233.75pt;border:solid windowtext 1.0pt;
+<img style="width:20%" src="/images/mdm%20saha%20mousumi.jpeg"><b>Mdm Saha Mousumi<br></b>LT/English Language</p></td></tr><tr style="mso-yfti-irow:1"><td width="312" valign="top" style="width:233.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
@@ -44,4 +44,4 @@ third_nav_title: Organisation Chart
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   margin;mso-element-top:59.4pt;mso-height-rule:exactly">         
-<img style="width:25%" src="/images/mr ahmad luqman bin ghazali.jpg"><b>Mr Ahmad Luqman Bin Ghazali</b><br>ST/CCE</p></td></tr></tbody></table>
+<img style="width:20%" src="/images/mr ahmad luqman bin ghazali.jpg"><b>Mr Ahmad Luqman Bin Ghazali</b><br>ST/CCE</p></td></tr></tbody></table>
