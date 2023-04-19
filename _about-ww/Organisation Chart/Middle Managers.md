@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Organisation Chart
 ---
 <ul class="jekyllcodex_accordion">
-<li><input id="accordion1" type="checkbox"> <label for="accordion1">HODs</label>
+<li><span><input id="accordion1" type="checkbox"> <label for="accordion1">HODs</label></span>
 <div>
        <p><img src="/images/mdm%20fauziah%20bte%20ahmad.jpg" style="width:25%">
 </p><center> <b>Mdm Fauziah Bte Ahmad<br></b>
