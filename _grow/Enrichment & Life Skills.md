@@ -1,11 +1,11 @@
 ---
-title: Enrichment & Life Skills
+title: Enrichment &amp; Life Skills
 permalink: /co-curriculum/enrichment-n-life-skills/
 description: ""
 ---
 ### OBJECTIVES
 
-Provide breadth and overall balance to Westwoodians’ co-curricular experience.  By enhancing learning experiences and supporting holistic development, the school aims to deliver meaningful enrichment and lifeskills programmes that will equip Westwoodians with the requisite competencies, knowledge and skills to realise their potential and to lead a purposeful life in a robust and dynamic world.
+Provide breadth and overall balance to Westwoodians’ co-curricular experience. &nbsp;By enhancing learning experiences and supporting holistic development, the school aims to deliver meaningful enrichment and lifeskills programmes that will equip Westwoodians with the requisite competencies, knowledge and skills to realise their potential and to lead a purposeful life in a robust and dynamic world.
 
 ### Programmes
 
@@ -32,20 +32,20 @@ Provide breadth and overall balance to Westwoodians’ co-curricular experience.
 <tbody>
   <tr>
     <td class="tg-njgx"><span style="color:#565656">School-wide</span></td>
-    <td class="tg-njgx" colspan="4">- School Distinctive Programmes<br>&nbsp;&nbsp;&nbsp;- Innovation and Social Entrepreneurship (ISE) - Applied Learning Programme (ALP)<br>&nbsp;&nbsp;&nbsp;- Arts for Life! - Learning for Life Programme (LLP) <br>- Character and Citizenship Education<br>- Education and Career Guidance<br>- Cyber Wellness<br>- Sexuality Education<br>- Values in Action<br>- Cohort Leadership<br>- Personal Effectiveness and Well-Being<br>- Environmental Education<br>- Financial Literacy<br>- Mother Tongue Fortnight</td>
+    <td class="tg-njgx" colspan="4">- School Distinctive Programmes<br>- Innovation and Social Entrepreneurship (ISE)<br>- Applied Learning Programme (ALP)<br>- Arts for Life! - Learning for Life Programme (LLP) <br>- Character and Citizenship Education<br>- Education and Career Guidance<br>- Cyber Wellness<br>- Sexuality Education<br>- Values in Action<br>- Cohort Leadership<br>- Personal Effectiveness and Well-Being<br>- Environmental Education<br>- Financial Literacy<br>- Mother Tongue Fortnight</td>
   </tr>
   <tr>
     <td class="tg-njgx"><span style="color:#565656">Level-wide</span></td>
-    <td class="tg-njgx">- Level Camp<br>- Math Games Day<br>- Dance<br>- Heritage Trails</td>
-    <td class="tg-njgx">- Adventure Camp (Local)<br>- Communication <br>- Studies II (Theatre Studies)<br>- Science &amp; DNT Day<br>- ISE Bazaar<br>- Heritage Trails and Learning Journey</td>
-    <td class="tg-njgx">- Adventure Camp (Overseas)<br>- Speech<br>- Humanities Learning Journey</td>
-    <td class="tg-njgx">- Level Camp<br>- Careers Day<br>- Study Skills<br>- Learning Journey</td>
+    <td class="tg-njgx">Level Camp<br><br>Math Games Day<br><br>Dance<br><br>Heritage Trails</td>
+    <td class="tg-njgx">Adventure Camp (Local)<br><br>Communication <br>Studies II (Theatre Studies)<br><br>Science &amp; DNT Day<br><br>ISE Bazaar<br><br>Heritage Trails and Learning Journey</td>
+    <td class="tg-njgx">Adventure Camp (Overseas)<br><br> Speech Day<br><br>Humanities Learning Journey</td>
+    <td class="tg-njgx">Level Camp<br><br>Careers Day<br><br>Study Skills<br><br>Learning Journey</td>
   </tr>
   <tr>
     <td class="tg-njgx"><span style="color:#565656">Stream / Group Specific</span></td>
     <td class="tg-mwz3"></td>
-    <td class="tg-njgx">- Elective Modules (NT/NA)<br>- Leadership Seminars/ Conferences (selected student leaders)</td>
-    <td class="tg-njgx">- Elective Modules (NT/NA)<br>- Advanced Elective Modules (EX)<br>- Overseas Service Learning (NT)<br>- Overseas Immersion (selected students across streams)<br>- Leadership Seminars/ Conferences (selected student leaders)<br>- Outward Bound Singapore (selected students across CCAs)<br>- Work Experience / Industrial Attachment (selected students across streams)</td>
+    <td class="tg-njgx">- Elective Modules (NT/NA)<br><br>Leadership Seminars/ Conferences (selected student leaders)</td>
+    <td class="tg-njgx">Elective Modules (NT/NA)<br><br>Advanced Elective Modules (EX)<br><br>Overseas Service Learning (NT)<br><br>Overseas Immersion (selected students across streams)<br><br>Leadership Seminars/ Conferences (selected student leaders)<br><br>Outward Bound Singapore (selected students across CCAs)<br><br>Work Experience / Industrial Attachment (selected students across streams)</td>
     <td class="tg-njgx">Elective Modules (NT/NA)</td>
   </tr>
 </tbody>

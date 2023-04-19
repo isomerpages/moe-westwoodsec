@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner.jpg
       key_highlights:
         - title: School Updates
           description: ""
@@ -21,4 +20,5 @@ sections:
         - title: useful links
           description: ""
           url: /administrative/usefullinks/
+      background: /images/newbannerresized.jpg
 ---

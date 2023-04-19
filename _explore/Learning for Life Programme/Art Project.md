@@ -16,9 +16,8 @@ Here are some of the comic inspired works by our proud Westwoodians from Class 2
 ### ART EXHIBITION
 
 
-We held a small arts exhibition to display the students & the teachers’ art works!  
-  
-[https://www.instagram.com/tv/CW7ERgxFX9t/?hl=en](https://www.instagram.com/tv/CW7ERgxFX9t/?hl=en)   
+We held a small arts exhibition to display the students & the teachers’ art works!  Click [here](https://www.instagram.com/tv/CW7ERgxFX9t/?hl=en) to view the art works.
+   
   
 
 ### COLLABORATION WITH HDB IN COMMUNITY ART PROJECT

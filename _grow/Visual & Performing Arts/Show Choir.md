@@ -16,8 +16,8 @@ third_nav_title: Visual &amp; Performing Arts
 ### TEACHERS IN-CHARGE
 
 *   Mdm You Chow Ling (TIC)  
-*   Mr Mohammad Redzuan Bin Jaafar
 *   Mdm Tang Tai-Chi
+*   Mr Mohammad Redzuan Bin Jaafar
 *   Mdm Insyirah Jumat
 
   
