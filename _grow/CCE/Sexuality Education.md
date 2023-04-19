@@ -21,29 +21,22 @@ Abstinence before marriage is the best protection against STIs/HIV and unintende
 
 #### OVERVIEW OF WESTWOOD SECONDARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2023
 
-Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+1. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+ <br><br>2. The subjects that incorporate topics on sexuality includes Science and Character and Citizenship Education (CCE).
 
-The subjects that incorporate topics on sexuality include:
+#### Sexuality Education Lessons
 
-*   Science
-*   Character and Citizenship Education (CCE)
+1. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. &nbsp;Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
 
- 
-**Sexuality Education Lessons**  
+2. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. <br><br>Click [here](/files/westwood_sed_schedule_2023.pdf) to view the Sexuality Education Programme in Westwood Secondary School.
 
-The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. &nbsp;Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
+#### eTeens_&nbsp;Programme
 
-Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
+1. &nbsp;_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.&nbsp;
+<br><br>
+2. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.<br><br>
 
-Click [here](/files/westwood_sed_schedule_2023.pdf) to view the Sexuality Education Programme in Westwood Secondary School.
-
-**_eTeens_&nbsp;Programme**
-
-&nbsp;_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.&nbsp;
-
-Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
-
-At Westwood Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:
+3. At Westwood Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -80,12 +73,4 @@ At Westwood Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implement
 
 ###  INFORMATION FOR PARENTS
 
-Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary Sexuality Education programmes by MOE-approved external providers.
-
-Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. You may click&nbsp;[here](https://form.gov.sg/61ec31f16794960014a47162)&nbsp;to complete the opt-out form.&nbsp;
-
-Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form.&nbsp;You may click&nbsp;[here](https://form.gov.sg/#!/61ec380b2686c20012090d50)&nbsp;to complete the opt-out form
-
-Parents can contact the school at 6792 9737 or email us at&nbsp;[westwood\_ss@moe.edu.sg](mailto:westwood_ss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
-
-&nbsp;Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+1. Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary Sexuality Education programmes by MOE-approved external providers.<br><br>2. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. You may click&nbsp;[here](https://form.gov.sg/61ec31f16794960014a47162)&nbsp;to complete the opt-out form.&nbsp; <br><br>3. Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme**&nbsp;need to complete an opt-out form.&nbsp;You may click&nbsp;[here](https://form.gov.sg/#!/61ec380b2686c20012090d50)&nbsp;to complete the opt-out form.<br><br>4. Parents can contact the school at 6792 9737 or email us at&nbsp;[westwood\_ss@moe.edu.sg](mailto:westwood_ss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme. <br><br>5. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
