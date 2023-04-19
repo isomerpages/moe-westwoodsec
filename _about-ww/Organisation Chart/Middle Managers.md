@@ -4,6 +4,9 @@ permalink: /about-us/organisation-chart/middle-managers/
 description: ""
 third_nav_title: Organisation Chart
 ---
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox"> <label for="accordion1">HODs</label>
+<div>
 <img src="/images/mdm%20fauziah%20bte%20ahmad.jpg" style="width:25%">
 <center> <b>Mdm Fauziah Bte Ahmad<br></b>
 HOD/Character &amp; Citizenship Education<center>
@@ -46,9 +49,14 @@ HOD/Technology &amp; Design<center>
 <img src="/images/mdm nur hidayah binte moktar.jpg" style="width:25%">
 <center> <b>Mdm Nur Hidayah Bte Moktar<br> </b>
 School Staff Developer<center>
-	
+</center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></div>
+</li>
 
 	
+
+<li><input id="accordion2" type="checkbox"> <label for="accordion2">Year Head</label>
+	<div>
+			
 <img src="/images/ms%20maria%20marzuki.jpeg" style="width:25%">
 <center> <b>Ms Maria Marzuki<br> </b>
 Year Head/ Lower Sec<center>
@@ -70,6 +78,11 @@ Assistant Year Head/Upper Sec<center>
 <center> <b>Ms See Ai Xin Alliot<br> </b>
 Assistant Year Head (Acting)<center>
 	
+</center></center></center></center></center></center></center></center></center></center></div>
+</li>
+
+<li><input id="accordion3" type="checkbox"> <label for="accordion3">Subject Head</label>
+<div>
 	
 <img src="/images/ms nadia binte eddy razali.jpg" style="width:25%">
 <center> <b>Mdm Nadia Binte Eddy Razali<br> </b>
@@ -104,4 +117,7 @@ SH/Chemistry<center>
 <img src="/images/mr mohammad redzuan bin ja'afar.jpg" style="width:25%">
 <center> <b>Mr Mohammad Redzuan  
 Bin Jaafar<br> </b>
-SH/Student Management<center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center>
+SH/Student Management<center>
+</center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></div>
+</li>
+</ul>
