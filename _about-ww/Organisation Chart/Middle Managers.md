@@ -7,8 +7,8 @@ third_nav_title: Organisation Chart
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">HODs</label>
 <div>
-<img src="/images/mdm%20fauziah%20bte%20ahmad.jpg" style="width:25%">
-<center> <b>Mdm Fauziah Bte Ahmad<br></b>
+       <p><img src="/images/mdm%20fauziah%20bte%20ahmad.jpg" style="width:25%">
+</p><center> <b>Mdm Fauziah Bte Ahmad<br></b>
 HOD/Character &amp; Citizenship Education<center>
 	
 <img src="/images/miss%20lee%20chew%20yen.jpg" style="width:25%">
@@ -48,7 +48,7 @@ HOD/Technology &amp; Design<center>
 	
 <img src="/images/mdm nur hidayah binte moktar.jpg" style="width:25%">
 <center> <b>Mdm Nur Hidayah Bte Moktar<br> </b>
-School Staff Developer<center>
+School Staff Developer<center><p></p>
 </center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></div>
 </li>
 
