@@ -51,24 +51,24 @@ School Staff Developer<center>
 	
 <img src="/images/ms%20maria%20marzuki.jpeg" style="width:25%">
 <center> <b>Ms Maria Marzuki<br> </b>
-Sec 4/5 Year Head<center>
+Year Head/ Lower Sec<center>
 	
 <img src="/images/mdm%20soo%20woon%20siew.jpg" style="width:25%">
 <center> <b>Mdm Soo Woon Siew<br> </b>
-Sec 3 Year Head<center>
+Year Head/ Upper Sec<center>
 	
 <img src="/images/ms%20nurul%20atika%20bte%20ramli.jpg" style="width:25%">
 <center> <b>Ms Nurul Atika Bte Ramli<br> </b>
-Sec 1 Assistant Year Head<center>
+Assistant Year Head/ Lower Sec<center>
 	
 <img src="/images/mr%20huang%20kai%20sen%20clement.jpg" style="width:25%">
 <center> <b>Mr Huang Kai Sen Clement<br> </b>
-Sec 2 Assistant Year Head<center>
+Assistant Year Head/Upper Sec<center>
 
 	
 <img src="/images/miss see ai xin alliot.jpg" style="width:25%">
 <center> <b>Ms See Ai Xin Alliot<br> </b>
-Assistant Year Head (covering)<center>
+Assistant Year Head (Acting)<center>
 	
 	
 <img src="/images/ms nadia binte eddy razali.jpg" style="width:25%">
@@ -81,7 +81,7 @@ SH/Food &amp; Nutrition<center>
 	
 <img src="/images/miss loh may-kay maria.jpg" style="width:25%">
 <center> <b>Ms Loh May-Kay Maria<br> </b>
-SH/Social Studies (covering)<center>
+SH/History (Acting)<center>
 	
 <img src="/images/mr%20chan%20chi%20thio.jpeg" style="width:25%">
 <center> <b>Mr Chan Chi Thio<br> </b>
