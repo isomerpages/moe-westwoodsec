@@ -35,7 +35,7 @@ The values and attitudes of our youth towards sexuality are increasingly shaped 
 
 Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-Click&nbsp;[here](/files/WW%20SEd%20Programme_16062022.pdf) to view the Sexuality Education Programme in Westwood Secondary School.
+Click [here](/files/westwood_sed_schedule_2023.pdf) to view the Sexuality Education Programme in Westwood Secondary School.
 
 **_eTeens_&nbsp;Programme**
 
