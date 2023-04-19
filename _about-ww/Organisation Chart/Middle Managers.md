@@ -4,9 +4,6 @@ permalink: /about-us/organisation-chart/middle-managers/
 description: ""
 third_nav_title: Organisation Chart
 ---
-
-
-
 <style>
 .accordion {
   background-color: #eee;
@@ -32,9 +29,6 @@ third_nav_title: Organisation Chart
   overflow: hidden;
 }
 </style>
-
-
-
 
 <button class="accordion">HOD</button>
 <div class="panel">
@@ -147,8 +141,3 @@ Bin Jaafar<br> </b>
 SH/Student Management<center>
 <p></p>
 </center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></div>
-
-
-
-
-
