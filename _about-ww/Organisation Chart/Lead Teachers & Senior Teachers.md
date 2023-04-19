@@ -12,36 +12,36 @@ third_nav_title: Organisation Chart
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   margin;mso-element-top:59.4pt;mso-height-rule:exactly">        
-<img style="width:30%" src="/images/mdm%20saha%20mousumi.jpeg"><b>Mdm Saha Mousumi<br></b>LT/English Language</p></td></tr><tr style="mso-yfti-irow:1"><td width="312" valign="top" style="width:233.75pt;border:solid windowtext 1.0pt;
+<img style="width:25%" src="/images/mdm%20saha%20mousumi.jpeg"><b>Mdm Saha Mousumi<br></b>LT/English Language</p></td></tr><tr style="mso-yfti-irow:1"><td width="312" valign="top" style="width:233.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   margin;mso-element-top:59.4pt;mso-height-rule:exactly">         
-<img style="width:60%" src="/images/mdm wang fang.jpg"><b>Mdm Wang Fang</b><br>ST/Chinese Language</p></td><td width="312" valign="top" style="width:233.75pt;border-top:none;border-left:
+<img style="width:40%" src="/images/mdm wang fang.jpg"><b>Mdm Wang Fang</b><br>ST/Chinese Language</p></td><td width="312" valign="top" style="width:233.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   margin;mso-element-top:59.4pt;mso-height-rule:exactly">     
-<img style="width:60%" src="/images/mdm puvaneswari d_o raman.jpg"><b>Mdm Puvaneswari d/o Raman</b><br>ST/Mathematics</p></td></tr><tr style="mso-yfti-irow:2"><td width="312" valign="top" style="width:233.75pt;border:solid windowtext 1.0pt;
+<img style="width:40%" src="/images/mdm puvaneswari d_o raman.jpg"><b>Mdm Puvaneswari d/o Raman</b><br>ST/Mathematics</p></td></tr><tr style="mso-yfti-irow:2"><td width="312" valign="top" style="width:233.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   margin;mso-element-top:59.4pt;mso-height-rule:exactly">        
-<img style="width:60%" src="/images/mr muhamad hamim b abdul rahim.jpg"><b>Mr Muhammad Hamim B Abdul Rahim</b><br>ST/PE</p></td><td width="312" valign="top" style="width:233.75pt;border-top:none;border-left:
+<img style="width:40%" src="/images/mr muhamad hamim b abdul rahim.jpg"><b>Mr Muhammad Hamim B Abdul Rahim</b><br>ST/PE</p></td><td width="312" valign="top" style="width:233.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   margin;mso-element-top:59.4pt;mso-height-rule:exactly">        
-<img style="width:60%" src="/images/mr syed ali bin mohd alhabshee.jpg"><b>Mr Syed Ali Bin Mohamed Alhabshee</b><br>ST/Science</p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td width="623" colspan="2" valign="top" style="width:467.5pt;border:solid windowtext 1.0pt;
+<img style="width:40%" src="/images/mr syed ali bin mohd alhabshee.jpg"><b>Mr Syed Ali Bin Mohamed Alhabshee</b><br>ST/Science</p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td width="623" colspan="2" valign="top" style="width:467.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   margin;mso-element-top:59.4pt;mso-height-rule:exactly">         
-<img style="width:30%" src="/images/mr ahmad luqman bin ghazali.jpg"><b>Mr Ahmad Luqman Bin Ghazali</b><br>ST/CCE</p></td></tr></tbody></table>
+<img style="width:25%" src="/images/mr ahmad luqman bin ghazali.jpg"><b>Mr Ahmad Luqman Bin Ghazali</b><br>ST/CCE</p></td></tr></tbody></table>
