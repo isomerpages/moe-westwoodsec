@@ -16,7 +16,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zqva"><a href="https://learning.moe.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Student Learning Space</span></a><br>(<a href="http://westwoodsec.moe.edu.sg/qql/slot/u558/Latest%20Update/E-learning/SLS%20Login%20Instructions%20and%20FAQs.pdf"><span style="text-decoration:none;color:#3AA66F">View Instructions and FAQs</span></a>)</th>
+    <th class="tg-zqva"><a href="https://learning.moe.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Student Learning Space</span></a></th>
     <th class="tg-kgfz">https://learning.moe.edu.sg</th>
   </tr>
 </thead>
