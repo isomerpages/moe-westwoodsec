@@ -20,5 +20,5 @@ sections:
         - title: useful links
           description: ""
           url: /administrative/usefullinks/
-      background: /images/newbanner resized.jpg
+      background: /images/newbannerresized.jpg
 ---
