@@ -29,38 +29,7 @@ details > p {
 details[open] > summary {
   background-color: #4E8774;
 }
-	input {
-    display: none;
-}
 
-label {
-    display: block;    
-    padding: 8px 22px;
-    margin: 0 0 1px 0;
-    cursor: pointer;
-    background: #6AAB95;
-    border-radius: 3px;
-    color: #FFF;
-    transition: ease .5s;
-}
-
-label:hover {
-    background: #4E8774;
-}
-
-.content {
-    padding: 10px 25px;
-    margin: 0 0 1px 0;
-    border-radius: 3px;
-}
-
-input:unchecked {
-    display: none;
-}
-
-input:checked {
-    display: block;
-}
 </style>
 
 <details>
@@ -199,19 +168,3 @@ input:checked {
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a target="_blank" href="https://go.gov.sg/nrzysy">(User Guide for Parents)</a>
 </details>
-
-
-
-<input id="title1" type="checkbox">
-<label for="title1">For Staff</label>
-<div class="content">
-<p>test test</p>
-	<p>test test</p>
-</div>
-	
-<input id="title2" type="checkbox">
-<label for="title2">For Students</label>
-<div class="content">
-<p>test test</p>
-	<p>test test</p>
-</div>
