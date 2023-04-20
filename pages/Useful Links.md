@@ -44,6 +44,7 @@ input:checked + label + .content {
 
 <input id="title1" type="checkbox">
 <label for="title1">For Staff</label>
+<div class="content">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://intranet.moe.gov.sg/">MOE Intranet</a>
 <br><br>
@@ -103,8 +104,6 @@ input:checked + label + .content {
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a>
-<div class="content">
-
 </div>
 
 <input id="title2" type="checkbox">
