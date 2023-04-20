@@ -17,10 +17,9 @@ details {
 
 details > summary {
   padding: 2px 6px;
-  width: 15em;
+  width: 800px;
   background-color: #6AAB95;
   border: none;
-  box-shadow: 3px 3px 4px black;
   cursor: pointer;
 }
 
