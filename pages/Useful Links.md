@@ -78,7 +78,15 @@ input:checked + label + .content {
 <a href="https://form.gov.sg/">Form SG</a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<a href="https://go.gov.sg/">go.gov.sg short links</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.moh.gov.sg/">Ministry of Health</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.haze.gov.sg/">Haze Situation Update</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div class="content">
 
 </div>
