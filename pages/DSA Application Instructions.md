@@ -1,6 +1,6 @@
 ---
 title: DSA Application Instructions
-permalink: /permalink/
+permalink: /permalink/dsa-application/
 description: ""
 ---
 #### DSA Application Instructions
