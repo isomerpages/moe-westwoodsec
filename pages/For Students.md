@@ -16,7 +16,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zqva"><a href="https://learning.moe.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Student Learning Space</span></a><br>(<a href="http://westwoodsec.moe.edu.sg/qql/slot/u558/Latest%20Update/E-learning/SLS%20Login%20Instructions%20and%20FAQs.pdf"><span style="text-decoration:none;color:#3AA66F">View Instructions and FAQs</span></a>)</th>
+    <th class="tg-zqva"><a href="https://learning.moe.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Student Learning Space</span></a></th>
     <th class="tg-kgfz">https://learning.moe.edu.sg</th>
   </tr>
 </thead>
@@ -106,7 +106,7 @@ description: ""
     <td class="tg-kgfz">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp<br></td>
   </tr>
   <tr>
-    <td class="tg-udx9"><a href="https://studentgpa.incomegroupins.com.sg/"><span style="text-decoration:none;color:#3AA66F">Online student insurance claim portal</span></a><br><a href="http://westwoodsec.moe.edu.sg/qql/slot/u558/Latest%20Update/GPA%20Product%20Fact%20Sheet%202022.pdf"><span style="text-decoration:none;color:#3AA66F">(View GPA Factsheet)</span></a></td>
+    <td class="tg-udx9"><a href="https://studentgpa.incomegroupins.com.sg/"><span style="text-decoration:none;color:#3AA66F">Online student insurance claim portal</span></a><br><a href="https://go.gov.sg/rpk4gv"><span style="text-decoration:none;color:#3AA66F">(View GPA Factsheet)</span></a><br><a href="https://go.gov.sg/nrzysy"><span style="text-decoration:none;color:#3AA66F">(User Guide for Parents)</span></a></td>
     <td class="tg-sxrn">https://studentgpa.incomegroupins.com.sg</td>
   </tr>
 </tbody>
