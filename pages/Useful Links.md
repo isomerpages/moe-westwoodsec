@@ -11,10 +11,43 @@ description: ""
 **[For Students](/general-information/useful-links/for-students/)**
 
 
-<details>
-<summary>For Staff</summary><br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://intranet.moe.gov.sg/">MOE Intranet</a>
+<style>
+input {
+    display: none;
+}
+
+label {
+    display: block;
+    padding: 8px 22px;
+    margin: 0 0 1px 0;
+    cursor: pointer;
+    background: #6AAB95;
+    border-radius: 3px;
+    color: #FFF;
+    transition: ease .5s;
+}
+
+label:hover {
+    background: #4E8774;
+}
+	.content {
+
+}
+
+input + label + .content {
+    display: none;
+}
+
+input:checked + label + .content {
+    display: block;
+}
+</style>
+
+<input id="title1" type="checkbox">
+<label for="title1">For Staff</label>
+<div class="content"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://intranet.moe.gov.sg/">MOE Intranet</a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://workspace.google.com/dashboard">iCON Email</a>
@@ -71,11 +104,13 @@ description: ""
 <a href="https://www.haze.gov.sg/">Haze Situation Update</a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a><br>
-</details>
-<p>
-</p><details>
-<summary>For Students</summary><br>
+<a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a>
+</div>
+
+<input id="title2" type="checkbox">
+<label for="title2">For Students</label>
+
+<div class="content"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://learning.moe.edu.sg/">Student Learning Space</a>
 	<br><br>
@@ -146,4 +181,5 @@ description: ""
 	<a target="_blank" href="https://go.gov.sg/rpk4gv">(View GPA Factsheet)</a><br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a target="_blank" href="https://go.gov.sg/nrzysy">(User Guide for Parents)</a>
-	</details>
+
+</div>
