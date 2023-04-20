@@ -6,7 +6,7 @@ description: ""
 <style>
 details {
   font: 16px;
-	color: #fff;
+	color: #000;
 	font-size: 20px;
   width: 800px;
 }
@@ -14,7 +14,7 @@ details {
 details > summary {
   padding: 2px 6px;
   width: 800px;
-  background-color: #6AAB95;
+  background-color: #fff;
   border: none;
   cursor: pointer;
 }
@@ -27,7 +27,7 @@ details > p {
 }
 
 details[open] > summary {
-  background-color: #4E8774;
+  background-color: #fff;
 }
 
 </style>
