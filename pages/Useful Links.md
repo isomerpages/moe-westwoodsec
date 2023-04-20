@@ -56,7 +56,7 @@ label:hover {
     border-radius: 3px;
 }
 
-input + label + .content {
+input:unchecked {
     display: none;
 }
 
