@@ -27,6 +27,9 @@ label:hover {
     background: #4E8774;
 }
 	.content {
+    background: #fff;
+    padding: 10px 25px;
+    border: 1px solid #fff;
     margin: 0 0 1px 0;
     border-radius: 3px;
 }
