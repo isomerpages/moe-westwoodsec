@@ -110,5 +110,21 @@ input:checked + label + .content {
 <label for="title2">For Students</label>
 
 <div class="content">
-<p>Your content goes here.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://learning.moe.edu.sg/">Student Learning Space</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://workspace.google.com/dashboard">Student iCON Email</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://go.gov.sg/pdlpwwss">Westwood Sec PDLP Resource Site</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a target="_blank" href="https://drive.google.com/file/d/1GSjC_XxSwQJra0EgTCyTdvJEHI32JfNy/view?usp=share_link">Student Handbook 2023</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+	
+	
+	
 </div>
