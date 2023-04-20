@@ -60,7 +60,6 @@ HOD/English Language &amp; Literature<center>
 	
 <br><br>
 	
-
 <center> <b>Mr Zhong Shenghan Desmond<br> </b>
 HOD/Humanities<center>
 	
@@ -72,7 +71,6 @@ HOD/ICT<center>
 <center> <b>Mr Lau Yongxing Bob<br> </b>
 HOD/Mathematics<center>
 
-	
 <img src="/images/mr li yundong.jpeg" style="width:25%">
 <center> <b>Mr Li Yundong<br> </b>
 HOD/Mother Tongue Languages<center>
@@ -82,8 +80,7 @@ HOD/Mother Tongue Languages<center>
 HOD/Science<center> <img src="/images/mdm%20nur%20rakeezah%20bte%20abdul%20rahim.jpg" style="width:25%">
 <center> <b>Mdm Nur Rakeezah Bte Abdul Rahim<br> </b>
 HOD/Student Management<center>
-
-		
+	
 <img src="/images/mr%20heng%20yih%20foo%20hector.jpg" style="width:25%">
 <center> <b>Mr Heng Yih Foo Hector<br> </b>
 HOD/Technology &amp; Design<center>
@@ -91,8 +88,6 @@ HOD/Technology &amp; Design<center>
 <img src="/images/mdm nur hidayah binte moktar.jpg" style="width:25%">
 <center> <b>Mdm Nur Hidayah Bte Moktar<br> </b>
 School Staff Developer<center>
-	
-
 	
 <img src="/images/ms%20maria%20marzuki.jpeg" style="width:25%">
 <center> <b>Ms Maria Marzuki<br> </b>
