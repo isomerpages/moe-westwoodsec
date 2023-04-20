@@ -9,12 +9,6 @@ description: ""
 **[For Staff](/general-information/useful-links/for-staff/)**
 
 **[For Students](/general-information/useful-links/for-students/)**
-
-
-
-
-
-
 <title>CSS Accordion</title>
 
 <style>
@@ -48,15 +42,21 @@ input:checked + label + .content {
 
 </style>
 
-
-
-
-
 <input id="title1" type="checkbox">
 <label for="title1">For Staff</label>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://intranet.moe.gov.sg/">MOE Intranet</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://workspace.google.com/dashboard">iCON Email</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://scmobile.moe.edu.sg/">SC Mobile</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a>
 <div class="content">
-<p>Your content goes here.</p>
+
 </div>
 
 <input id="title2" type="checkbox">
@@ -65,9 +65,3 @@ input:checked + label + .content {
 <div class="content">
 <p>Your content goes here.</p>
 </div>
-
-
-
-
-
-	
