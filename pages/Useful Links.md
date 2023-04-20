@@ -28,7 +28,6 @@ details > p {
   background-color: #ddd;
   padding: 2px 6px;
   margin: 0;
-  box-shadow: 3px 3px 4px black;
 }
 
 details[open] > summary {
