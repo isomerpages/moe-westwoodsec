@@ -150,7 +150,36 @@ input:checked + label + .content {
 	<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="http://www.nyp.edu.sg/">Nanyang Polytechnic (NYP)</a>
-	
+	<a href="http://www.rp.edu.sg/">Republic Polytechnic (RP)</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://www.ite.edu.sg/">Institute of Technical Education (ITE)</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://www.lasalle.edu.sg/">LASALLE College of the Arts</a>
+		<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://www.nafa.edu.sg/">Nanyang Academy of Fine Arts (NAFA)</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa/apply/">Direct School Admission - Junior Colleges (DSA-JC)</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp">Polytechnic Early Admissions Exercise (EAE)</a>
+		<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://pfp.polytechnic.edu.sg/PFP/index.html">Polytechnic Foundation Programme (PFP)</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp">Direct Entry Scheme to Polytechnic Programme (DPP)</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://studentgpa.incomegroupins.com.sg/">Online student insurance claim portal</a>
+	<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a target="_blank" href="https://go.gov.sg/rpk4gv">(View GPA Factsheet)</a><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a target="_blank" href="https://go.gov.sg/nrzysy">(User Guide for Parents)</a>
 	
 
 	
