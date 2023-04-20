@@ -4,7 +4,38 @@ permalink: /about-us/organisation-chart/middle-managers/
 description: ""
 third_nav_title: Organisation Chart
 ---
-<img src="/images/mdm%20fauziah%20bte%20ahmad.jpg" style="width:25%">
+<style>
+details {
+  font: 16px;
+	color: #000;
+	font-size: 20px;
+  width: 800px;
+}
+
+details > summary {
+  padding: 2px 6px;
+  width: 800px;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+details > p {
+  border-radius: 0 0 2px 6px;
+  background-color: #ddd;
+  padding: 2px 6px;
+  margin: 0;
+}
+
+details[open] > summary {
+  background-color: #fff;
+}
+
+</style>
+
+<details>
+<summary>HODs</summary><br>
+ <img src="/images/mdm%20fauziah%20bte%20ahmad.jpg" style="width:25%">
 <center> <b>Mdm Fauziah Bte Ahmad<br></b>
 HOD/Character &amp; Citizenship Education<center>
 	
@@ -45,10 +76,12 @@ HOD/Technology &amp; Design<center>
 	
 <img src="/images/mdm nur hidayah binte moktar.jpg" style="width:25%">
 <center> <b>Mdm Nur Hidayah Bte Moktar<br> </b>
-School Staff Developer<center>
+School Staff Developer<center>  </center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></details>
 	
 
-	
+<details>
+
+&nbsp;&nbsp;&nbsp;<summary>Year Heads</summary><br>
 <img src="/images/ms%20maria%20marzuki.jpeg" style="width:25%">
 <center> <b>Ms Maria Marzuki<br> </b>
 Year Head/ Lower Sec<center>
@@ -68,9 +101,11 @@ Assistant Year Head/Upper Sec<center>
 	
 <img src="/images/miss see ai xin alliot.jpg" style="width:25%">
 <center> <b>Ms See Ai Xin Alliot<br> </b>
-Assistant Year Head (Acting)<center>
+Assistant Year Head (Acting)<center></center></center></center></center></center></center></center></center></center></center></details>
 	
-	
+<details>
+
+&nbsp;&nbsp;&nbsp;<summary>Subject Heads</summary><br>	
 <img src="/images/ms nadia binte eddy razali.jpg" style="width:25%">
 <center> <b>Mdm Nadia Binte Eddy Razali<br> </b>
 SH/Character &amp; Citizenship Education<center>
@@ -104,4 +139,4 @@ SH/Chemistry<center>
 <img src="/images/mr mohammad redzuan bin ja'afar.jpg" style="width:25%">
 <center> <b>Mr Mohammad Redzuan  
 Bin Jaafar<br> </b>
-SH/Student Management<center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center>
+SH/Student Management<center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></center></details>
