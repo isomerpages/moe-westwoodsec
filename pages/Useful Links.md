@@ -60,7 +60,7 @@ input + label + .content {
     display: none;
 }
 
-input:checked + label + .content {
+input:checked {
     display: block;
 }
 </style>
@@ -207,11 +207,13 @@ input:checked + label + .content {
 <input id="title1" type="checkbox">
 <label for="title1">For Staff</label>
 <div class="content">
-<p></p>
+<p>test test</p>
+	<p>test test</p>
 </div>
 	
 <input id="title2" type="checkbox">
 <label for="title2">For Students</label>
 <div class="content">
-<p></p>
+<p>test test</p>
+	<p>test test</p>
 </div>
