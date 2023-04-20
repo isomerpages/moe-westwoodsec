@@ -3,7 +3,6 @@ title: Useful Links
 permalink: /administrative/usefullinks/
 description: ""
 ---
-
 <style>
 details {
   font: 16px;
