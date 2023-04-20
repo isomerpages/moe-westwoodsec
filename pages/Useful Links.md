@@ -3,9 +3,6 @@ title: Useful Links
 permalink: /administrative/usefullinks/
 description: ""
 ---
-**[For Staff](/general-information/useful-links/for-staff/)**
-
-**[For Students](/general-information/useful-links/for-students/)**
 
 <style>
 details {
@@ -96,9 +93,7 @@ details[open] > summary {
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a>
-
 </details>
-<br>
 
 <details>
 	<summary>For Students</summary><br>
