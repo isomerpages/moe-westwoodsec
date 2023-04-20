@@ -103,10 +103,6 @@ input:checked + label + .content {
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://go.gov.sg/wwstaffpd">Westwood PD Site</a>
-
 <div class="content">
 
 </div>
