@@ -91,7 +91,7 @@ details[open] > summary {
 <a href="https://www.haze.gov.sg/">Haze Situation Update</a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a>
+<a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a><br><br>
 </details>
 
 <details>
