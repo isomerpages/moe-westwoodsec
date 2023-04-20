@@ -3,49 +3,37 @@ title: Useful Links
 permalink: /administrative/usefullinks/
 description: ""
 ---
-# Useful Links
-
-
-**[For Staff](/general-information/useful-links/for-staff/)**
-
-**[For Students](/general-information/useful-links/for-students/)**
-<title>CSS Accordion</title>
-
 <style>
-
-input {
-    display: none;
+details {
+  font: 16px;
+	color: #000;
+	font-size: 20px;
+  width: 800px;
 }
 
-label {
-    display: block;
-	  width: 800px;
-    padding: 8px 22px;
-    margin: 0 0 1px 0;
-    cursor: pointer;
-    background: #6AAB95;
-    border-radius: 3px;
-    color: #FFF;
-    transition: ease .5s;
+details > summary {
+  padding: 2px 6px;
+  width: 800px;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
 }
 
-label:hover {
-    background: #4E8774;
+details > p {
+  border-radius: 0 0 10px 10px;
+  background-color: #ddd;
+  padding: 2px 6px;
+  margin: 0;
 }
 
-input + label + .content {
-    display: none;
-}
-
-input:checked + label + .content {
-    display: block;
+details[open] > summary {
+  background-color: #fff;
 }
 
 </style>
 
-<input id="title1" type="checkbox">
-<label for="title1">For Staff</label>
-<div class="content">
+<details>
+	<summary>For Staff</summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://intranet.moe.gov.sg/">MOE Intranet</a>
 <br><br>
@@ -104,13 +92,11 @@ input:checked + label + .content {
 <a href="https://www.haze.gov.sg/">Haze Situation Update</a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a>
-</div>
+<a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a><br><br>
+</details>
 
-<input id="title2" type="checkbox">
-<label for="title2">For Students</label>
-
-<div class="content">
+<details>
+	<summary>For Students</summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://learning.moe.edu.sg/">Student Learning Space</a>
 	<br><br>
@@ -181,5 +167,4 @@ input:checked + label + .content {
 	<a target="_blank" href="https://go.gov.sg/rpk4gv">(View GPA Factsheet)</a><br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a target="_blank" href="https://go.gov.sg/nrzysy">(User Guide for Parents)</a>
-
-</div>
+</details>
