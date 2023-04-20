@@ -132,6 +132,26 @@ input:checked + label + .content {
 	<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">MySkillsFuture Student Portal</a>
 	<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.nstream.sg/login/login.aspx">e-streaming portal</a>
+		<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.csa.gov.sg/gosafeonline/">Go Safe Online</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://sis.moe.gov.sg/">Junior Colleges</a>
+		<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://www.sp.edu.sg/">Singapore Polytechnic (SP)</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://www.np.edu.sg/">Ngee Ann Polytechnic (NP)</a><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://www.tp.edu.sg/">Temasek Polytechnic (TP)</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://www.nyp.edu.sg/">Nanyang Polytechnic (NYP)</a>
+	
+	
 
 	
 	
