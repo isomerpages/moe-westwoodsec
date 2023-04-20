@@ -57,6 +57,21 @@ input:checked + label + .content {
 <a href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://go.gov.sg/wwstaffpd">Westwood PD Site</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://rbs.avero-tech.com/">Resource Booking Service (RBS)</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://go.gov.sg/sw9yzq">Fault Reporting Form</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://go.gov.sg/47sptz">AVA and ICT Request Form</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tinyurl.com/near-miss-incident">Near-Miss &amp; Others Reporting Form</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://pg.moe.edu.sg/">Parents Gateway</a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -87,6 +102,11 @@ input:checked + label + .content {
 <a href="https://www.haze.gov.sg/">Haze Situation Update</a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://go.gov.sg/wwstaffpd">Westwood PD Site</a>
+
 <div class="content">
 
 </div>
