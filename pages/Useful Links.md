@@ -55,6 +55,30 @@ input:checked + label + .content {
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://pg.moe.edu.sg/">Parents Gateway</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx">HR Online</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hrp.gov.sg/">HR and Payroll portal (HRP)</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://academyofsingaporeteachers.moe.edu.sg/">Academy of Singapore Teachers</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.opal2.moe.edu.sg/">One Portal All Learners (OPAL 2.0)</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://iexams.seab.gov.sg/login">iExams</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://form.gov.sg/">Form SG</a>
+<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <div class="content">
 
 </div>
