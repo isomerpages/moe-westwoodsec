@@ -32,6 +32,9 @@ label {
 label:hover {
     background: #4E8774;
 }
+	.content {
+
+}
 
 input + label + .content {
     display: none;
