@@ -56,10 +56,10 @@ input:checked + label + .content {
 <a href="https://scmobile.moe.edu.sg/">SC Mobile</a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a>
+<a href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a> 
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://go.gov.sg/wwstaffpd">Westwood PD Site</a>
+<a href="https://go.gov.sg/wwstaffpd">Westwood PD Site</a> (Requires Log in to iCON)
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://rbs.avero-tech.com/">Resource Booking Service (RBS)</a>
@@ -68,10 +68,10 @@ input:checked + label + .content {
 <a href="http://go.gov.sg/sw9yzq">Fault Reporting Form</a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://go.gov.sg/47sptz">AVA and ICT Request Form</a>
+<a href="http://go.gov.sg/47sptz">AVA and ICT Request Form</a> (Requires Log in to iCON)
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://tinyurl.com/near-miss-incident">Near-Miss &amp; Others Reporting Form</a>
+<a href="https://tinyurl.com/near-miss-incident">Near-Miss &amp; Others Reporting Form</a> (Requires Log in to iCON)
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://pg.moe.edu.sg/">Parents Gateway</a>
@@ -181,9 +181,5 @@ input:checked + label + .content {
 	<a target="_blank" href="https://go.gov.sg/rpk4gv">(View GPA Factsheet)</a><br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a target="_blank" href="https://go.gov.sg/nrzysy">(User Guide for Parents)</a>
-	
 
-	
-	
-	
 </div>
