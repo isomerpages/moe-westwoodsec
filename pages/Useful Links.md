@@ -13,10 +13,9 @@ description: ""
 
 
 
+	
 
 <title>Useful Links</title>
-
-
 
 <style>
 input {
@@ -49,6 +48,8 @@ input:checked + label + .content {
     display: block;
 }
 </style>
+
+	
 
 <input id="title1" type="checkbox">
 <label for="title1">For Staff</label>
@@ -189,4 +190,5 @@ input:checked + label + .content {
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a target="_blank" href="https://go.gov.sg/nrzysy">(User Guide for Parents)</a>
 </div>
-
+	
+	
