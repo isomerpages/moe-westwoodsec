@@ -3,9 +3,6 @@ title: Useful Links
 permalink: /administrative/usefullinks/
 description: ""
 ---
-
-
-
 **[For Staff](/general-information/useful-links/for-staff/)**
 
 **[For Students](/general-information/useful-links/for-students/)**
@@ -30,7 +27,8 @@ label:hover {
     background: #4E8774;
 }
 	.content {
-
+    margin: 0 0 1px 0;
+    border-radius: 3px;
 }
 	label::after {
     content: '+';
