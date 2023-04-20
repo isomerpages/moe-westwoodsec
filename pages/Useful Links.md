@@ -8,58 +8,37 @@ description: ""
 **[For Students](/general-information/useful-links/for-students/)**
 
 <style>
-input {
-    display: none;
+details {
+  font: 16px;
+	color: #fff;
+	font-size: 20px;
+  width: 800px;
 }
 
-label {
-    display: block;
-    padding: 8px 22px;
-    margin: 0 0 1px 0;
-    cursor: pointer;
-    background: #6AAB95;
-    border-radius: 3px;
-    color: #FFF;
-    transition: ease .5s;
+details > summary {
+  padding: 2px 6px;
+  width: 15em;
+  background-color: #6AAB95;
+  border: none;
+  box-shadow: 3px 3px 4px black;
+  cursor: pointer;
 }
 
-label:hover {
-    background: #4E8774;
-}
-	.content {
-    background: #fff;
-    padding: 10px 25px;
-    border: 1px solid #fff;
-    margin: 0 0 1px 0;
-    border-radius: 3px;
-}
-	label::after {
-    content: '+';
-    font-size: 22px;
-    font-weight: bold;
-    position: absolute;
-    right: 10px;
-    top: 2px;
+details > p {
+  border-radius: 0 0 10px 10px;
+  background-color: #ddd;
+  padding: 2px 6px;
+  margin: 0;
+  box-shadow: 3px 3px 4px black;
 }
 
-input:checked + label::after {
-    content: '-';
-    right: 14px;
-    top: 3px;
-}
-
-input + label + .content {
-    display: none;
-}
-
-input:checked + label + .content {
-    display: block;
+details[open] > summary {
+  background-color: #4E8774;
 }
 </style>
 
-<input id="title1" type="checkbox">
-<label for="title1">For Staff</label>
-<div class="content"><br>
+<details>
+	<summary>For Staff</summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://intranet.moe.gov.sg/">MOE Intranet</a>
 <br><br>
@@ -119,12 +98,12 @@ input:checked + label + .content {
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a>
-</div>
 
-<input id="title2" type="checkbox">
-<label for="title2">For Students</label>
+</details>
+<br>
 
-<div class="content"><br>
+<details>
+	<summary>For Students</summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://learning.moe.edu.sg/">Student Learning Space</a>
 	<br><br>
@@ -195,4 +174,4 @@ input:checked + label + .content {
 	<a target="_blank" href="https://go.gov.sg/rpk4gv">(View GPA Factsheet)</a><br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a target="_blank" href="https://go.gov.sg/nrzysy">(User Guide for Parents)</a>
-</div>
+</details>
