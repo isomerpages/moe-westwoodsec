@@ -9,10 +9,8 @@ description: ""
 **[For Staff](/general-information/useful-links/for-staff/)**
 
 **[For Students](/general-information/useful-links/for-students/)**
-<title>CSS Accordion</title>
 
 <style>
-
 input {
     display: none;
 }
@@ -43,7 +41,6 @@ input + label + .content {
 input:checked + label + .content {
     display: block;
 }
-
 </style>
 
 <input id="title1" type="checkbox">
@@ -184,5 +181,4 @@ input:checked + label + .content {
 	<a target="_blank" href="https://go.gov.sg/rpk4gv">(View GPA Factsheet)</a><br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a target="_blank" href="https://go.gov.sg/nrzysy">(User Guide for Parents)</a>
-
 </div>
