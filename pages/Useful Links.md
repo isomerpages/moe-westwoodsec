@@ -123,6 +123,15 @@ input:checked + label + .content {
 	<a target="_blank" href="https://drive.google.com/file/d/1GSjC_XxSwQJra0EgTCyTdvJEHI32JfNy/view?usp=share_link">Student Handbook 2023</a>
 	<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://go.gov.sg/pytjkj">PLD Fault Reporting</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.ace-learning.com/">Ace-Learning Math e-learning portal</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">MySkillsFuture Student Portal</a>
+	<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 	
 	
