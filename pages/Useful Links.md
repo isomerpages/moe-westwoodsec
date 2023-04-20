@@ -3,19 +3,12 @@ title: Useful Links
 permalink: /administrative/usefullinks/
 description: ""
 ---
-# Useful Links
+
 
 
 **[For Staff](/general-information/useful-links/for-staff/)**
 
 **[For Students](/general-information/useful-links/for-students/)**
-
-
-
-
-	
-
-<title>Useful Links</title>
 
 <style>
 input {
@@ -39,6 +32,20 @@ label:hover {
 	.content {
 
 }
+	label::after {
+    content: '+';
+    font-size: 22px;
+    font-weight: bold;
+    position: absolute;
+    right: 10px;
+    top: 2px;
+}
+
+input:checked + label::after {
+    content: '-';
+    right: 14px;
+    top: 3px;
+}
 
 input + label + .content {
     display: none;
@@ -48,8 +55,6 @@ input:checked + label + .content {
     display: block;
 }
 </style>
-
-	
 
 <input id="title1" type="checkbox">
 <label for="title1">For Staff</label>
@@ -190,5 +195,3 @@ input:checked + label + .content {
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a target="_blank" href="https://go.gov.sg/nrzysy">(User Guide for Parents)</a>
 </div>
-	
-	
