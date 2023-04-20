@@ -18,7 +18,7 @@ input {
 }
 
 label {
-    display: block;    
+    display: block;
     padding: 8px 22px;
     margin: 0 0 1px 0;
     cursor: pointer;
