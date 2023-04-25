@@ -4,52 +4,25 @@ permalink: /about-us/organisation-chart/school-leaders/
 description: ""
 third_nav_title: Organisation Chart
 ---
-<style>
-details {
-  font: 16px;
-	color: #000;
-	font-size: 20px;
-  width: 800px;
-}
+<ul class="jekyllcodex_accordion">
 
-details > summary {
-  padding: 2px 6px;
-  width: 800px;
-  background-color: #fff;
-  border: none;
-  cursor: pointer;
-}
-
-details > p {
-  border-radius: 0 0 2px 6px;
-  background-color: #ddd;
-  padding: 2px 6px;
-  margin: 0;
-}
-
-details[open] > summary {
-  background-color: #fff;
-}
-
-</style>
-
-<details>
-<summary>School Leaders</summary><br>
-<img src="/images/mr%20abdul%20harris%20bin%20sumardi.jpg" style="width:25%">
-<center><b>Mr Abdul Harris Bin Sumardi <br></b>Principal<center>
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">School Leaders</label><div>
+<p><img src="/images/mr%20abdul%20harris%20bin%20sumardi.jpg" style="width:25%">
+</p><center><b>Mr Abdul Harris Bin Sumardi <br></b>Principal</center>
 
 <img src="/images/mr derrick hoi.jpg" style="width:25%">
 <center> <b>Mr Derrick Hoi Weng Kit  <br> </b>
-	Vice-Principal <center>
+	Vice-Principal </center>
 	
 <img src="/images/mr%20lek%20chun%20guan.jpg" style="width:25%">
 <center> <b>Mr Lek Chun Guan  <br> </b>
-	Vice-Principal (Adminstration)  <center></center></center></center></center></center></center>
-</details>
+	Vice-Principal (Adminstration)  </center><p></p>
+</div></li>
 
-<details>
-	<summary>Middle Managers</summary><br>
-<table class="my-table">
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">Middle Managers</label><div>
+<p><table class="my-table">
   <thead>
   </thead>
   <tbody>
@@ -63,11 +36,7 @@ details[open] > summary {
     </tr>
     <tr>
       <td><br>
-				<br><br>
-				<br><br>
-				<br><br>
-				<br><br>
-				<br><br>
+				<br><br><br>
 	<center> <b>Mr Zhong Shenghan Desmond<br> </b>
 	HOD/Humanities</center></td>
       <td><img src="/images/mdm%20quek%20liza.jpg" style="width:55%">
@@ -135,11 +104,7 @@ SH/ICT</center></td>
 <center> <b>Mr Lee Chuen Hing<br> </b>
 SH/Mathematics</center></td>
       <td><br><br><br>
-				<br><br>
-				<br><br>
-				<br><br>
-				<br><br>
-
+				<br>
 <center> <b>Mr Lee Teck Choon Robert<br> </b>
 SH/Physical Education<center></center></center></td>
     </tr>
@@ -154,12 +119,12 @@ Bin Jaafar<br> </b>
 SH/Student Management</center></td>
     </tr>			
   </tbody>  
-</table>
-</details>
+</table></p>
+</div></li>
 
-<details>
-	<summary>Lead Teachers &amp; Senior Teachers</summary><br>
-<table class="my-table">
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">Lead Teachers &amp; Senior Teachers</label><div>
+<p><table class="my-table">
   <thead>
   </thead>
   <tbody>
@@ -186,20 +151,22 @@ SH/Student Management</center></td>
 	<br>ST/CCE<p></p></center><p></p></td>
     </tr>
   </tbody>  
-</table>
-</details>
+</table></p>
+</div></li>
 
-<details>
-	<summary>Executive and Administrative Staff</summary><br>
-<img src="/images/mr%20lek%20chun%20guan.jpg" style="width:25%">
-<center> <b>Mr Lek Chun Guan  <br> </b>
-	Vice-Principal (Administration) <center>
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">Executive and Administrative Staff</label><div>
+<p><img src="/images/mr%20lek%20chun%20guan.jpg" style="width:25%">
+</p><center> <b>Mr Lek Chun Guan  <br> </b>
+	Vice-Principal (Administration) </center>
 		
 <img src="/images/mr%20wang%20pok%20shien.jpeg" style="width:25%">
 <center> <b>Mr Wang Pok Shien  <br> </b>
-Administration Manager<center>
+Administration Manager</center>
 	
 <img src="/images/mr%20low%20yoong%20chee.jpeg" style="width:25%">
 <center> <b>Mr&nbsp;Low Yoong Chee Frankie <br> </b>
-Operations Manager<center></center></center></center></center></center></center>
-</details>
+Operations Manager</center><p></p>
+</div></li>
+
+</ul>
