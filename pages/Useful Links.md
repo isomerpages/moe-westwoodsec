@@ -51,33 +51,33 @@ description: ""
 <label for="accordion2">For Students</label><div>
 	<p></p><ul>
 <li><a href="https://learning.moe.edu.sg/">Student Learning Space</a></li>
-	<li><a href="https://workspace.google.com/dashboard">Student iCON Email</a></li>
-<li>	<a href="https://go.gov.sg/pdlpwwss">Westwood Sec PDLP Resource Site</a></li>
+	<li><a target="_blank" href="https://workspace.google.com/dashboard">Student iCON Email</a></li>
+<li>	<a target="_blank" href="https://go.gov.sg/pdlpwwss">Westwood Sec PDLP Resource Site</a></li>
 	
 <li><a target="_blank" href="https://drive.google.com/file/d/1GSjC_XxSwQJra0EgTCyTdvJEHI32JfNy/view?usp=share_link">Student Handbook 2023</a></li>
 <li><a target="_blank" href="https://go.gov.sg/pytjkj">PLD Fault Reporting</a></li>
-<li>	<a href="https://www.ace-learning.com/">Ace-Learning Math e-learning portal</a></li>
-<li>	<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">MySkillsFuture Student Portal</a></li>
+<li>	<a target="_blank" href="https://www.ace-learning.com/">Ace-Learning Math e-learning portal</a></li>
+<li>	<a target="_blank" href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">MySkillsFuture Student Portal</a></li>
 
-<li><a href="https://www.nstream.sg/login/login.aspx">e-streaming portal</a></li>
+<li><a target="_blank" href="https://www.nstream.sg/login/login.aspx">e-streaming portal</a></li>
 		
-<li><a href="https://www.csa.gov.sg/gosafeonline/">Go Safe Online</a></li>
+<li><a target="_blank" href="https://www.csa.gov.sg/gosafeonline/">Go Safe Online</a></li>
 	
-<li><a href="https://sis.moe.gov.sg/">Junior Colleges</a>
+<li><a target="_blank" href="https://sis.moe.gov.sg/">Junior Colleges</a>
 	</li>
-<li>	<a href="http://www.sp.edu.sg/">Singapore Polytechnic (SP)</a></li>
+<li>	<a target="_blank" href="http://www.sp.edu.sg/">Singapore Polytechnic (SP)</a></li>
 
-<li><a href="http://www.np.edu.sg/">Ngee Ann Polytechnic (NP)</a></li>
-<li>	<a href="http://www.tp.edu.sg/">Temasek Polytechnic (TP)</a></li>
-<li>	<a href="http://www.nyp.edu.sg/">Nanyang Polytechnic (NYP)</a></li>
-<li>	<a href="http://www.rp.edu.sg/">Republic Polytechnic (RP)</a></li>
-<li>	<a href="http://www.ite.edu.sg/">Institute of Technical Education (ITE)</a></li>
-<li>	<a href="http://www.lasalle.edu.sg/">LASALLE College of the Arts</a></li>
-	<li><a href="http://www.nafa.edu.sg/">Nanyang Academy of Fine Arts (NAFA)</a></li>
-<li>	<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa/apply/">Direct School Admission - Junior Colleges (DSA-JC)</a></li>
-	<li><a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp">Polytechnic Early Admissions Exercise (EAE)</a></li>
-<li>	<a href="https://pfp.polytechnic.edu.sg/PFP/index.html">Polytechnic Foundation Programme (PFP)</a></li>
-	<li><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp">Direct Entry Scheme to Polytechnic Programme (DPP)</a></li>
+<li><a target="_blank" href="http://www.np.edu.sg/">Ngee Ann Polytechnic (NP)</a></li>
+<li>	<a target="_blank" href="http://www.tp.edu.sg/">Temasek Polytechnic (TP)</a></li>
+<li>	<a target="_blank" href="http://www.nyp.edu.sg/">Nanyang Polytechnic (NYP)</a></li>
+<li>	<a target="_blank" href="http://www.rp.edu.sg/">Republic Polytechnic (RP)</a></li>
+<li>	<a target="_blank" href="http://www.ite.edu.sg/">Institute of Technical Education (ITE)</a></li>
+<li>	<a target="_blank" href="http://www.lasalle.edu.sg/">LASALLE College of the Arts</a></li>
+	<li><a target="_blank" href="http://www.nafa.edu.sg/">Nanyang Academy of Fine Arts (NAFA)</a></li>
+<li>	<a target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/dsa/apply/">Direct School Admission - Junior Colleges (DSA-JC)</a></li>
+	<li><a target="_blank" href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp">Polytechnic Early Admissions Exercise (EAE)</a></li>
+<li>	<a target="_blank" href="https://pfp.polytechnic.edu.sg/PFP/index.html">Polytechnic Foundation Programme (PFP)</a></li>
+	<li><a target="_blank" href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp">Direct Entry Scheme to Polytechnic Programme (DPP)</a></li>
 <li>	<a target="_blank" href="https://studentgpa.incomegroupins.com.sg/">Online student insurance claim portal</a></li>
 <ul><li>	<a target="_blank" href="https://go.gov.sg/rpk4gv">(View GPA Factsheet)</a></li>
 	<li>	<a target="_blank" href="https://go.gov.sg/nrzysy">(User Guide for Parents)</a><p></p></li></ul>
