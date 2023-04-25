@@ -3,101 +3,53 @@ title: Useful Links
 permalink: /administrative/usefullinks/
 description: ""
 ---
-<style>
-details {
-  font: 16px;
-	color: #000;
-	font-size: 20px;
-  width: 800px;
-}
+<ul class="jekyllcodex_accordion">
 
-details > summary {
-  padding: 2px 6px;
-  width: 800px;
-  background-color: #fff;
-  border: none;
-  cursor: pointer;
-}
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">For Staff</label><div>
+<p></p><ul>
+<li><a href="https://intranet.moe.gov.sg/">MOE Intranet</a></li>
+<li><a href="https://workspace.google.com/dashboard">iCON Email</a></li>
+<li><a href="https://scmobile.moe.edu.sg/">SC Mobile</a>
+</li>
+<li><a href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a> </li>
 
-details > p {
-  border-radius: 0 0 10px 10px;
-  background-color: #ddd;
-  padding: 2px 6px;
-  margin: 0;
-}
+<li><a href="https://go.gov.sg/wwstaffpd">Westwood PD Site</a> (Requires Log in to iCON)</li>
 
-details[open] > summary {
-  background-color: #fff;
-}
+<li><a href="https://rbs.avero-tech.com/">Resource Booking Service (RBS)</a></li>
 
-</style>
+<li><a href="http://go.gov.sg/sw9yzq">Fault Reporting Form</a></li>
 
-<details>
-	<summary>For Staff</summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://intranet.moe.gov.sg/">MOE Intranet</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://workspace.google.com/dashboard">iCON Email</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://scmobile.moe.edu.sg/">SC Mobile</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a> 
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://go.gov.sg/wwstaffpd">Westwood PD Site</a> (Requires Log in to iCON)
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://rbs.avero-tech.com/">Resource Booking Service (RBS)</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://go.gov.sg/sw9yzq">Fault Reporting Form</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://go.gov.sg/47sptz">AVA and ICT Request Form</a> (Requires Log in to iCON)
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://tinyurl.com/near-miss-incident">Near-Miss &amp; Others Reporting Form</a> (Requires Log in to iCON)
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://pg.moe.edu.sg/">Parents Gateway</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx">HR Online</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hrp.gov.sg/">HR and Payroll portal (HRP)</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://academyofsingaporeteachers.moe.edu.sg/">Academy of Singapore Teachers</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.opal2.moe.edu.sg/">One Portal All Learners (OPAL 2.0)</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://iexams.seab.gov.sg/login">iExams</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://form.gov.sg/">Form SG</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://go.gov.sg/">go.gov.sg short links</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.moh.gov.sg/">Ministry of Health</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.haze.gov.sg/">Haze Situation Update</a>
-<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a><br><br>
-</details>
+<li><a href="http://go.gov.sg/47sptz">AVA and ICT Request Form</a> (Requires Log in to iCON)</li>
 
-<details>
-	<summary>For Students</summary><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<li><a href="https://tinyurl.com/near-miss-incident">Near-Miss &amp; Others Reporting Form</a> (Requires Log in to iCON)</li>
+
+<li><a href="https://pg.moe.edu.sg/">Parents Gateway</a>
+</li>
+<li><a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx">HR Online</a></li>
+
+<li><a href="https://www.hrp.gov.sg/">HR and Payroll portal (HRP)</a></li>
+
+<li><a href="https://academyofsingaporeteachers.moe.edu.sg/">Academy of Singapore Teachers</a></li>
+
+<li><a href="https://www.opal2.moe.edu.sg/">One Portal All Learners (OPAL 2.0)</a></li>
+
+<li><a href="https://iexams.seab.gov.sg/login">iExams</a></li>
+
+<li><a href="https://form.gov.sg/">Form SG</a></li>
+<br>
+<li><a href="https://go.gov.sg/">go.gov.sg short links</a></li>
+<br>
+<li><a href="https://www.moh.gov.sg/">Ministry of Health</a></li>
+<br>
+<li><a href="https://www.haze.gov.sg/">Haze Situation Update</a></li>
+<br>
+<li><a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a></li><br><p></p>
+</ul></div></li>
+
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">For Students</label><div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://learning.moe.edu.sg/">Student Learning Space</a>
 	<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -166,5 +118,9 @@ details[open] > summary {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a target="_blank" href="https://go.gov.sg/rpk4gv">(View GPA Factsheet)</a><br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a target="_blank" href="https://go.gov.sg/nrzysy">(User Guide for Parents)</a>
-</details>
+	<a target="_blank" href="https://go.gov.sg/nrzysy">(User Guide for Parents)</a></p>
+</div></li>
+
+
+
+</ul>
