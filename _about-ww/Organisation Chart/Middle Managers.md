@@ -17,8 +17,12 @@ third_nav_title: Organisation Chart
 	HOD/English Language &amp; Literature</center></td>
     </tr>
     <tr>
-      <td><br><br><br>
-				<br><br><br><br>
+      <td><br>
+				<br><br>
+				<br><br>
+				<br><br>
+				<br><br>
+				<br><br>
 	<center> <b>Mr Zhong Shenghan Desmond<br> </b>
 	HOD/Humanities</center></td>
       <td><img src="/images/mdm%20quek%20liza.jpg" style="width:55%">
@@ -34,7 +38,7 @@ HOD/Mathematics</center></td>
 HOD/Mother Tongue Languages<center></center></center></td>
     </tr>
     <tr>
-      <td><img src="/images/mdm%20goh%20sok%20fern.jpg" style="width:55%">
+      <td><img src="/images/mdm%20goh%20sok%20fern.jpg" style="width:50%">
 <center> <b>Mdm Goh Sok Fern<br> </b>
 HOD/Science</center></td>
       <td><img src="/images/mdm%20nur%20rakeezah%20bte%20abdul%20rahim.jpg" style="width:55%">
@@ -86,6 +90,8 @@ SH/ICT</center></td>
 <center> <b>Mr Lee Chuen Hing<br> </b>
 SH/Mathematics</center></td>
       <td><br><br><br>
+				<br><br>
+				<br><br>
 				<br><br>
 				<br><br>
 
