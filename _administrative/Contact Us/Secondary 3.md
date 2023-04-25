@@ -4,7 +4,6 @@ permalink: /administration/school-management-committee/secondary-3/
 description: ""
 third_nav_title: Contact Us
 ---
-
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="624" style="background:white;border-collapse:collapse;mso-table-layout-alt:fixed;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="246" style="width:184.5pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><b><span style="font-size:10.0pt;
   font-family:&quot;Arial&quot;,sans-serif;color:white;text-transform:uppercase">NAME</span></b></p></td><td width="90" style="width:67.5pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><b><span style="font-size:10.0pt;
