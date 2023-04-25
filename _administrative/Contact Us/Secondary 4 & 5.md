@@ -5,125 +5,140 @@ description: ""
 third_nav_title: Contact Us
 ---
 
-<table style="width:479.75pt;background:white;border-collapse:collapse;mso-yfti-tbllook:
- 1184;mso-padding-alt:0in 0in 0in 0in" width="640" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:209.45pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="279"><p style="line-height:14.7pt" class="MsoNormal"><b><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
-  text-transform:uppercase">NAME</span></b></p></td><td style="width:42.05pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="56"><p style="line-height:14.7pt" class="MsoNormal"><b><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
-  text-transform:uppercase">FORM CLASS</span></b></p></td><td style="width:228.25pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="304"><p style="line-height:14.7pt" class="MsoNormal"><b><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
-  text-transform:uppercase">EMAIL ADDRESS</span></b></p></td></tr><tr style="mso-yfti-irow:1;outline: 0px"><td style="padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mr Lua Wen Liang</span></p></span></td><td style="padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4A</span></p></td><td style="padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:lua_wen_liang@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">lua_wen_liang@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:2;outline: 0px"><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mr Chou Kin Sang Charles</span></p></span></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4A</span></p></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:chou_kin_sang@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">chou_kin_sang@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:3;outline: 0px"><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mr Syed Ali Bin Mohamed Alhabshee</span></p></span></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4B</span></p></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:syed_ali_mohamed_alhabshee@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">syed_ali_mohamed_alhabshee@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:4;outline: 0px"><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mdm Kang Lu</span></p></span></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4B</span></p></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:kang_lu@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">kang_lu@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:5;outline: 0px"><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mr Jeffrey Chua Yeow Huat&nbsp;<span style="outline: 0px">&nbsp;&nbsp; &nbsp;</span></span></p></span></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4C</span></p></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:jeffrey_chua_yeow_huat@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">jeffrey_chua_yeow_huat@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:6;outline: 0px"><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mdm Siti Hajar Bte Sam'on</span></p></span></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4C</span></p></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:siti_hajar_samon@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">siti_hajar_samon@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:7;outline: 0px"><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mdm Farhana Binte Mokhtar</span></p></span></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4D</span></p></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:farhana_mokhtar@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">farhana_mokhtar@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:8;outline: 0px"><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mr Ho Chee Yong Zavier&nbsp;</span></p></span></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4D</span></p></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:ho_chee_yong@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">ho_chee_yong@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:9;outline: 0px"><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mr Muhamad Hamim B Abdul Rahim&nbsp;&nbsp;</span></p></span></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4E</span></p></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:md_hamim_bar@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">md_hamim_bar@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:10;outline: 0px"><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mr Koh Hoe Yap</span></p></span></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4E</span></p></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:koh_hoe_yap@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">koh_hoe_yap@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:11;outline: 0px"><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mr Ahmad Luqman Bin Ghazali</span></p></span></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4F</span></p></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:ahmad_luqman_ghazali@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">ahmad_luqman_ghazali@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:12;outline: 0px"><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mr How Choon Keat</span></p></span></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4F</span></p></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:how_choon_keat@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">how_choon_keat@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:13;outline: 0px"><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mr Mohammad Redzuan Bin Jaafar</span></p></span></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4G</span></p></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:mohammad_redzuan_jaafar@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">mohammad_redzuan_jaafar@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:14;outline: 0px"><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Ms Teo Shi Yun Madeline<span style="outline: 0px">&nbsp;&nbsp; &nbsp;</span></span></p></span></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4G</span></p></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:teo_shi_yun_madeline@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">teo_shi_yun_madeline@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:15;outline: 0px"><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Ms Ivy Nyam Lee Chin<span style="outline: 0px">&nbsp;&nbsp; &nbsp;</span></span></p></span></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4H</span></p></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:ivy_nyam_lee_chin@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">ivy_nyam_lee_chin@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:16;outline: 0px"><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mr Chan Chi Thio</span></p></span></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;4H</span></p></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:chan_chi_thio@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">chan_chi_thio@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:17;outline: 0px"><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Ms Nai Huey Chyi&nbsp;</span></p></span></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;5A</span></p></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:nai_huey_chyi@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">nai_huey_chyi@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:18;outline: 0px"><td style="padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Ms Khadijah Bte Saidi</span></p></span></td><td style="padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;5A</span></p></td><td style="padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:khadijah_saidi@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">khadijah_saidi@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:19;outline: 0px"><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mr Liow Choon Cheang Eric</span></p></span></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;5A</span></p></td><td style="border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656"><a style="outline: 0px" href="mailto:liow_choon_cheang@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none"><span style="outline: 0px">liow_choon_cheang@schools.gov.sg</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:20;mso-yfti-lastrow:yes;outline: 0px"><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><span style="outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;</span></p></span></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;</span></p></td><td style="border:none;mso-border-top-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  outline: 0px"><p style="line-height:14.7pt" class="MsoNormal"><span style="font-size:10.0pt;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#565656">&nbsp;</span></p></td></tr></tbody></table>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="576" style="background:white;border-collapse:collapse;mso-table-layout-alt:fixed;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="204" style="width:153.0pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><b><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:white;text-transform:uppercase">NAME</span></b></p></td><td width="90" style="width:67.5pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><b><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:white;text-transform:uppercase">FORM CLASS</span></b></p></td><td width="282" style="width:211.5pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><b><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:white;text-transform:uppercase">EMAIL ADDRESS</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="204" style="width:153.0pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr Lua Wen Liang</span></p></td><td width="90" style="width:67.5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4A</span></p></td><td width="282" style="width:211.5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:lua_wen_liang@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">lua_wen_liang@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="204" style="width:153.0pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr Chou Kin Sang Charles</span></p></td><td width="90" style="width:67.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4A</span></p></td><td width="282" style="width:211.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:chou_kin_sang@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">chou_kin_sang@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:3"><td width="204" style="width:153.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr Syed Ali Bin Mohamed Alhabshee</span></p></td><td width="90" style="width:67.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4B</span></p></td><td width="282" style="width:211.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:syed_ali_mohamed_alhabshee@schools.gov.sg"><span style="color:#3AA66F;text-decoration:none;text-underline:none">syed_ali_mohamed_alhabshee@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:4"><td width="204" style="width:153.0pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mdm Kang Lu</span></p></td><td width="90" style="width:67.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4B</span></p></td><td width="282" style="width:211.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:kang_lu@schools.gov.sg"><span style="color:#3AA66F;text-decoration:
+  none;text-underline:none">kang_lu@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:5"><td width="204" style="width:153.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr Jeffrey Chua Yeow Huat&nbsp;&nbsp;&nbsp; &nbsp;</span></p></td><td width="90" style="width:67.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4C</span></p></td><td width="282" style="width:211.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:jeffrey_chua_yeow_huat@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">jeffrey_chua_yeow_huat@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:6"><td width="204" style="width:153.0pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mdm Siti Hajar Bte Sam'on</span></p></td><td width="90" style="width:67.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4C</span></p></td><td width="282" style="width:211.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:siti_hajar_samon@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">siti_hajar_samon@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:7"><td width="204" style="width:153.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mdm Farhana Binte Mokhtar</span></p></td><td width="90" style="width:67.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4D</span></p></td><td width="282" style="width:211.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:farhana_mokhtar@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">farhana_mokhtar@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:8"><td width="204" style="width:153.0pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr Ho Chee Yong Zavier&nbsp;</span></p></td><td width="90" style="width:67.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4D</span></p></td><td width="282" style="width:211.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:ho_chee_yong@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">ho_chee_yong@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:9"><td width="204" style="width:153.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr Muhamad Hamim B Abdul Rahim&nbsp;&nbsp;</span></p></td><td width="90" style="width:67.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4E</span></p></td><td width="282" style="width:211.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:md_hamim_bar@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">md_hamim_bar@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:10"><td width="204" style="width:153.0pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr Koh Hoe Yap</span></p></td><td width="90" style="width:67.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4E</span></p></td><td width="282" style="width:211.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:koh_hoe_yap@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">koh_hoe_yap@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:11"><td width="204" style="width:153.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr Ahmad Luqman Bin Ghazali</span></p></td><td width="90" style="width:67.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4F</span></p></td><td width="282" style="width:211.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:ahmad_luqman_ghazali@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">ahmad_luqman_ghazali@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:12"><td width="204" style="width:153.0pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr How Choon Keat</span></p></td><td width="90" style="width:67.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4F</span></p></td><td width="282" style="width:211.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:how_choon_keat@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">how_choon_keat@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:13"><td width="204" style="width:153.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr Mohammad Redzuan Bin Jaafar</span></p></td><td width="90" style="width:67.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4G</span></p></td><td width="282" style="width:211.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:mohammad_redzuan_jaafar@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">mohammad_redzuan_jaafar@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:14"><td width="204" style="width:153.0pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Ms Teo Shi Yun Madeline&nbsp;&nbsp; &nbsp;</span></p></td><td width="90" style="width:67.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4G</span></p></td><td width="282" style="width:211.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:teo_shi_yun_madeline@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">teo_shi_yun_madeline@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:15"><td width="204" style="width:153.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Ms Ivy Nyam Lee Chin&nbsp;&nbsp; &nbsp;</span></p></td><td width="90" style="width:67.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4H</span></p></td><td width="282" style="width:211.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:ivy_nyam_lee_chin@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">ivy_nyam_lee_chin@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:16"><td width="204" style="width:153.0pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr Chan Chi Thio</span></p></td><td width="90" style="width:67.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;4H</span></p></td><td width="282" style="width:211.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:chan_chi_thio@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">chan_chi_thio@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:17"><td width="204" style="width:153.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Ms Nai Huey Chyi&nbsp;</span></p></td><td width="90" style="width:67.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;5A</span></p></td><td width="282" style="width:211.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:nai_huey_chyi@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">nai_huey_chyi@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:18"><td width="204" style="width:153.0pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Ms Khadijah Bte Saidi</span></p></td><td width="90" style="width:67.5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;5A</span></p></td><td width="282" style="width:211.5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:khadijah_saidi@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">khadijah_saidi@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:19"><td width="204" style="width:153.0pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr Liow Choon Cheang Eric</span></p></td><td width="90" style="width:67.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;5A</span></p></td><td width="282" style="width:211.5pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:liow_choon_cheang@schools.gov.sg"><span style="color:#3AA66F;
+  text-decoration:none;text-underline:none">liow_choon_cheang@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:20;mso-yfti-lastrow:yes"><td width="204" style="width:153.0pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;</span></p></td><td width="90" style="width:67.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;</span></p></td><td width="282" style="width:211.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;</span></p></td></tr></tbody></table>
