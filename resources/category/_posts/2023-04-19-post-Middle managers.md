@@ -8,27 +8,29 @@ image: ""
 ---
 <table class="my-table">
   <thead>
-    <tr>
-      <th>Heading</th>
-      <th>Heading</th>
-      <th>Heading</th>
-    </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
+      <td><p><img style="width:60%" src="/images/mdm%20saha%20mousumi.jpeg"></p><center><b>Mdm Saha Mousumi</b><br>LT/English Language<p></p></center></td>
+      <td><p><img style="width:60%" src="/images/mdm puvaneswari d_o raman.jpg">
+	</p><center><b>Mdm Puvaneswari d/o Raman</b>
+	<br>ST/Mathematics<p></p></center></td>
     </tr>
     <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
+      <td><p><img style="width:60%" src="/images/mdm wang fang.jpg">
+	</p><center><b>Mdm Wang Fang</b>
+	<br>ST/Chinese Language<p></p></center></td>
+      <td><p><img style="width:60%" src="/images/mr syed ali bin mohd alhabshee.jpg">
+	</p><center><b>Mr Syed Ali Bin Mohamed Alhabshee</b>
+	<br>ST/Science<p></p></center></td>
     </tr>
     <tr>
-      <td>Cell</td>
-      <td>Cell</td>
-      <td>Cell</td>
+      <td><p><img style="width:60%" src="/images/mr muhamad hamim b abdul rahim.jpg">
+	</p><center><b>Mr Muhammad Hamim B Abdul Rahim</b>
+	<br>ST/PE<p></p></center></td>
+      <td><p><img style="width:60%" src="/images/mr ahmad luqman bin ghazali.jpg">
+	</p><center><b>Mr Ahmad Luqman Bin Ghazali</b>
+	<br>ST/CCE<p></p></center><p></p></td>
     </tr>
   </tbody>  
 </table>
