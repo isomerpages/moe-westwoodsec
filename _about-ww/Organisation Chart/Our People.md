@@ -37,7 +37,7 @@ third_nav_title: Organisation Chart
     <tr>
       <td><br>
 				<br><br><br>
-				<br><br>
+				<br><br><br><br>
 	<center> <b>Mr Zhong Shenghan Desmond<br> </b>
 	HOD/Humanities</center></td>
       <td><img src="/images/mdm%20quek%20liza.jpg" style="width:55%">
@@ -105,7 +105,7 @@ SH/ICT</center></td>
 <center> <b>Mr Lee Chuen Hing<br> </b>
 SH/Mathematics</center></td>
       <td><br><br><br>
-				<br><br><br>
+				<br><br><br><br><br>
 <center> <b>Mr Lee Teck Choon Robert<br> </b>
 SH/Physical Education<center></center></center></td>
     </tr>
