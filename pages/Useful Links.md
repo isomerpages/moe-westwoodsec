@@ -50,7 +50,7 @@ description: ""
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">For Students</label><div>
 	<p></p><ul>
-<li><a href="https://learning.moe.edu.sg/">Student Learning Space</a></li>
+<li><a target="_blank" href="https://learning.moe.edu.sg/">Student Learning Space</a></li>
 	<li><a target="_blank" href="https://workspace.google.com/dashboard">Student iCON Email</a></li>
 <li>	<a target="_blank" href="https://go.gov.sg/pdlpwwss">Westwood Sec PDLP Resource Site</a></li>
 	
