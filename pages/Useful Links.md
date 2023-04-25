@@ -8,43 +8,43 @@ description: ""
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">For Staff</label><div>
 <p></p><ul>
-<li><a href="https://intranet.moe.gov.sg/">MOE Intranet</a></li>
-<li><a href="https://workspace.google.com/dashboard">iCON Email</a></li>
-<li><a href="https://scmobile.moe.edu.sg/">SC Mobile</a>
+<li><a target="_blank" href="https://intranet.moe.gov.sg/">MOE Intranet</a></li>
+<li><a target="_blank" href="https://workspace.google.com/dashboard">iCON Email</a></li>
+<li><a target="_blank" href="https://scmobile.moe.edu.sg/">SC Mobile</a>
 </li>
-<li><a href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a> </li>
+<li><a target="_blank" href="https://schoolcockpit.moe.gov.sg/">School Cockpit</a> </li>
 
-<li><a href="https://go.gov.sg/wwstaffpd">Westwood PD Site</a> (Requires Log in to iCON)</li>
+<li><a target="_blank" href="https://go.gov.sg/wwstaffpd">Westwood PD Site</a> (Requires Log in to iCON)</li>
 
-<li><a href="https://rbs.avero-tech.com/">Resource Booking Service (RBS)</a></li>
+<li><a target="_blank" href="https://rbs.avero-tech.com/">Resource Booking Service (RBS)</a></li>
 
-<li><a href="http://go.gov.sg/sw9yzq">Fault Reporting Form</a></li>
+<li><a target="_blank" href="http://go.gov.sg/sw9yzq">Fault Reporting Form</a></li>
 
-<li><a href="http://go.gov.sg/47sptz">AVA and ICT Request Form</a> (Requires Log in to iCON)</li>
+<li><a target="_blank" href="http://go.gov.sg/47sptz">AVA and ICT Request Form</a> (Requires Log in to iCON)</li>
 
-<li><a href="https://tinyurl.com/near-miss-incident">Near-Miss &amp; Others Reporting Form</a> (Requires Log in to iCON)</li>
+<li><a target="_blank" href="https://tinyurl.com/near-miss-incident">Near-Miss &amp; Others Reporting Form</a> (Requires Log in to iCON)</li>
 
-<li><a href="https://pg.moe.edu.sg/">Parents Gateway</a>
+<li><a target="_blank" href="https://pg.moe.edu.sg/">Parents Gateway</a>
 </li>
-<li><a href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx">HR Online</a></li>
+<li><a target="_blank" href="http://intranet.moe.gov.sg/hronline/Pages/Home.aspx">HR Online</a></li>
 
-<li><a href="https://www.hrp.gov.sg/">HR and Payroll portal (HRP)</a></li>
+<li><a target="_blank" href="https://www.hrp.gov.sg/">HR and Payroll portal (HRP)</a></li>
 
-<li><a href="https://academyofsingaporeteachers.moe.edu.sg/">Academy of Singapore Teachers</a></li>
+<li><a target="_blank" href="https://academyofsingaporeteachers.moe.edu.sg/">Academy of Singapore Teachers</a></li>
 
-<li><a href="https://www.opal2.moe.edu.sg/">One Portal All Learners (OPAL 2.0)</a></li>
+<li><a target="_blank" href="https://www.opal2.moe.edu.sg/">One Portal All Learners (OPAL 2.0)</a></li>
 
-<li><a href="https://iexams.seab.gov.sg/login">iExams</a></li>
+<li><a target="_blank" href="https://iexams.seab.gov.sg/login">iExams</a></li>
 
-<li><a href="https://form.gov.sg/">Form SG</a></li>
+<li><a target="_blank" href="https://form.gov.sg/">Form SG</a></li>
 
-<li><a href="https://go.gov.sg/">go.gov.sg short links</a></li>
+<li><a target="_blank" href="https://go.gov.sg/">go.gov.sg short links</a></li>
 
-<li><a href="https://www.moh.gov.sg/">Ministry of Health</a></li>
+<li><a target="_blank" href="https://www.moh.gov.sg/">Ministry of Health</a></li>
 
-<li><a href="https://www.haze.gov.sg/">Haze Situation Update</a></li>
+<li><a target="_blank" href="https://www.haze.gov.sg/">Haze Situation Update</a></li>
 
-<li><a href="https://www.mesrc.net/">MOE Sports and Recreation Club</a></li><br><p></p>
+<li><a target="_blank" href="https://www.mesrc.net/">MOE Sports and Recreation Club</a></li><br><p></p>
 </ul></div></li>
 
 <li><input type="checkbox" id="accordion2">
