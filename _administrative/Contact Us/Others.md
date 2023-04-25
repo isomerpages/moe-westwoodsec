@@ -6,14 +6,12 @@ third_nav_title: Contact Us
 ---
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="624" style="background:white;border-collapse:collapse;mso-table-layout-alt:fixed;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="192" style="width:144.35pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><b><span style="font-size:10.0pt;line-height:107%;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
-  text-transform:uppercase">NAME</span></b></p></td><td width="143" style="width:107.55pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><strong><span style="font-size:10.0pt;line-height:107%;
-  font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
-  minor-latin;mso-bidi-theme-font:minor-latin;color:white;text-transform:uppercase">DESIGNATION</span></strong><b><span style="font-size:10.0pt;line-height:107%;mso-bidi-font-family:Calibri;
-  mso-bidi-theme-font:minor-latin;color:white;text-transform:uppercase"></span></b></p></td><td width="288" style="width:216.1pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><b><span style="font-size:10.0pt;line-height:107%;
-  mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:white;
-  text-transform:uppercase">EMAIL ADDRESS</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="192" style="width:144.35pt;border:none;border-bottom:solid windowtext 1.0pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="192" style="width:144.35pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:white;text-transform:uppercase">NAME</span></b></p></td><td width="143" style="width:107.55pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><strong><span style="font-family:&quot;Calibri&quot;,sans-serif;
+  mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:
+  minor-latin;color:white;text-transform:uppercase">DESIGNATION</span></strong><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:white;text-transform:uppercase"></span></b></p></td><td width="288" style="width:216.1pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><b><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+  minor-latin;color:white;text-transform:uppercase">EMAIL ADDRESS</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="192" style="width:144.35pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span style="font-size:10.0pt;line-height:107%;mso-bidi-font-family:
   Calibri;mso-bidi-theme-font:minor-latin;color:#565656">Mr Chia Sen Kai Lawrence</span></p></td><td width="143" style="width:107.55pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal"><span style="font-size:10.0pt;line-height:107%;mso-bidi-font-family:
