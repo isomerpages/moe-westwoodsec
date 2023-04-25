@@ -23,7 +23,7 @@ third_nav_title: Organisation Chart
 	<br>ST/Science<p></p></center></td>
     </tr>
     <tr>
-      <td><p><img style="width:60%" src="/images/mr muhamad hamim b abdul rahim.jpg">
+      <td><p><img style="width:65%" src="/images/mr muhamad hamim b abdul rahim.jpg">
 	</p><center><b>Mr Muhammad Hamim B Abdul Rahim</b>
 	<br>ST/PE<p></p></center></td>
       <td><p><img style="width:60%" src="/images/mr ahmad luqman bin ghazali.jpg">
