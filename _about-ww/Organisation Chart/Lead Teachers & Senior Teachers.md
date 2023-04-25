@@ -10,12 +10,12 @@ third_nav_title: Organisation Chart
   <tbody>
     <tr>
       <td><p><img style="width:60%" src="/images/mdm%20saha%20mousumi.jpeg"></p><center><b>Mdm Saha Mousumi</b><br>LT/English Language<p></p></center></td>
-      <td><p><img style="width:60%" src="/images/mdm puvaneswari d_o raman.jpg">
+      <td><p><img style="width:55%" src="/images/mdm puvaneswari d_o raman.jpg">
 	</p><center><b>Mdm Puvaneswari d/o Raman</b>
 	<br>ST/Mathematics<p></p></center></td>
     </tr>
     <tr>
-      <td><p><img style="width:60%" src="/images/mdm wang fang.jpg">
+      <td><p><img style="width:65%" src="/images/mdm wang fang.jpg">
 	</p><center><b>Mdm Wang Fang</b>
 	<br>ST/Chinese Language<p></p></center></td>
       <td><p><img style="width:60%" src="/images/mr syed ali bin mohd alhabshee.jpg">
