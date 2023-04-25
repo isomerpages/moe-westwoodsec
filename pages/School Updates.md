@@ -18,7 +18,7 @@ description: ""
 </thead>
 <tbody>
 	<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a href="/permalink/parentgateway/">Parent Gateway </a></span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/permalink/parentgateway/">Parent Gateway </a></span></td>
   </tr>
 	<tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="https://go.gov.sg/wwwssstudenthandbook2023">Student Handbook 2023</a></span></td>
