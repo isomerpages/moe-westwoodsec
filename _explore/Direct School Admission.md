@@ -13,8 +13,7 @@ Westwood Secondary School warmly welcomes applications from Primary 6 students t
     <tr><td><img src="/images/LLP1.png" style="width:100%">
 	<center> <b>LEARNING FOR LIFE PROGRAMME<br> </b>
 	Arts For Life!</center></td></tr>
-    
-		<tr>
+   <tr>
 			  <td><img src="/images/dsa%20sep.jpg" style="width:150%">
 				<center><b>SPORTS EXCELLENCE PROGRAMME</b></center></td></tr>
 						  <tr><td><img src="/images/dsa%20slb.png" style="width:100%">
