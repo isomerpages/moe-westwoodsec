@@ -22,3 +22,15 @@ Arts for Life!</center></td></tr>
 </tr>
 </tbody>
 </table>
+
+
+
+##### APPLICATION PROCEDURE
+
+**Phase 1: Simulation Challenge / Audition / Trial / Portfolio submission**
+
+Details TBC
+
+**Phase 2: Dialogue Session with School Leadership Team**
+
+Details TBC
