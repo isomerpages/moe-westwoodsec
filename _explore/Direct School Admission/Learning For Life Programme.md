@@ -51,7 +51,7 @@ third_nav_title: Direct School Admission
 	 <tr>
     <td class="tg-zqva">Desired Outcomes</td>
     <td class="tg-cmm0">
-Through 3-4 years of active participation in the opportunities and experiences provided by the school, Westwood’s DSA students will become active citizens who are <br>passionate<br> about making a <br>difference to society<br> and/or <br>bringing Arts to the community<br>, and who have the <br>skills and aptitude<br> to create that impact.
+Through 3-4 years of active participation in the opportunities and experiences provided by the school, Westwood’s DSA students will become active citizens who are <b>passionate</b> about making a <b>difference to society</b> and/or <b>bringing Arts to the community</b>, and who have the <b>skills and aptitude</b> to create that impact.
 
 </td></tr></tbody>
 </table>
