@@ -2,5 +2,6 @@ collections:
   explore:
     output: true
     order:
+      - Direct School Admission/Introduction.md
       - Direct School Admission/Applied Learning Programme.md
       - Direct School Admission/.keep
