@@ -19,3 +19,13 @@ Westwood Secondary School warmly welcomes applications from Primary 6 students t
 						  <tr><td><img src="/images/dsa%20slb.png" style="width:50%">
 				<center><b>STUDENT LEADERSHIP PROGRAMME</b></center></td>
 </tr></tbody></table>
+
+**APPLICATION PROCEDURE**
+
+**Phase 1:** Simulation Challenge / Audition / Trial / Portfolio submission
+
+Details TBC
+
+**Phase 2:** Dialogue Session with School Leadership Team
+
+Details TBC
