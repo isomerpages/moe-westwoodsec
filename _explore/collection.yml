@@ -2,5 +2,5 @@ collections:
   explore:
     output: true
     order:
-      - Applied Learning Programme.md
       - Direct School Admission.md
+      - Applied Learning Programme.md
