@@ -14,9 +14,8 @@ third_nav_title: Direct School Admission
 .tg .tg-zqva{background-color:#FFF;color:#666;text-align:center;vertical-align:top}
 .tg .tg-cmm0{background-color:#FFF;color:#666;text-align:left;vertical-align:top}
 </style>
-
-*     
-*     <table class="tg">
+   
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">Westwood Distinctive Programmes</span></th>
@@ -37,11 +36,10 @@ Exposure to programmes offered by Institute of Higher Learning in related fields
 	<tr>
     <td class="tg-zqva">Desired Outcome</td><td class="tg-cmm0">Through 3-4 years of active participation in the opportunities and experiences provided by the school, Westwood’s DSA students will become **active citizens** who are **passionate** about making a **difference to society** and/or **bringing Arts to the community**, and who have the skills and aptitude to create that impact.</td></tr>
 	<tr>
-    <td class="tg-zqva">Selection Criteria</td><td class="tg-cmm0">
-* Willingness to try and experiment with new ideas and/or new ways of doing things
-* Strong ability to work in teams
-* Good communication and presentation skills  
-		* Interest in the application of STEM. Background in coding will be an advantage</td></tr>
+    <td class="tg-zqva">Selection Criteria</td><td class="tg-cmm0">Willingness to try and experiment with new ideas and/or new ways of doing things<br><br>
+Strong ability to work in teams<br><br>
+Good communication and presentation skills  <br><br>
+Interest in the application of STEM. Background in coding will be an advantage</td></tr>
 
 
 </tbody></table>
