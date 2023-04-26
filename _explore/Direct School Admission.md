@@ -9,14 +9,14 @@ Westwood Secondary School warmly welcomes applications from Primary 6 students t
   <tbody>
     <tr>
       <td><img src="/images/ALP2.jpeg" style="width:100%">
-				<b></b><center><b>APPLIED LEARNING PROGRAMME</b><br>Innovation and Social Entrepreneurship (ISE)</center></td>
-      <td><img src="/images/LLP1.png" style="width:100%">
+				<b></b><center><b>APPLIED LEARNING PROGRAMME</b><br>Innovation and Social Entrepreneurship (ISE)</center></td></tr>
+    <tr><td><img src="/images/LLP1.png" style="width:100%">
 	<center> <b>LEARNING FOR LIFE PROGRAMME<br> </b>
-	Arts For Life!</center></td>
-    </tr>
+	Arts For Life!</center></td></tr>
+    
 		<tr>
 			  <td><img src="/images/dsa%20sep.jpg" style="width:150%">
-				<center><b>SPORTS EXCELLENCE PROGRAMME</b></center></td>
-						  <td><img src="/images/dsa%20slb.png" style="width:100%">
+				<center><b>SPORTS EXCELLENCE PROGRAMME</b></center></td></tr>
+						  <tr><td><img src="/images/dsa%20slb.png" style="width:100%">
 				<center><b>STUDENT LEADERSHIP PROGRAMME</b></center></td>
 </tr></tbody></table>
