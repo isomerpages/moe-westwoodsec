@@ -24,32 +24,34 @@ third_nav_title: Direct School Admission
 <tbody>
 	<tr>
     <td class="tg-zqva">About</td>
-    <td class="tg-cmm0">Our "Arts for Life!" programme is designed to foster creative excellence and inspire a lifelong passion for the arts among students. Through a range of performing and visual art activities, students can develop their skills and express themselves creatively while building confidence and a sense of community.
+    <td class="tg-cmm0">Our "Arts for Life!" programme is designed to foster creative excellence and inspire a lifelong passion for the arts among students. Through a range of performing and visual art activities, students can develop their skills and express themselves creatively while building confidence and a sense of community. <br>Westwood’s “Arts for Life!” programme for DSA 2024 involves the following specific art forms:
 
-Westwood’s “Arts for Life!” programme for DSA 2024 involves the following specific art forms:
-
-(i)	PERFORMING ARTS
-Concert Band
-Show Choir 
-Modern Dance
-English Drama
-Guitar Ensemble 
-
-                                                   
-(ii)	VISUAL ART
-2D &amp; 3D Studies
-Ceramics
-Drawing
-Painting <br></td>
+(i)	PERFORMING ARTS<br>
+* Concert Band
+* Show Choir 
+* Modern Dance
+* English Drama
+* Guitar Ensemble 
+                                           
+(ii)	VISUAL ARTS
+* 2D &amp; 3D Studies
+* Ceramics
+* Drawing
+* Painting<br><img src="/images/dsa%20llp3.png">
+		</td>
   </tr>
   <tr>
     <td class="tg-zqva">Development</td>
     <td class="tg-cmm0">
-School representation in public showcasing, exhibitions, and external competitions
-Participate in masterclasses and mentoring programmes by experts in their field and gain valuable insights
-Collaborate with local artists and art organizations to create community projects and engage with the public through the arts
-Exposure through overseas learning journeys to immerse in different cultures and art forms</td>
+* School representation in public showcasing, exhibitions, and external competitions
+* Participate in masterclasses and mentoring programmes by experts in their field and gain valuable insights
+* Collaborate with local artists and art organizations to create community projects and engage with the public through the arts
+* Exposure through overseas learning journeys to immerse in different cultures and art forms</td>
   </tr>
+	 <tr>
+    <td class="tg-zqva">Desired Outcomes</td>
+    <td class="tg-cmm0">
+Through 3-4 years of active participation in the opportunities and experiences provided by the school, Westwood’s DSA students will become active citizens who are <br>passionate<br> about making a <br>difference to society<br> and/or <br>bringing Arts to the community<br>, and who have the <br>skills and aptitude<br> to create that impact.
 
-</tbody>
+</td></tr></tbody>
 </table>
