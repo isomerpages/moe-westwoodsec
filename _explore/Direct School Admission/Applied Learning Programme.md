@@ -41,5 +41,6 @@ third_nav_title: Direct School Admission
 * Willingness to try and experiment with new ideas and/or new ways of doing things<br><br>
 * Strong ability to work in teams<br><br>
 * Good communication and presentation skills<br><br>
-* Interest in the application of STEM. Background in coding will be an advantage</td></tr>
+* Interest in the application of STEM. Background in coding will be an advantage<br><br>
+* Good character report (eg. conduct and remarks in school report book)</td></tr>
 </tbody></table>
