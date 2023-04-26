@@ -41,15 +41,13 @@ third_nav_title: Direct School Admission
 		</td>
   </tr>
   <tr>
-    <td class="tg-zqva">Development</td>
-    <td class="tg-cmm0">
+    <td class="tg-zqva">Development</td><td class="tg-cmm0">
 * School representation in public showcasing, exhibitions, and external competitions
 * Participate in masterclasses and mentoring programmes by experts in their field and gain valuable insights
 * Collaborate with local artists and art organizations to create community projects and engage with the public through the arts
 * Exposure through overseas learning journeys to immerse in different cultures and art forms</td>
   </tr>
-	 <tr>
-    <td class="tg-zqva">Desired Outcomes</td>
+	 <tr><td class="tg-zqva">Desired Outcomes</td>
     <td class="tg-cmm0">
 Through 3-4 years of active participation in the opportunities and experiences provided by the school, Westwood’s DSA students will become active citizens who are <b>passionate</b> about making a <b>difference to society</b> and/or <b>bringing Arts to the community</b>, and who have the <b>skills and aptitude</b> to create that impact.
 
