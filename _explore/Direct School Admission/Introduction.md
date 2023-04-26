@@ -17,11 +17,8 @@ Innovation and Social Entrepreneurship (ISE)<br>
 Arts for Life!</center></td></tr>
 			<tr>
 				<td><br><img src="/images/dsa%20sep.jpg" style="width=100%">
-				<center><b>APPLIED LEARNING PROGRAMME</b><br>
-Innovation and Social Entrepreneurship (ISE)<br>
-			</center></td>
-				<td><br><img src="/images/LLP1.png" style="width:100%"><center><b>LEARNING FOR LIFE PROGRAMME</b><br>
-Arts for Life!</center></td>
+					<center><b>SPORTS EXCELLENCE PROGRAMME</b><br></center></td>
+				<td><br><img src="/images/LLP1.png" style="width:100%"><center><b>STUDENT LEADERSHIP PROGRAMME</b></center></td>
 </tr>
 </tbody>
 </table>
