@@ -22,4 +22,6 @@ Innovation and Social Entrepreneurship (ISE)<br>
 			</center></td>
 				<td><br><img src="/images/LLP1.png" style="width:100%"><center><b>LEARNING FOR LIFE PROGRAMME</b><br>
 Arts for Life!</center></td>
-</tr></tbody></table>
+</tr>
+</tbody>
+</table>
