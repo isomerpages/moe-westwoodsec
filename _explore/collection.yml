@@ -2,5 +2,4 @@ collections:
   explore:
     output: true
     order:
-      - Niche Programmes.md
       - Direct School Admission.md
