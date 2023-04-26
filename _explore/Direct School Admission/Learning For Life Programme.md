@@ -50,6 +50,12 @@ third_nav_title: Direct School Admission
 	 <tr><td class="tg-zqva">Desired Outcomes</td>
     <td class="tg-cmm0">
 Through 3-4 years of active participation in the opportunities and experiences provided by the school, Westwood’s DSA students will become active citizens who are <b>passionate</b> about making a <b>difference to society</b> and/or <b>bringing Arts to the community</b>, and who have the <b>skills and aptitude</b> to create that impact.
+			</td></tr><tr><td class="tg-zqva">Selection Criteria</td>
+    <td class="tg-cmm0">Prospective students who are selected based on their talents relevant to a particular aesthetic CCA are expected to join the CCA throughout their 4 or 5-year education in Westwood. <br><br>Candidates must have achieved at least one of the following:
+* Minimum 1 year of participation in the specified art form in their primary school or external agencies
+* Attained good achievements in the specified art form at local/national competitions such as Singapore Youth Festival or certificates such as from ABRSM
+* Prior experience in leading, competing or performing at local or international competitions / performances involving the specified art form
+* In addition, good character report (eg. conduct and remarks in school report book)
 
 </td></tr></tbody>
 </table>
