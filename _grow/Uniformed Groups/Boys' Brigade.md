@@ -189,4 +189,5 @@ NYAA Bronze &amp; NYAA Silver, Kayaking 1 Star, Total Defence, and First Aid </p
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8R1f2vbH086HIIZg6e6HHktqrqs2BEuMZfQc6Gb5C41I8PTIvOZ-tPVgCfJqPQS6v1hODRClySOmK/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-</p></div></li></ul>
+</p></div></li>
+</ul>
