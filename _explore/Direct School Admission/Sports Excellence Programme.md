@@ -33,8 +33,8 @@ The Sports Excellence Programme includes the following sports:<br><br>
 * Football<br>
 * Netball<br>
 * Tchoukball<br><br>
-			<img src="/images/dsa%20sep.jpg" width="50%">
-			<img src="/images/dsa%20sep2.jpg" width="50%">
+			<img src="/images/dsa%20sep.jpg" width="30%">
+			<img src="/images/dsa%20sep2.jpg" width="30%">
 </td></tr>
   <tr>
     <td class="tg-zqva">Development</td><td class="tg-cmm0">
