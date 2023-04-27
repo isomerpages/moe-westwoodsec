@@ -4,7 +4,6 @@ permalink: /cca/uniformed-groups/national-civil-defence-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ### **OBJECTIVES**
 
 _“We Learn, We Lead, We Serve”_ &nbsp;  
@@ -170,4 +169,4 @@ _“We Learn, We Lead, We Serve”_ &nbsp;
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLuGSXfOd4kA3kgbJ5uxmI3rGIrKBgAGbSUt36nnwFBBt5n80HQOPmpanGZf54wk2J2GcnUub5F3t-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRRHuMWBmiuq-ngKjo0WMGdy7hi30gDqf2F8booSXqFmCJGBnU-s0RBp_9USOEsoG0qm9JGH5PZ0Rke/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
