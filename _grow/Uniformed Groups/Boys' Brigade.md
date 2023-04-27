@@ -12,20 +12,16 @@ third_nav_title: Uniformed Groups
   
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1">
-<label for="accordion1">TEACHERS IN-CHARGE</label><div>
+<label for="accordion1">Teachers In-Charge</label><div>
 
-<p>
-### TEACHERS IN-CHARGE
-
-</p><p>*   Mr Terence Tsang (TIC)</p>
+<p>*   Mr Terence Tsang (TIC)</p>
 <p>*   Ms Tan Rou Jing Geraldine</p>
 <p>Mr Peh Teow Peng</p>
 </div></li>
 
 <li><input type="checkbox" id="accordion2">
-<label for="accordion2">TRAINING DAYS</label><div>
+<label for="accordion2">Training Days</label><div>
 <p>
-### TRAINING DAYS
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -59,8 +55,6 @@ third_nav_title: Uniformed Groups
 <label for="accordion3">CCA Achievements</label><div>	
 
 <p>
-### CCA Achievements
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -113,8 +107,6 @@ third_nav_title: Uniformed Groups
 <label for="accordion4">Programmes &amp; Events</label><div>
 
 <p>
-### Programmes / Events
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -179,9 +171,7 @@ third_nav_title: Uniformed Groups
 
 <li><input type="checkbox" id="accordion5">
 <label for="accordion5">Other Badges or Awards</label><div>
-<p>		
-### Other Badges/Awards
-</p><p>
+<p>
 NYAA Bronze &amp; NYAA Silver, Kayaking 1 Star, Total Defence, and First Aid </p></div></li>
 
 <li><input type="checkbox" id="accordion6">
