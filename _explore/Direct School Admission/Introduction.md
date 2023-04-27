@@ -9,7 +9,7 @@ Westwood Secondary School warmly welcomes applications from Primary 6 students t
 <table class="table1">
 	<tbody>
 		<tr>
-			<td><img src="/images/ALP2.jpeg" style="width=80%">
+			<td><img src="/images/ALP2.jpeg" style="width=75%">
 				<center><b>APPLIED LEARNING PROGRAMME</b><br>
 Innovation and Social Entrepreneurship (ISE)<br>
 			</center></td>
