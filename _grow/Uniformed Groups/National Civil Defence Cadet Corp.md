@@ -16,7 +16,7 @@ _“We Learn, We Lead, We Serve”_ &nbsp;
 <ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion1">
-<label for="accordion1">TEACHERS IN-CHARG</label><div>
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
 <p>
 *   Mr Terrance Lee Jin Han (TIC)</p>
 <p>*   Ms Lim Lay Ping</p>
