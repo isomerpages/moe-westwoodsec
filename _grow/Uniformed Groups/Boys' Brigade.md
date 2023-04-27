@@ -17,10 +17,10 @@ third_nav_title: Uniformed Groups
 <p>
 ### TEACHERS IN-CHARGE
 
-</p></div></li><li>*   Mr Terence Tsang (TIC)</li>
-<li>*   Ms Tan Rou Jing Geraldine</li>
-<li>Mr Peh Teow Peng<p></p></li>
-
+</p><p>*   Mr Terence Tsang (TIC)</p>
+<p>*   Ms Tan Rou Jing Geraldine</p>
+<p>Mr Peh Teow Peng</p>
+</div></li>
 
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">TRAINING DAYS</label><div>
