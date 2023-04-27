@@ -15,8 +15,8 @@ third_nav_title: Uniformed Groups
 <label for="accordion1">Teachers In-Charge</label><div>
 
 <p>*   Mr Terence Tsang (TIC)</p>
-<p>*   Ms Tan Rou Jing Geraldine</p>
-<p>Mr Peh Teow Peng</p>
+*   Ms Tan Rou Jing Geraldine
+*   Mr Peh Teow Peng<p></p>
 </div></li>
 
 <li><input type="checkbox" id="accordion2">
