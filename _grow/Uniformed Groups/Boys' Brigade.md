@@ -10,13 +10,21 @@ third_nav_title: Uniformed Groups
 *   To equip Boys with a wide variety of knowledge and skills, in areas such as Leadership, Personal Mastery, Global Awareness and Community Spiritedness
 
   
+<ul class="jekyllcodex_accordion">
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
 
+<p>
 ### TEACHERS IN-CHARGE
 
 *   Mr Terence Tsang (TIC)
 *   Ms Tan Rou Jing Geraldine
-*   Mr Peh Teow Peng
+*   Mr Peh Teow Peng</p>
+</div></li>
 
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
+<p>
 ### TRAINING DAYS
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -45,8 +53,12 @@ third_nav_title: Uniformed Groups
     <td class="tg-mwz3"><span style="color:#565656">2:00pm to 5:30pm</span></td>
     <td class="tg-mwz3"><span style="color:#565656">BB Room / Quadrangle / Classroom</span></td>
   </tr></tbody></table>
-		
+</p>	</div></li>
 
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA Achievements</label><div>	
+
+<p>
 ### CCA Achievements
 
 <style type="text/css">
@@ -95,6 +107,12 @@ third_nav_title: Uniformed Groups
 </tbody>
 </table>
 
+</p></div></li>
+
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">Programmes / Events</label><div>
+
+<p>
 ### Programmes / Events
 
 <style type="text/css">
@@ -155,10 +173,20 @@ third_nav_title: Uniformed Groups
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Boys’ Brigade Share-A-Gift (BBSG)</span></td>
     <td class="tg-mwz3"><span style="color:#565656">December</span></td>
-    <td class="tg-njgx"><span style="background-color:initial">This nationwide VIA initiative aims to bring cheer to the less fortunate in Singapore during the festive season of Christmas, to inculcate the spirit of community service among members of The Boys’ Brigade and to promote the spirit of caring and sharing among Singaporeans. Boys from different companies work together to collect food items and fulfilling Christmas wishes of the beneficiaries.</span></td></tr></tbody></table>
-		
+    <td class="tg-njgx"><span style="background-color:initial">This nationwide VIA initiative aims to bring cheer to the less fortunate in Singapore during the festive season of Christmas, to inculcate the spirit of community service among members of The Boys’ Brigade and to promote the spirit of caring and sharing among Singaporeans. Boys from different companies work together to collect food items and fulfilling Christmas wishes of the beneficiaries.
+</span></td></tr></tbody></table>
+</p></div></li>
+
+<li><input type="checkbox" id="accordion4">
+<label for="accordion3">Other Badges/Awards</label><div>
+<p>		
 ### Other Badges/Awards
+</p><p>
+NYAA Bronze &amp; NYAA Silver, Kayaking 1 Star, Total Defence, and First Aid </p></div></li>
 
-NYAA Bronze & NYAA Silver, Kayaking 1 Star, Total Defence, and First Aid
+<li><input type="checkbox" id="accordion5">
+<label for="accordion3">Gallery</label><div>
+<p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8R1f2vbH086HIIZg6e6HHktqrqs2BEuMZfQc6Gb5C41I8PTIvOZ-tPVgCfJqPQS6v1hODRClySOmK/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8R1f2vbH086HIIZg6e6HHktqrqs2BEuMZfQc6Gb5C41I8PTIvOZ-tPVgCfJqPQS6v1hODRClySOmK/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</p></div></li></ul>
