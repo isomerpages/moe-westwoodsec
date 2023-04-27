@@ -13,7 +13,7 @@ third_nav_title: Uniformed Groups
 <ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion1">
-<label for="accordion1">Teachers In-Charge</label><div>
+<label for="accordion1">TEACHERS-IN-CHARGE</label><div>
   
 <p>
 *   Ms Lim Simin (TIC)   </p>
@@ -24,7 +24,7 @@ third_nav_title: Uniformed Groups
 </div></li>
 
 <li><input type="checkbox" id="accordion2">
-<label for="accordion2">Training Days</label><div>
+<label for="accordion2">TRAINING DAYS</label><div>
 
 <p>
 <style type="text/css">
