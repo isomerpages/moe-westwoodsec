@@ -104,7 +104,7 @@ third_nav_title: Uniformed Groups
 </p></div></li>
 
 <li><input type="checkbox" id="accordion4">
-<label for="accordion4">Programmes &amp; Events</label><div>
+<label for="accordion4">Programmes / Events</label><div>
 
 <p>
 <style type="text/css">
