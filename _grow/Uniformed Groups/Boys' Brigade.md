@@ -12,7 +12,7 @@ third_nav_title: Uniformed Groups
   
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1">
-<label for="accordion1">Teachers In-Charge</label><div>
+<label for="accordion1">TEACHERS-IN-CHARGE</label><div>
 
 <p>*   Mr Terence Tsang (TIC)</p>
 <p>*   Ms Tan Rou Jing Geraldine</p>
@@ -20,7 +20,7 @@ third_nav_title: Uniformed Groups
 </div></li>
 
 <li><input type="checkbox" id="accordion2">
-<label for="accordion2">Training Days</label><div>
+<label for="accordion2">TRAINING DAYS</label><div>
 <p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
