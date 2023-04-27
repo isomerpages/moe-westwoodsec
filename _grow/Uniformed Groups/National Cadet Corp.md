@@ -162,8 +162,7 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
 </table></p>
 
 <p>
-
-#### Key Programmes for Senior Cadets (Sec 1)
+	<strong>Key Programmes for Senior Cadets (Sec 1)</strong>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -217,8 +216,7 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
 </table>
 
 <p></p><p>
-
-#### Key Programmes for Senior Cadets (Sec 2)
+<strong>Key Programmes for Senior Cadets (Sec 2)</strong>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -299,7 +297,7 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
 <p></p>
 <p>
 
-#### Key Programmes for Senior Cadets (Sec 3)
+<strong>Key Programmes for Senior Cadets (Sec 3)</strong>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
