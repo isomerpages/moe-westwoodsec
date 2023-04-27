@@ -40,8 +40,8 @@ Form a network of support with student leaders across different leadership segme
     <td class="tg-cmm0">
 Through 3-4 years of active participation in the opportunities and experiences provided by the school, Westwood’s DSA students will become <b>active citizens</b> who are <b>passionate</b> about making a <b>difference to society</b>and/or <b>bringing Arts to the community</b>, and who have the <b>skills and aptitude</b> to create that impact.</td></tr>
 	 <tr><td class="tg-zqva">Selection Criteria</td>
-    <td class="tg-cmm0">Applicants should show evidence in having:<br>
-keen interest in leadership and advocacy, coupled with exemplary passion, determination and potential in serving the school community<br><br>
+    <td class="tg-cmm0">Applicants should show evidence in having:<br><br>
+Keen interest in leadership and advocacy, coupled with exemplary passion, determination and potential in serving the school community<br><br>
 Experience in student leadership bodies and/or active involvement in leadership activites, co-curriculum activities or community service<br><br>
 A strong sense of responsibility and able to balance academic and non-academic commitments<br><br>
 Core values of integrity, compassion, resilience, innovation and continual learning<br><br>
