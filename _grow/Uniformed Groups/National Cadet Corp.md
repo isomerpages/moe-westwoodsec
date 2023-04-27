@@ -13,15 +13,21 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
 **Vision**: Extraordinary Youth Leaders  <br>
 **Motto**: To serve with pride and dedication  
   
+<ul class="jekyllcodex_accordion">
 
-### TEACHERS-IN-CHARGE
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS-IN-CHARGE</label><div>
+<p>
+*   CPT Khatijah Bee Bte Syed Abdul Kadir (TIC)</p>
+<p>*   CPT Nicholas Seah</p>
+<p>*   Mr How Choon Keat</p>
 
-*   CPT Khatijah Bee Bte Syed Abdul Kadir (TIC)
-*   CPT Nicholas Seah
-*   Mr How Choon Keat
+</div></li>
 
-### TRAINING DAYS
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -46,10 +52,12 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
     <td class="tg-mwz3"><span style="color:#565656">NCC room / Quadrangle / Resource Room 3</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### CCA ACHIEVEMENTS
-
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -94,9 +102,12 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
     <td class="tg-26kj">Awarded Silver for Best Unit Competition</td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### PROGRAMMES / EVENTS
+
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -149,6 +160,7 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
   </tr>
 </tbody>
 </table>
+
 
 #### Key Programmes for Senior Cadets (Sec 1)
 
@@ -281,6 +293,8 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
   </tr>
 </tbody>
 </table>
+<p></p>
+</div></li>
 
 
 #### Key Programmes for Senior Cadets (Sec 3)
@@ -354,6 +368,14 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
     <td class="tg-tsok">To reinforce the adventurous spirit of the NCC cadets via mountain trekking.<br>To facilitate team building and care for fellow cadets in an outdoor environment.<br>To provide overseas outdoor learning opportunities for our cadets.<br>To develop Leadership Competencies via fitness and discipline as they motivate each other during the trekking.</td>
   </tr>
 </tbody>
-</table>
+</table><p></p>
 
+
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
+
+<p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgl4N8daa061TgabM22R3qjvUflC-QPkdvzRq4sEPuWjIYlJniYIYQ6lqqVGbwycK-xcoxjCG_pmzv/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p></div></li>
+
+</ul>
