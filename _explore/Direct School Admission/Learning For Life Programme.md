@@ -24,8 +24,7 @@ third_nav_title: Direct School Admission
 <tbody>
 	<tr>
     <td class="tg-zqva">About</td>
-    <td class="tg-cmm0">Our "Arts for Life!" programme is designed to foster creative excellence and inspire a lifelong passion for the arts among students. Through a range of performing and visual art activities, students can develop their skills and express themselves creatively while building confidence and a sense of community. <br>Westwood’s “Arts for Life!” programme for DSA 2024 involves the following specific art forms:
-
+    <td class="tg-cmm0">Our "Arts for Life!" programme is designed to foster creative excellence and inspire a lifelong passion for the arts among students. Through a range of performing and visual art activities, students can develop their skills and express themselves creatively while building confidence and a sense of community. <br>Westwood’s “Arts for Life!” programme for DSA 2024 involves the following specific art forms:<br><br>
 (i)	PERFORMING ARTS<br>
 Concert Band<br>
 Show Choir<br>
@@ -36,8 +35,7 @@ Guitar Ensemble<br><br>
 2D &amp; 3D Studies<br>
 Ceramics<br>
 Drawing<br>
-Painting<br><img width="80%" src="/images/dsa%20llp3.png">
-		</td>
+Painting<br><img src="/images/dsa%20llp3.png"></td>
   </tr>
   <tr>
     <td class="tg-zqva">Development</td><td class="tg-cmm0">
