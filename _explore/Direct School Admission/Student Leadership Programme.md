@@ -25,26 +25,26 @@ third_nav_title: Direct School Admission
 	<tr>
     <td class="tg-zqva">About</td>
     <td class="tg-cmm0">Westwood believes in developing student leaders who have the courage to lead and the passion to serve. We endeavour for every student to be equipped with the knowledge and skills to reflect, make responsible decisions, feel empowered to act and impact others within their spheres of influence. 
-<br><img width="50%" src="images/dsaslp1.png"><br><img width="50%" src="images/dsaslp2.png"><br><img width="50%" src="images/dsaslp3.png"></td>
+<br><br><img width="50%" src="/images/dsaslp1.png"><br><img width="50%" src="/images/dsaslp2.png"><br>
+<img width="50%" src="/images/dsaslp3.png"></td>
   </tr>
   <tr>
     <td class="tg-zqva">Development</td>
     <td class="tg-cmm0">All student leaders will have the opportunity to <b>learn and apply Student Leadership competencies</b><br>
-<ul style="“list-style-type:disc”">
-<li>Comprehensive training and opportunities to apply Westwood’s Leadership Philosophy: The Leadership Challenge (TLC) by James Kouzes and Barry Posner</li>
-<li>Be the agent of change and voice of the student body, bridging the gap between students and school management so as to create a school environment that is caring and enabling</li>
-<li>Form a network of support with student leaders across different leadership segments, schools and countries through sharing of best practices and collaborative projects</li></ul></td>
+Comprehensive training and opportunities to apply Westwood’s Leadership Philosophy: The Leadership Challenge (TLC) by James Kouzes and Barry Posner<br><br>
+Be the agent of change and voice of the student body, bridging the gap between students and school management so as to create a school environment that is caring and enabling<br><br>
+Form a network of support with student leaders across different leadership segments, schools and countries through sharing of best practices and collaborative projects<br><br></td>
   </tr>
 <tr>
     <td class="tg-zqva">Desired Outcomes</td>
     <td class="tg-cmm0">
 Through 3-4 years of active participation in the opportunities and experiences provided by the school, Westwood’s DSA students will become <b>active citizens</b> who are <b>passionate</b> about making a <b>difference to society</b>and/or <b>bringing Arts to the community</b>, and who have the <b>skills and aptitude</b> to create that impact.</td></tr>
 	 <tr><td class="tg-zqva">Selection Criteria</td>
-    <td class="tg-cmm0">Applicants should show evidence in having:<br><ul style="“list-style-type:disc”">
-<li>keen interest in leadership and advocacy, coupled with exemplary passion, determination and potential in serving the school community</li>
-<li>experience in student leadership bodies and/or active involvement in leadership activites, co-curriculum activities or community service</li>
-<li>a strong sense of responsibility and able to balance academic and non-academic commitments</li>
-<li>core values of integrity, compassion, resilience, innovation and continual learning</li>
-<li>confident communicators who are able to positively influence their peers</li>
-</ul></td></tr></tbody>
+    <td class="tg-cmm0">Applicants should show evidence in having:<br>
+keen interest in leadership and advocacy, coupled with exemplary passion, determination and potential in serving the school community<br><br>
+Experience in student leadership bodies and/or active involvement in leadership activites, co-curriculum activities or community service<br><br>
+A strong sense of responsibility and able to balance academic and non-academic commitments<br><br>
+Core values of integrity, compassion, resilience, innovation and continual learning<br><br>
+Confident communicators who are able to positively influence their peers<br><br>
+</td></tr></tbody>
 </table>
