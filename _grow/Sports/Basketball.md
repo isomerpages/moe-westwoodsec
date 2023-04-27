@@ -10,17 +10,21 @@ third_nav_title: Sports
     
 *   To inculcate values like discipline, responsibility, self-confidence, and accountability through Basketball.  
     
+<ul class="jekyllcodex_accordion">
 
-  
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
 
-### TEACHERS IN-CHARGE
+<p>
+</p><p>*   Mr Jeremiah Lim (TIC)</p>
+<p>*   Mr Eric Liow Choon Cheang</p>
+<p>*   Mr Ahmad Luqman Bin Ghazali</p>
+<p>*   Mr Joel Tan</p>
+</div></li>
 
-*   Mr Jeremiah Lim (TIC)
-*   Mr Eric Liow Choon Cheang
-*   Mr Ahmad Luqman Bin Ghazali
-*   Mr Joel Tan
-
-### TRAINING DAYS
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -57,9 +61,12 @@ third_nav_title: Sports
   </tr>
 </tbody>
 </table>
+</p>
+</div></li>
 
-### CCA Achievements
-
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA Achievements</label><div>
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -92,8 +99,12 @@ third_nav_title: Sports
   </tr>
 </tbody>
 </table>
+</p>
+</div></li>
 
-### PROGRAMMES / EVENTS
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -140,6 +151,14 @@ third_nav_title: Sports
     <td class="tg-mwz3"><span style="color:#565656">Friendly matches will be arranged for Basketballers to gain match experience and prepare for major tournaments.</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
+<p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyz56MI6chz24C1OvB_bMVEOHaSUsYDngAbJGSvoxv0zM9-td7RhaIpPfytr7rodsEmM38ceAFsKo5/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p>
+</div></li>
+
+</ul>
