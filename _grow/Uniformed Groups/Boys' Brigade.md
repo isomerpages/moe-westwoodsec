@@ -109,8 +109,8 @@ third_nav_title: Uniformed Groups
 
 </p></div></li>
 
-<li><input type="checkbox" id="accordion3">
-<label for="accordion3">Programmes / Events</label><div>
+<li><input type="checkbox" id="accordion4">
+<label for="accordion3">Programmes &amp; Events</label><div>
 
 <p>
 ### Programmes / Events
@@ -177,17 +177,16 @@ third_nav_title: Uniformed Groups
 </span></td></tr></tbody></table>
 </p></div></li>
 
-<li><input type="checkbox" id="accordion4">
-<label for="accordion3">Other Badges/Awards</label><div>
+<li><input type="checkbox" id="accordion5">
+<label for="accordion3">Other Badges or Awards</label><div>
 <p>		
 ### Other Badges/Awards
 </p><p>
 NYAA Bronze &amp; NYAA Silver, Kayaking 1 Star, Total Defence, and First Aid </p></div></li>
 
-<li><input type="checkbox" id="accordion5">
+<li><input type="checkbox" id="accordion6">
 <label for="accordion3">Gallery</label><div>
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8R1f2vbH086HIIZg6e6HHktqrqs2BEuMZfQc6Gb5C41I8PTIvOZ-tPVgCfJqPQS6v1hODRClySOmK/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-</p></div></li>
-</ul>
+</p></div></li></ul>
