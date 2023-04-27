@@ -11,14 +11,19 @@ third_nav_title: Sports
 *   To develop skills and techniques in a range of leadership skills such as planning and managing the bowling club.&nbsp;
 *   To develop students’ domains of self-awareness, self-management, and core values such as resilience, responsibility and teamwork.
 
-### TEACHERS IN-CHARGE
+<ul class="jekyllcodex_accordion">
 
-*   Ms Natria Siman (TIC)  
-*   Ms Elia Hamarian
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
+<p>
+*   Ms Natria Siman (TIC)  </p>
+<p>*   Ms Elia Hamarian
+</p>
+  </div></li>
 
-  
-
-### TRAINING DAYS
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -49,10 +54,12 @@ third_nav_title: Sports
     <td class="tg-mwz3"><span style="color:#565656">Westwood Bowl @ Bukit Batok CSC</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### CCA ACHIEVEMENTS
-
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -93,10 +100,13 @@ third_nav_title: Sports
     <td class="tg-cmm0">U Bowling Schools Challenge C Div Girls Champion: <br>Nur Ifqah Binte Hazly, 1D </td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### PROGRAMMES / EVENTS
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -122,6 +132,15 @@ third_nav_title: Sports
     <td class="tg-jx4j"><span style="color:#333">Bowlers who are well-disciplined and have shown competence will be selected to represent the school at National level. </span><br><br><span style="color:#333">Provide a level playing field for bowling enthusiasts in Westwood.<br></span><br><span style="color:#333">Develop mental strength and tenacity in our bowlers.</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2NAFtPIx4Wtzap40hrzgPhn3tfWsOcdODTa3UeVvLXwfnWjY4T9_CVYWvlH3pBG7e5GKiflzFrzik/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Insert Accordion Title here</label><div>
+<p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2NAFtPIx4Wtzap40hrzgPhn3tfWsOcdODTa3UeVvLXwfnWjY4T9_CVYWvlH3pBG7e5GKiflzFrzik/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p>
+</div></li>
+
+</ul>
