@@ -137,7 +137,7 @@ third_nav_title: Sports
 
 
 <li><input type="checkbox" id="accordion5">
-<label for="accordion5">Insert Accordion Title here</label><div>
+<label for="accordion5">Gallery</label><div>
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2NAFtPIx4Wtzap40hrzgPhn3tfWsOcdODTa3UeVvLXwfnWjY4T9_CVYWvlH3pBG7e5GKiflzFrzik/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </p>
