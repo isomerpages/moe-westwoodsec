@@ -159,8 +159,9 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
     <td class="tg-njgx"><span style="color:#565656">To learn a new skill and knowledge through adventure activity, overseas training, educational learning journey, skills-based activity and/or VIA projects. </span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
 
+<p>
 
 #### Key Programmes for Senior Cadets (Sec 1)
 
@@ -173,7 +174,7 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
 .tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<p></p><table class="tg">
 <thead>
   <tr>
     <th class="tg-l2bf">Name of Programme / Event</th>
@@ -215,6 +216,8 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
 </tbody>
 </table>
 
+</p><p>
+
 #### Key Programmes for Senior Cadets (Sec 2)
 
 <style type="text/css">
@@ -227,7 +230,7 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 .tg .tg-3c4u{background-color:#FFF;color:#333333;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<p></p><table class="tg">
 <thead>
   <tr>
     <th class="tg-l2bf">Name of Programme / Event</th>
@@ -293,6 +296,10 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
   </tr>
 </tbody>
 </table>
+</p>
+</div></li>
+
+<p>
 
 #### Key Programmes for Senior Cadets (Sec 3)
 
@@ -365,9 +372,8 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
     <td class="tg-tsok">To reinforce the adventurous spirit of the NCC cadets via mountain trekking.<br>To facilitate team building and care for fellow cadets in an outdoor environment.<br>To provide overseas outdoor learning opportunities for our cadets.<br>To develop Leadership Competencies via fitness and discipline as they motivate each other during the trekking.</td>
   </tr>
 </tbody>
-</table></p><p></p>
-<p></p>
-</div></li>
+</table></p>
+
 
 <li><input type="checkbox" id="accordion5">
 <label for="accordion5">Gallery</label><div>
