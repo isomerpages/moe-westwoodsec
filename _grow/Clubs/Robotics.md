@@ -10,18 +10,20 @@ third_nav_title: Clubs
 *   To instill creativity and perseverance among the members through programming and mechanical design used in competitions
 *   To groom potential team leaders to guide and lead fellow members in trainings and activities
 
-  
+<ul class="jekyllcodex_accordion">
 
-### TEACHERS IN-CHARGE
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>  
+<p>
+*   Mdm Sim Lay Ling (TIC)</p>
+<p>*   Mdm&nbsp;Nadia Eddy</p>
+<p>*   Mr Chan Chi Thio</p>
+</div></li>
 
-*   Mdm Sim Lay Ling (TIC)
-*   Mdm&nbsp;Nadia Eddy
-*   Mr Chan Chi Thio
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>  
 
-  
-
-### TRAINING DAYS
-
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -47,9 +49,13 @@ third_nav_title: Clubs
   </tr>
 </tbody>
 </table>
+</p>
+</div></li>
 
-### PROGRAMMES / EVENTS
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">PROGRAMMES / EVENTS</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -92,4 +98,10 @@ third_nav_title: Clubs
 </tbody>
 </table>
 
+</p></div></li><li><input type="checkbox" id="accordion4">
+<label for="accordion4">Gallery</label><div>
+<p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROzHz8B7Qq9tRcD4lwOl9cpA8OCn08S-A6gHMepysLy5bukmZSBVGGyfoN5w-6Ez1EW29qZeqz0Eys/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p>
+</div></li>
+</ul>
