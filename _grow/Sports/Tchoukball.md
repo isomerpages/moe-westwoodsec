@@ -12,17 +12,20 @@ third_nav_title: Sports
 *   To groom confident student leaders to lead fellow players in training's and activities
 
 
+<ul class="jekyllcodex_accordion">
 
-### TEACHERS IN-CHARGE
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
+<p>
+*   Ms Nai Huey Chyi (TIC)</p>
+<p>*   Ms Nurul Amirah Binte Zubir</p>
+<p>*   Mdm Puvaneswari</p>
 
-*   Ms Nai Huey Chyi (TIC)
-*   Ms Nurul Amirah Binte Zubir
-*   Mdm Puvaneswari
+ </div></li>
 
-  
-
-### TRAINING DAYS
-
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div> 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -52,9 +55,12 @@ third_nav_title: Sports
     <td class="tg-mwz3"><span style="color:#565656">Quadrangle/ISH/Basketball Court</span><br></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### CCA ACHIEVEMENT
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA ACHIEVEMENT</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -92,9 +98,13 @@ third_nav_title: Sports
   </tr>
 </tbody>
 </table>
+</p>
+</div></li>
 
-### PROGRAMMES / EVENTS
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">PROGRAMMES / EVENTS</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -135,6 +145,14 @@ third_nav_title: Sports
     <td class="tg-cmm0">Members of the Tchoukball team will be involved in a VIA project to help our school organise the Inter-School CABIN Tchoukball Tournament. We hope to develop their leadership and organization abilities through the planning and execution of the project. We also hope to develop their communication skills by guiding them to communicate the Tchoukball rules, skills and strategies to the participants from the other schools. </td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfPlNuHANQuAsaudPNQYAo9YazKgD5ToSWZtv6wb1UXIxO40XWLb7mvLnqBnbIvscmgAO9P_WZH-0h/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">Gallery</label><div>
+<p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzHWXOfEDyHKRFU3mWrsGcM67NCyxLlp0PbdZPyV_7jXtLa4nZA4nDnfjuxET5nKqLPYFzVERdgu2Y/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p>
+</div></li>
+
+</ul>

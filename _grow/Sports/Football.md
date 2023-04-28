@@ -11,18 +11,22 @@ third_nav_title: Sports
 *   To use football as an avenue to provide character and moral education for students
 
   
+<ul class="jekyllcodex_accordion">
 
-### TEACHERS IN-CHARGE
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
 
-*   Mr Lee Rui Ming Caleb (TIC)
-*   Mr Lua Wen Liang&nbsp;  
-*   Mr Syed Ali Bin Mohamed Alhabshee
+<p>
+*   Mr Lee Rui Ming Caleb (TIC)</p>
+<p>*   Mr Lua Wen Liang</p>  
+<p>*   Mr Syed Ali Bin Mohamed Alhabshee</p>
     
-
+</div></li>
   
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
 
-### TRAINING DAYS
-
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -53,9 +57,13 @@ third_nav_title: Sports
   </tr>
 </tbody>
 </table>
+</p>
+</div></li>
 
-### CCA ACHIEVEMENTS
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -83,10 +91,13 @@ third_nav_title: Sports
     <td class="tg-k81l"><span style="color:#222;background-color:#FFF">National School Games C’ Division Football Championships League 5 - 3rd position</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### PROGRAMMES / EVENTS
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
 
+<p>
   <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -123,6 +134,14 @@ third_nav_title: Sports
     <td class="tg-mwz3"><span style="color:#565656">Besides promoting team bonding amongst the players from different levels, the training camp also serves as a platform for the Sec 3s to hone their leadership skills.</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT5WtXJ0hVmS0BHnu6MkNuwcK220tRjTYeXeSQEohtMu-dbDFHrb7qIj1Q4tdwtONo_Qg44ibbKhxlo/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
+<p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT5WtXJ0hVmS0BHnu6MkNuwcK220tRjTYeXeSQEohtMu-dbDFHrb7qIj1Q4tdwtONo_Qg44ibbKhxlo/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p>
+</div></li>
+
+</ul>

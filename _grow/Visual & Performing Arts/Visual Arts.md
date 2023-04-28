@@ -2,7 +2,7 @@
 title: Visual Arts
 permalink: /cca/visual-and-performing-arts/visual-arts/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 ### OBJECTIVES
 
@@ -10,18 +10,21 @@ third_nav_title: Visual &amp; Performing Arts
 *   To broaden perspectives of art through exposure to different forms of Art Making and Art Appreciation  
 *   To build confidence in self-expression through art
 
-  
+ <ul class="jekyllcodex_accordion">
 
-### TEACHERS IN-CHARGE
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div> 
 
-*   Ms Mumtazah Binte Mohd Haron (TIC)
-*   Ms Claris Ang Gian Yi  
-*   Mdm&nbsp;Siti Hajar
+<p>
+*   Ms Mumtazah Binte Mohd Haron (TIC)</p>
+<p>*   Ms Claris Ang Gian Yi </p> 
+<p>*   Mdm&nbsp;Siti Hajar</p>
+</div></li>
     
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
 
-  
-
-### TRAINING DAYS
+ <p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -48,10 +51,12 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-h4ku"><span style="color:#565656">Art Room</span><br></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### CCA ACHIEVEMENT
-
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA ACHIEVEMENT</label><div>
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -83,10 +88,12 @@ Keenan Ong, 1E – Junior Achievers Award for Comic category<br>
 Iffah Rahilah, 1E – Junior Achievers Award for Digital category</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-
-### PROGRAMMES / EVENTS
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -156,7 +163,14 @@ Experience hands-on activity and complete an artwork under the guidance of an ar
     <td class="tg-cmm0"><br>Discussion of students’ progress and experience with teachers<br><br>Tidying up their work space for the next year<br><br>Closure of the CCA for the year and planning for next year’s CCA Fair<br><br>Personal Reflection</td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
+<p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeZFU1caHeo-t5MGcHe7a9WYUugoQO6S1eq9uytN6mAXCU91Un-oneyM1diBBV0CslDGbcz3yn-Old/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p>
+</div></li>
+
+</ul>

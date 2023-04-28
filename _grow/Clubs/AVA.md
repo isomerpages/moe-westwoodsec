@@ -10,17 +10,22 @@ third_nav_title: Clubs
 *   To develop and reinforce the sense of responsibility among AVA members through their involvement in the CCA.&nbsp;
 *   To build confidence and develop leadership qualities in every AVA member.  
     
+<ul class="jekyllcodex_accordion">
 
-### TEACHERS IN-CHARGE
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
 
-*   Mr Jeffrey Chua Yeow Huat (TIC)  
-*   Mr Clement Huang
-*   Mr Lawrence Chia  
-*   Mr Md Hamim Bar 
+<p>
+*   Mr Jeffrey Chua Yeow Huat (TIC)  </p>
+ <p>*   Mr Clement Huang </p>
+ <p>*   Mr Lawrence Chia  </p> 
+ <p>*   Mr Md Hamim Bar  </p>
     
+</div></li>
 
-
-### TRAINING DAYS
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -46,9 +51,12 @@ third_nav_title: Clubs
     <td class="tg-mwz3"><span style="color:#565656">Computer Lab 3 / Hall</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### CCA Achievements
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA Achievements</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -81,10 +89,12 @@ third_nav_title: Clubs
     <td class="tg-tsok"><span style="color:#222;background-color:#FFF">Honorable Mentioned for ”Our Schools, Our Stories” Photo and Video Contest (Youth Categeory)</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### PROGRAMMES / EVENTS
-
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -126,7 +136,15 @@ third_nav_title: Clubs
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
+<p>
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyaTCLRRgfGU0Ug0nADrxdVB_4nHQBkUQC9F5z1XbcFtgSJtJ2fQg2w6kC71aUOeYhYEkNKV21KDwP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+</p>
+</div></li>
+
+</ul>

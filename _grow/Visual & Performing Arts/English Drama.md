@@ -2,7 +2,7 @@
 title: English Drama
 permalink: /cca/visual-and-performing-arts/english-drama/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 ### OBJECTIVES
 
@@ -13,19 +13,20 @@ third_nav_title: Visual &amp; Performing Arts
 *   To train and guide students to be good leaders and team workers
 *   To develop 21st Century Skills
 
-  
+  <ul class="jekyllcodex_accordion">
 
-### TEACHERS IN-CHARGE
-
-*   Ms Priyanka Chakraborty (TIC) 
-*   Mdm Jaskirath Kaur
-*   Miss Yeo Wan Qiu Jennifer 
-*   Mdm Maria Loh May Kay
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
+<p>
+*   Ms Priyanka Chakraborty (TIC)</p> 
+<p> *   Mdm Jaskirath Kaur</p> 
+<p> *   Miss Yeo Wan Qiu Jennifer </p> 
+<p> *   Mdm Maria Loh May Kay</p>
+</div></li>
     
-
-  
-
-### TRAINING DAYS
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div> 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -55,10 +56,13 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-mwz3"><span style="color:#565656">Teacher’s Hub</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### CCA ACHIEVEMENTS
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -101,10 +105,13 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-cmm0"><span style="color:#222;background-color:#FFF">Certificate of Merit for Singapore Youth Festival</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### PROGRAMMES / EVENTS
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -146,6 +153,14 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-mwz3"><span style="color:#565656">To foster leadership skills and team bonding.</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
+
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
 
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSiviFgTIiAHi21Cev4NtGwgE6P8Dz8WocvaXzv0k29U-WLcY2zMWltCx-k6QnAtzny6ytr1Y0Uva_L/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p></p>
+</div></li>
+
+</ul>

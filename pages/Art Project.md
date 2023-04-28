@@ -2,7 +2,6 @@
 title: Art Project
 permalink: /co-curriculum/niche-programmes/learning-for-life-programme/art-project/
 description: ""
-third_nav_title: Learning for Life Programme
 ---
 ### MANGA ART FOR SEC 2 SYMPOSIUM@ARTS FEST
 

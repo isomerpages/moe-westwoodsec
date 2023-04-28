@@ -11,18 +11,21 @@ third_nav_title: Sports
 *   To improve their standard of play and to enable them to play competitively in matches organised by Badminton tournaments
 
   
+<ul class="jekyllcodex_accordion">
 
-### TEACHERS IN-CHARGE
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
+<p>
+*   Mr Charles Chou (TIC)</p>
+<p>*   Ms Melissa Shan  </p>
+<p>*   Mr Koh Hoe Yap</p>
+<p>*   Mr Robert Lee</p>
 
-*   Mr Charles Chou (TIC)
-*   Ms Melissa Shan  
-*   Mr Koh Hoe Yap
-*   Mr Robert Lee
+</div></li>
 
-  
-
-### TRAINING DAYS
-
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -53,9 +56,12 @@ third_nav_title: Sports
     <td class="tg-njgx">ISH/Hall </td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### PROGRAMMES / EVENTS
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">PROGRAMMES / EVENTS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -96,10 +102,13 @@ third_nav_title: Sports
     <td class="tg-mwz3"><span style="color:#565656">This camp aims to develop the leadership skills of our Upper Secondary members in planning and executing the activities for a camp and it helps to improve team bonding as well. </span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### CCA ACHIEVEMENTS
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">CCA ACHIEVEMENTS</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -127,6 +136,14 @@ third_nav_title: Sports
     <td class="tg-mwz3"><span style="color:#565656">B Division Girls Top 8 in West Zone National Badminton Tournament</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
+<p>
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYYfOJlRIQ1OePy6UC7p9MGQC2StjZbhXWPpQv0ew7QKMGgb_ttBL8jbRSx1R8_WwHQoYAmgxfDY-Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</p>
+</div></li>
+
+</ul>

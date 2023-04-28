@@ -10,16 +10,23 @@ third_nav_title: Uniformed Groups
 *   To develop each Girl to her fullest potential by equipping, empowering and enabling.&nbsp;
 *   &nbsp;To provide the holistic development for every Girl in spiritual, physical, educational and social domain
 
-### TEACHERS IN-CHARGE&nbsp;  
+<ul class="jekyllcodex_accordion">
 
-*   Ms Lim Simin (TIC)   
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS-IN-CHARGE</label><div>
+  
+<p>
+*   Ms Lim Simin (TIC)   </p>
     
-*   Ms Belicia Ong Sze Han   
+<p>*   Ms Belicia Ong Sze Han&nbsp;  </p>
     
-*   Mdm Wang Fang
+<p>*   Mdm Wang Fang</p> 
+</div></li>
 
-### TRAINING DAYS
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -49,10 +56,12 @@ third_nav_title: Uniformed Groups
     <td class="tg-mwz3"><span style="color:#565656">GB Room / Quadrangle / Classroom</span></td>
   </tr>
 </tbody>
-</table>
+</table></p></div></li>
 
-### CCA Achievements
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA Achievements</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -89,10 +98,12 @@ third_nav_title: Uniformed Groups
   </tr>
   
 </tbody>
-</table>
+</table></p></div></li>
 
-### Programmes / Events
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">Programmes / Events</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -164,6 +175,12 @@ third_nav_title: Uniformed Groups
     <td class="tg-mwz3"><span style="color:#565656"> Ad-Hoc workshops such as calligraphy, baking lessons and outdoor activities such as Rock Climbing will be organised to provide opportunities for the girls to learn new skills in a fun way. They are conducted in alignment with the GB objectives for the year: Growing Girls, Becoming Leaders.</span><br></td>
   </tr>
 </tbody>
-</table>
+</table></p></div></li>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQotQ4PB4zXAWytBl-P9uCbe8KrU4MSJP_dMjoDlTKFh5ifz5eqwiFjlzMyPMEm1Aa1Ib7s_EQ7eLFR/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
+<p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQotQ4PB4zXAWytBl-P9uCbe8KrU4MSJP_dMjoDlTKFh5ifz5eqwiFjlzMyPMEm1Aa1Ib7s_EQ7eLFR/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p></div></li>
+
+</ul>

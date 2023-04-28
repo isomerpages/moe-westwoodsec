@@ -11,16 +11,22 @@ third_nav_title: Sports
 3.  To instill self –discipline, resilience, perseverance and adaptability among players through different strategies employed during trainings&nbsp;and to develop good team camaraderie over the 4 years.
 4.  To groom vibrant student leaders who can lead and inspire fellow players.
 
-### TEACHERS IN-CHARGE
 
-*   Ms Naomi Chua (TIC)  
-*   Mdm Farhana Binte Mokhtar
-*   Ms Koh Jia Rui  
-*   Ms Khadijah Bte Saidi
+<ul class="jekyllcodex_accordion">
+
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
+<p>
+*   Ms Naomi Chua (TIC)  </p>
+<p>*   Mdm Farhana Binte Mokhtar</p>
+<p>*   Ms Koh Jia Rui  </p>
+<p>*   Ms Khadijah Bte Saidi</p>
+</div></li>
 
 
-### TRAINING DAYS
-
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -51,9 +57,12 @@ third_nav_title: Sports
     <td class="tg-njgx">ISH/Quadrangle </td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### CCA ACHIEVEMENTS
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -78,9 +87,12 @@ third_nav_title: Sports
     <td class="tg-cmm0">M1 Netball School Challenge League - 1st (B girls)<br>Year End Carnival – 3rd (C girls)<br>Jurongville Carnival – 2nd (C girls)</td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### PROGRAMMES / EVENTS
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -137,6 +149,15 @@ third_nav_title: Sports
     <td class="tg-mwz3"><span style="color:#565656">Promote sporting excellence through competitions to prepare main players for next year.</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2CP4zumkjjjgEJHJxTGQHkiUgwQtWuomsg-pcDkeoj854io9in7MQqGHROIOQsFPsV_dJBZmXoXPe/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
+<p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2CP4zumkjjjgEJHJxTGQHkiUgwQtWuomsg-pcDkeoj854io9in7MQqGHROIOQsFPsV_dJBZmXoXPe/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p>
+</div></li>
+
+</ul>

@@ -4,7 +4,6 @@ permalink: /cca/uniformed-groups/national-civil-defence-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ### **OBJECTIVES**
 
 _“We Learn, We Lead, We Serve”_ &nbsp;  
@@ -14,15 +13,20 @@ _“We Learn, We Lead, We Serve”_ &nbsp;
 *   To imbibe an attitude of readiness against adversity and practical skills to become effective ambassadors of Civil Defence.
 *   To develop our members into leaders with character and values.
 
-### **TEACHERS IN-CHARGE**
+<ul class="jekyllcodex_accordion">
 
-*   Mr Terrance Lee Jin Han (TIC)
-*   Ms Lim Lay Ping
-*   Mr Wong Poh Shen
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
+<p>
+*   Mr Terrance Lee Jin Han (TIC)</p>
+<p>*   Ms Lim Lay Ping</p>
+<p></p>*   Mr Wong Poh Shen<p></p>
 
-  
+  </div></li>
 
-### TRAINING DAYS
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -49,9 +53,12 @@ _“We Learn, We Lead, We Serve”_ &nbsp;
     <td class="tg-njgx"><span style="color:#565656">NCDCC Room / Basketball Court / Classroom / Quadrangle</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### PROGRAMMES / EVENTS
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">PROGRAMMES / EVENTS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -168,6 +175,14 @@ _“We Learn, We Lead, We Serve”_ &nbsp;
     <td class="tg-mwz3"><span style="color:#565656">To provide cadets with a wide variety of experiences to enrich and support the development of skills, character and values</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLuGSXfOd4kA3kgbJ5uxmI3rGIrKBgAGbSUt36nnwFBBt5n80HQOPmpanGZf54wk2J2GcnUub5F3t-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">Gallery</label><div>
+<p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRRHuMWBmiuq-ngKjo0WMGdy7hi30gDqf2F8booSXqFmCJGBnU-s0RBp_9USOEsoG0qm9JGH5PZ0Rke/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p></div></li>
+
+</ul>

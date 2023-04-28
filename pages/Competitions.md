@@ -2,7 +2,6 @@
 title: Competitions
 permalink: /co-curriculum/niche-programmes/learning-for-life-programme/
 description: ""
-third_nav_title: Learning for Life Programme
 ---
 ### YOUTH STATION 2021
 

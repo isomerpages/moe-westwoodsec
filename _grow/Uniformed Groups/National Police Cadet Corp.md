@@ -9,14 +9,19 @@ third_nav_title: Uniformed Groups
 *   To develop our members to be active citizens and community leaders, by working in partnership with Singapore Police Force to fight crime and keep Singapore safe.&nbsp;
 *   To develop our members into leaders with character and values.
 
-### TEACHERS-IN-CHARGE
+<ul class="jekyllcodex_accordion">
 
-*   Ms Julitta Chia Meng You (TIC)
-*   Ms Alliot See Ai Xin
-*   Mr Zavier Ho Chee Yong
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS-IN-CHARGE</label><div>
+<p>
+*   Ms Julitta Chia Meng You (TIC)</p>
+<p>*   Ms Alliot See Ai Xin</p>
+<p>*   Mr Zavier Ho Chee Yong</p>
+</div></li>
 
-### TRAINING DAYS
-
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -41,9 +46,12 @@ third_nav_title: Uniformed Groups
     <td class="tg-mwz3"><span style="color:#565656">3:00pm - 5:50pm</span></td>
     <td class="tg-mwz3"><span style="color:#565656">NPCC room / Quadrangle </span><br></td>
   </tr></tbody></table>
+</p></div></li>
 
-### CCA Achievements
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA Achievements</label><div>
 
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -87,9 +95,12 @@ third_nav_title: Uniformed Groups
     <td class="tg-cmm0">NPCC Challenge Shield</td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### PROGRAMMES / EVENTS
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -238,6 +249,14 @@ third_nav_title: Uniformed Groups
     <td class="tg-61iw"><span style="color:#565656">To provide cadets with a wide variety of experiences beyond those related to Police work</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
+<p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQjEjr8_jATJ66gVemfsh9i__2aDRgTgZhZuGC__oWEpfGc_qM8UkRyprf5XUkvbjZMa6tOYZsqZ0_e/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p>
+</div></li>
+
+</ul>
