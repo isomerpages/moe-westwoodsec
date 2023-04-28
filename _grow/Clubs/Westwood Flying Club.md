@@ -58,7 +58,7 @@ third_nav_title: Clubs
 </p><ul>
 <li> MEDICALLY FIT</li></ul><p></p>
 
-<p>For further information, please <a href="https://www.syfc.sg"> Click Here</a></p>
+<p>For further information, please <a target="_blank" href="https://www.syfc.sg"> Click Here</a></p>
 </div></li>
 
 <li><input type="checkbox" id="accordion3">
