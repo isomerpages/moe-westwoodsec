@@ -2,7 +2,7 @@
 title: Show Choir
 permalink: /cca/visual-and-performing-arts/show-choir/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 ### OBJECTIVES
 
@@ -12,18 +12,22 @@ third_nav_title: Visual &amp; Performing Arts
 *   To broaden students’ perspectives through repertoire from different cultures and genres&nbsp;
 
   
+<ul class="jekyllcodex_accordion">
 
-### TEACHERS IN-CHARGE
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
+<p>
 
-*   Mdm You Chow Ling (TIC)  
-*   Mdm Tang Tai-Chi
-*   Mr Mohammad Redzuan Bin Jaafar
-*   Mdm Insyirah Jumat
-
+*   Mdm You Chow Ling (TIC) </p> 
+<p>*   Mdm Tang Tai-Chi</p>
+<p>*   Mr Mohammad Redzuan Bin Jaafar</p>
+<p>*   Mdm Insyirah Jumat</p>
+</div></li>
   
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
 
-### TRAINING DAYS
-
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -54,9 +58,12 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-mwz3"><span style="color:#565656">Dance Studio</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### CCA ACHIEVEMENT
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA ACHIEVEMENT</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -94,9 +101,12 @@ Best Vocals Award Festival B-Dazzled 2022</span></td>
     <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Platinum Award for Show Choir Festival B-Dazzled 2017</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### PROGRAMMES / EVENTS
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -145,6 +155,12 @@ Best Vocals Award Festival B-Dazzled 2022</span></td>
     <td class="tg-mwz3"><span style="color:#565656">To showcase the fruit of our labor for the first half of the year and as an opportunity for our students to perform on a big stage in an indoor theatre, our show choristers will be attending the annual Show Choir Festival Competition this year to gain further insight on competitive singing and dancing. </span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
+<p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3fd7_HvvoadQSDJp8ousGWfjjB5Tlcy71nPVzEOHDRxS3fcJsnRYogXTbB98rbVG-mQZvDQAs00FY/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p>
+</div></li></ul>
