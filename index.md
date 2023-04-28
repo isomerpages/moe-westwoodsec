@@ -20,5 +20,5 @@ sections:
         - title: useful links
           description: ""
           url: /administrative/usefullinks/
-      background: /images/wwssbanner.JPG
+      background: /images/picture3.png
 ---
