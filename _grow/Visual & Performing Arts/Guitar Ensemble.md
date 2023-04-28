@@ -2,7 +2,7 @@
 title: Guitar Ensemble
 permalink: /cca/visual-and-performing-arts/guitar-ensemble/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 ### OBJECTIVES
 
@@ -12,16 +12,21 @@ third_nav_title: Visual &amp; Performing Arts
 *   To develop members to be a good team player and develop leadership skills.
 *   To nurture members to become informed audiences for arts.
 
-  
+ <ul class="jekyllcodex_accordion">
 
-### TEACHERS IN-CHARGE
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div> 
+<p>
 
-*   Ms Siti Mahmudah Binte Mohd Omar (TIC)  
-*   Ms Nyam Lee Chin Ivy
-*   Mdm Kang Lu
-*   Ms Madeline Teo
+*   Ms Siti Mahmudah Binte Mohd Omar (TIC)</p>  
+<p>*   Ms Nyam Lee Chin Ivy</p>
+<p>*   Mdm Kang Lu</p>
+<p>*   Ms Madeline Teo</p>
+</div></li>
 
-### TRAINING DAYS
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -52,9 +57,12 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-cmm0">Guitar Room / Classroom </td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### CCA ACHIEVEMENTS
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -95,10 +103,12 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-cmm0">SYF Arts Presentation 2013 – Certificate of Distinction</td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### PROGRAMMES / EVENTS
-
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -161,5 +171,11 @@ third_nav_title: Visual &amp; Performing Arts
 </tbody>
 </table>
 
-
+</p></div></li><li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
+<p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFaUeOV_zA0tZOd7TgpmQWbHqr3QhHWGJ3BCHvy38xUL5OBTUZcLV3LBzqivJOlt3p4AzmSLYT2KHJ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p>
+</div></li>
+
+</ul>
