@@ -101,8 +101,8 @@ third_nav_title: Sports
 </p>
 </div></li>
 
-<li><input type="checkbox" id="accordion3">
-<label for="accordion3">PROGRAMMES / EVENTS</label><div>
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
 
 <p>
 <style type="text/css">
@@ -148,8 +148,8 @@ third_nav_title: Sports
 </table></p>
 </div></li>
 
-<li><input type="checkbox" id="accordion3">
-<label for="accordion3">Gallery</label><div>
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzHWXOfEDyHKRFU3mWrsGcM67NCyxLlp0PbdZPyV_7jXtLa4nZA4nDnfjuxET5nKqLPYFzVERdgu2Y/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </p>
