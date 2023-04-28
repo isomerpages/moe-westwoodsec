@@ -51,14 +51,13 @@ third_nav_title: Clubs
 </tbody>
 </table></p>
 
-<p><strong>**PRE-REQUISITES (ACCORDING TO SINGAPORE YOUTH FLYING CLUB RULES)**&nbsp;</strong>
+<p><strong>PRE-REQUISITES (ACCORDING TO SINGAPORE YOUTH FLYING CLUB RULES)</strong>&amp;;</p>
 
+<p>STUDENTS MUST BE
 
-STUDENTS MUST BE
-* MEDICALLY FIT
+*   MEDICALLY FIT</p>
 
-For further information, please visit&nbsp;[www.syfc.sg](http://www.syfc.sg/)</p>
-
+<p>For further information, please visit&nbsp;[www.syfc.sg](http://www.syfc.sg/)</p>
 </div></li>
 
 <li><input type="checkbox" id="accordion3">
