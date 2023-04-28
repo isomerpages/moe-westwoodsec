@@ -51,14 +51,15 @@ third_nav_title: Clubs
 </tbody>
 </table></p>
 
-<p><strong>PRE-REQUISITES (ACCORDING TO SINGAPORE YOUTH FLYING CLUB RULES)</strong>&amp;;</p>
+<p><strong>PRE-REQUISITES (ACCORDING TO SINGAPORE YOUTH FLYING CLUB RULES)</strong></p>
 
-<p>STUDENTS MUST BE
-
-*   MEDICALLY FIT</p>
+<p><b>STUDENTS MUST BE
+	</b></p><ul><b>
+		<li>
+				MEDICALLY FIT</li></b></ul><b>
 
 <p>For further information, please <a href="www.syfc.sg"> Click Here</a></p>
-</div></li>
+</b></div></li><b>
 
 <li><input type="checkbox" id="accordion3">
 <label for="accordion3">CCA ACHIEVEMENTS</label><div>
@@ -165,4 +166,4 @@ DA-40 planes<br><br>F50 and visit to Changi Airbase<br><br>C130 and visit to Pay
 </p>
 </div></li>
 
-</ul>
+</b></ul>
