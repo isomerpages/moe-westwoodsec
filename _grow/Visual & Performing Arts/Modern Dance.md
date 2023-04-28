@@ -2,7 +2,7 @@
 title: Modern Dance
 permalink: /cca/visual-and-performing-arts/modern-dance/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 ### OBJECTIVES
 
@@ -12,18 +12,22 @@ third_nav_title: Visual &amp; Performing Arts
     
 
   
+<ul class="jekyllcodex_accordion">
 
-### TEACHERS IN-CHARGE
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
+<p>
+*   Mdm Lim Shi Lei (TIC)</p>
+<p>*   Mdm Hanisah Binte Salim </p> 
+<p>*   Mdm Farah Zila Hassan</p>
+<p>*   Mr Lim Jun Wei</p>
 
-*   Mdm Lim Shi Lei (TIC)
-*   Mdm Hanisah Binte Salim  
-*   Mdm Farah Zila Hassan
-*   Mr Lim Jun Wei
-
+</div></li>
   
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
 
-### TRAINING DAYS
-
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -54,9 +58,12 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-61iw"><span style="color:#565656">MRL</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### CCA ACHIEVEMENTS
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -95,10 +102,12 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Super 24 - Participation</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### PROGRAMMES / EVENTS
-
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -144,7 +153,14 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-mwz3"><span style="color:#565656">To foster leadership skills and teambuilding. To expose them and encourage networking with dancers from other genres and other schools while learning from the experts of the dance scene.   </span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
+<p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTA09gJjqeuPmK9nOZQinFgPYvP008UZN7wSzzaIAiFpK34SHGzFMnJpWs06HIprrrvSLFMPqujeNNc/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p>
+</div></li>
+
+</ul>
