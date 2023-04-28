@@ -58,7 +58,7 @@ third_nav_title: Clubs
 		<li>
 				MEDICALLY FIT</li></b></ul><b>
 
-<p>For further information, please <a href="www.syfc.sg"> Click Here</a></p>
+<p>For further information, please <a href="[SYFC – Singapore Youth Flying Club](https://www.syfc.sg/)"> Click Here</a></p>
 </b></div></li><b>
 
 <li><input type="checkbox" id="accordion3">
