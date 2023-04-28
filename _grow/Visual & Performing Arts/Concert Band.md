@@ -2,7 +2,7 @@
 title: Concert Band
 permalink: /cca/visual-and-performing-arts/concert-band/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: Visual & Performing Arts
 ---
 ### OBJECTIVES
 
@@ -11,15 +11,20 @@ third_nav_title: Visual &amp; Performing Arts
 *   To build member’s character through performance and learning opportunities and challenges
 *   To develop co-operation, camaraderie and team work outside of academic subjects.
 
-### TEACHERS IN-CHARGE
+<ul class="jekyllcodex_accordion">
 
-*   Mdm Nur Nadiah Binte Razni&nbsp;(TIC)
-*   Mrs Jasmine Wong  
-*   Mr Lee Chuen Hing
-*   Mdm Nurul Atika Ramli
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">TEACHERS IN-CHARGE</label><div>
+<p>
+*   Mdm Nur Nadiah Binte Razni&nbsp;(TIC)</p>
+<p>*   Mrs Jasmine Wong  </p>
+<p>*   Mr Lee Chuen Hing</p>
+<p>*   Mdm Nurul Atika Ramli</p>
+</div></li>
 
-### TRAINING DAYS
-
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">TRAINING DAYS</label><div>
+<p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -49,9 +54,12 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-mwz3"><span style="color:#565656">Band Room</span></td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### CCA ACHIEVEMENTS
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -96,9 +104,12 @@ third_nav_title: Visual &amp; Performing Arts
     <td class="tg-cmm0">Singapore Youth Festival – Certificate of Distinction</td>
   </tr>
 </tbody>
-</table>
+</table></p>
+</div></li>
 
-### PROGRAMMES / EVENTS
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
+<p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -152,5 +163,11 @@ third_nav_title: Visual &amp; Performing Arts
 </tbody>
 </table>
 
-
+</p></div></li><li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
+<p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS3T_nz-hTJ26LBrtmZZIKzj2gZAFk5izUH-RrdzM2z1-hb5VU2bDuEQu4Xp7JkP8DkjKN2BlwxHX0g/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+</p>
+</div></li>
+
+</ul>
