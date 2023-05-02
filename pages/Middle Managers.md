@@ -107,5 +107,15 @@ SH/Chemistry</center></td>
 Bin Jaafar<br> </b>
 SH/Student Management</center></td>
     </tr>			
+		<tr>
+      <td><img src="/images/ms nadia binte eddy razali.jpg" style="width:55%">
+<center> <b>Mdm Nadia Binte Eddy Razali 
+Rama Shan<br> </b>
+SH/Character &amp; Citizenship Education</center></td>
+
+    </tr>			
+		
   </tbody>  
 </table>
+
+
