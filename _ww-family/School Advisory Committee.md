@@ -32,23 +32,23 @@ The Westwood School Advisory Committee (SAC) comprising representatives from gra
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zqva">Mr Ng Kheng Yong, Danny<br></td>
-    <td class="tg-cmm0">Chairperson</td>
-  </tr>
-  <tr>
     <td class="tg-zqva">Ms Pek Lay Peng<br></td>
-    <td class="tg-cmm0">Vice-chairperson</td>
+    <td class="tg-cmm0">Chairman</td>
   </tr>
   <tr>
-    <td class="tg-zqva">Mr Abdul Harris Bin Sumardi<br></td>
-    <td class="tg-cmm0">Honorary Secretary</td>
+    <td class="tg-zqva">Ms Edalin Ching Wen Hsie<br></td>
+    <td class="tg-cmm0">Member</td>
+  </tr>
+  <tr>
+    <td class="tg-zqva">Mr Jason Tan Kok Leong<br></td>
+    <td class="tg-cmm0">Member</td>
   </tr>
   <tr>
     <td class="tg-zqva">Mr Kendrick Goh Wei Jie<br></td>
     <td class="tg-cmm0">Member </td>
   </tr>
   <tr>
-    <td class="tg-zqva">Mr Koh Li Qun, Kelvin<br></td>
+    <td class="tg-zqva">Mr Kelvin Koh Li Qun<br></td>
     <td class="tg-cmm0">Member</td>
   </tr>
 </tbody>
