@@ -28,8 +28,22 @@ Arts for Life!</center></td></tr>
 
 **Phase 1: Simulation Challenge / Audition / Trial / Portfolio submission**
 
-Details TBC
+All shortlisted candidates are required to attend an in-person interview / audition / selection trial.  
+Please refer to click on respective areas for more details on the interview / audition / selection trial and the date and time. 
 
 **Phase 2: Dialogue Session with School Leadership Team**
 
-Details TBC
+Applicants who are shortlisted from the Interview / Audition / Trial in Phase 1 will be invited to attend an in-person Dialogue Session with the School Leadership Team which will be held in Westwood Secondary School. Applicants will need to be present for the Dialogue Session. The school will only consider re-scheduling the in-person Dialogue Session for applicants who are unwell (e.g. tested COVID-19 positive)
+
+##### APPLICATION OUTCOME
+
+The decision of the DSA-Sec application selection panel is FINAL.
+
+Westwood Secondary reserves the right not to reveal the reasons for the non-selection of applicants
+Successful applicants who have accepted the DSA-Sec application are NOT allowed to participate in the 2024 Secondary One Posting Exercise 
+Successful applicants who have accepted the DSA-Sec application are NOT allowed to transfer to another school after the release of the PSLE results. 
+
+##### KEY DATES
+
+
+
