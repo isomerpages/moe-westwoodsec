@@ -57,23 +57,7 @@ The Westwood PSG hopes to be a community of active and involved parents working 
   <tr>
     <td class="tg-zqva">Mdm Wang Fang<br></td>
     <td class="tg-zqva">Teacher Liaison<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zqva">Ms Eunice Lim</td>
-    <td class="tg-zqva">Exco Member<br></td>
-  </tr>
- <tr>
-    <td class="tg-zqva">Ms Elisa Saw </td>
-    <td class="tg-zqva">Exco Member<br></td>
-  </tr>
-<tr>
-    <td class="tg-zqva">Ms Lyn Sam</td>
-    <td class="tg-zqva">Exco Member<br></td>
-  </tr>
-<tr>
-    <td class="tg-zqva">Ms Farhanah Maricel Cantera </td>
-    <td class="tg-zqva">Exco Member<br></td>
-  </tr>
+	</tr>
  <tr>
     <td class="tg-zqva">Ms Angeline Ang</td>
     <td class="tg-zqva">Exco Member<br></td>
@@ -85,6 +69,18 @@ The Westwood PSG hopes to be a community of active and involved parents working 
   <tr>
     <td class="tg-zqva"> Ms Carol Foo</td>
     <td class="tg-zqva"> Exco Member</td>
+  </tr>
+	 <tr>
+    <td class="tg-zqva">Ms Elisa Saw </td>
+    <td class="tg-zqva">Exco Member<br></td>
+  </tr>
+	<tr>
+    <td class="tg-zqva">Ms Eunice Lim</td>
+    <td class="tg-zqva">Exco Member<br></td>
+  </tr>
+	<tr>
+    <td class="tg-zqva">Ms Farhanah Maricel Cantera </td>
+    <td class="tg-zqva">Exco Member<br></td>
   </tr>
   <tr>
     <td class="tg-zqva">Mr Gan Kong Nam<br></td>
@@ -108,6 +104,10 @@ The Westwood PSG hopes to be a community of active and involved parents working 
   </tr>
   <tr>
     <td class="tg-zqva"> Ms Lee Siew Kiang</td>
+    <td class="tg-zqva">Exco Member<br></td>
+  </tr>
+	<tr>
+    <td class="tg-zqva">Ms Lyn Sam</td>
     <td class="tg-zqva">Exco Member<br></td>
   </tr>
   <tr>
