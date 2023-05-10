@@ -23,15 +23,15 @@ The Westwood PSG hopes to be a community of active and involved parents working 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zqva">Ms Susan Ho<br></td>
+    <td class="tg-zqva">Ms Vanessa Tan<br></td>
     <td class="tg-zqva">Chairman</td>
   </tr>
   <tr>
-    <td class="tg-zqva">Ms Eunice Lim </td>
+    <td class="tg-zqva">Ms Nornani Ab Wahab (Nani)</td>
     <td class="tg-zqva">Vice-Chairman (Admin) </td>
   </tr>
   <tr>
-    <td class="tg-zqva">Ms Elisa Saw <br></td>
+    <td class="tg-zqva">Mr Ivan Low <br></td>
     <td class="tg-zqva">Vice-Chairman (Operation)</td>
   </tr>
   <tr>
@@ -39,11 +39,11 @@ The Westwood PSG hopes to be a community of active and involved parents working 
     <td class="tg-zqva">Secretary </td>
   </tr>
   <tr>
-    <td class="tg-zqva">Ms Lyn Sam <br></td>
+    <td class="tg-zqva">Ms Phyu Phyu Hlaing (Phyu) <br></td>
     <td class="tg-zqva">Treasurer </td>
   </tr>
   <tr>
-    <td class="tg-zqva">Ms Farhanah Maricel Cantera</td>
+    <td class="tg-zqva">Ms Su Su Mar (Su Mar)</td>
     <td class="tg-zqva">Asst Secretary </td>
   </tr>
   <tr>
@@ -59,6 +59,22 @@ The Westwood PSG hopes to be a community of active and involved parents working 
     <td class="tg-zqva">Teacher Liaison<br></td>
   </tr>
   <tr>
+    <td class="tg-zqva">Ms Eunice Lim</td>
+    <td class="tg-zqva">Exco Member<br></td>
+  </tr>
+ <tr>
+    <td class="tg-zqva">Ms Elisa Saw </td>
+    <td class="tg-zqva">Exco Member<br></td>
+  </tr>
+<tr>
+    <td class="tg-zqva">Ms Lyn Sam</td>
+    <td class="tg-zqva">Exco Member<br></td>
+  </tr>
+<tr>
+    <td class="tg-zqva">Ms Farhanah Maricel Cantera </td>
+    <td class="tg-zqva">Exco Member<br></td>
+  </tr>
+ <tr>
     <td class="tg-zqva">Ms Angeline Ang</td>
     <td class="tg-zqva">Exco Member<br></td>
   </tr>
@@ -128,6 +144,7 @@ The Westwood PSG hopes to be a community of active and involved parents working 
   </tr>
 </tbody>
 </table>
+
 
 ### CELEBRATING OUR CHILDREN PAST AND PRESENT
 
