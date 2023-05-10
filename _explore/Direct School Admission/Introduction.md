@@ -45,5 +45,42 @@ Successful applicants who have accepted the DSA-Sec application are NOT allowed 
 
 ##### KEY DATES
 
-
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle; font-family:Arial, sans-serif;font-size:14px;}
+.tg .tg-zqva{background-color:#FFF;color:#666;text-align:left;vertical-align:top; font-family:Arial, sans-serif;font-size:14px;}
+.tg .tg-cmm0{background-color:#FFF;color:#666;text-align:left;vertical-align:top;font-family:Arial, sans-serif;font-size:14px;}
+</style>
+   
+<table class="tg">
+<thead>
+</thead>
+<tbody>
+	<tr>
+		<td class="tg-zqva"><b>Application</b></td>
+    <td class="tg-cmm0">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from <b>4 May 2023 (11 am) to 31 May 2023 (3 pm).</b> For more details, please refer to MOE website – https://www.moe.gov.sg/secondary/dsa. <br><br>
+</td></tr>
+		<tr>
+			<td class="tg-zqva"><b>Westwood Events</b></td>
+<td class="tg-cmm0">
+For information on the talent areas for DSA, Applied Learning Programme – Innovation, Social Entrepreneurship (ISE) and Learning for Life Programme – Arts for Life!, Sport Excellence Programme and Student Leadership Programme please refer to our school’s website for more information.<br><br>
+	<a href="https://westwoodsec.moe.edu.sg/about-us/direct-school-admission">Westwood Direct School Admission</a><br><br>
+For more details, please contact us directly at 6792 9737 or email to westwood_ss@moe.edu.sg.<br>
+</td></tr>
+	<tr>
+    <td class="tg-zqva"><b>Shortlist Candidates</b> for DSA Selection</td><td class="tg-cmm0">26 June 2023</td></tr>
+	<tr>
+		<td class="tg-zqva"><b>Selection Exercise</b></td><td class="tg-cmm0"><b>Phase 1:</b> Interview / Audition / Selection Trial:<br>2 August 2023 at 3 to 5pm OR<br>
+4 August 2023 at 3 to 5pm OR<br>
+11 August 2023 at 3 to 5pm<br><br>
+		<b>Phase 2:</b> Dialogue Session with School Leadership Team:<br><b>18 August 2023 at 3 pm</b><br><br>
+*Both Phase 1 and 2 will be held in Westwood Secondary School
+</td></tr>
+	<tr>
+    <td class="tg-zqva"><b>Results Release</b></td><td class="tg-cmm0">All applicants will be informed of the DSA outcome by <b>Monday, 11 September 2023</b></td></tr>
+	<tr>
+</tr></tbody></table>
