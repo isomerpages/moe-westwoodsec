@@ -46,3 +46,20 @@ Interest in the application of STEM. Background in coding will be an advantage<b
 Good character report (eg. conduct and remarks in school report book)
 </td></tr>
 </tbody></table>
+
+##### Applied Learning Programme (Innovation and Social Entrepreneurship
+Applicants who apply for DSA in Westwood’s Applied Learning Programme (Innovation and Social Entrepreneurship) will undergo an in-person interview held in Westwood Secondary School.
+
+Applicants will need to be present for the interview. The school will only consider re-scheduling the in-person interview for applicants who are unwell (e.g. tested COVID-19 positive)
+
+The interview will be held on <b>August 2023.</b>
+
+Shortlisted students will be invited for an in-person interview where the panel will ask questions on the following:
+
+* Innovation/(Social) entrepreneurship experiences (which may include related competitions)
+
+* Interest in Science Technology Engineering and Mathematics (STEM), including sustainability issues
+* 
+Background in coding/programming 
+
+* Leadership positions held in school
