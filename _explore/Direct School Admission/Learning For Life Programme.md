@@ -75,60 +75,59 @@ Email the Teacher-in-charge, Mdm Tang Tai-Chi (tang_tai-chi@moe.edu.sg) at least
 
 * A copy of the music score for the prepared piece
 
-During the audition, candidates may be asked to play a portion of their prepared piece
+During the audition, candidates may be asked to play a portion of their prepared piece.
 
-Sight-reading exercises will be administered
+Sight-reading exercises will be administered.
 
-Candidates are to bring their own instrument for the audition
+Candidates are to bring their own instrument for the audition.
  
 ###### Dance – International 
-
 Audition on <b>2 August 2023 at 3pm</b>
 
-Candidates to put up a 1-minute dance item with music, preferably from the competition or performance they had performed previously
+Candidates to put up a 1-minute dance item with music, preferably from the competition or performance they had performed previously.
 
-Candidates would be required to learn a simple routine from the audition Panel and thereafter perform on the spot
+Candidates would be required to learn a simple routine from the audition Panel and thereafter perform on the spot.
 
-Candidates would be required to improvise a freestyle dance performance for 30 seconds
+Candidates would be required to improvise a freestyle dance performance for 30 seconds.
 
 ###### Show Choir
 
 Audition on <b>2 August 2023 at 3pm</b>
 
-Candidates would be expected to sing a song of their choice during the audition, preferably one that they have previously performed in a competition or public performance. They are strongly encouraged to sing with the backing track of the song (commonly known as “minus one”) on audition day
+Candidates would be expected to sing a song of their choice during the audition, preferably one that they have previously performed in a competition or public performance. They are strongly encouraged to sing with the backing track of the song (commonly known as “minus one”) on audition day.
 
-Candidates might be asked to sing only part of the song during the audition
+Candidates might be asked to sing only part of the song during the audition.
 
-Basic aural and vocal range tests will be administered
+Basic aural and vocal range tests will be administered.
 
-Candidates would be expected to learn a simple excerpt from the audition Panel and thereafter perform on the spot
+Candidates would be expected to learn a simple excerpt from the audition Panel and thereafter perform on the spot.
 
 ###### Guitar Ensemble
 Audition on <b>4 August 2023 at 3pm</b>
 
-Candidates to play one music piece of their choice for the audition, preferably from the competition or performance they had performed previously
+Candidates to play one music piece of their choice for the audition, preferably from the competition or performance they had performed previously.
 
-Candidates might be asked to play only part of the prepared piece during the audition
+Candidates might be asked to play only part of the prepared piece during the audition.
 
-Sight-reading exercises will be administered
+Sight-reading exercises will be administered.
 
-Candidates are to prepare their own guitar for the audition
+Candidates are to prepare their own guitar for the audition.
 
 ###### English Drama
 Audition on <b>11 August 2023 at 3pm</b>
 
-Candidates to deliver a monologue that showcases their own script, which should last between 3 to 5 minutes
+Candidates to deliver a monologue that showcases their own script, which should last between 3 to 5 minutes.
 
-Candidates would be required to improvise a scene using provided item
+Candidates would be required to improvise a scene using provided item.
 
-Candidates would be expected to have a dialogue scene with a Drama Student
+Candidates would be expected to have a dialogue scene with a Drama Student.
 
 ###### Visual Arts
 Audition on <b>2 August 2023 at 3pm</b>
 
 Before the audition, candidates are required to submit a portfolio by email to the Teacher-in-charge, Mdm Tang Tai-Chi (tang_tai-chi@moe.edu.sg). The portfolio must be submitted no later than <b>30 July 2023.</b>
 
-The portfolio should include a write-up and introduction of the candidate's art abilities. Additionally, candidates should describe their submitted artworks and explain if the works are their achievements or enhancements from other sources
+The portfolio should include a write-up and introduction of the candidate's art abilities. Additionally, candidates should describe their submitted artworks and explain if the works are their achievements or enhancements from other sources.
 
 Shortlisted portfolios would be granted an audition which would be held in <b>August 2023.</b>
 
