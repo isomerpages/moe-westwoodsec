@@ -43,11 +43,7 @@ The Westwood PSG hopes to be a community of active and involved parents working 
     <td class="tg-zqva">Treasurer </td>
   </tr>
   <tr>
-    <td class="tg-zqva">Ms Su Su Mar (Su Mar)</td>
-    <td class="tg-zqva">Asst Secretary </td>
-  </tr>
-  <tr>
-    <td class="tg-zqva">Ms Vanessa Tan</td>
+    <td class="tg-zqva">Ms Su Su Mar (Su Mar</td>
     <td class="tg-zqva">Asst Treasurer </td>
   </tr>
   <tr>
