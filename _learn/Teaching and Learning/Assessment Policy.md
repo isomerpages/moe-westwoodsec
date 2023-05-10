@@ -4,21 +4,20 @@ permalink: /academic-matters/assessment-policy/
 description: ""
 third_nav_title: Teaching and Learning
 ---
+### PHILOSOPHY&nbsp;
 
-### PHILOSOPHY 
-
-Quality assessments are essential components in the learning process.  Well-designed assessments provide students, teachers, parents and stakeholders with information on the learning, development and progress of students. It also provides feedback on the student’s learning process and informs how this learning can be improved. Assessment must thus be ongoing and designed to meet the needs of our students and learning community. 
+Quality assessments are essential components in the learning process.&nbsp; Well-designed assessments provide students, teachers, parents and stakeholders with information on the learning, development and progress of students. It also provides feedback on the student’s learning process and informs how this learning can be improved. Assessment must thus be ongoing and designed to meet the needs of our students and learning community.&nbsp;
 
   
 
-### PRINCIPLES OF ASSESSMENT  
+### PRINCIPLES OF ASSESSMENT &nbsp;
 
 The Westwood Assessment Policy is aligned to the Singapore Teaching Practice (STP) model. The principles of assessment are:
 
-*   Assessment forms an integral part of Teaching and Learning 
+*   Assessment forms an integral part of Teaching and Learning&nbsp;
 *   Assessment must be aligned to the intended learning outcomes, content and pedagogy
 *   Assessment facilitates meaningful learning, is learner-centric and has a formative effect on our students’ learning
-*   The Assessment System should be balanced – integrating Assessment for Learning (AfL), Assessment of Learning (AoL) and Information and Communication Technology (ICT) in the school curriculum
+*   The Assessment System should be balanced – integrating Assessment for Learning (AfL), Assessment of Learning (AoL)&nbsp;and Information and Communication Technology (ICT)&nbsp;in the school curriculum
 *   Assessment information should be collected regularly to evaluate current school practices and enhance future teaching and learning practices
 
 **AIMS OF WESTWOOD ASSESSMENT POLICY**
@@ -46,11 +45,11 @@ Our students need to be lifelong learners to meet the challenges of an increasin
 
   
 
-Termly weighted assessments will be conducted to gauge the learning progress of the students. Mid-year Exam will only be conducted for Sec 3 Higher MTL students in view of their year-end GCE O level MTL examinations. End-of-year examinations will be conducted at the end of Semester Two for Secondary 1 to 3 students. Preliminary Examinations will be conducted in the third term for students who are taking the GCE ‘N’ and ‘O’ Level Examinations. Performance for termly and end of year assessments will determine students’ promotion to the next level of study, lateral transfers across streams or retention at the same level of study. For Secondary Two, the results of the assessment are also used in the allocation of subjects during the subject options exercise.  
+Termly weighted assessments will be conducted to gauge the learning progress of the students. Mid-year Exam will only be conducted for Sec 3 Higher MTL students in view of their year-end GCE O level MTL examinations. End-of-year examinations will be conducted at the end of Semester Two for Secondary 1 to 3 students. Preliminary Examinations will be conducted in the third term for students who are taking the GCE ‘N’ and ‘O’ Level Examinations. Performance for termly and end of year assessments will determine students’ promotion to the next level of study, lateral transfers across streams or retention at the same level of study. For Secondary Two, the results of the assessment are also used in the allocation of subjects during the subject options exercise.&nbsp;&nbsp;
 
   
 
-As part of AfL and to allow a diversity of assessment to more effectively assess students’ learning, other modes of assessment may be included as part of the termly weighted assessments where relevant.   
+As part of AfL and to allow a diversity of assessment to more effectively assess students’ learning, other modes of assessment may be included as part of the termly weighted assessments where relevant.&nbsp;  
 
   
 
@@ -109,7 +108,7 @@ As part of AfL and to allow a diversity of assessment to more effectively assess
 <tbody>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Tests</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Mid-Year Exam</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">WA 2</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Preliminary Exam</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">-</span></td>
   </tr>
