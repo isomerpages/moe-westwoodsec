@@ -58,12 +58,12 @@ In addition, good character report (eg. conduct and remarks in school report boo
 
 ##### APPLICATION PROCEDURE
 
-###### Learning for Life Programme (Arts for Life!)
+##### Learning for Life Programme (Arts for Life!)
 Applicants who apply for DSA in Westwood’s <b>Learning for Life Programme (Arts for Life!)</b> will have to go through an audition in the specific art form via an in-person audition held in Westwood Secondary School.
 
 Applicants will need to be <b>present for the audition.</b> The school will only consider re-scheduling the in-person audition for applicants who are unwell (e.g. tested COVID-19 positive)
 
-###### Concert Band
+##### Concert Band
 
 Audition on <b>11 August 2023 at 3pm</b>
 
@@ -81,7 +81,7 @@ Sight-reading exercises will be administered.
 
 Candidates are to bring their own instrument for the audition.
  
-###### Dance – International 
+##### Dance – International 
 Audition on <b>2 August 2023 at 3pm</b>
 
 Candidates to put up a 1-minute dance item with music, preferably from the competition or performance they had performed previously.
@@ -90,7 +90,7 @@ Candidates would be required to learn a simple routine from the audition Panel a
 
 Candidates would be required to improvise a freestyle dance performance for 30 seconds.
 
-###### Show Choir
+##### Show Choir
 
 Audition on <b>2 August 2023 at 3pm</b>
 
@@ -102,7 +102,7 @@ Basic aural and vocal range tests will be administered.
 
 Candidates would be expected to learn a simple excerpt from the audition Panel and thereafter perform on the spot.
 
-###### Guitar Ensemble
+##### Guitar Ensemble
 Audition on <b>4 August 2023 at 3pm</b>
 
 Candidates to play one music piece of their choice for the audition, preferably from the competition or performance they had performed previously.
@@ -113,7 +113,7 @@ Sight-reading exercises will be administered.
 
 Candidates are to prepare their own guitar for the audition.
 
-###### English Drama
+##### English Drama
 Audition on <b>11 August 2023 at 3pm</b>
 
 Candidates to deliver a monologue that showcases their own script, which should last between 3 to 5 minutes.
@@ -122,7 +122,7 @@ Candidates would be required to improvise a scene using provided item.
 
 Candidates would be expected to have a dialogue scene with a Drama Student.
 
-###### Visual Arts
+##### Visual Arts
 Audition on <b>2 August 2023 at 3pm</b>
 
 Before the audition, candidates are required to submit a portfolio by email to the Teacher-in-charge, Mdm Tang Tai-Chi (tang_tai-chi@moe.edu.sg). The portfolio must be submitted no later than <b>30 July 2023.</b>
