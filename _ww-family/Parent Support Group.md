@@ -43,7 +43,7 @@ The Westwood PSG hopes to be a community of active and involved parents working 
     <td class="tg-zqva">Treasurer </td>
   </tr>
   <tr>
-    <td class="tg-zqva">Ms Su Su Mar (Su Mar</td>
+    <td class="tg-zqva">Ms Su Su Mar (Su Mar)</td>
     <td class="tg-zqva">Asst Treasurer </td>
   </tr>
   <tr>
@@ -88,10 +88,6 @@ The Westwood PSG hopes to be a community of active and involved parents working 
   </tr>
   <tr>
     <td class="tg-zqva"> Ms Hwee Shan</td>
-    <td class="tg-zqva">Exco Member </td>
-  </tr>
-  <tr>
-    <td class="tg-zqva"> Mr Ivan Low</td>
     <td class="tg-zqva">Exco Member </td>
   </tr>
   <tr>
