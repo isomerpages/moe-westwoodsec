@@ -26,7 +26,7 @@ third_nav_title: Direct School Admission
     <td class="tg-zqva">About</td>
     <td class="tg-cmm0">Westwood believes in developing student leaders who have the courage to lead and the passion to serve. We endeavour for every student to be equipped with the knowledge and skills to reflect, make responsible decisions, feel empowered to act and impact others within their spheres of influence. 
 <br><br><img width="50%" src="/images/dsaslp1.png"><br><img width="50%" src="/images/dsaslp2.png"><br>
-<img width="50%" src="/images/dsaslp3.png"></td>
+</td>
   </tr>
   <tr>
     <td class="tg-zqva">Development</td>
