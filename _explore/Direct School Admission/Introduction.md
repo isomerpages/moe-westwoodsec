@@ -87,9 +87,9 @@ For more details, please contact us directly at 6792 9737 or email to westwood_s
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-off-charge and will be open from <b>4 May 2023 (11 am) to 31 May 2023 (3 pm).</b> For more details, please refer to MOE website – https://www.moe.gov.sg/secondary/dsa.
 
-<b>Parents and students are strongly encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.
+<b>Parents and students are strongly encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.</b>
 
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.<br><br>Please refer to <a href="https://www.moe.gov.sg/secondary/dsa">MOE DSA Website</a> for the latest update.</b><br><br>
+<b>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.<br><br>Please refer to <a href="https://www.moe.gov.sg/secondary/dsa">MOE DSA Website</a> for the latest update.</b><br><br>
 For further clarifications and enquiries, please contact Westwood Secondary School at:<br>
 <table>
 <tbody>
