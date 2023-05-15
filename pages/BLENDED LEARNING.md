@@ -1,6 +1,6 @@
 ---
 title: BLENDED LEARNING
-permalink: /permalink/blendedlearning/
+permalink: /blendedlearning/
 description: ""
 ---
 1.&nbsp;&nbsp;&nbsp;&nbsp; Students will not need to report to school on BL days.&nbsp;

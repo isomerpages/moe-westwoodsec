@@ -1,6 +1,6 @@
 ---
 title: PLD INITIATIVE
-permalink: /permalink/pldinitiative/
+permalink: /pldinitiative/
 description: ""
 ---
 One of the components of the National Digital Literacy Programme (NDLP) is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD).

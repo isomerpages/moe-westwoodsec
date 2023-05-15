@@ -1,6 +1,6 @@
 ---
 title: Full Subject Based Banding
-permalink: /learn/permalink/
+permalink: /learn/fullsubjectbasedbanding/
 description: ""
 ---
 Westwood Secondary School is one of 30+ secondary schools which will implement Full Subject-Based Banding (Full SBB) from 2023.

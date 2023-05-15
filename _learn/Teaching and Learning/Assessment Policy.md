@@ -77,10 +77,14 @@ As part of AfL and to allow a diversity of assessment to more effectively assess
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">15%</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">15%</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">15%</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">55%</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">15%<br>
+			Weighted Assessment</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">15%<br>
+			Weighted Assessment</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">15%<br>
+			Weighted Assessment</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">55%<br>
+			Weighted Assessment</span></td>
   </tr>
 </tbody>
 </table>
@@ -102,15 +106,18 @@ As part of AfL and to allow a diversity of assessment to more effectively assess
     <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">Term 1</span></th>
     <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">Term 2</span></th>
     <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">Term 3</span></th>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">Term 4</span></th>
+ 
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Tests</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">WA 2</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">Preliminary Exam</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">-</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">15%<br>
+			Weighted Assessment</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">15%<br>
+			Weighted Assessment</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">70% <br>
+			Preliminary Exam</span></td>
+  
   </tr>
 </tbody>
 </table>

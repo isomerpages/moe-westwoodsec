@@ -1,9 +1,8 @@
 ---
 title: Assessment Calendar
-permalink: /permalink/assessmentcalendar/
+permalink: /assessmentcalendar/
 description: ""
 ---
-
 **1\. N Level Preliminary Examination**
 * [4NT / 4NA Prelim Timetable](http://westwoodsec.moe.edu.sg/qql/slot/u558/Assessment%20Calendar/2022%20N-Level%20Prelim_Timetable_Updated15Jul.pdf) 
 **2\. O Level Preliminary Examination**  
