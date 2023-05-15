@@ -46,4 +46,4 @@ Students are to take ownership of their learning and understand the purpose of h
   
 
 **Roles of Parents**  
-Parents are encouraged to create a home environment conducive for studying and completion of homework, to reinforce good study habits and attitudes in support of their child’s learning. Parents can work in partnership with teachers to discuss and be better informed of their child’s learning and development. 
+Parents are encouraged to create a home environment conducive for studying and completion of homework, to reinforce good study habits and attitudes in support of their child’s learning. Parents can work in partnership with teachers to discuss and be better informed of their child’s learning and development.
