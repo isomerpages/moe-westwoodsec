@@ -24,13 +24,13 @@ description: ""
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="https://go.gov.sg/wwwssstudenthandbook2023">Student Handbook 2023</a></span></td>
   </tr>
 		<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/permalink/blendedlearning/">Blended Learning</a></span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/blendedlearning/">Blended Learning</a></span></td>
   </tr>
 			<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/permalink/pldinitiative/">Personal Digital Learning Programme</a></span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/pldinitiative/">Personal Digital Learning Programme</a></span></td>
   </tr>
 				<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/permalink/useandpublication/">Use and Publication of Photos and Video Recordings</a></span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/useandpublication/">Use and Publication of Photos and Video Recordings</a></span></td>
   </tr>
 </tbody>
 </table>
