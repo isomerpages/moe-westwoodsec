@@ -18,6 +18,9 @@ description: ""
 </thead>
 <tbody><tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><strong>Blended Learning Day Schedule</strong><br><a target="_blank" href="https://drive.google.com/file/d/1H3vhwxKiqsXq0Px28B6z03XHuNgejBCA/view?usp=share_link">[2023 Term 1]</a><br><a target="_blank" href="https://drive.google.com/file/d/1rkxVslqYxC6Skc-OoTuregAg3cMHtsLu/view?usp=share_link">[2023 Term 2]</a></span></td></tr>
+	<tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="https://drive.google.com/file/d/1uEIwuqpEgzGXIrlqShnD9lkJtzMudUlg/view?usp=sharing">2023 May/June Holiday Lesson Schedule</a></span></td>
+  </tr>
 <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/administration/parentsgateway/">Parents Gateway</a></span></td>
   </tr>
