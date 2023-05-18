@@ -57,7 +57,8 @@ description: ""
 <li><a target="_blank" href="https://drive.google.com/file/d/1GSjC_XxSwQJra0EgTCyTdvJEHI32JfNy/view?usp=share_link">Student Handbook 2023</a></li>
 <li><a target="_blank" href="https://go.gov.sg/pytjkj">PLD Fault Reporting</a></li>
 	<li>	<a target="_blank" href="https://learn.icdlasia.org/">NDE e-Learning Portal</a></li>
-<li>	<a target="_blank" href="https://www.ace-learning.com/">Ace-Learning Math e-learning portal</a></li>
+	<ul><li><a target="_blank" href="(/files/nde%20elearning%20portal_student%20guide.pdf)">NDE Students User Guide</a></li></ul><a target="_blank" href="(/files/nde%20elearning%20portal_student%20guide.pdf)">
+</a><li><a target="_blank" href="(/files/nde%20elearning%20portal_student%20guide.pdf)">	</a><a target="_blank" href="https://www.ace-learning.com/">Ace-Learning Math e-learning portal</a></li>
 <li>	<a target="_blank" href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">MySkillsFuture Student Portal</a></li>
 
 <li><a target="_blank" href="https://www.nstream.sg/login/login.aspx">e-streaming portal</a></li>
