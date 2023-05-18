@@ -18,8 +18,7 @@ description: ""
 </thead>
 <tbody>
 		<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">**Blended Learning Day Schedule**<br><a href="">2023 Term 1</a><br><a href="">2023 Term 2</a>
-</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">**Blended Learning Day Schedule**<br>[2023 Term 1](/files/bl%202023%20term%201.pdf)<br>[2023 Term 2](/files/bl%202023%20term%202.pdf)</span></td>
   </tr>
 	<tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/administration/parentsgateway/">Parents Gateway</a></span></td>
