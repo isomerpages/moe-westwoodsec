@@ -58,7 +58,6 @@ description: ""
 <li><a target="_blank" href="https://go.gov.sg/pytjkj">PLD Fault Reporting</a></li>
 	<li>	<a target="_blank" href="https://learn.icdlasia.org/">NDE e-Learning Portal</a></li>
 <ul>	<li>	<a target="_blank" href="https://drive.google.com/file/d/1dVm_FkD2g7gwDW1BC_sf1coKgnhg8uI-/view?usp=share_link/">NDE Students User Guide</a></li></ul>
-
 <li>	<a target="_blank" href="https://www.ace-learning.com/">Ace-Learning Math e-learning portal</a></li>
 <li>	<a target="_blank" href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">MySkillsFuture Student Portal</a></li>
 
