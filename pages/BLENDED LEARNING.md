@@ -9,7 +9,9 @@ description: ""
 
 3.&nbsp;&nbsp;&nbsp;&nbsp; All learning activities are to be completed by the day itself, or if not the due date given by subject teachers.&nbsp;
 
-4.&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged to observe good cyber wellness habits when doing work online.&nbsp;
+4.&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged to observe good cyber wellness habits when doing work online.&nbsp; <p>
+
+    <span style="color:#222;background-color:#FFF"><strong>BLENDED LEARNING DAY SCHEDULE</strong><br><a target="_blank" href="https://drive.google.com/file/d/1H3vhwxKiqsXq0Px28B6z03XHuNgejBCA/view?usp=share_link">[2023 Term 1]</a><br><a target="_blank" href="https://drive.google.com/file/d/1rkxVslqYxC6Skc-OoTuregAg3cMHtsLu/view?usp=share_link">[2023 Term 2]</a></span>
 
 **RESOURCES FOR PARENTS**
 <br>We hope to partner parents/guardians by inculcating in your child/ward the skills to self-manage and take ownership for their own learning. You may refer to the parent kit for key information on BL and tips on how to support your child/ward on BL days.
@@ -48,4 +50,4 @@ Outside the school operating hours, students should contact the SLS central help
 or
 <br>Email SLS Helpdesk at helpdesk@sls.ufinity.com
 
-When emailing the SLS Helpdesk, students should include their full name, name of school and form class.
+When emailing the SLS Helpdesk, students should include their full name, name of school and form class.</p>
