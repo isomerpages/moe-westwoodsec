@@ -3,13 +3,13 @@ title: Blended Learning
 permalink: /blendedlearning/
 description: ""
 ---
-<strong>BLENDED LEARNING DAY SCHEDULE</strong><br><a target="_blank" href="https://drive.google.com/file/d/1H3vhwxKiqsXq0Px28B6z03XHuNgejBCA/view?usp=share_link">[2023 Term 1]</a><br><a target="_blank" href="https://drive.google.com/file/d/1rkxVslqYxC6Skc-OoTuregAg3cMHtsLu/view?usp=share_link">[2023 Term 2]</a><br><br>1.&nbsp;&nbsp;&nbsp;&nbsp; Students will not need to report to school on BL days.&nbsp;
+1.&nbsp;&nbsp;&nbsp;&nbsp; Students will not need to report to school on BL days.&nbsp;
 
 2.&nbsp;&nbsp;&nbsp;&nbsp; All instructions of learning activities will be disseminated through student’s MOE Student Learning Space (SLS). Students will be briefed and reminded of the expectations on BL days.&nbsp;
 
 3.&nbsp;&nbsp;&nbsp;&nbsp; All learning activities are to be completed by the day itself, or if not the due date given by subject teachers.&nbsp;
 
-4.&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged to observe good cyber wellness habits when doing work online.&nbsp;<br>
+4.&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged to observe good cyber wellness habits when doing work online.&nbsp;<br><br><strong>BLENDED LEARNING DAY SCHEDULE</strong><br><a target="_blank" href="https://drive.google.com/file/d/1H3vhwxKiqsXq0Px28B6z03XHuNgejBCA/view?usp=share_link">[2023 Term 1]</a><br><a target="_blank" href="https://drive.google.com/file/d/1rkxVslqYxC6Skc-OoTuregAg3cMHtsLu/view?usp=share_link">[2023 Term 2]</a>
 
 **RESOURCES FOR PARENTS**
 <br>We hope to partner parents/guardians by inculcating in your child/ward the skills to self-manage and take ownership for their own learning. You may refer to the parent kit for key information on BL and tips on how to support your child/ward on BL days.
