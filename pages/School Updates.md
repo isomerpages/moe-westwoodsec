@@ -21,7 +21,7 @@ description: ""
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="https://drive.google.com/file/d/1hKkfNKzgpTZb6pWLtebTmW_CgomYzzL-/view?usp=share_link">Learning Festival Programme Schedule</a></span></td>
   </tr>
 	<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="https://drive.google.com/file/d/1uEIwuqpEgzGXIrlqShnD9lkJtzMudUlg/view?usp=sharing">2023 May/June Holiday Lesson Schedule</a></span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="https://drive.google.com/file/d/1ldzp_73NvIXEO_WwMrxSczoSH2lbML-B/view?usp=sharing">2023 May/June Holiday Lesson Schedule</a></span></td>
   </tr>
 <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/administration/parentsgateway/">Parents Gateway</a></span></td>
