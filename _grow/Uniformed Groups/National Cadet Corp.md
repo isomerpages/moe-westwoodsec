@@ -17,10 +17,9 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS-IN-CHARGE</label><div>
-<p>
-*   CPT Khatijah Bee Bte Syed Abdul Kadir (TIC)</p>
-<p>*   CPT Nicholas Seah</p>
-<p>*   Mr How Choon Keat</p>
+<p>CPT (NCC) Khatijah Bee Bte Syed Abdul Kadir (TIC)</p>
+<p>CPT (NCC) Nicholas Seah</p>
+<p>CPT (NCC) Mr How Choon Keat</p>
 
 </div></li>
 
@@ -77,6 +76,10 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-gktn"> 2022</td>
+    <td class="tg-26kj"><span style="color:#666">Distinction Award for Unit Recognition </span><br></td>
+  </tr>
   <tr>
     <td class="tg-gktn"> 2021</td>
     <td class="tg-26kj"><span style="color:#666">Distinction Award for Unit Recognition </span><br></td>
@@ -249,7 +252,7 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
   </tr>
   <tr>
     <td class="tg-tsok">Orienteering</td>
-    <td class="tg-tsok">October</td>
+    <td class="tg-tsok">May</td>
     <td class="tg-tsok">To foster competitive spirit and outdoor adventure in a neutral environment for the cadets.<br>To evaluate and improve the knowledge of the NCC cadets in orienteering skills.</td>
   </tr>
   <tr>
