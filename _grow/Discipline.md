@@ -18,4 +18,4 @@ Discipline is the cornerstone on which a positive school for teaching and learni
 
 Rules and regulations help students understand what constitutes acceptable personal and social behaviour. Besides learning, the school is also a community where respectful and caring relationships are formed and nurtured. 
 
-**Please click [here](/files/school%20rules%20and%20regulation%202023.pdf) for the School Rules & Regulation. **
+Please click [here](/files/school%20rules%20and%20regulation%202023.pdf) for the School Rules & Regulation.
