@@ -2,7 +2,6 @@ collections:
   grow:
     output: true
     order:
-      - Discipline.md
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Student Well Being.md
@@ -41,3 +40,4 @@ collections:
       - CCE/Cyber Wellness.md
       - Enrichment & Life Skills.md
       - Values in Action.md
+      - Discipline.md
