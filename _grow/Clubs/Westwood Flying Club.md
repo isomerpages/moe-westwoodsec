@@ -16,8 +16,8 @@ third_nav_title: Clubs
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
 
 <p>
-*   Mr Raymond Ya Soon Kwang (TIC)</p>
-<p>*   Mdm Li Aili</p>
+Mr Raymond Ya Soon Kwang (TIC)</p>
+<p>Mdm Li Aili</p>
 </div></li>
 
   
