@@ -14,13 +14,9 @@ third_nav_title: Uniformed Groups
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS-IN-CHARGE</label><div>
-  
-<p>
-*   Ms Lim Simin (TIC)   </p>
-    
-<p>*   Ms Belicia Ong Sze Han&nbsp;  </p>
-    
-<p>*   Mdm Wang Fang</p> 
+<p>Ms Lim Simin (TIC)</p>
+<p>Ms Belicia Ong Sze Han&nbsp;</p>
+<p>Mdm Wang Fang</p> 
 </div></li>
 
 <li><input type="checkbox" id="accordion2">
