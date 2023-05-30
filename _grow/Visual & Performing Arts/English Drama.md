@@ -13,15 +13,14 @@ third_nav_title: Visual & Performing Arts
 *   To train and guide students to be good leaders and team workers
 *   To develop 21st Century Skills
 
-  <ul class="jekyllcodex_accordion">
+<ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
-<p>
-*   Ms Priyanka Chakraborty (TIC)</p> 
-<p> *   Mdm Jaskirath Kaur</p> 
-<p> *   Miss Yeo Wan Qiu Jennifer </p> 
-<p> *   Mdm Maria Loh May Kay</p>
+<p>Ms Priyanka Chakraborty (TIC)</p> 
+<p>Mdm Jaskirath Kaur</p> 
+<p>Miss Yeo Wan Qiu Jennifer</p> 
+<p>Mdm Maria Loh May Kay</p>
 </div></li>
     
 <li><input type="checkbox" id="accordion2">
