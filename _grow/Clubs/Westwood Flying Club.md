@@ -15,12 +15,9 @@ third_nav_title: Clubs
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
 
-<p>
-Mr Raymond Ya Soon Kwang (TIC)</p>
+<p>Mr Raymond Ya Soon Kwang (TIC)</p>
 <p>Mdm Li Aili</p>
 </div></li>
-
-  
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">TRAINING DAYS</label><div>
 
@@ -160,7 +157,7 @@ DA-40 planes<br><br>F50 and visit to Changi Airbase<br><br>C130 and visit to Pay
 </div></li>
 
 <li><input type="checkbox" id="accordion5">
-<label for="accordion5">Gallery</label><div>
+<label for="accordion5">GALLERY</label><div>
 <p>
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRmHJj1X8UG4Bn61-3rZXl3iaYF52jNgiKoPLiFcXvKpIUXjm0N04ZnqkmxKsQ6aVW326slPfPqj4JG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </p>

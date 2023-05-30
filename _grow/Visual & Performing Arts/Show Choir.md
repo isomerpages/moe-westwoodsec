@@ -16,12 +16,10 @@ third_nav_title: Visual & Performing Arts
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
-<p>
-
-*   Mdm You Chow Ling (TIC) </p> 
-<p>*   Mdm Tang Tai-Chi</p>
-<p>*   Mr Mohammad Redzuan Bin Jaafar</p>
-<p>*   Mdm Insyirah Jumat</p>
+<p>Mdm You Chow Ling (TIC)</p> 
+<p>Mdm Tang Tai-Chi</p>
+<p>Mr Mohammad Redzuan Bin Jaafar</p>
+<p>Mdm Insyirah Jumat</p>
 </div></li>
   
 <li><input type="checkbox" id="accordion2">
@@ -159,7 +157,7 @@ Best Vocals Award Festival B-Dazzled 2022</span></td>
 </div></li>
 
 <li><input type="checkbox" id="accordion5">
-<label for="accordion5">Gallery</label><div>
+<label for="accordion5">GALLERY</label><div>
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3fd7_HvvoadQSDJp8ousGWfjjB5Tlcy71nPVzEOHDRxS3fcJsnRYogXTbB98rbVG-mQZvDQAs00FY/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </p>

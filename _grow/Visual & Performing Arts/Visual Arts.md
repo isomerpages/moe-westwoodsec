@@ -15,10 +15,9 @@ third_nav_title: Visual & Performing Arts
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div> 
 
-<p>
-*   Ms Mumtazah Binte Mohd Haron (TIC)</p>
-<p>*   Ms Claris Ang Gian Yi </p> 
-<p>*   Mdm&nbsp;Siti Hajar</p>
+<p>Ms Mumtazah Binte Mohd Haron (TIC)</p>
+<p>Ms Claris Ang Gian Yi</p> 
+<p>Mdm Siti Hajar</p>
 </div></li>
     
 <li><input type="checkbox" id="accordion2">
@@ -167,7 +166,7 @@ Experience hands-on activity and complete an artwork under the guidance of an ar
 </div></li>
 
 <li><input type="checkbox" id="accordion5">
-<label for="accordion5">Gallery</label><div>
+<label for="accordion5">GALLERY</label><div>
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeZFU1caHeo-t5MGcHe7a9WYUugoQO6S1eq9uytN6mAXCU91Un-oneyM1diBBV0CslDGbcz3yn-Old/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </p>

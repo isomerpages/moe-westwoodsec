@@ -375,7 +375,7 @@ The National Cadet Corps (NCC) is a premier uniformed youth organisation support
 
 
 <li><input type="checkbox" id="accordion5">
-<label for="accordion5">Gallery</label><div>
+<label for="accordion5">GALLERY</label><div>
 
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgl4N8daa061TgabM22R3qjvUflC-QPkdvzRq4sEPuWjIYlJniYIYQ6lqqVGbwycK-xcoxjCG_pmzv/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

@@ -16,11 +16,9 @@ third_nav_title: Sports
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
-<p>
-*   Ms Naomi Chua (TIC)  </p>
-<p>*   Mdm Farhana Binte Mokhtar</p>
-<p>*   Ms Koh Jia Rui  </p>
-<p>*   Ms Khadijah Bte Saidi</p>
+<p>Ms Naomi Chua (TIC)</p>
+<p>Mdm Farhana Binte Mokhtar</p>
+<p>Ms Koh Jia Rui</p>
 </div></li>
 
 
@@ -154,7 +152,7 @@ third_nav_title: Sports
 
 
 <li><input type="checkbox" id="accordion5">
-<label for="accordion5">Gallery</label><div>
+<label for="accordion5">GALLERY</label><div>
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2CP4zumkjjjgEJHJxTGQHkiUgwQtWuomsg-pcDkeoj854io9in7MQqGHROIOQsFPsV_dJBZmXoXPe/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </p>

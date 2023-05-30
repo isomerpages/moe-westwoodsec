@@ -14,13 +14,9 @@ third_nav_title: Uniformed Groups
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS-IN-CHARGE</label><div>
-  
-<p>
-*   Ms Lim Simin (TIC)   </p>
-    
-<p>*   Ms Belicia Ong Sze Han&nbsp;  </p>
-    
-<p>*   Mdm Wang Fang</p> 
+<p>Ms Lim Simin (TIC)</p>
+<p>Ms Belicia Ong Sze Han&nbsp;</p>
+<p>Mdm Wang Fang</p> 
 </div></li>
 
 <li><input type="checkbox" id="accordion2">
@@ -59,7 +55,7 @@ third_nav_title: Uniformed Groups
 </table></p></div></li>
 
 <li><input type="checkbox" id="accordion3">
-<label for="accordion3">CCA Achievements</label><div>
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>
 
 <p>
 <style type="text/css">
@@ -101,7 +97,7 @@ third_nav_title: Uniformed Groups
 </table></p></div></li>
 
 <li><input type="checkbox" id="accordion4">
-<label for="accordion4">Programmes / Events</label><div>
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
 
 <p>
 <style type="text/css">
@@ -178,7 +174,7 @@ third_nav_title: Uniformed Groups
 </table></p></div></li>
 
 <li><input type="checkbox" id="accordion5">
-<label for="accordion5">Gallery</label><div>
+<label for="accordion5">GALLERY</label><div>
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQotQ4PB4zXAWytBl-P9uCbe8KrU4MSJP_dMjoDlTKFh5ifz5eqwiFjlzMyPMEm1Aa1Ib7s_EQ7eLFR/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </p></div></li>

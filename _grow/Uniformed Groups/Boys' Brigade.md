@@ -13,10 +13,9 @@ third_nav_title: Uniformed Groups
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS-IN-CHARGE</label><div>
-
-<p>*   Mr Terence Tsang (TIC)</p>
-<p>*   Ms Tan Rou Jing Geraldine</p>
-<p>*   Mr Peh Teow Peng</p>
+<p>Mr Terence Tsang (TIC)</p>
+<p>Ms Tan Rou Jing Geraldine</p>
+<p>Mr Peh Teow Peng</p>
 </div></li>
 
 <li><input type="checkbox" id="accordion2">
@@ -52,7 +51,7 @@ third_nav_title: Uniformed Groups
 </p>	</div></li>
 
 <li><input type="checkbox" id="accordion3">
-<label for="accordion3">CCA Achievements</label><div>	
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>	
 
 <p>
 <style type="text/css">
@@ -104,7 +103,7 @@ third_nav_title: Uniformed Groups
 </p></div></li>
 
 <li><input type="checkbox" id="accordion4">
-<label for="accordion4">Programmes / Events</label><div>
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
 
 <p>
 <style type="text/css">
@@ -175,7 +174,7 @@ third_nav_title: Uniformed Groups
 NYAA Bronze &amp; NYAA Silver, Kayaking 1 Star, Total Defence, and First Aid </p></div></li>
 
 <li><input type="checkbox" id="accordion6">
-<label for="accordion6">Gallery</label><div>
+<label for="accordion6">GALLERY</label><div>
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8R1f2vbH086HIIZg6e6HHktqrqs2BEuMZfQc6Gb5C41I8PTIvOZ-tPVgCfJqPQS6v1hODRClySOmK/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
