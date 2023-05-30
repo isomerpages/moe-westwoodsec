@@ -16,11 +16,9 @@ third_nav_title: Sports
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
-<p>
-*   Ms Naomi Chua (TIC)  </p>
-<p>*   Mdm Farhana Binte Mokhtar</p>
-<p>*   Ms Koh Jia Rui  </p>
-<p>*   Ms Khadijah Bte Saidi</p>
+<p>Ms Naomi Chua (TIC)</p>
+<p>Mdm Farhana Binte Mokhtar</p>
+<p>Ms Koh Jia Rui</p>
 </div></li>
 
 
