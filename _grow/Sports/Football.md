@@ -16,10 +16,9 @@ third_nav_title: Sports
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
 
-<p>
-*   Mr Lee Rui Ming Caleb (TIC)</p>
-<p>*   Mr Lua Wen Liang</p>  
-<p>*   Mr Syed Ali Bin Mohamed Alhabshee</p>
+<p>Mr Lee Rui Ming Caleb (TIC)</p>
+<p>Mr Lua Wen Liang</p>  
+<p>Mr Syed Ali Bin Mohamed Alhabshee</p>
     
 </div></li>
   
