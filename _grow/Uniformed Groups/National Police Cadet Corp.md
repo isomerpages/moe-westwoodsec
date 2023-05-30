@@ -13,10 +13,9 @@ third_nav_title: Uniformed Groups
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS-IN-CHARGE</label><div>
-<p>
-*   Ms Julitta Chia Meng You (TIC)</p>
-<p>*   Ms Alliot See Ai Xin</p>
-<p>*   Mr Zavier Ho Chee Yong</p>
+<p>Ms Julitta Chia Meng You (TIC)</p>
+<p>Ms Alliot See Ai Xin</p>
+<p>Mr Zavier Ho Chee Yong</p>
 </div></li>
 
 <li><input type="checkbox" id="accordion2">
