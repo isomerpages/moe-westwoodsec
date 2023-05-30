@@ -17,10 +17,9 @@ _“We Learn, We Lead, We Serve”_ &nbsp;
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
-<p>
-*   Mr Terrance Lee Jin Han (TIC)</p>
-<p>*   Ms Lim Lay Ping</p>
-<p></p>*   Mr Wong Poh Shen<p></p>
+<p>Mr Terrance Lee Jin Han (TIC)</p>
+<p>Ms Lim Lay Ping</p>
+<p></p>Mr Wong Poh Shen<p></p>
 
   </div></li>
 
