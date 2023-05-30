@@ -15,10 +15,8 @@ third_nav_title: Sports
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
-<p>
-*   Ms Natria Siman (TIC)  </p>
-<p>*   Ms Elia Hamarian
-</p>
+<p>Ms Natria Siman (TIC)</p>
+<p>Ms Elia Hamarian</p>
   </div></li>
 
 <li><input type="checkbox" id="accordion2">
