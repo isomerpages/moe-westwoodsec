@@ -16,11 +16,10 @@ third_nav_title: Visual & Performing Arts
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
-<p>
-*   Mdm Lim Shi Lei (TIC)</p>
-<p>*   Mdm Hanisah Binte Salim </p> 
-<p>*   Mdm Farah Zila Hassan</p>
-<p>*   Mr Lim Jun Wei</p>
+<p>Mdm Lim Shi Lei (TIC)</p>
+<p>Mdm Hanisah Binte Salim</p> 
+<p>Mdm Farah Zila Hassan</p>
+<p>Mr Lim Jun Wei</p>
 
 </div></li>
   
