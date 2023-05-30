@@ -24,5 +24,5 @@ sections:
   - infobar:
       title: School Canteen Advertisement
       button: Click for more information
-      url: /school canteen advertisement/
+      url: /schoolcanteenadvertisement/
 ---
