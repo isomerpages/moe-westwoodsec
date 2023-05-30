@@ -15,11 +15,10 @@ third_nav_title: Sports
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
 
-<p>
-</p><p>*   Mr Jeremiah Lim (TIC)</p>
-<p>*   Mr Eric Liow Choon Cheang</p>
-<p>*   Mr Ahmad Luqman Bin Ghazali</p>
-<p>*   Mr Joel Tan</p>
+<p>Mr Jeremiah Lim (TIC)</p>
+<p>Mr Eric Liow Choon Cheang</p>
+<p>Mr Ahmad Luqman Bin Ghazali</p>
+<p>Mr Joel Tan</p>
 </div></li>
 
 <li><input type="checkbox" id="accordion2">
