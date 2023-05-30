@@ -3,7 +3,7 @@ title: School Canteen Advertisement
 permalink: /schoolcanteenadvertisement/
 description: ""
 ---
-Westwood Secondary School has an immediate vacancy for 2 cooked food stalls. One stall will be halal western food. The other stall can be any cuisine - Indian, Thai, Korean or Japanese and preferably halal.
+Westwood Secondary School has an immediate vacancy for 2 cooked food stalls. One stall will be Halal western food. The other stall can be any cuisine - Indian, Thai, Korean or Japanese and preferably Halal.
 
 School’s Address : 11 Jurong West St 25 S 648350
 
