@@ -15,11 +15,10 @@ third_nav_title: Sports
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
-<p>
-*   Mr Charles Chou (TIC)</p>
-<p>*   Ms Melissa Shan  </p>
-<p>*   Mr Koh Hoe Yap</p>
-<p>*   Mr Robert Lee</p>
+<p>Mr Charles Chou (TIC)</p>
+<p>Ms Melissa Shan  </p>
+<p>Mr Koh Hoe Yap</p>
+<p>Mr Robert Lee</p>
 
 </div></li>
 
