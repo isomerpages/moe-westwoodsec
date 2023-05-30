@@ -15,11 +15,10 @@ third_nav_title: Clubs
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
 
-<p>
-*   Mr Jeffrey Chua Yeow Huat (TIC)  </p>
- <p>*   Mr Clement Huang </p>
- <p>*   Mr Lawrence Chia  </p> 
- <p>*   Mr Md Hamim Bar  </p>
+<p>Mr Jeffrey Chua Yeow Huat (TIC)</p>
+<p>Mr Clement Huang</p>
+<p>Mr Lawrence Chia</p> 
+<p>Mr Md Hamim Bar</p>
     
 </div></li>
 
