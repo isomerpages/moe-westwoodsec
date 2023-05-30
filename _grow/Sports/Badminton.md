@@ -140,7 +140,7 @@ third_nav_title: Sports
 </div></li>
 
 <li><input type="checkbox" id="accordion5">
-<label for="accordion5">Gallery</label><div>
+<label for="accordion5">GALLERY</label><div>
 <p>
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYYfOJlRIQ1OePy6UC7p9MGQC2StjZbhXWPpQv0ew7QKMGgb_ttBL8jbRSx1R8_WwHQoYAmgxfDY-Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </p>
