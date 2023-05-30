@@ -15,7 +15,7 @@ School’s Address : 11 Jurong West St 25 Singapore 648350
 2. Be fit and healthy;
 3. Able to provide good service and quality food at reasonable prices determined in consultation with the school;
 4. Able to maintain high standard of food safety and personal hygiene;
-5. Able to provide food that comply with the health/nutritional standards set by <b>Health Promotion Board</b> under the <b>“Healthy Meals in Schools Programme (HMSP)”</b> guidelines https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme
+5. Able to provide food that comply with the health/nutritional standards set by <b>Health Promotion Board</b> under the <b>“Healthy Meals in Schools Programme (HMSP)”</b> guidelines <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
 6. Preferably have experience in operating a school canteen stall or have catering experience;
 7. Successful applicant is required to apply for a food stall licence from Singapore Food Agency (SFA).
 8. Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate. 
