@@ -18,7 +18,6 @@ third_nav_title: Sports
 <p>Mr Jeremiah Lim (TIC)</p>
 <p>Mr Eric Liow Choon Cheang</p>
 <p>Mr Ahmad Luqman Bin Ghazali</p>
-<p>Mr Joel Tan</p>
 </div></li>
 
 <li><input type="checkbox" id="accordion2">
