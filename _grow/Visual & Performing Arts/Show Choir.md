@@ -16,12 +16,10 @@ third_nav_title: Visual & Performing Arts
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
-<p>
-
-*   Mdm You Chow Ling (TIC) </p> 
-<p>*   Mdm Tang Tai-Chi</p>
-<p>*   Mr Mohammad Redzuan Bin Jaafar</p>
-<p>*   Mdm Insyirah Jumat</p>
+<p>Mdm You Chow Ling (TIC)</p> 
+<p>Mdm Tang Tai-Chi</p>
+<p>Mr Mohammad Redzuan Bin Jaafar</p>
+<p>Mdm Insyirah Jumat</p>
 </div></li>
   
 <li><input type="checkbox" id="accordion2">
