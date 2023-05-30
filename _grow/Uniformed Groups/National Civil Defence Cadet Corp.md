@@ -57,7 +57,38 @@ _“We Learn, We Lead, We Serve”_ &nbsp;
 </div></li>
 
 <li><input type="checkbox" id="accordion3">
-<label for="accordion3">PROGRAMMES / EVENTS</label><div>
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>
+<p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bdm7{background-color:#FFF;border-color:inherit;color:#666;text-align:center;vertical-align:top}
+.tg .tg-lk3d{background-color:#3AA66F;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-26kj{background-color:#FFF;border-color:inherit;color:#666;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-lk3d">Year </th>
+    <th class="tg-lk3d">Award</th>
+  </tr>
+</thead>
+<tbody>
+	<tr>
+    <td class="tg-gktn">2022</td>
+    <td class="tg-26kj"><span style="color:#666">Unit Overall Proficiency Award (Distinction)</span><br></td>
+  </tr>
+
+</tbody>
+</table></p>
+</div></li>
+
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
 <p>
 
 <style type="text/css">
@@ -179,8 +210,8 @@ _“We Learn, We Lead, We Serve”_ &nbsp;
 </div></li>
 
 
-<li><input type="checkbox" id="accordion4">
-<label for="accordion4">Gallery</label><div>
+<li><input type="checkbox" id="accordion5">
+<label for="accordion5">Gallery</label><div>
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRRHuMWBmiuq-ngKjo0WMGdy7hi30gDqf2F8booSXqFmCJGBnU-s0RBp_9USOEsoG0qm9JGH5PZ0Rke/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </p></div></li>
