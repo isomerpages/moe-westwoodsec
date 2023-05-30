@@ -26,6 +26,6 @@ School’s Address : 11 Jurong West St 25 Singapore 648350
  i. Photocopy of the NRIC (front and back)<br>
 ii. List of proposed menu and pricing for all items<br>
 iii. Photocopy of relevant certificates such as Basic Food Hygiene Course, etc<br>
-3. Submit completed application form and documents via email to lek_chun_Guan@schools.gov.sg or to the school’s general office by Friday 16 June 2023 (4pm)
+3. Submit completed application form and documents via email to <a href="mailto: lek_chun_guan@schools.gov.sg">Mr Lek Chun Guan</a> or to the school’s General Office by <b>Friday 16 June 2023 (4pm)</b>
 4. Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense. 
 <br><br>For any queries, please contact <b>Mr Lek Chun Guan at 6792 9737</b>
