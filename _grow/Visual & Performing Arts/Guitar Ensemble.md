@@ -16,12 +16,10 @@ third_nav_title: Visual & Performing Arts
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div> 
-<p>
-
-*   Ms Siti Mahmudah Binte Mohd Omar (TIC)</p>  
-<p>*   Ms Nyam Lee Chin Ivy</p>
-<p>*   Mdm Kang Lu</p>
-<p>*   Ms Madeline Teo</p>
+<p>Ms Siti Mahmudah Binte Mohd Omar (TIC)</p>  
+<p>Ms Nyam Lee Chin Ivy</p>
+<p>Mdm Kang Lu</p>
+<p>Ms Madeline Teo</p>
 </div></li>
 
 <li><input type="checkbox" id="accordion2">
