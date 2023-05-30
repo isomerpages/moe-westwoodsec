@@ -65,7 +65,7 @@ third_nav_title: Sports
 </div></li>
 
 <li><input type="checkbox" id="accordion3">
-<label for="accordion3">CCA Achievements</label><div>
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>
 <p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -155,7 +155,7 @@ third_nav_title: Sports
 </div></li>
 
 <li><input type="checkbox" id="accordion5">
-<label for="accordion5">Gallery</label><div>
+<label for="accordion5">GALLERY</label><div>
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyz56MI6chz24C1OvB_bMVEOHaSUsYDngAbJGSvoxv0zM9-td7RhaIpPfytr7rodsEmM38ceAFsKo5/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </p>
