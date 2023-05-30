@@ -178,7 +178,7 @@ third_nav_title: Uniformed Groups
 </table></p></div></li>
 
 <li><input type="checkbox" id="accordion5">
-<label for="accordion5">Gallery</label><div>
+<label for="accordion5">GALLERY</label><div>
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQotQ4PB4zXAWytBl-P9uCbe8KrU4MSJP_dMjoDlTKFh5ifz5eqwiFjlzMyPMEm1Aa1Ib7s_EQ7eLFR/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </p></div></li>
