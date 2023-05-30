@@ -14,10 +14,9 @@ third_nav_title: Clubs
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>  
-<p>
-*   Mdm Sim Lay Ling (TIC)</p>
-<p>*   Mdm&nbsp;Nadia Eddy</p>
-<p>*   Mr Chan Chi Thio</p>
+<p>Mdm Sim Lay Ling (TIC)</p>
+<p>Mdm&nbsp;Nadia Eddy</p>
+<p>Mr Chan Chi Thio</p>
 </div></li>
 
 <li><input type="checkbox" id="accordion2">
