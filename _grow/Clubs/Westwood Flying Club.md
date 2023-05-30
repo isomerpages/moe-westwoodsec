@@ -15,12 +15,9 @@ third_nav_title: Clubs
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
 
-<p>
-Mr Raymond Ya Soon Kwang (TIC)</p>
+<p>Mr Raymond Ya Soon Kwang (TIC)</p>
 <p>Mdm Li Aili</p>
 </div></li>
-
-  
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">TRAINING DAYS</label><div>
 
