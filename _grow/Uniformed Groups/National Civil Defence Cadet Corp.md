@@ -121,7 +121,7 @@ _“We Learn, We Lead, We Serve”_ &nbsp;
   </tr>
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Precision Drill Challenge</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">March (TBC)</span></td>
+    <td class="tg-mwz3"><span style="color:#565656">February</span></td>
     <td class="tg-njgx"><span style="color:#565656">Cadets from different schools will interact and pit their drills competency and knowledge against each other. </span></td>
   </tr>
   <tr>
