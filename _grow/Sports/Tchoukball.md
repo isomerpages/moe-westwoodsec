@@ -16,12 +16,11 @@ third_nav_title: Sports
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
-<p>
-*   Ms Nai Huey Chyi (TIC)</p>
-<p>*   Ms Nurul Amirah Binte Zubir</p>
-<p>*   Mdm Puvaneswari</p>
+<p>Ms Nai Huey Chyi (TIC)</p>
+<p>Ms Nurul Amirah Binte Zubir</p>
+<p>Mdm Puvaneswari</p>
 
- </div></li>
+</div></li>
 
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">TRAINING DAYS</label><div> 
