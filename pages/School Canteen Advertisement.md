@@ -21,7 +21,7 @@ School’s Address : 11 Jurong West St 25 S 648350
 8. Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate. 
 
 ##### Application Procedure
-1. Download and complete the application form. 
+1. Download and complete the application form.<br>[Canteen Application Form](/files/formbf7.pdf)
 2. Attached the following documents together with the application:<br>
  i. Photocopy of the NRIC (front and back)<br>
 ii. List of proposed menu and pricing for all items<br>
