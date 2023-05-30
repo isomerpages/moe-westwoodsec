@@ -164,7 +164,7 @@ third_nav_title: Visual & Performing Arts
 </table>
 
 </p></div></li><li><input type="checkbox" id="accordion5">
-<label for="accordion5">Gallery</label><div>
+<label for="accordion5">GALLERY</label><div>
 <p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS3T_nz-hTJ26LBrtmZZIKzj2gZAFk5izUH-RrdzM2z1-hb5VU2bDuEQu4Xp7JkP8DkjKN2BlwxHX0g/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 </p>
