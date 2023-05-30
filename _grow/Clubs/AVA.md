@@ -55,7 +55,7 @@ third_nav_title: Clubs
 </div></li>
 
 <li><input type="checkbox" id="accordion3">
-<label for="accordion3">CCA Achievements</label><div>
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>
 <p>
 
 <style type="text/css">
@@ -140,7 +140,7 @@ third_nav_title: Clubs
 </div></li>
 
 <li><input type="checkbox" id="accordion5">
-<label for="accordion5">Gallery</label><div>
+<label for="accordion5">GALLERY</label><div>
 <p>
 <iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTyaTCLRRgfGU0Ug0nADrxdVB_4nHQBkUQC9F5z1XbcFtgSJtJ2fQg2w6kC71aUOeYhYEkNKV21KDwP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
