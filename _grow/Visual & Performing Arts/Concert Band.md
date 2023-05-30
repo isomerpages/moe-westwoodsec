@@ -15,11 +15,10 @@ third_nav_title: Visual & Performing Arts
 
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
-<p>
-*   Mdm Nur Nadiah Binte Razni&nbsp;(TIC)</p>
-<p>*   Mrs Jasmine Wong  </p>
-<p>*   Mr Lee Chuen Hing</p>
-<p>*   Mdm Nurul Atika Ramli</p>
+<p>Mdm Nur Nadiah Binte Razni&nbsp;(TIC)</p>
+<p>Mrs Jasmine Wong</p>
+<p>Mr Lee Chuen Hing</p>
+<p>Mdm Nurul Atika Ramli</p>
 </div></li>
 
 <li><input type="checkbox" id="accordion2">
