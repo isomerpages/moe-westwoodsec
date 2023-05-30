@@ -15,10 +15,9 @@ third_nav_title: Visual & Performing Arts
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">TEACHERS IN-CHARGE</label><div> 
 
-<p>
-*   Ms Mumtazah Binte Mohd Haron (TIC)</p>
-<p>*   Ms Claris Ang Gian Yi </p> 
-<p>*   Mdm&nbsp;Siti Hajar</p>
+<p>Ms Mumtazah Binte Mohd Haron (TIC)</p>
+<p>Ms Claris Ang Gian Yi</p> 
+<p>Mdm Siti Hajar</p>
 </div></li>
     
 <li><input type="checkbox" id="accordion2">
