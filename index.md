@@ -21,4 +21,8 @@ sections:
           description: ""
           url: /administrative/usefullinks/
       background: /images/picture3.png
+  - infobar:
+      title: School Canteen Advertisement
+      button: Click for more information
+      url: /school canteen advertisement/
 ---
