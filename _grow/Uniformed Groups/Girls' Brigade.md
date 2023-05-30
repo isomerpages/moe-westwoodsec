@@ -59,7 +59,7 @@ third_nav_title: Uniformed Groups
 </table></p></div></li>
 
 <li><input type="checkbox" id="accordion3">
-<label for="accordion3">CCA Achievements</label><div>
+<label for="accordion3">CCA ACHIEVEMENTS</label><div>
 
 <p>
 <style type="text/css">
@@ -101,7 +101,7 @@ third_nav_title: Uniformed Groups
 </table></p></div></li>
 
 <li><input type="checkbox" id="accordion4">
-<label for="accordion4">Programmes / Events</label><div>
+<label for="accordion4">PROGRAMMES / EVENTS</label><div>
 
 <p>
 <style type="text/css">
