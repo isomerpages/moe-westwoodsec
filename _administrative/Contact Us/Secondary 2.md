@@ -77,7 +77,19 @@ third_nav_title: Contact Us
   mso-border-top-themecolor:background1;mso-border-top-themeshade:217;
   padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
   color:black;mso-color-alt:windowtext"><a href="mailto:khatijah_bee_syed_abdul@schools.gov.sg"><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:#3AA66F;text-decoration:none;text-underline:none">khatijah_bee_syed_abdul@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:10"><td width="216" style="width:2.25in;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
+  &quot;Arial&quot;,sans-serif;color:#3AA66F;text-decoration:none;text-underline:none">khatijah_bee_syed_abdul@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:9"><td width="216" style="width:2.25in;border:none;border-bottom:solid #D9D9D9 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:217;
+  mso-border-bottom-alt:solid #D9D9D9 .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:217;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Ms Jovin Tan Wen Lin</span></p></td><td width="84" style="width:63.0pt;border:none;border-bottom:solid #D9D9D9 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:217;
+  mso-border-bottom-alt:solid #D9D9D9 .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:217;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-left:-1.8pt;line-height:14.7pt"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656">2D</span></p></td><td width="324" style="width:243.0pt;border:none;border-bottom:solid #D9D9D9 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:217;
+  mso-border-bottom-alt:solid #D9D9D9 .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:217;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  color:black;mso-color-alt:windowtext"><a href="mailto:jovin_tan_wen_lin@schools.gov.sg"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#3AA66F;text-decoration:none;text-underline:none">jovin_tan_wen_lin@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:10"><td width="216" style="width:2.25in;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
   mso-border-top-themecolor:background1;mso-border-top-themeshade:217;
   padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;color:#565656">Ms Nurul Amirah Bte Zubir</span></p></td><td width="84" style="width:63.0pt;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
