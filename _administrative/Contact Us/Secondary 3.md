@@ -71,7 +71,17 @@ third_nav_title: Contact Us
   mso-border-bottom-alt:solid #D9D9D9 .5pt;mso-border-bottom-themecolor:background1;
   mso-border-bottom-themeshade:217;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
   color:black;mso-color-alt:windowtext"><a href="mailto:wang_fang_b@schools.gov.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#3AA66F;text-decoration:none;text-underline:none">wang_fang_b@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:8"><td width="216" style="width:2.25in;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
+  color:#3AA66F;text-decoration:none;text-underline:none">wang_fang_b@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:6"><td width="216" style="width:2.25in;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:217;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Ms Mavis Teo</span></p></td><td width="90" style="width:67.5pt;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:217;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">3C</span></p></td><td width="288" style="width:3.0in;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:217;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  color:black;mso-color-alt:windowtext"><a href="mailto:mavis_teo@schools.gov.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#3AA66F;text-decoration:none;text-underline:none">mavis_teo@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:8"><td width="216" style="width:2.25in;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
   mso-border-top-themecolor:background1;mso-border-top-themeshade:217;
   padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;color:#565656">Ms&nbsp;Tan Rou Jing Geraldine</span></p></td><td width="90" style="width:67.5pt;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
