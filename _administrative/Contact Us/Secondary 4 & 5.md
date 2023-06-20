@@ -4,8 +4,7 @@ permalink: /administration/school-management-committee/secondary-4-n-5/
 description: ""
 third_nav_title: Contact Us
 ---
-
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="576" style="background:white;border-collapse:collapse;mso-table-layout-alt:fixed;
+<span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span><p></p><table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="576" style="background:white;border-collapse:collapse;mso-table-layout-alt:fixed;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="204" style="width:153.0pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><b><span style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;color:white;text-transform:uppercase">NAME</span></b></p></td><td width="90" style="width:67.5pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><b><span style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;color:white;text-transform:uppercase">FORM CLASS</span></b></p></td><td width="282" style="width:211.5pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><b><span style="font-size:10.5pt;
@@ -124,11 +123,7 @@ third_nav_title: Contact Us
   font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;5A</span></p></td><td width="282" style="width:211.5pt;border:none;mso-border-top-alt:solid windowtext .5pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:nai_huey_chyi@schools.gov.sg"><span style="color:#3AA66F;
-  text-decoration:none;text-underline:none">nai_huey_chyi@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:18"><td width="204" style="width:153.0pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Ms Khadijah Bte Saidi</span></p></td><td width="90" style="width:67.5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;5A</span></p></td><td width="282" style="width:211.5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"><a href="mailto:khadijah_saidi@schools.gov.sg"><span style="color:#3AA66F;
-  text-decoration:none;text-underline:none">khadijah_saidi@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:19"><td width="204" style="width:153.0pt;border:none;border-bottom:solid windowtext 1.0pt;
+  text-decoration:none;text-underline:none">nai_huey_chyi@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:19"><td width="204" style="width:153.0pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr Liow Choon Cheang Eric</span></p></td><td width="90" style="width:67.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;

@@ -4,7 +4,6 @@ permalink: /administration/school-management-committee/secondary-1/
 description: ""
 third_nav_title: Contact Us
 ---
-
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="624" style="background:white;border-collapse:collapse;mso-table-layout-alt:fixed;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="228" style="width:171.0pt;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><b><span style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;color:white;text-transform:uppercase">NAME</span></b></p></td><td width="96" style="width:1.0in;background:#3AA66F;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><b><span style="font-size:10.5pt;
@@ -118,7 +117,17 @@ third_nav_title: Contact Us
   mso-border-bottom-alt:solid #D9D9D9 .5pt;mso-border-bottom-themecolor:background1;
   mso-border-bottom-themeshade:217;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
   color:black;mso-color-alt:windowtext"><a href="mailto:lim_shi_lei@schools.gov.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#3AA66F;text-decoration:none;text-underline:none">lim_shi_lei@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:11"><td width="228" style="width:171.0pt;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
+  color:#3AA66F;text-decoration:none;text-underline:none">lim_shi_lei@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:6"><td width="216" style="width:2.25in;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:217;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">Ms Jane Yap</span></p></td><td width="90" style="width:67.5pt;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:217;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  font-family:&quot;Arial&quot;,sans-serif;color:#565656">&nbsp;1E</span></p></td><td width="288" style="width:3.0in;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:217;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
+  color:black;mso-color-alt:windowtext"><a href="mailto:yap_hui_hian_jane@schools.gov.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:#3AA66F;text-decoration:none;text-underline:none">yap_hui_hian_jane@schools.gov.sg</span></a></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:#565656"></span></p></td></tr><tr style="mso-yfti-irow:11"><td width="228" style="width:171.0pt;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;
   mso-border-top-themecolor:background1;mso-border-top-themeshade:217;
   padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="line-height:14.7pt"><span style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;color:#565656">Mr Lee Jin Han Terrance&nbsp;</span></p></td><td width="96" style="width:1.0in;border:none;mso-border-top-alt:solid #D9D9D9 .5pt;

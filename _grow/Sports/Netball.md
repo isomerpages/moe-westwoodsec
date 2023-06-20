@@ -18,7 +18,6 @@ third_nav_title: Sports
 <label for="accordion1">TEACHERS IN-CHARGE</label><div>
 <p>Ms Naomi Chua (TIC)</p>
 <p>Mdm Farhana Binte Mokhtar</p>
-<p>Ms Koh Jia Rui</p>
 </div></li>
 
 
