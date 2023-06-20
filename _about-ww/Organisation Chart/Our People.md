@@ -172,9 +172,6 @@ SH/Character &amp; Citizenship Education</center></td>
 <center> <b>Mr Wang Pok Shien  <br> </b>
 Administration Manager</center>
 	
-<img src="/images/mr%20low%20yoong%20chee.jpeg" style="width:25%">
-<center> <b>Mr&nbsp;Low Yoong Chee Frankie <br> </b>
-Operations Manager</center><p></p>
 </div></li>
 
 </ul>
