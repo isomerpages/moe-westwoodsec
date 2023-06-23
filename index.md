@@ -13,7 +13,7 @@ sections:
           url: /schoolupdates/
         - title: student timetable
           description: ""
-          url: https://drive.google.com/file/d/1XR4PuZCAe5G8AmkklNyV8OIRM9p60PpO/view?usp=sharing
+          url: https://drive.google.com/file/d/1frP1FIzU3uxg-koST7ORoei3II75Pvum/view?usp=sharing
         - title: school calendar
           description: ""
           url: /general-information/calendar-of-events/
