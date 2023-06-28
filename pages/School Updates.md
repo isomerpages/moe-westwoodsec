@@ -17,15 +17,14 @@ description: ""
 <thead>
 </thead>
 <tbody>
-
+	<tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/blendedlearning/">Blended Learning</a></span></td>
+  </tr>
 <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/administration/parentsgateway/">Parents Gateway</a></span></td>
   </tr>
 	<tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="https://go.gov.sg/wwwssstudenthandbook2023">Student Handbook 2023</a></span></td>
-  </tr>
-		<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/blendedlearning/">Blended Learning</a></span></td>
   </tr>
 			<tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/pldinitiative/">Personal Digital Learning Programme</a></span></td>
