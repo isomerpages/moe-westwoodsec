@@ -12,7 +12,7 @@ description: ""
 4.&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged to observe good cyber wellness habits when doing work online.&nbsp;<br><br><strong>BLENDED LEARNING DAY SCHEDULE</strong><br>
 <a target="_blank" href="https://drive.google.com/file/d/1zX85aCjluQ7N6r2Cc5IR-C09uGkHol7y/view?usp=sharing">[2023 Term 3]</a><br>
 <a target="_blank" href="https://drive.google.com/file/d/11PvW7kPurkWO3MhqpYXFeshn8NalrSHV/view?usp=sharing">[2023 Term 4]</a><br>
-<a target="_blank" href="https://drive.google.com/file/d/1STBsiHzpZHANmYmmfpLZ9cXF-NHDciM0/view?usp=sharing">[HBL Physical Lesson for Sec4 Sem 2 - T3W4 - 17 July]</a><br>
+<a target="_blank" href="https://drive.google.com/file/d/1l920W75SQ14GF9Z73TFg0YT37lC9CGPl/view?usp=sharing">[HBL Physical Lesson for Sec4 Sem 2 - T3W4 - 17 July]</a><br>
 <a target="_blank" href="https://drive.google.com/file/d/1ICmpgzYVTcCkws9JjZk24T_E46x4dKwY/view?usp=sharing">[HBL Physical Lesson for Sec4 Sem 2 - T3W6 - 31 July]</a><br>
 <a target="_blank" href="https://drive.google.com/file/d/1Wla2SY5CeHyyvMcK4jLot4BTPf8QYUxY/view?usp=sharing">[HBL Physical Lesson for Sec4 Sem 2 - T3W8 14 Aug]</a><br>
 
