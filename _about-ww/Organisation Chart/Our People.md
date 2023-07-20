@@ -171,7 +171,10 @@ SH/Character &amp; Citizenship Education</center></td>
 <img src="/images/mr%20wang%20pok%20shien.jpeg" style="width:25%">
 <center> <b>Mr Wang Pok Shien  <br> </b>
 Administration Manager</center>
-	
+
+<img src="/images/mdm%20nor%20haseena%20binte%20masrip.jpg" style="width:25%">
+<center> <b>Mdm Nor Haseena Binte Masrip <br> </b>
+Operations Manager</center>	
 </div></li>
 
 </ul>
