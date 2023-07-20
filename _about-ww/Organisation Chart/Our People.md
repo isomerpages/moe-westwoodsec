@@ -174,7 +174,7 @@ Administration Manager</center>
 
 <img src="/images/mdm%20nor%20haseena%20binte%20masrip.jpg" style="width:25%">
 <center> <b>Mdm Nor Haseena Binte Masrip <br> </b>
-Operation Manager</center>	
+Operations Manager</center>	
 </div></li>
 
 </ul>
