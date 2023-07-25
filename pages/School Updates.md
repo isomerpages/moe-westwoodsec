@@ -18,6 +18,9 @@ description: ""
 </thead>
 <tbody>
 	<tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/assessmentcalendar/">Sec 4/5 Prelim Timetable</a></span></td>
+  </tr>
+	<tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/blendedlearning/">Blended Learning</a></span></td>
   </tr>
 <tr>
