@@ -58,17 +58,20 @@ description: ""
     <td class="tg-7s4v"><a href="https://iexams.seab.gov.sg/login"><span style="text-decoration:none;color:#3AA66F">iExams</span></a><br></td>
     <td class="tg-kgfz">https://iexams.seab.gov.sg/login<br></td>
   </tr>
+	<tr>
+    <td class="tg-7s4v"><a href="https://forms.moe.edu.sg/"><span style="text-decoration:none;color:#3AA66F">All Ears Form Builder</span></a></td><td class="tg-kgfz">https://forms.moe.edu.sg/</td>
+  </tr>
   <tr>
     <td class="tg-udx9"><a href="https://form.gov.sg/"><span style="text-decoration:none;color:#3AA66F">Form SG</span></a><br></td>
     <td class="tg-sxrn">https://form.gov.sg/<br></td>
   </tr>
   <tr>
-    <td class="tg-7s4v"><a href="https://go.gov.sg/"><span style="text-decoration:none;color:#3AA66F">go.gov.sg short links</span></a></td>
-    <td class="tg-kgfz">https://go.gov.sg/<br></td>
+    <td class="tg-7s4v"><a href="https://for.edu.sg/"><span style="text-decoration:none;color:#3AA66F">for.edu.sg short links</span></a></td>
+    <td class="tg-kgfz">https://for.edu.sg/<br></td>
   </tr>
 	<tr>
-    <td class="tg-7s4v"><a href="https://go.gov.sg/"><span style="text-decoration:none;color:#3AA66F">for.edu.sg short links</span></a></td>
-    <td class="tg-kgfz">https://for.edu.sg<br></td>
+    <td class="tg-7s4v"><a href="https://go.gov.sg/"><span style="text-decoration:none;color:#3AA66F">go.gov.sg short links</span></a></td>
+    <td class="tg-kgfz">https://go.gov.sg/<br></td>
   </tr>
   <tr>
     <td class="tg-udx9"><a href="https://www.moh.gov.sg/"><span style="text-decoration:none;color:#3AA66F">Ministry of Health</span></a></td>
