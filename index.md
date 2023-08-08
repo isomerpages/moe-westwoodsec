@@ -23,6 +23,6 @@ sections:
       background: /images/picture3.png
   - infobar:
       title: Straits Times School Pocket Money Fund 2023
-      button: Button Text
+      button: Click Here
       url: /stspmf/
 ---
