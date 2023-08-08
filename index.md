@@ -21,4 +21,7 @@ sections:
           description: ""
           url: /administrative/usefullinks/
       background: /images/picture3.png
+  - infobar:
+      title: Straits Times School Pocket Money Fund 2023
+      button: Button Text
 ---
