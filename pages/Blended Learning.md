@@ -17,8 +17,8 @@ description: ""
 **RESOURCES FOR PARENTS**
 <br>We hope to partner parents/guardians by inculcating in your child/ward the skills to self-manage and take ownership for their own learning. You may refer to the parent kit for key information on BL and tips on how to support your child/ward on BL days.
 
-[Experiencing Blended Learning (BL) with Our Children](https://drive.google.com/file/d/1SEia12wmBAIkNLrTaqWxw_QALjR1FysG/view?usp=share_link)[  
-](https://westwoodsec.moe.edu.sg/qql/slot/u558/Latest%20Update/HBL/Parent-Kit-Experiencing-Blended-Learning.pdf)
+[Experiencing Blended Learning (BL) with our Children](https://drive.google.com/file/d/13-KdRV08w2D5K7H8zi-oVMyC-s5KIn-V/view?usp=sharing)
+
 
 **ACCESS TO SLS**<br>The SLS can be accessed from&nbsp;[https://learning.moe.edu.sg](https://learning.moe.edu.sg/). The SLS is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.&nbsp;  
   
