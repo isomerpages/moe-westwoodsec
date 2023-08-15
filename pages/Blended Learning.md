@@ -10,18 +10,15 @@ description: ""
 3.&nbsp;&nbsp;&nbsp;&nbsp; All learning activities are to be completed by the day itself, or if not the due date given by subject teachers.&nbsp;
 
 4.&nbsp;&nbsp;&nbsp;&nbsp; Students are encouraged to observe good cyber wellness habits when doing work online.&nbsp;<br><br><strong>BLENDED LEARNING DAY SCHEDULE</strong><br>
-<a target="_blank" href="https://drive.google.com/file/d/1zX85aCjluQ7N6r2Cc5IR-C09uGkHol7y/view?usp=sharing">[2023 Term 3]</a><br>
-<a target="_blank" href="https://drive.google.com/file/d/11PvW7kPurkWO3MhqpYXFeshn8NalrSHV/view?usp=sharing">[2023 Term 4]</a><br>
-<a target="_blank" href="https://drive.google.com/file/d/1l920W75SQ14GF9Z73TFg0YT37lC9CGPl/view?usp=sharing">[HBL Physical Lesson for Sec4 Sem 2 - T3W4 - 17 July]</a><br>
-<a target="_blank" href="https://drive.google.com/file/d/1ICmpgzYVTcCkws9JjZk24T_E46x4dKwY/view?usp=sharing">[HBL Physical Lesson for Sec4 Sem 2 - T3W6 - 31 July]</a><br>
-<a target="_blank" href="https://drive.google.com/file/d/11sEOwLKTg1ATOJLpJjKNw3N-z74wMIaj/view?usp=sharing">[HBL Physical Lesson for Sec4 Sem 2 - T3W8 14 Aug]</a><br>
+[Click HERE for BL Schedule for All Levels](https://drive.google.com/drive/folders/1m_LYOIqYlSmhsNWtJbxspu3NbECV45mG?usp=sharing)
+
 
 
 **RESOURCES FOR PARENTS**
 <br>We hope to partner parents/guardians by inculcating in your child/ward the skills to self-manage and take ownership for their own learning. You may refer to the parent kit for key information on BL and tips on how to support your child/ward on BL days.
 
-[Experiencing Blended Learning (BL) with Our Children](https://drive.google.com/file/d/1SEia12wmBAIkNLrTaqWxw_QALjR1FysG/view?usp=share_link)[  
-](https://westwoodsec.moe.edu.sg/qql/slot/u558/Latest%20Update/HBL/Parent-Kit-Experiencing-Blended-Learning.pdf)
+[Experiencing Blended Learning (BL) with our Children](https://drive.google.com/file/d/13-KdRV08w2D5K7H8zi-oVMyC-s5KIn-V/view?usp=sharing)
+
 
 **ACCESS TO SLS**<br>The SLS can be accessed from&nbsp;[https://learning.moe.edu.sg](https://learning.moe.edu.sg/). The SLS is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.&nbsp;  
   
