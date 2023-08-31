@@ -12,5 +12,5 @@ description: ""
 
 **3\. End-of-Year Examination**
 * [Sec 1 End-of-Year Examination](https://drive.google.com/file/d/1dDs7fnrYuCj9pm-TpQScclKAvU76aEbl/view?usp=sharing)
-* [2EXP/NA/NT End-of Year Examination](https://drive.google.com/file/d/1KpflgQkNYLwrzUeEFLH9lSfEZ_aiuoA0/view?usp=sharing)
+* [2EXP/NA/NT End-of Year Examination](https://drive.google.com/file/d/1asMF4Pc4h1-9MBvpmtvYW5c_vd-u-vnp/view?usp=drive_link)
 * [3EXP/NA/NT End-of-Year Examination](https://drive.google.com/file/d/1x-1UtsYwo0OeBxIJTYaRmvVeEyVZfYhC/view?usp=sharing)
