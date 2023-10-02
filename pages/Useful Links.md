@@ -35,6 +35,8 @@ description: ""
 <li><a target="_blank" href="https://www.opal2.moe.edu.sg/">One Portal All Learners (OPAL 2.0)</a></li>
 
 <li><a target="_blank" href="https://iexams.seab.gov.sg/login">iExams</a></li>
+	
+<li><a target="_blank" href="https://allears.estl.edu.sg/home">All Ears Form Builder</a></li>
 
 <li><a target="_blank" href="https://form.gov.sg/">Form SG</a></li>
 
