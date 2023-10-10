@@ -37,6 +37,10 @@ description: ""
     <td class="tg-7s4v"><a href="https://go.gov.sg/pytjkj"><span style="text-decoration:none;color:#3AA66F">PLD Fault Reporting</span></a></td>
     <td class="tg-kgfz">https://go.gov.sg/pytjkj</td>
   </tr>
+		<tr>
+    <td class="tg-7s4v"><a href="http://go.gov.sg/sw9yzq"><span style="text-decoration:none;color:#3AA66F">Fault Reporting In School / Lockdown Reporting</span></a></td>
+    <td class="tg-kgfz">http://go.gov.sg/sw9yzq</td>
+  </tr>
   <tr>
     <td class="tg-7s4v"><a href="https://www.ace-learning.com/"><span style="text-decoration:none;color:#3AA66F">Ace-Learning Math e-learning portal</span></a></td>
     <td class="tg-kgfz">http://www.ace-learning.com</td>
