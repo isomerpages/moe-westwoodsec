@@ -45,6 +45,10 @@ description: ""
     <td class="tg-7s4v"><a href="https://www.ace-learning.com/"><span style="text-decoration:none;color:#3AA66F">Ace-Learning Math e-learning portal</span></a></td>
     <td class="tg-kgfz">http://www.ace-learning.com</td>
   </tr>
+	<tr>
+    <td class="tg-7s4v"><a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><span style="text-decoration:none;color:#3AA66F">School eResource Repository</span></a></td>
+    <td class="tg-kgfz">https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME</td>
+  </tr>
   <tr>
     <td class="tg-udx9"><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html"><span style="text-decoration:none;color:#3AA66F">MySkillsFuture Student Portal</span></a><br></td>
     <td class="tg-sxrn">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html<br></td>
