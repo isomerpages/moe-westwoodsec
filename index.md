@@ -22,7 +22,6 @@ sections:
           url: /administrative/usefullinks/
       background: /images/picture3.png
   - resources:
-      title: Resources
-      subtitle: "testing testing "
+      title: Announcements
       id: resources
 ---
