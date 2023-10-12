@@ -3,10 +3,7 @@ title: Example Title
 permalink: /permalinktesttest/
 description: ""
 ---
-
-
-
-    <style>
+<style>
         table {
             border-collapse: collapse;
         }
@@ -94,5 +91,3 @@ description: ""
             <td>li_ai_li@schools.gov.sg</td>
         </tr>
     </tbody></table>
-
-
