@@ -18,7 +18,7 @@ description: ""
 </thead>
 <tbody>
 	<tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/assessmentcalendar/">Learning Festival 23 to 26 October</a></span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/learningfestival/">Learning Festival 23 to 26 October</a></span></td>
   </tr>
 	<tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF"><a target="_blank" href="/assessmentcalendar/">Exam Timetable</a></span></td>
