@@ -21,4 +21,9 @@ sections:
           description: ""
           url: /administrative/usefullinks/
       background: /images/picture3.png
+  - resources:
+      title: Announcements
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
+      button: More Updates
 ---
