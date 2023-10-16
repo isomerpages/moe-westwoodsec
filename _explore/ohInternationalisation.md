@@ -43,5 +43,3 @@ Our programme ensures that every student experiences a comprehensive arts educat
 At Westwood, we offer a diverse range of Interest Groups where students can explore the cajon, beatboxing, and even cheerleading. Here, we firmly believe that learning how to have fun is an essential part of education. Join us at Westwood Secondary, where your artistic passions will flourish, and your journey of self-expression will be a memorable one!</p>
 </div></li>
 </ul>
-
-
