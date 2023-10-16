@@ -13,4 +13,23 @@ But that's not all – Westwoodians also spread their wings and explore the worl
 
 Westwood's Internationalisation Programme is your ticket to a broader, interconnected world, right from our vibrant school campus to overseas adventures that will leave an indelible mark on your education. Join us on this incredible journey to "Embrace Global Horizons" and be a part of a thriving, internationally-minded community at Westwood.
 
+### FOSTERING FUTURE INNOVATORS AND SOCIAL CHANGEMAKERS
+
+At Westwood, we're committed to nurturing the next generation of innovative social entrepreneurs through our Applied Learning Programme (ALP): Innovation and Social Entrepreneurship (ISE). Our goal is to inspire and empower Westwoodians to become forward-thinking, socially responsible individuals with a strong entrepreneurial mindset.
+
+Central to our approach is the adoption of Design Thinking as the problem-solving framework, fostering collaboration among students under the expert guidance of our teachers. Together, they engage in research, brainstorming, design, and co-creation, all with the aim of crafting innovative solutions to address pressing social needs.
+
+At Westwood, we are shaping the innovators and social changemakers of tomorrow. Our ALP: Innovation and Social Entrepreneurship (ISE) program is more than just an educational experience; it's a transformative journey that equips students with the skills, knowledge, and compassion needed to make a meaningful impact on the world.
+
+### UNLEASH YOUR ARTISTIC PASSION
+
+At Westwood Secondary, we're dedicated to nurturing a profound and lifelong appreciation for the Arts in all its vibrant forms.
+
+Through our Learning for Life Programme: Arts for Life!, we're on a mission to cultivate a thriving arts culture within Westwood. Our goal is to empower students with the confidence and passion for proudly showcasing their artistic talents and, more importantly, for bringing the joy of the arts to our community. By exposing our students to a rich tapestry of art forms, we aim to spark curiosity and foster an adventurous spirit of creativity.
+
+Our programme ensures that every student experiences a comprehensive arts education, delving into the realms of digital media, theatre studies, music, and dance.
+
+At Westwood, we offer a diverse range of Interest Groups where students can explore the cajon, beatboxing, and even cheerleading. Here, we firmly believe that learning how to have fun is an essential part of education. Join us at Westwood Secondary, where your artistic passions will flourish, and your journey of self-expression will be a memorable one!
+
+
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lj2fQJlQVWQ?si=aGBfiKY8yNlqrhvA" height="315" width="560"></iframe>
