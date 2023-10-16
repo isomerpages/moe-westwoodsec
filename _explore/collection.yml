@@ -2,7 +2,6 @@ collections:
   explore:
     output: true
     order:
-      - ohInternationalisation.md
       - Direct School Admission/.keep
       - Direct School Admission/Introduction.md
       - Direct School Admission/Applied Learning Programme.md
