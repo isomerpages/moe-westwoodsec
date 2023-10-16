@@ -8,3 +8,15 @@ description: ""
 
 Our five Uniformed Groups are dedicated to shaping exemplary individuals, instilling qualities that go beyond the classroom. We aim to nurture self-reliance, resilience, discipline, and a strong spirit of service in our students. Through engaging and authentic experiences, we foster essential attributes like leadership, teamwork, and resilience. Furthermore, we emphasize the values of commitment and loyalty to our nation, all while cultivating discipline and a profound sense of unity among our students.
 
+#### UGs @ WWSS:
+
+*   Boys' Brigade
+    
+*   Girls' Brigade
+    
+*   National Cadet Corps
+    
+*   National Police Cadet Corps
+    
+*   National Civil Defence Cadet Corps
+    
