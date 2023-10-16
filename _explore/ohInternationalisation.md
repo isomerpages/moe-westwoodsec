@@ -8,7 +8,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">Internationalisation</label><div>
-	<p>### EMBRACE GLOBAL HORIZONS</p>
+	<p><b>EMBRACE GLOBAL HORIZONS</b></p>
 
 <p>At Westwood, we're dedicated to shaping future-ready students through our Internationalisation Programme, fostering the vital 21st Century Competencies of global awareness and cross-cultural proficiency. Our students, fondly known as Westwoodians, embark on an incredible journey where they don't just learn but actively "Reach Out to the World." This immersive experience involves collaborative learning and intercultural interactions with peers from around the globe, culminating in a profound international perspective while deepening their connection to Singapore.
 
@@ -21,7 +21,7 @@ Westwood's Internationalisation Programme is your ticket to a broader, interconn
 
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">Applied Learning Programme (ALP)</label><div>
-<p>### FOSTERING FUTURE INNOVATORS AND SOCIAL CHANGEMAKERS</p>
+<p><b>FOSTERING FUTURE INNOVATORS AND SOCIAL CHANGEMAKERS</b></p>
 
 <p>At Westwood, we're committed to nurturing the next generation of innovative social entrepreneurs through our Applied Learning Programme (ALP): Innovation and Social Entrepreneurship (ISE). Our goal is to inspire and empower Westwoodians to become forward-thinking, socially responsible individuals with a strong entrepreneurial mindset.
 
@@ -32,7 +32,7 @@ At Westwood, we are shaping the innovators and social changemakers of tomorrow. 
 
 <li><input type="checkbox" id="accordion3">
 <label for="accordion3">Learning for Life Programme (LLP)</label><div>
-<p>### UNLEASH YOUR ARTISTIC PASSION</p>
+<p><b>UNLEASH YOUR ARTISTIC PASSION</b></p>
 
 <p>At Westwood Secondary, we're dedicated to nurturing a profound and lifelong appreciation for the Arts in all its vibrant forms.
 
