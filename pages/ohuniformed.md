@@ -10,13 +10,12 @@ Our five Uniformed Groups are dedicated to shaping exemplary individuals, instil
 
 #### UGs @ WWSS:
 
-*   Boys' Brigade
+*   [Boys' Brigade](/cca/uniformed-groups/boys-brigade/)
     
-*   Girls' Brigade
+*   [Girls' Brigade](/cca/uniformed-groups/girls-brigade/)
     
-*   National Cadet Corps
+*   [National Cadet Corps](/cca/uniformed-groups/national-cadet-corp/)
     
-*   National Police Cadet Corps
+*   [National Police Cadet Corps](/cca/uniformed-groups/national-police-cadet-corps/)
     
-*   National Civil Defence Cadet Corps
-    
+*   [National Civil Defence Cadet Corps](/cca/uniformed-groups/national-civil-defence-cadet-corps/)
