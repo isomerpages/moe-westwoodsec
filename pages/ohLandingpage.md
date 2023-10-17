@@ -24,7 +24,7 @@ description: ""
     <td colspan="2" class="tg-c3ow">Life @ Westwood</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">insert Picture</td>
+    <td class="tg-c3ow"><img src="![](/images/screengrab%20ugs.jpg)"></td>
     <td class="tg-c3ow">insert picture</td>
   </tr>
   <tr>
