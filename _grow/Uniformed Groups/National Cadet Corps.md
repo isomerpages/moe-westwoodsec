@@ -1,5 +1,5 @@
 ---
-title: National Cadet Corp
+title: National Cadet Corps
 permalink: /cca/uniformed-groups/national-cadet-corp/
 description: ""
 third_nav_title: Uniformed Groups

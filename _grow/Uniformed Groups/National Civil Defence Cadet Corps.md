@@ -1,5 +1,5 @@
 ---
-title: National Civil Defence Cadet Corp
+title: National Civil Defence Cadet Corps
 permalink: /cca/uniformed-groups/national-civil-defence-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
