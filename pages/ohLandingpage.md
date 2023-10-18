@@ -6,7 +6,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th colspan="2"><center>Principal's Message </center></th>
+    <th colspan="2"><center>Principal's Message </center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/T14k8rra9ek?si=558ziJIpAraw013s" height="315" width="560"></iframe></th>
   </tr>
 </thead>
 <tbody>
@@ -25,6 +25,7 @@ description: ""
     <td colspan="2"><a target="_blank" href="/ohinternationalisation/"><img src="/images/screengrab%20niche%20int.jpg" style="width:55%"></a></td>
   </tr>
   <tr>
-    <td colspan="2"><center>Walking Tour</center></td>
+    <td colspan="2"><center><b>Walking Tour</b></center><b>
+		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/g6ssIbawoSw?si=mWYkrvNbEMnWsfp0" height="315" width="560"></iframe></b></td>
   </tr></tbody>
 </table>
