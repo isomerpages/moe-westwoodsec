@@ -15,15 +15,15 @@ description: ""
     <td colspan="2"><center>Life @ Westwood</center></td>
   </tr>
   <tr>
-    <td><a rel="noopener noreferrer" target="_blank" href="https://www.westwoodsec.moe.edu.sg/"></a><center><a rel="noopener noreferrer" target="_blank" href="https://www.westwoodsec.moe.edu.sg/">insert Picture</a></center></td>
-    <td><center>insert picture</center></td>
+    <td><a target="_blank" href="/ohuniformed/"><img src="/images/screengrab%20ugs.jpg"></a></td>
+    <td><a target="_blank" href="/ohphysicalsports/"><img src="images/screengrab%20sports.jpg"></a></td>
   </tr>
   <tr>
-    <td><center>insert Picture</center></td>
-    <td><center>insert Picture</center></td>
+    <td><a target="_blank" href="/ohclubs/"><img src="/images/screengrab%20clubs.jpg"></a></td>
+    <td><a target="_blank" href="/ohvisual/"><img src="/images/screengrab%20vpa.jpg"></a></td>
   </tr>
   <tr>
-    <td colspan="2"><center>insert Picture</center></td>
+    <td colspan="2"><a target="_blank" href="/ohinternationalisation/"><img src="/images/screengrab%20niche%20int.jpg" style="width:55%"></a></td>
   </tr>
   <tr>
     <td colspan="2"><center>Walking Tour</center></td>
