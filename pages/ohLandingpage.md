@@ -11,7 +11,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td colspan="2"><center>Life @ Westwood</center></td>
+		<td colspan="2"><center><font size="5"><b>Life @ Westwood</b></font></center></td>
   </tr>
   <tr>
     <td><a target="_blank" href="/ohuniformed/"><img src="/images/screengrab%20ugs.jpg"></a></td>
