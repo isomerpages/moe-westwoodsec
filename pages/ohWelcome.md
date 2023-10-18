@@ -3,7 +3,8 @@ title: ohWelcome
 permalink: /ohlandingpage/
 description: ""
 ---
-<img style="width:200%" src="/images/sohlandingpage.jpeg"><table></table><table>
+<img style="width:200%" src="/images/sohlandingpage.jpeg"><table></table>
+<table>
 <thead>
 	<tr></tr>
   <tr>
