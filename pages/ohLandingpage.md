@@ -15,7 +15,7 @@ description: ""
   </tr>
   <tr>
     <td><a target="_blank" href="/ohuniformed/"><img src="/images/screengrab%20ugs.jpg"></a></td>
-    <td><a target="_blank" href="/ohphysicalsports/"><img src="/images/screengrab%20sports.jpg"></a></td>
+    <td><a target="_blank" href="/ohphysicalsports/"><img src="/images/screengrab%202%20sports.jpg"></a></td>
   </tr>
   <tr>
     <td><a target="_blank" href="/ohclubs/"><img src="/images/screengrab%20clubs.jpg"></a></td>
