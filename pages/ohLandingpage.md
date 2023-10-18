@@ -3,8 +3,7 @@ title: ohLandingpage
 permalink: /ohlandingpage/
 description: ""
 ---
-<center>
-</center><table>
+<table>
 <thead>
   <tr>
     <th colspan="2"><center>Principal's Message </center></th>
