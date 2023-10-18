@@ -6,7 +6,7 @@ description: ""
 <table>
 <thead>
   <tr>
-		<th colspan="2"><center><font size="5">Principal's Message </font></center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/T14k8rra9ek?si=558ziJIpAraw013s" height="315" width="560"></iframe></th>
+		<th colspan="2"><center><font size="5">Principal's Message </font><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/T14k8rra9ek?si=558ziJIpAraw013s" height="315" width="560"></iframe></center></th>
   </tr>
 </thead>
 <tbody>
@@ -25,7 +25,7 @@ description: ""
     <td colspan="2"><a target="_blank" href="/ohinternationalisation/"><img src="/images/screengrab%20niche%20int.jpg" style="width:55%"></a></td>
   </tr>
   <tr>
-		<td colspan="2"><center><b>    <font size="5">Walking Tour</font></b></center><b>
-		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/g6ssIbawoSw?si=mWYkrvNbEMnWsfp0" height="315" width="560"></iframe></b></td>
+		<td colspan="2"><center><b>    <font size="5">Walking Tour</font></b><b>
+		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/g6ssIbawoSw?si=mWYkrvNbEMnWsfp0" height="315" width="560"></iframe></b></center></td>
   </tr></tbody>
 </table>
