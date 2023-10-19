@@ -39,28 +39,74 @@ description: ""
 
 ### How to get there
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-4ufn">Nearest MRT Stations</th>
-    <th class="tg-1ppo"><span style="color:#222;background-color:#FFF">Boon Lay and Pioneer</span></th>
+    <th colspan="2">Nearest MRT Stations: Boon Lay/ Pioneer</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-4ufn">Bus Services</td>
-    <td class="tg-tsok">From Boon Lay Interchange: <br>Bus 181 <br><br>Bus 199<br>From Boon Lay Interchange / Choa Chu Kang Interchange:<br>Bus 172<br>From Soon Lee Bus Park / Buona Vista Terminal:<br>Bus 185<br>From Joo Koon Interchange / Bukit Panjang MRT Station:<br>Bus 974</td>
+    <td><b>Bus Services</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>From Boon Lay Interchange:</td>
+    <td>Bus Nos: 181, 172, 199</td>
+  </tr>
+  <tr>
+    <td>From Soon Lee Bus Park / Buona Vista Terminal:</td>
+    <td>Bus No: 185</td>
+  </tr>
+  <tr>
+    <td>From Joo Koon Interchange / Bukit Panjang MRT Station:</td>
+    <td>Bus No: 974</td>
+  </tr>
+  <tr>
+    <td>Bus Stop Number 27109 (Outside WWSS ISH BackGate) : </td>
+    <td>Bus Nos: 172,199, 974</td>
+  </tr>
+  <tr>
+    <td>Bus Stop Number 27101 (Opposite WWSS ISH BackGate): </td>
+    <td>Bus Nos: 172,199, 974</td>
+  </tr>
+  <tr>
+    <td>Bus Stop Number 27469 (Blk 276B) : </td>
+    <td>Bus Nos: 181, 185</td>
+  </tr>
+  <tr>
+    <td>Bus Stop Number 27461 (Opposite Blk 276B) : </td>
+    <td>Bus Nos: 181, 185</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>By Car</b></td>
+  </tr>
+  <tr>
+    <td colspan="2">By Pan-island Expressway (PIE)</td>
+  </tr>
+  <tr>
+    <td colspan="2">Take Exit 36 from PIE</td>
+  </tr>
+  <tr>
+    <td colspan="2">Merge onto Jln Bahar</td>
+  </tr>
+  <tr>
+    <td colspan="2">Turn left onto Jurong West Ave 3</td>
+  </tr>
+  <tr>
+    <td colspan="2">Turn left onto Jurong West Street 25</td>
+  </tr>
+  <tr>
+    <td colspan="2">Turn Left to Westwood Secondary School.</td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Where to park your vehicle</b></td>
+  </tr>
+  <tr>
+    <td colspan="2">Westwood Secondary School Visitor parking lots (Based on availability)</td>
+  </tr>
+  <tr>
+    <td colspan="2">Blk 276 Multi-storey Car Park</td>
   </tr>
 </tbody>
 </table>
-
