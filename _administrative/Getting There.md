@@ -47,7 +47,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><b>Bus Services</b></td>
+    <td><b><font size="4"></font></b><font size="4"><b>Bus Services</b></font></td>
     <td></td>
   </tr>
   <tr>
@@ -79,34 +79,27 @@ description: ""
     <td>Bus Nos: 181, 185</td>
   </tr>
   <tr>
-    <td colspan="2"><b>By Car</b></td>
+    <td colspan="2"><font size="4"><b>By Car</b></font></td>
+  </tr>
+	<tr>
+<td>
+* By Pan-island Expressway (PIE)<br>
+* Take Exit 36 from PIE	<br>
+* Merge onto Jln Bahar<br>
+* Turn left onto Jurong West Ave 3<br>
+* Turn left onto Jurong West Street 25<br>
+* Turn Left to Westwood Secondary School. 
+		</td>
+	</tr>
+  
+  <tr>
+    <td colspan="2"><font size="4"><b>Where to park your vehicle</b></font></td>
   </tr>
   <tr>
-    <td colspan="2">By Pan-island Expressway (PIE)</td>
-  </tr>
-  <tr>
-    <td colspan="2">Take Exit 36 from PIE</td>
-  </tr>
-  <tr>
-    <td colspan="2">Merge onto Jln Bahar</td>
-  </tr>
-  <tr>
-    <td colspan="2">Turn left onto Jurong West Ave 3</td>
-  </tr>
-  <tr>
-    <td colspan="2">Turn left onto Jurong West Street 25</td>
-  </tr>
-  <tr>
-    <td colspan="2">Turn Left to Westwood Secondary School.</td>
-  </tr>
-  <tr>
-    <td colspan="2"><b>Where to park your vehicle</b></td>
-  </tr>
-  <tr>
-    <td colspan="2">Westwood Secondary School Visitor parking lots (Based on availability)</td>
-  </tr>
-  <tr>
-    <td colspan="2">Blk 276 Multi-storey Car Park</td>
-  </tr>
+		<td>
+* 		Westwood Secondary School Visitor parking lots (Based on availability)<br>
+* Blk 276 Multi-storey Car Park
+</td>
+	</tr>
 </tbody>
 </table>
