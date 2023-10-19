@@ -47,7 +47,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><b>Bus Services</b></td>
+    <td><b><font size="4"></font></b><font size="4"><center><b>Bus Services</b></center></font></td>
     <td></td>
   </tr>
   <tr>
@@ -79,7 +79,7 @@ description: ""
     <td>Bus Nos: 181, 185</td>
   </tr>
   <tr>
-    <td colspan="2"><b>By Car</b></td>
+    <td colspan="2"><font size="4"><center><b>By Car</b></center></font></td>
   </tr>
   <tr>
     <td colspan="2">By Pan-island Expressway (PIE)</td>
@@ -100,13 +100,13 @@ description: ""
     <td colspan="2">Turn Left to Westwood Secondary School.</td>
   </tr>
   <tr>
-    <td colspan="2"><b>Where to park your vehicle</b></td>
+    <td colspan="2"><font size="4"><center><b>Where to park your vehicle</b></center></font></td>
   </tr>
   <tr>
     <td colspan="2">Westwood Secondary School Visitor parking lots (Based on availability)</td>
   </tr>
   <tr>
     <td colspan="2">Blk 276 Multi-storey Car Park</td>
-  </tr>
+			</tr>
 </tbody>
 </table>
