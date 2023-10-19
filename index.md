@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: School Updates
+        - title: PDLP Resource SITE
           description: ""
-          url: /schoolupdates/
+          url: https://go.gov.sg/pdlpwwss
         - title: student timetable
           description: ""
           url: https://drive.google.com/file/d/12hg0iqVDUk5neQNSp0jvk51IbEfie5KK/view?usp=sharing
