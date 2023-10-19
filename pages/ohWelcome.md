@@ -1,9 +1,8 @@
 ---
 title: ohWelcome
-permalink: /ohlandingpage/
+permalink: /openhouse2023welcome/
 description: ""
 ---
-
 <img style="width:200%" src="/images/sohlandingpage.jpeg">
 <table>
 <thead>

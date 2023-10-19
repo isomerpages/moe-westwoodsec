@@ -4,5 +4,5 @@ date: 2023-10-19
 layout: link
 description: ""
 image: ""
-external: https://https://drive.google.com/file/d/1RAU8LDBStSRcSkElavvWZKSI74wiF221/view?usp=sharing
+external: https://drive.google.com/file/d/1RAU8LDBStSRcSkElavvWZKSI74wiF221/view?usp=sharing
 ---
