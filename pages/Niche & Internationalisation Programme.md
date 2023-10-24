@@ -6,7 +6,7 @@ description: ""
 <table>
 <thead>
   <tr>
-		<th colspan="2"><center><font size="5"></font><br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lj2fQJlQVWQ?si=aGBfiKY8yNlqrhvA" height="415" width="650"></iframe></center></th>
+		<th colspan="2"><center><font size="5"></font><br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lj2fQJlQVWQ?si=aGBfiKY8yNlqrhvA" height="315" width="550"></iframe></center></th>
   </tr>
 </thead>
 <tbody>
