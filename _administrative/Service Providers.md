@@ -19,27 +19,26 @@ Email:&nbsp;[sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <b
 Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
 Opening hours: 730 am to 230 pm (during school term)
 
-### Booklist 2023
+### Booklist 2024
 Please refer to the booklist for details on sales of textbooks and uniform during the school holiday period.
 
+**Secondary 1**<br>
+[Sec 1 G1](/files/s1%20g1%202024.pdf)<br>
+[Sec 1 G2](/files/s1%20g2%202024.pdf)<br>
+[Sec 1 G3](/files/s1%20g3%202024.pdf)<br>
 
-**Secondary 1**
-* [Sec 1 Express](/files/1exp%202023.pdf)
-* [Sec 1 NA](/files/1na%202023.pdf)
-* [Sec 1 NT](/files/1nt%202023.pdf)
+**Secondary 2**<br>
+[Sec 2 Express](/files/s2exp%202024.pdf)<br>
+[Sec 2 NA](/files/s2na%202024.pdf)<br>
+[Sec 2 NT](/files/s2nt%202024.pdf)<br>
 
-**Secondary 2**
-* [Sec 2 Express](/files/2exp%202023.pdf)
-* [Sec 2 NA](/files/2na%202023.pdf)
-* [Sec 2 NT](/files/2nt%202023.pdf)
+**Secondary 3**<br>
+[Sec 3 Express](/files/s3exp%202024.pdf)<br>
+[Sec 3 NA](/files/s3na%202024.pdf)<br>
+[Sec 3 NT](/files/s3nt%202024.pdf)<br>
 
-**Secondary 3**
-* [Sec 3 Express](/files/3exp%202023.pdf)
-* [Sec 3 NA](/files/3na%202023.pdf)
-* [Sec 3 NT](/files/3nt%202023.pdf)
-
-**Secondary 4 &amp; 5**
-* [Sec 4 Express](/files/4exp%202023.pdf)
-* [Sec 4 NA](/files/4na%202023.pdf)
-* [Sec 4 NT](/files/4nt%202023.pdf)
-*   [Sec 5 NA](/files/5na%202023.pdf)
+**Secondary 4 &amp; 5**<br>
+[Sec 4 Express](/files/s4exp%202024.pdf)<br>
+[Sec 4 NA](/files/s4na%202024.pdf)<br>
+[Sec 4 NT](/files/s4nt%202024.pdf)<br>
+[Sec 5 NA](/files/s5na%202024.pdf)
