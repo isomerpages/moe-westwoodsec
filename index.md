@@ -21,6 +21,13 @@ sections:
           description: ""
           url: /administrative/usefullinks/
       background: /images/picture3.png
+  - infopic:
+      title: OPEN HOUSE 2023
+      id: infopic
+      button: CLICK HERE
+      url: https://www.westwoodsec.moe.edu.sg/openhouse2023welcome/
+      image: /images/ohbanner.png
+      alt: Image alt text
   - resources:
       title: Announcements
       id: resources
