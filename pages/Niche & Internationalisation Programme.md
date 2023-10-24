@@ -21,8 +21,9 @@ description: ""
     <td>**FOSTERING FUTURE INNOVATORS AND SOCIAL CHANGEMAKERS**<br>Through our Academic Learning Program (ALP), we instil an innovative mindset by encouraging students to be observant, think creatively, and design solutions. Rooted in design thinking, students develop empathy, identify broad issues, and collaborate to effect change in both the school and the community. Key ALP features include the School Improvement Challenge, where they propose and implement school enhancements. Selected students receive mentorship from entrepreneurs, explore coding and public speaking, and lead community projects, often focusing on sustainability. Through ALP, we nurture innovative and socially responsible Westwoodians.</td>
     <td><img src="/images/ohalp2023.jpg"></td>
   </tr>
-  <tr>
-    <td colspan="2"><a target="_blank" href="/ohinternationalisation/"><img src="/images/screengrab%20niche%20int.jpg" style="width:55%"></a></td>
+	 <tr>
+    <td><img src="/images/ohllp2023.jpg"></td>
+    <td>**UNLEASH YOUR ARTISTIC PASSION **<br>At Westwood Secondary, we're dedicated to nurturing a profound and lifelong appreciation for the Arts in all its vibrant forms. Through our Learning for Life Programme: Arts for Life!, we're on a mission to cultivate a thriving arts culture within Westwood. Our goal is to empower students with the confidence and passion for proudly showcasing their artistic talents and, more importantly, for bringing the joy of the arts to our community. Our programme ensures that every student experiences a comprehensive arts education, delving into the realms of digital media, theatre studies, music, and dance. </td>
   </tr>
   <tr>
 		<td colspan="2"><center><b>    <font size="5">Walking Tour</font></b><br>
