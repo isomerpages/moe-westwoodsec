@@ -3,6 +3,8 @@ title: Welcome!
 permalink: /openhouse2023welcome/
 description: ""
 ---
+<img src="/images/sohlandingpage.jpeg" align="left" width="510" style="">
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -13,7 +15,6 @@ description: ""
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<img src="/images/sohlandingpage.jpeg" align="left" width="510" style="">
 <table class="tg">
 <thead>
   <tr>
