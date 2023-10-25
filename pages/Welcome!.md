@@ -3,7 +3,7 @@ title: Welcome!
 permalink: /openhouse2023welcome/
 description: ""
 ---
-<img src="/images/sohlandingpage.jpeg">
+<img src="/images/sohlandingpage.jpeg" style="width:50%">
 
 ### Principal's Message
 <p>
