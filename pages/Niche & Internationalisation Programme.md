@@ -3,11 +3,8 @@ title: Niche & Internationalisation Programme
 permalink: /ohinternationalisation/
 description: ""
 ---
-<table>
-  <tbody><tr>
-		<th colspan="2"><center><font size="5"></font><br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lj2fQJlQVWQ?autoplay=1" height="315" width="560"></iframe></center></th>
-  </tr>
-</tbody></table>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lj2fQJlQVWQ?autoplay=1" height="315" width="560"></iframe>
+<p>
 <table>
 <thead>
   <tr>
@@ -41,4 +38,4 @@ Our Westwood Ambassadors welcome students and educators from Indonesia, Japan, M
 		<td align="justify"><b>UNLEASH YOUR ARTISTIC PASSION</b><br><br>At Westwood Secondary, we're dedicated to nurturing a profound and lifelong appreciation for the Arts in all its vibrant forms. Through our Learning for Life Programme: Arts for Life!, we're on a mission to cultivate a thriving arts culture within Westwood. Our goal is to empower students with the confidence and passion for proudly showcasing their artistic talents and, more importantly, for bringing the joy of the arts to our community. Our programme ensures that every student experiences a comprehensive arts education, delving into the realms of digital media, theatre studies, music, and dance.<br></td>
   </tr>
 </tbody>
-</table>
+</table></p>
