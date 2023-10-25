@@ -15,8 +15,7 @@ description: ""
 </style>
 <img src="/images/sohlandingpage.jpeg" align="left" style="width=510"><table class="tg">
 <thead>
-	<tr>
-		</tr>
+		
   <tr>
     <th class="tg-v8dz"><b>Principal's Message</b></th>
   </tr>
