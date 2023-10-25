@@ -23,7 +23,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/T14k8rra9ek?autoplay=1" height="315" width="510"></iframe></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/T14k8rra9ek?autoplay=1&amp;mute=1" height="315" width="500"></iframe></td>
   </tr>
   <tr>
     <td class="tg-v8dz"><b>Life At Westwood</b></td>
@@ -47,7 +47,7 @@ description: ""
     <td class="tg-v8dz"><b>Walking Tour</b></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/g6ssIbawoSw?si=mWYkrvNbEMnWsfp0" height="315" width="560"></iframe></td>
+    <td class="tg-0lax"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/g6ssIbawoSw?si=mWYkrvNbEMnWsfp0" height="315" width="500"></iframe></td>
   </tr>
 </tbody>
 </table>
