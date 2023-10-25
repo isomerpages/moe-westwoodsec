@@ -13,9 +13,9 @@ description: ""
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<img src="/images/sohlandingpage.jpeg" align="left" style="width=510"><table class="tg">
+<img src="/images/sohlandingpage.jpeg" align="left" width="510" style="">
+<table class="tg">
 <thead>
-		
   <tr>
     <th class="tg-v8dz"><b>Principal's Message</b></th>
   </tr>
