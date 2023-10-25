@@ -21,10 +21,6 @@ sections:
           description: ""
           url: /administrative/usefullinks/
       background: /images/picture3.png
-  - resources:
-      title: Announcements
-      id: resources
-      button: More Updates
   - infopic:
       title: Open House 2023
       id: infopic
@@ -32,4 +28,8 @@ sections:
       url: https://www.westwoodsec.moe.edu.sg/openhouse2023welcome/
       image: /images/sohlandingpage.jpeg
       alt: Image alt text
+  - resources:
+      title: Announcements
+      id: resources
+      button: More Updates
 ---
