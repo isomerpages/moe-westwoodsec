@@ -28,6 +28,7 @@ sections:
       url: https://www.westwoodsec.moe.edu.sg/openhouse2023welcome/
       image: /images/sohlandingpage.jpeg
       alt: Image alt text
+      subtitle: 18 November, Sat | 9AM-12.30PM
   - resources:
       title: Announcements
       id: resources
