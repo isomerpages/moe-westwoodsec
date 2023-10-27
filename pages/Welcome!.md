@@ -5,7 +5,7 @@ description: ""
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:20px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -20,6 +20,9 @@ description: ""
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td align="center"><span style="font-weight:bold">18 NOVEMBER, SAT  |  9AM - 1230PM</span></td>
+  </tr>
   <tr>
     <td class="tg-6ibf"><span style="font-weight:bold">Principal's Message</span></td>
   </tr>
