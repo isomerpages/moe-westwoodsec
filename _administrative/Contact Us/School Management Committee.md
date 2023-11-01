@@ -4,7 +4,6 @@ permalink: /administration/school-management-committee/
 description: ""
 third_nav_title: Contact Us
 ---
-
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="605" style="background:white;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="203" style="width:152.6pt;border:solid #AAAAAA 1.0pt;border-bottom:
@@ -287,7 +286,7 @@ third_nav_title: Contact Us
   &quot;Times New Roman&quot;;color:#565656">Ms Loh May-Kay Maria</span></p></td><td width="174" style="width:130.5pt;border:none;border-bottom:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
   mso-border-bottom-alt:solid black .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#565656">SH/History (Acting)</span></p></td><td width="228" style="width:171.0pt;border:none;border-bottom:solid black 1.0pt;
+  &quot;Times New Roman&quot;;color:#565656">SH/History &amp; Social Studies</span></p></td><td width="228" style="width:171.0pt;border:none;border-bottom:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
   mso-border-bottom-alt:solid black .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#565656">&nbsp;</span><span style="color:black;

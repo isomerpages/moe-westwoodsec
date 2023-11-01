@@ -95,7 +95,7 @@ SH/Food &amp; Nutrition</center></td>
     <tr>
       <td><img src="/images/miss loh may-kay maria.jpg" style="width:50%">
 <center> <b>Ms Loh May-Kay Maria<br> </b>
-SH/History (Acting)</center></td>
+SH/History &amp; Social Studies</center></td>
       <td><img src="/images/mr%20chan%20chi%20thio.jpeg" style="width:55%">
 <center> <b>Mr Chan Chi Thio<br> </b>
 SH/ICT</center></td>
