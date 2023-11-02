@@ -20,7 +20,7 @@ description: ""
 </thead>
 <tbody>
 	<tr>
-    <td align="center"><span style="font-weight:bold">18 NOVEMBER, SAT  |  9AM - 1230PM</span></td>
+    <td class="tg-6ibf"><span style="font-weight:bold">18 NOVEMBER, SAT  |  9AM - 1230PM</span></td>
   </tr>
   <tr>
     <td class="tg-6ibf"><span style="font-weight:bold">Principal's Message</span></td>
