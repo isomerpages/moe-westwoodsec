@@ -2,6 +2,7 @@
 title: Useful Links
 permalink: /administrative/usefullinks/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 	
@@ -40,6 +41,8 @@ description: ""
 
 <li><a target="_blank" href="https://form.gov.sg/">Form SG</a></li>
 
+<li><a target="_blank" href="https://for.edu.sg/">for.edu.sg short links</a></li>
+	
 <li><a target="_blank" href="https://go.gov.sg/">go.gov.sg short links</a></li>
 
 <li><a target="_blank" href="https://www.moh.gov.sg/">Ministry of Health</a></li>
