@@ -5,4 +5,5 @@ layout: link
 description: ""
 image: ""
 external: https://www.westwoodsec.moe.edu.sg/sec2subjectoptions
+variant: tiptap
 ---
