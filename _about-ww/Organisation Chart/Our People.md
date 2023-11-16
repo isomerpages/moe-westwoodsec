@@ -3,6 +3,7 @@ title: Our People
 permalink: /about-us/organisation-chart/school-leaders/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 
@@ -87,7 +88,7 @@ Assistant Year Head/Upper Sec</center></td>
     <tr>
       <td><img src="/images/miss see ai xin alliot.jpg" style="width:50%">
 <center> <b>Ms See Ai Xin Alliot<br> </b>
-Assistant Year Head (Acting)</center></td>
+Assistant Year Head/Upper Sec</center></td>
       <td><img src="/images/miss%20teo%20shi%20yun%20madeline.jpg" style="width:55%">
 <center> <b>Miss Teo Shi Yun Madeline<br> </b>
 SH/Food &amp; Nutrition</center></td>
