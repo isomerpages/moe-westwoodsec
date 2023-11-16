@@ -159,7 +159,11 @@ SH/Character &amp; Citizenship Education</center></td>
 	</p><center><b>Mr Ahmad Luqman Bin Ghazali</b>
 	<br>ST/CCE<p></p></center><p></p></td>
     </tr>
-  </tbody>  
+		 <tr>
+      <td><p><img style="width:50%" src="/images/mr muhamad hamim b abdul rahim.jpg">
+	</p><center><b>Mr Muhammad Hamim B Abdul Rahim</b>
+	<br>ST/PE<p></p></center></td>
+  </tr></tbody>  
 </table></p>
 </div></li>
 
