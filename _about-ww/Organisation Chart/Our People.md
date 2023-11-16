@@ -160,9 +160,9 @@ SH/Character &amp; Citizenship Education</center></td>
 	<br>ST/CCE<p></p></center><p></p></td>
     </tr>
 		 <tr>
-      <td><p><img style="width:50%" src="/images/mr muhamad hamim b abdul rahim.jpg">
-	</p><center><b>Mr Muhammad Hamim B Abdul Rahim</b>
-	<br>ST/PE<p></p></center></td>
+      <td><p><img style="width:50%" src="/images/mdm_farhana_binte_mokhtar.jpg">
+	</p><center><b>Mdm Farhana Binte Mokhtar</b>
+	<br>ST/Malay Language<p></p></center></td>
   </tr></tbody>  
 </table></p>
 </div></li>
