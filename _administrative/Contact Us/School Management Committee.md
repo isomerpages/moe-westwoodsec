@@ -3,6 +3,7 @@ title: School Management Committee
 permalink: /administration/school-management-committee/
 description: ""
 third_nav_title: Contact Us
+variant: markdown
 ---
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="605" style="background:white;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1184;
@@ -209,7 +210,7 @@ third_nav_title: Contact Us
   &quot;Times New Roman&quot;;color:#565656">Ms See Ai Xin Alliot</span></p></td><td width="174" style="width:130.5pt;border:none;border-bottom:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
   mso-border-bottom-alt:solid black .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#565656">Assistant Year Head (Acting)</span></p></td><td width="228" style="width:171.0pt;border:none;border-bottom:solid black 1.0pt;
+  &quot;Times New Roman&quot;;color:#565656">Assistant Year Head/Upper Sec</span></p></td><td width="228" style="width:171.0pt;border:none;border-bottom:solid black 1.0pt;
   mso-border-top-alt:solid black .5pt;mso-border-top-alt:solid black .5pt;
   mso-border-bottom-alt:solid black .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#565656">&nbsp;</span><span style="color:black;
