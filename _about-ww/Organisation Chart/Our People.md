@@ -149,7 +149,7 @@ SH/Character &amp; Citizenship Education</center></td>
 	<br>ST/Chinese Language<p></p></center></td>
       <td><p><img style="width:50%" src="/images/mr syed ali bin mohd alhabshee.jpg">
 	</p><center><b>Mr Syed Ali Bin Mohamed Alhabshee</b>
-	<br>ST/Science<p></p></center></td>
+	<br>Lead Teacher/Physics<p></p></center></td>
     </tr>
     <tr>
       <td><p><img style="width:50%" src="/images/mr muhamad hamim b abdul rahim.jpg">
