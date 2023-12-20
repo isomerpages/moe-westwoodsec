@@ -27,7 +27,7 @@ sections:
       description: A very warm welcome to all our new 2024 Secondary One students and
         parents!
       button: Click here for more information
-      url: https://www.westwoodsec.moe.edu.sg/2024sec1registration
+      url: /2024sec1registration/
       image: /images/SEC_1_REGN_Resized.png
       alt: Image alt text
   - resources:
