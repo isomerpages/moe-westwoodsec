@@ -21,10 +21,6 @@ sections:
           description: ""
           url: /administrative/usefullinks/
       background: /images/picture3.png
-  - resources:
-      title: Announcements
-      id: resources
-      button: More Updates
   - infopic:
       title: 2024 Secondary 1 Registration
       subtitle: Add an image and text
@@ -35,4 +31,8 @@ sections:
       url: https://www.westwoodsec.moe.edu.sg/2024sec1registration
       image: /images/SEC_1_REGN_Resized.png
       alt: Image alt text
+  - resources:
+      title: Announcements
+      id: resources
+      button: More Updates
 ---
