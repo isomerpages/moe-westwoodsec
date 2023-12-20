@@ -22,13 +22,15 @@ sections:
           url: /administrative/usefullinks/
       background: /images/picture3.png
   - infopic:
-      title: Open House 2023
+      title: 2024 Secondary 1 Registration
+      subtitle: Add an image and text
       id: infopic
-      button: Click here
-      url: https://www.westwoodsec.moe.edu.sg/openhouse2023welcome/
-      image: /images/sohlandingpage.jpeg
+      description: A very warm welcome to all our new 2024 Secondary One students and
+        parents!
+      button: Click here for more information
+      url: https://www.westwoodsec.moe.edu.sg/2024sec1registration
+      image: /images/SEC_1_REGN_Resized.png
       alt: Image alt text
-      subtitle: 18 November, Sat | 9AM-12.30PM
   - resources:
       title: Announcements
       id: resources
