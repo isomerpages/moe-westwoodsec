@@ -2,6 +2,7 @@
 title: Service Providers
 permalink: /administration/service-providers/
 description: ""
+variant: markdown
 ---
 ### SCHOOL UNIFORM 
 Name of supplier: Shanghai School Uniforms Pte Ltd <br> 
@@ -10,6 +11,7 @@ Email:&nbsp;[contact@shanghai-uniforms.com](mailto:contact@shanghai-uniforms.com
 Website:&nbsp;[https://shanghai-uniforms.com](https://shanghai-uniforms.com/)  <br>
 Ubi Retail Outlet: 63 Ubi Avenue 1 #04-09 (63 @ Ubi)   <br>
 The school uniform can be purchased from the school bookshop during term time.
+
 
 ### **SCHOOL BOOKSHOP**  
 
