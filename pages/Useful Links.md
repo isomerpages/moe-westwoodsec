@@ -19,7 +19,7 @@ variant: markdown
 
 <li><a target="_blank" href="https://rbs.avero-tech.com/">Resource Booking Service (RBS)</a></li>
 
-<li><a target="_blank" href="http://go.gov.sg/sw9yzq">Fault Reporting Form</a></li>
+<li><a target="_blank" href="https://go.gov.sg/vigmuq">Fault Reporting Form</a></li>
 
 <li><a target="_blank" href="http://go.gov.sg/47sptz">AVA and ICT Request Form</a> (Requires Log in to iCON)</li>
 
