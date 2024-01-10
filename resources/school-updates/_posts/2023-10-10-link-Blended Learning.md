@@ -5,4 +5,5 @@ layout: link
 description: ""
 image: ""
 external: https://www.westwoodsec.moe.edu.sg/blendedlearning/
+variant: tiptap
 ---
