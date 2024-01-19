@@ -3,7 +3,7 @@ url: https://www.westwoodsec.moe.edu.sg
 favicon: /images/schlogonew.JPG
 colors:
   primary-color: "#4eb769"
-  secondary-color: "#000309"
+  secondary-color: "#00838f"
   media-colors:
     - title: media-color-one
       color: "#00838f"
