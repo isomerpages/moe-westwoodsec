@@ -1,0 +1,10 @@
+collections:
+  about-ww:
+    output: true
+    order:
+      - About Westwood.md
+      - Principal's Message.md
+      - School Song.md
+      - Organisation Chart/.keep
+      - Organisation Chart/Our People.md
+      - School Safety.md

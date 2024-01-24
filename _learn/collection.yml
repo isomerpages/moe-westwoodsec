@@ -1,0 +1,20 @@
+collections:
+  learn:
+    output: true
+    order:
+      - Teaching and Learning/Academic Curriculum.md
+      - Teaching and Learning/.keep
+      - Teaching and Learning/Assessment Policy.md
+      - Teaching and Learning/Homework Policy.md
+      - Teaching and Learning/Subjects Offered.md
+      - Departments/.keep
+      - Departments/English Language.md
+      - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Humanities.md
+      - Departments/Mother Tongue Languages.md
+      - Departments/Technology & Design.md
+      - Departments/Physical Education.md
+      - Departments/Music.md
+      - Departments/Infocomm Technology.md
+      - Full Subject Based Banding.md
