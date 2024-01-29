@@ -5,4 +5,279 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
-<h3>OBJECTIVES</h3><ul data-tight="true" class="tight"><li><p>To encourage and develop the reinforce stronger culture of Arts in Westwood</p></li><li><p>To broaden perspectives of art through exposure to different forms of Art Making and Art Appreciation</p></li><li><p>To build confidence in self-expression through art</p></li></ul><ul><li><p>TEACHERS IN-CHARGE</p><p>Ms Claris Ang</p><p>Ms Mumtazah Binte Mohd Haron</p><p>Mdm Siti Hajar</p><p></p></li><li><p>TRAINING DAYS</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>DAY</p></th><th rowspan="1" colspan="1"><p>TIME</p></th><th rowspan="1" colspan="1"><p>VENUE<br></p></th></tr><tr><td rowspan="1" colspan="1"><p>Wednesday</p></td><td rowspan="1" colspan="1"><p>3:00pm - 6:00pm</p></td><td rowspan="1" colspan="1"><p>Art Room<br></p></td></tr></tbody></table></li><li><p>CCA ACHIEVEMENT</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>YEAR</p></th><th rowspan="1" colspan="1"><p>AWARDS</p></th></tr><tr><td rowspan="1" colspan="1"><p>2022</p></td><td rowspan="1" colspan="1"><p>Singapore Youth Festival (SYF) Art Exhibition – Certificate of Recognition</p></td></tr><tr><td rowspan="1" colspan="1"><p>2022</p></td><td rowspan="1" colspan="1"><p>Extravaganza 2022<br>Chen Yunuo, 3G – First Prize in the Traditional Art category<br>Zang Ruofan, 3G – Merit Award for Digital category<br>Keenan Ong, 1E – Junior Achievers Award for Comic category<br>Iffah Rahilah, 1E – Junior Achievers Award for Digital category</p></td></tr></tbody></table></li><li><p>PROGRAMMES / EVENTS</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>NAME OF PROGRAMME / EVENT</p></th><th rowspan="1" colspan="1"><p>DATE / MONTH</p></th><th rowspan="1" colspan="1"><p>OBJECTIVES OF PROGRAMME / EVENT</p></th></tr><tr><td rowspan="1" colspan="1"><p>Introduction to Colors <br>Painting Practice with Watercolor Paint and Acrylic Paint<br></p></td><td rowspan="1" colspan="1"><p>Semester 1<br></p></td><td rowspan="1" colspan="1"><p>Students will be introduced to Colors in general, and the various art terms and categories that will enable them to create art works while keeping in mind the elements of art.<br><br>Students will also be exposed to various kind of painting mediums.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ceramics Workshop</p></td><td rowspan="1" colspan="1"><p>Semester 1</p></td><td rowspan="1" colspan="1"><p>Students will understand the basics of using clay as a medium for artistic ceramic creations. This creates a fun-filled environment and engages students in the learning of ceramic making. <br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Paper &amp; Fabric Marbling Workshop</p></td><td rowspan="1" colspan="1"><p>Semester 1</p></td><td rowspan="1" colspan="1"><p>Students will demonstrate mastery of materials, tools, and processes in marbling on paper and fabric. They will also develop the ability to analyze and critique artwork using the vocabulary of marbling art, engaging them in a unique art form.<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Painting Practice<br></p></td><td rowspan="1" colspan="1"><p><br>Semester 2</p></td><td rowspan="1" colspan="1"><p>Students will continue to apply what they have learned on painting from the previous term in their artworks. <br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mural Painting Project</p></td><td rowspan="1" colspan="1"><p>Semester 2</p></td><td rowspan="1" colspan="1"><p>Students will develop knowledge of the processes and techniques of painting a mural and recognize historical and cultural influences in art<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Printmaking Workshop</p></td><td rowspan="1" colspan="1"><p>Semester 2</p></td><td rowspan="1" colspan="1"><p>Students will appreciate art as a vehicle for expression of ideas as well as gain skills and confidence to take on future community projects.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Art Excursions &amp; Learning Journeys</p></td><td rowspan="1" colspan="1"><p>Semester 2</p></td><td rowspan="1" colspan="1"><p>Through learning journeys, students gain exposure to a local practising artist and experience being in an artist studio. Experience hands-on activity and complete an artwork under the guidance of an artist.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Creating art pieces for competitions and SYF</p></td><td rowspan="1" colspan="1"><p>All year round</p></td><td rowspan="1" colspan="1"><p>Students will apply their knowledge of different art mediums to create and submit quality artworks for national competitions.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Year End Closing/Rounding Up<br>Cleaning of Art Room and Art Storeroom<br>Stock Taking<br><br><br><br>Reflection</p></td><td rowspan="1" colspan="1"><p>Term 4<br></p></td><td rowspan="1" colspan="1"><p><br>Discussion of students’ progress and experience with teachers<br><br>Tidying up their work space for the next year<br><br>Closure of the CCA for the year and planning for next year’s CCA Fair<br><br>Personal Reflection</p></td></tr></tbody></table></li><li><p>GALLERY</p><p></p><div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeZFU1caHeo-t5MGcHe7a9WYUugoQO6S1eq9uytN6mAXCU91Un-oneyM1diBBV0CslDGbcz3yn-Old/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div><p></p></li></ul><p></p>
+<h3>OBJECTIVES</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To encourage and develop the reinforce stronger culture of Arts in Westwood</p>
+</li>
+<li>
+<p>To broaden perspectives of art through exposure to different forms of
+Art Making and Art Appreciation</p>
+</li>
+<li>
+<p>To build confidence in self-expression through art</p>
+</li>
+</ul>
+<p><strong>TEACHERS IN-CHARGE</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Claris Ang</p>
+</li>
+<li>
+<p>Ms Mumtazah Binte Mohd Haron</p>
+</li>
+<li>
+<p>Mdm Siti Hajar</p>
+</li>
+</ul>
+<p></p>
+<ul>
+<li>
+<p><strong>TRAINING DAYS</strong>
+</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>DAY</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>TIME</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>VENUE
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:00pm - 6:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Room
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p><strong>CCA ACHIEVEMENT</strong>
+</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>YEAR</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>AWARDS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) Art Exhibition – Certificate of Recognition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Extravaganza 2022
+<br>Chen Yunuo, 3G – First Prize in the Traditional Art category
+<br>Zang Ruofan, 3G – Merit Award for Digital category
+<br>Keenan Ong, 1E – Junior Achievers Award for Comic category
+<br>Iffah Rahilah, 1E – Junior Achievers Award for Digital category</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p><strong>PROGRAMMES / EVENTS</strong>
+</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NAME OF PROGRAMME / EVENT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DATE / MONTH</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>OBJECTIVES OF PROGRAMME / EVENT</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Introduction to Colors
+<br>Painting Practice with Watercolor Paint and Acrylic Paint
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semester 1
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will be introduced to Colors in general, and the various art
+terms and categories that will enable them to create art works while keeping
+in mind the elements of art.
+<br>
+<br>Students will also be exposed to various kind of painting mediums.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ceramics Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semester 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will understand the basics of using clay as a medium for artistic
+ceramic creations. This creates a fun-filled environment and engages students
+in the learning of ceramic making.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Paper &amp; Fabric Marbling Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semester 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will demonstrate mastery of materials, tools, and processes in
+marbling on paper and fabric. They will also develop the ability to analyze
+and critique artwork using the vocabulary of marbling art, engaging them
+in a unique art form.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Painting Practice
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>Semester 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will continue to apply what they have learned on painting from
+the previous term in their artworks.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mural Painting Project</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semester 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will develop knowledge of the processes and techniques of painting
+a mural and recognize historical and cultural influences in art
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Printmaking Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semester 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will appreciate art as a vehicle for expression of ideas as well
+as gain skills and confidence to take on future community projects.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art Excursions &amp; Learning Journeys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semester 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Through learning journeys, students gain exposure to a local practising
+artist and experience being in an artist studio. Experience hands-on activity
+and complete an artwork under the guidance of an artist.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Creating art pieces for competitions and SYF</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All year round</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will apply their knowledge of different art mediums to create
+and submit quality artworks for national competitions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year End Closing/Rounding Up
+<br>Cleaning of Art Room and Art Storeroom
+<br>Stock Taking
+<br>
+<br>
+<br>
+<br>Reflection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 4
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>Discussion of students’ progress and experience with teachers
+<br>
+<br>Tidying up their work space for the next year
+<br>
+<br>Closure of the CCA for the year and planning for next year’s CCA Fair
+<br>
+<br>Personal Reflection</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p><strong>GALLERY</strong>
+</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeZFU1caHeo-t5MGcHe7a9WYUugoQO6S1eq9uytN6mAXCU91Un-oneyM1diBBV0CslDGbcz3yn-Old/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+</li>
+</ul>
+<p></p>
