@@ -5,4 +5,314 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
-<h3>OBJECTIVES</h3><ul data-tight="true" class="tight"><li><p>To cultivate a love and passion for performing arts.</p></li><li><p>To provide platforms for students to perform and showcase their guitar playing skill through public performances.</p></li><li><p>To build confidence and showmanship skills in public performance.</p></li><li><p>To develop members to be a good team player and develop leadership skills.</p></li><li><p>To nurture members to become informed audiences for arts.</p></li></ul><ul><li><p>TEACHERS IN-CHARGE</p><p>Mdm Siti Mahmudah</p><p>Mdm Kang Lu</p><p>Ms Nyam Lee Chin Ivy</p><p>Ms Madeline Teo</p></li><li><p>TRAINING DAYS</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>DAY</p></th><th rowspan="1" colspan="1"><p>TIME</p></th><th rowspan="1" colspan="1"><p>VENUE</p></th></tr><tr><td rowspan="1" colspan="1"><p>Wednesday</p></td><td rowspan="1" colspan="1"><p>3:00pm - 6:00pm</p></td><td rowspan="1" colspan="1"><p>Guitar Room / Classroom</p></td></tr><tr><td rowspan="1" colspan="1"><p>Friday</p></td><td rowspan="1" colspan="1"><p>2:00pm - 5:00pm</p></td><td rowspan="1" colspan="1"><p>Guitar Room / Classroom</p></td></tr></tbody></table></li><li><p>CCA ACHIEVEMENTS</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>YEAR</p></th><th rowspan="1" colspan="1"><p>AWARDS</p></th></tr><tr><td rowspan="1" colspan="1"><p>2021</p></td><td rowspan="1" colspan="1"><p>SYF Arts Presentation 2019 – Certificate of Accomplishment</p></td></tr><tr><td rowspan="1" colspan="1"><p>2019</p></td><td rowspan="1" colspan="1"><p>SYF Arts Presentation 2019 – Certificate of Accomplishment<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>2017</p></td><td rowspan="1" colspan="1"><p>SYF Arts Presentation 2017 – Certificate of Distinction<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>2015</p></td><td rowspan="1" colspan="1"><p>SYF Arts Presentation 2015 – Certificate of Distinction</p></td></tr><tr><td rowspan="1" colspan="1"><p>2013</p></td><td rowspan="1" colspan="1"><p>SYF Arts Presentation 2013 – Certificate of Distinction</p></td></tr></tbody></table></li><li><p>PROGRAMMES / EVENTS</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>NAME OF PROGRAMME / EVENT</p></th><th rowspan="1" colspan="1"><p>DATE / MONTH</p></th><th rowspan="1" colspan="1"><p>OBJECTIVES OF PROGRAMME / EVENT</p></th></tr><tr><td rowspan="1" colspan="1"><p>CCA Fair</p></td><td rowspan="1" colspan="1"><p>January</p></td><td rowspan="1" colspan="1"><p>The CCA Fair provides a platform for the Guitar Ensemble to showcase our programmes and attract the Sec 1s to join the CCA. At the booths, members will share the various programmes the ensemble takes part in over the years and allow the Sec 1s to try out the guitars under the guidance of the ensemble members.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Masterclass workshop (to prepare for SYF)</p></td><td rowspan="1" colspan="1"><p>March</p></td><td rowspan="1" colspan="1"><p>The workshop allows the students to get valuable feedback from other conductors on how to improve on the articulation and dynamics on the set piece for their Singapore Youth Festival (SYF) Competition.<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Exchange with other school Guitar Ensemble</p></td><td rowspan="1" colspan="1"><p>March</p></td><td rowspan="1" colspan="1"><p>Building up to the Singapore Youth Festival (SYF), the Guitar Ensemble will be going on exchange with other schools to share good practices and techniques on how to improve their individual playing. <br></p></td></tr><tr><td rowspan="1" colspan="1"><p>2023 Singapore Youth Festival</p></td><td rowspan="1" colspan="1"><p>April</p></td><td rowspan="1" colspan="1"><p>The Singapore Youth Festival (SYF) is an annual event organised by the Ministry of Education to celebrate the achievements of our youths in their co-curricular activities (CCAs). Starting in April and culminating in a month-long celebration in July, the SYF will engage students from schools across Singapore involved in the performing arts, sports, and uniformed group CCAs.<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Learning Journeys / e-Concerts / workshops for various guitar performances / skills<br></p></td><td rowspan="1" colspan="1"><p>June - December</p></td><td rowspan="1" colspan="1"><p>The Learning Journeys, e-Concerts or workshops will give members the opportunity to witness performances from ensembles in other schools, polytechnics or other institutions and to pick up new skills such as the maintenance of their guitars.<br><br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Annual Bonding &amp; Training Camp</p></td><td rowspan="1" colspan="1"><p>October / November</p></td><td rowspan="1" colspan="1"><p>The annual Bonding Day is held during the Year-End holiday so as:<br><br><br>To forge a stronger bond among Sec 1 to Sec 3 students through fun and games.<br><br>To provide opportunity to the sec 3 CCA leaders to practice their leadership skills by empowering them to plan and run activities themselves. <br><br>To nurture and identify potential leaders and provide them with the necessary skills for future appointment in guitar.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Guitar Ensemble Leadership Camp (organised by CCAB) <br></p></td><td rowspan="1" colspan="1"><p>November</p></td><td rowspan="1" colspan="1"><p>Selected student leaders will attend a nationwide leadership camp for them to:<br><br><br>Be trained in Basic Conducting, Classical Guitar Technique, Rehearsal<br><br>Learn techniques, Score Reading and Body Percussion<br><br>Know how to conduct student-led ensemble practice sessions</p></td></tr><tr><td rowspan="1" colspan="1"><p>Preparation for CCA Fair 2024– Introduction of new songs<br></p></td><td rowspan="1" colspan="1"><p>September - December</p></td><td rowspan="1" colspan="1"><p>Preparation for the CCA Fair for the following year. <br></p></td></tr></tbody></table><p></p></li><li><p>GALLERY</p><p></p><div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFaUeOV_zA0tZOd7TgpmQWbHqr3QhHWGJ3BCHvy38xUL5OBTUZcLV3LBzqivJOlt3p4AzmSLYT2KHJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div><p></p></li></ul><p></p>
+<h3>OBJECTIVES</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To cultivate a love and passion for performing arts.</p>
+</li>
+<li>
+<p>To provide platforms for students to perform and showcase their guitar
+playing skill through public performances.</p>
+</li>
+<li>
+<p>To build confidence and showmanship skills in public performance.</p>
+</li>
+<li>
+<p>To develop members to be a good team player and develop leadership skills.</p>
+</li>
+<li>
+<p>To nurture members to become informed audiences for arts.</p>
+</li>
+</ul>
+<p><strong>TEACHERS IN-CHARGE</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Siti Mahmudah</p>
+</li>
+<li>
+<p>Mdm Kang Lu</p>
+</li>
+<li>
+<p>Ms Nyam Lee Chin Ivy</p>
+</li>
+<li>
+<p>Ms Madeline Teo</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>TRAINING DAYS</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>DAY</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>TIME</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>VENUE</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:00pm - 6:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guitar Room / Classroom</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:00pm - 5:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guitar Room / Classroom</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p><strong>CCA ACHIEVEMENTS</strong>
+</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>YEAR</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>AWARDS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation 2019 – Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation 2019 – Certificate of Accomplishment
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation 2017 – Certificate of Distinction
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation 2015 – Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation 2013 – Certificate of Distinction</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p><strong>PROGRAMMES / EVENTS</strong>
+</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NAME OF PROGRAMME / EVENT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DATE / MONTH</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>OBJECTIVES OF PROGRAMME / EVENT</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Fair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The CCA Fair provides a platform for the Guitar Ensemble to showcase our
+programmes and attract the Sec 1s to join the CCA. At the booths, members
+will share the various programmes the ensemble takes part in over the years
+and allow the Sec 1s to try out the guitars under the guidance of the ensemble
+members.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Masterclass workshop (to prepare for SYF)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The workshop allows the students to get valuable feedback from other conductors
+on how to improve on the articulation and dynamics on the set piece for
+their Singapore Youth Festival (SYF) Competition.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exchange with other school Guitar Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Building up to the Singapore Youth Festival (SYF), the Guitar Ensemble
+will be going on exchange with other schools to share good practices and
+techniques on how to improve their individual playing.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023 Singapore Youth Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Singapore Youth Festival (SYF) is an annual event organised by the
+Ministry of Education to celebrate the achievements of our youths in their
+co-curricular activities (CCAs). Starting in April and culminating in a
+month-long celebration in July, the SYF will engage students from schools
+across Singapore involved in the performing arts, sports, and uniformed
+group CCAs.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning Journeys / e-Concerts / workshops for various guitar performances
+/ skills
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>June - December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Learning Journeys, e-Concerts or workshops will give members the opportunity
+to witness performances from ensembles in other schools, polytechnics or
+other institutions and to pick up new skills such as the maintenance of
+their guitars.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Annual Bonding &amp; Training Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October / November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The annual Bonding Day is held during the Year-End holiday so as:
+<br>
+<br>
+<br>To forge a stronger bond among Sec 1 to Sec 3 students through fun and
+games.
+<br>
+<br>To provide opportunity to the sec 3 CCA leaders to practice their leadership
+skills by empowering them to plan and run activities themselves.
+<br>
+<br>To nurture and identify potential leaders and provide them with the necessary
+skills for future appointment in guitar.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guitar Ensemble Leadership Camp (organised by CCAB)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected student leaders will attend a nationwide leadership camp for
+them to:
+<br>
+<br>
+<br>Be trained in Basic Conducting, Classical Guitar Technique, Rehearsal
+<br>
+<br>Learn techniques, Score Reading and Body Percussion
+<br>
+<br>Know how to conduct student-led ensemble practice sessions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Preparation for CCA Fair 2024– Introduction of new songs
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September - December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preparation for the CCA Fair for the following year.
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+<li>
+<p><strong>GALLERY</strong>
+</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFaUeOV_zA0tZOd7TgpmQWbHqr3QhHWGJ3BCHvy38xUL5OBTUZcLV3LBzqivJOlt3p4AzmSLYT2KHJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+</li>
+</ul>
+<p></p>
