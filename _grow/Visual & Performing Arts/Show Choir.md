@@ -5,4 +5,243 @@ description: ""
 third_nav_title: Visual & Performing Arts
 variant: tiptap
 ---
-<h3>OBJECTIVES</h3><ul data-tight="true" class="tight"><li><p>To develop students’ confidence in self-expression through elements of singing, dancing and acting &nbsp;</p></li><li><p>To build forward-thinking through innovative and creative freedom of expression &nbsp;</p></li><li><p>To foster a strong sense of belonging and teamwork &nbsp;&nbsp;</p></li><li><p>To broaden students’ perspectives through repertoire from different cultures and genres&nbsp;</p></li></ul><ul><li><p>TEACHERS IN-CHARGE</p><p>Mdm You Chow Ling</p><p>Mdm Tang Tai-Chi</p><p>Mr Mohammad Redzuan Bin Jaafar</p><p>Mdm Insyirah Jumat</p><p></p></li><li><p>TRAINING DAYS</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>DAY</p></th><th rowspan="1" colspan="1"><p>TIME</p></th><th rowspan="1" colspan="1"><p>VENUE</p></th></tr><tr><td rowspan="1" colspan="1"><p>Wednesday</p></td><td rowspan="1" colspan="1"><p>3:00pm - 6:00pm</p></td><td rowspan="1" colspan="1"><p>Music Room</p></td></tr><tr><td rowspan="1" colspan="1"><p>Friday (Only during competition season)</p></td><td rowspan="1" colspan="1"><p>2:30pm - 5:30pm</p></td><td rowspan="1" colspan="1"><p>Music Room</p></td></tr></tbody></table></li><li><p>CCA ACHIEVEMENT</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>YEAR</p></th><th rowspan="1" colspan="1"><p>AWARDS</p></th></tr><tr><td rowspan="1" colspan="1"><p>2022</p></td><td rowspan="1" colspan="1"><p>Platinum Award for Show Choir Festival B-Dazzled 2022 Best Vocals Award Festival B-Dazzled 2022</p></td></tr><tr><td rowspan="1" colspan="1"><p>2019</p></td><td rowspan="1" colspan="1"><p>Platinum Award for Show Choir Festival B-Dazzled 2019</p></td></tr><tr><td rowspan="1" colspan="1"><p>2018</p></td><td rowspan="1" colspan="1"><p>Diamond Award for Show Choir Festival B-Dazzled 2018<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>2017</p></td><td rowspan="1" colspan="1"><p>Platinum Award for Show Choir Festival B-Dazzled 2017</p></td></tr></tbody></table></li><li><p>PROGRAMMES / EVENTS</p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>NAME OF PROGRAMME / EVENT</p></th><th rowspan="1" colspan="1"><p>DATE / MONTH</p></th><th rowspan="1" colspan="1"><p>OBJECTIVES OF PROGRAMME / EVENT</p></th></tr><tr><td rowspan="1" colspan="1"><p>CCA Fair<br>Secondary 1 Orientation<br></p></td><td rowspan="1" colspan="1"><p>January</p></td><td rowspan="1" colspan="1"><p>The choir is fully prepared to ‘charm’ potential sec 1 members with an extensive Show Choir program that encompasses singing, dancing and acting elements.</p></td></tr><tr><td rowspan="1" colspan="1"><p>SYF Camp<br></p></td><td rowspan="1" colspan="1"><p>March School Holiday</p></td><td rowspan="1" colspan="1"><p>To prepare all the members well for our first SYF in April, this holiday camp aims to hone every member’s singing and dancing skills through focused rehearsals. <br></p></td></tr><tr><td rowspan="1" colspan="1"><p>SYF (Choir)</p></td><td rowspan="1" colspan="1"><p>April</p></td><td rowspan="1" colspan="1"><p>SYF is a bi-annual competition where all secondary school choirs in Singapore will participate in. This is the first year the Westwood Show Choir is going to participate in SYF since our conversion from traditional choir to a show choir. We look forward to bringing some show choir elements into SYF this year.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Choir Farewell (POP)<br></p></td><td rowspan="1" colspan="1"><p>May</p></td><td rowspan="1" colspan="1"><p>The juniors will now say goodbye to their seniors in a day of games, food and farewell speeches and performances to celebrate their camaraderie.<br></p></td></tr><tr><td rowspan="1" colspan="1"><p>Show Choir Festival B-Dazzled! (2023)</p></td><td rowspan="1" colspan="1"><p>November</p></td><td rowspan="1" colspan="1"><p>To showcase the fruit of our labor for the first half of the year and as an opportunity for our students to perform on a big stage in an indoor theatre, our show choristers will be attending the annual Show Choir Festival Competition this year to gain further insight on competitive singing and dancing.</p></td></tr></tbody></table></li><li><p>GALLERY</p><p></p><div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3fd7_HvvoadQSDJp8ousGWfjjB5Tlcy71nPVzEOHDRxS3fcJsnRYogXTbB98rbVG-mQZvDQAs00FY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></div><p></p></li></ul><p></p>
+<h3>OBJECTIVES</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To develop students’ confidence in self-expression through elements of
+singing, dancing and acting &nbsp;</p>
+</li>
+<li>
+<p>To build forward-thinking through innovative and creative freedom of expression
+&nbsp;</p>
+</li>
+<li>
+<p>To foster a strong sense of belonging and teamwork &nbsp;&nbsp;</p>
+</li>
+<li>
+<p>To broaden students’ perspectives through repertoire from different cultures
+and genres&nbsp;</p>
+</li>
+</ul>
+<p><strong>TEACHERS IN-CHARGE</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm You Chow Ling</p>
+</li>
+<li>
+<p>Mdm Tang Tai-Chi</p>
+</li>
+<li>
+<p>Mr Mohammad Redzuan Bin Jaafar</p>
+</li>
+<li>
+<p>Mdm Insyirah Jumat</p>
+</li>
+</ul>
+<p></p>
+<ul>
+<li>
+<p><strong>TRAINING DAYS</strong>
+</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>DAY</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>TIME</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>VENUE</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3:00pm - 6:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday (Only during competition season)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2:30pm - 5:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Music Room</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p><strong>CCA ACHIEVEMENT</strong>
+</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>YEAR</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>AWARDS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Platinum Award for Show Choir Festival B-Dazzled 2022 Best Vocals Award
+Festival B-Dazzled 2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Platinum Award for Show Choir Festival B-Dazzled 2019</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diamond Award for Show Choir Festival B-Dazzled 2018
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Platinum Award for Show Choir Festival B-Dazzled 2017</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p><strong>PROGRAMMES / EVENTS</strong>
+</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NAME OF PROGRAMME / EVENT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DATE / MONTH</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>OBJECTIVES OF PROGRAMME / EVENT</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Fair
+<br>Secondary 1 Orientation
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The choir is fully prepared to ‘charm’ potential sec 1 members with an
+extensive Show Choir program that encompasses singing, dancing and acting
+elements.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF Camp
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March School Holiday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To prepare all the members well for our first SYF in April, this holiday
+camp aims to hone every member’s singing and dancing skills through focused
+rehearsals.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF (Choir)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF is a bi-annual competition where all secondary school choirs in Singapore
+will participate in. This is the first year the Westwood Show Choir is
+going to participate in SYF since our conversion from traditional choir
+to a show choir. We look forward to bringing some show choir elements into
+SYF this year.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir Farewell (POP)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The juniors will now say goodbye to their seniors in a day of games, food
+and farewell speeches and performances to celebrate their camaraderie.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Show Choir Festival B-Dazzled! (2023)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To showcase the fruit of our labor for the first half of the year and
+as an opportunity for our students to perform on a big stage in an indoor
+theatre, our show choristers will be attending the annual Show Choir Festival
+Competition this year to gain further insight on competitive singing and
+dancing.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>
+<p><strong>GALLERY</strong>
+</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3fd7_HvvoadQSDJp8ousGWfjjB5Tlcy71nPVzEOHDRxS3fcJsnRYogXTbB98rbVG-mQZvDQAs00FY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+</li>
+</ul>
+<p></p>
