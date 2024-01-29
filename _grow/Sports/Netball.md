@@ -194,6 +194,17 @@ within the team</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Westwood Netball Invitational</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To promote camaraderie among schools playing Netball.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Netops Carnival</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -202,17 +213,6 @@ within the team</p>
 <td rowspan="1" colspan="1">
 <p>Promote sporting excellence through competitions to prepare main players
 for next year.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Westwood Netball Invitational</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>November</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To promote camaraderie among schools playing Netball.</p>
 </td>
 </tr>
 </tbody>
