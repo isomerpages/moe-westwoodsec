@@ -24,16 +24,24 @@ to develop good team camaraderie over the 4 years.</p>
 <p>To groom vibrant student leaders who can lead and inspire fellow players.</p>
 </li>
 </ol>
-<ul>
-<li>
 <p><strong>TEACHERS IN-CHARGE</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Ms Naomi Chua</p>
-<p>Mdm Farhana Mokhtar</p>
-<p>Ms Mavis Teo</p>
-<p>Mdm Nur Nadiah Razni</p>
-<p></p>
 </li>
+<li>
+<p>Mdm Farhana Mokhtar</p>
+</li>
+<li>
+<p>Ms Mavis Teo</p>
+</li>
+<li>
+<p>Mdm Nur Nadiah Razni</p>
+</li>
+</ul>
+<p></p>
+<ul>
 <li>
 <p><strong>TRAINING DAYS</strong>
 </p>
@@ -81,6 +89,8 @@ to develop good team camaraderie over the 4 years.</p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
 <p></p>
+</li>
+</ul>
 <table>
 <tbody>
 <tr>
@@ -104,8 +114,8 @@ to develop good team camaraderie over the 4 years.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-M1 Netball School Challenge League -1st (B Div Girls)
-<br>-Westwood Netball Invitational – 2nd (B Div Girls)</p>
+<p>1. M1 Netball School Challenge League -1st (B Div Girls)
+<br>2. Westwood Netball Invitational – 2nd (B Div Girls)</p>
 </td>
 </tr>
 <tr>
@@ -120,10 +130,9 @@ to develop good team camaraderie over the 4 years.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-</li>
+<ul>
 <li>
-<p><strong>PROGRAMMES / EVENTS</strong>
+<p><strong>PROGRAMMES / EVENTS</strong> 
 <br>
 </p>
 <table>
