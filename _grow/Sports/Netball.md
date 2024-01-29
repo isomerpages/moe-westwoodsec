@@ -26,7 +26,8 @@ to develop good team camaraderie over the 4 years.</p>
 </ol>
 <ul>
 <li>
-<p>TEACHERS IN-CHARGE</p>
+<p><strong>TEACHERS IN-CHARGE</strong>
+</p>
 <p>Ms Naomi Chua</p>
 <p>Mdm Farhana Mokhtar</p>
 <p>Ms Mavis Teo</p>
@@ -34,7 +35,8 @@ to develop good team camaraderie over the 4 years.</p>
 <p></p>
 </li>
 <li>
-<p>TRAINING DAYS</p>
+<p><strong>TRAINING DAYS</strong>
+</p>
 <p></p>
 <table>
 <tbody>
@@ -73,9 +75,11 @@ to develop good team camaraderie over the 4 years.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 </li>
 <li>
-<p>CCA ACHIEVEMENTS</p>
+<p><strong>CCA ACHIEVEMENTS</strong>
+</p>
 <p></p>
 <table>
 <tbody>
@@ -116,10 +120,12 @@ to develop good team camaraderie over the 4 years.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 </li>
 <li>
-<p>PROGRAMMES / EVENTS</p>
-<p></p>
+<p><strong>PROGRAMMES / EVENTS</strong>
+<br>
+</p>
 <table>
 <tbody>
 <tr>
@@ -218,8 +224,10 @@ for next year.</p>
 </tbody>
 </table>
 </li>
+</ul>
+<h4><strong>GALLERY</strong></h4>
+<ul>
 <li>
-<p>GALLERY</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2CP4zumkjjjgEJHJxTGQHkiUgwQtWuomsg-pcDkeoj854io9in7MQqGHROIOQsFPsV_dJBZmXoXPe/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
