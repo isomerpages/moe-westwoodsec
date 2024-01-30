@@ -97,6 +97,15 @@ values such as resilience, responsibility and teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Schools Ten Pin Bowling Championships 2023</p>
+<p>B Division Boys Singles Bronze: Athan Lim Jun Da</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,23 +135,6 @@ values such as resilience, responsibility and teamwork.</p>
 <br>Ryan Toh Hong Rui, 3B
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U Bowling Schools Challenge C Div Boys Champion: Ryan Toh Hong Rui, 2C</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>U Bowling Schools Challenge C Div Girls Champion:
-<br>Nur Ifqah Binte Hazly, 1D</p>
 </td>
 </tr>
 </tbody>
