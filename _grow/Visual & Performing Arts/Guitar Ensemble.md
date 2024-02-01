@@ -99,10 +99,19 @@ playing skill through public performances.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SYF Arts Presentation 2019 – Certificate of Accomplishment</p>
+<p>SYF Arts Presentation 2019 –</p>
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
