@@ -99,10 +99,19 @@ playing skill through public performances.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation 2023 – Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SYF Arts Presentation 2019 – Certificate of Accomplishment</p>
+<p>SYF Arts Presentation 2019 –</p>
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +187,21 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Masterclass workshop (to prepare for SYF)</p>
+<p>Chinese New Year Concert</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Guitar Ensemble performs for the school as part of the Chinese New
+Year Celebrations through a video recording. The students hone their skills
+and confidence by entertaining the audience with familiar Chinese New Year
+melodies.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Masterclass workshop</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March</p>
@@ -186,62 +209,36 @@ members.</p>
 <td rowspan="1" colspan="1">
 <p>The workshop allows the students to get valuable feedback from other conductors
 on how to improve on the articulation and dynamics on the set piece for
-their Singapore Youth Festival (SYF) Competition.
-<br>
-</p>
+their Singapore Youth Festival (SYF) Competition or to learn how to take
+care of their guitars.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Exchange with other school Guitar Ensemble</p>
+<p>Learning Journeys / Concerts / workshops for various guitar performances
+/ skills</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>March</p>
+<p>June – December</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building up to the Singapore Youth Festival (SYF), the Guitar Ensemble
-will be going on exchange with other schools to share good practices and
-techniques on how to improve their individual playing.
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023 Singapore Youth Festival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Singapore Youth Festival (SYF) is an annual event organised by the
-Ministry of Education to celebrate the achievements of our youths in their
-co-curricular activities (CCAs). Starting in April and culminating in a
-month-long celebration in July, the SYF will engage students from schools
-across Singapore involved in the performing arts, sports, and uniformed
-group CCAs.
-<br>
-</p>
+<p>The Learning Journeys, Concerts or workshops will give members the opportunity
+to witness performances from ensembles in other schools, polytechnics or
+other institutions and to pick up new skills such as the maintenance of
+their guitars.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Learning Journeys / e-Concerts / workshops for various guitar performances
-/ skills
-<br>
-</p>
+<p>Values in Action</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>June - December</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Learning Journeys, e-Concerts or workshops will give members the opportunity
-to witness performances from ensembles in other schools, polytechnics or
-other institutions and to pick up new skills such as the maintenance of
-their guitars.
-<br>
-<br>
-</p>
+<p>To provide a platform for the members to be socially responsible citizens
+who contribute meaningfully to the community, through the learning and
+application of values, knowledge and skills.</p>
 </td>
 </tr>
 <tr>
@@ -252,53 +249,38 @@ their guitars.
 <p>October / November</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The annual Bonding Day is held during the Year-End holiday so as:
-<br>
-<br>
-<br>To forge a stronger bond among Sec 1 to Sec 3 students through fun and
-games.
-<br>
-<br>To provide opportunity to the sec 3 CCA leaders to practice their leadership
-skills by empowering them to plan and run activities themselves.
-<br>
-<br>To nurture and identify potential leaders and provide them with the necessary
-skills for future appointment in guitar.</p>
+<p>The annual Bonding Day is held during the Year-End holiday so as</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to forge a stronger bond among Sec
+1 to Sec 3 students through fun and games,</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to provide opportunity to the sec
+3 CCA leaders to practice their leadership skills by empowering them to
+plan and run activities themselvess</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to nurture and identify potential
+leaders and provide them with the necessary skills for future appointment
+in guitar.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Guitar Ensemble Leadership Camp (organised by CCAB)
-<br>
-</p>
+<p>Preparation for CCA Fair 2025 – Introduction of new songs</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>November</p>
+<p>September – December</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected student leaders will attend a nationwide leadership camp for
-them to:
-<br>
-<br>
-<br>Be trained in Basic Conducting, Classical Guitar Technique, Rehearsal
-<br>
-<br>Learn techniques, Score Reading and Body Percussion
-<br>
-<br>Know how to conduct student-led ensemble practice sessions</p>
+<p>Preparation for the CCA Fair for the following year.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Preparation for CCA Fair 2024– Introduction of new songs
-<br>
-</p>
+<p>Preparation for SYF Arts Presentation: Guitar Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>September - December</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Preparation for the CCA Fair for the following year.
-<br>
-</p>
+<p>Preparation for SYF Arts Presentation for the following year.</p>
 </td>
 </tr>
 </tbody>
@@ -312,7 +294,9 @@ them to:
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFaUeOV_zA0tZOd7TgpmQWbHqr3QhHWGJ3BCHvy38xUL5OBTUZcLV3LBzqivJOlt3p4AzmSLYT2KHJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFaUeOV_zA0tZOd7TgpmQWbHqr3QhHWGJ3BCHvy38xUL5OBTUZcLV3LBzqivJOlt3p4AzmSLYT2KHJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
