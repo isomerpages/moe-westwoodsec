@@ -89,6 +89,23 @@ students.&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd &nbsp;in Inter School Aeromodelling Competition - FPV Drone Race (Junior
+Final) Category</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8th and 14th place in Singapore Amazing Flying Machine Race Cat C2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,7 +159,9 @@ students.&nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p>Singapore Amazing Flying Machine Competition (SAFMC)
 <br>
 <br>Category B - Unpowered Glider
-<br>Category C2 – FPV Flight
+<br>Category C2 – FPV Flight</p>
+<p></p>
+<p>Category C3 – FPV Flight
 <br>
 <br>Organised by: Singapore Science Centre</p>
 </td>
@@ -161,6 +180,10 @@ gliders to be Radio Control Flight
 <br>Category C2: FPV Flight (Drones)
 <br>Bring or design a FPV (first-person view) air platform to navigate an
 obstacle course.</p>
+<p></p>
+<p>Category C3:&nbsp; FPV Flight (Drones)
+<br>Bring or design a FPV (first-person view) air platform to navigate an
+obstacle course in teams of only ONE member.</p>
 </td>
 </tr>
 <tr>
