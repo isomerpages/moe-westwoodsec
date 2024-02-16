@@ -80,6 +80,14 @@ through fun, adventurous and military-related activities.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction Award for Unit Recognition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,46 +109,26 @@ through fun, adventurous and military-related activities.
 <tr>
 <td rowspan="1" colspan="1">
 <p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction Award for Unit Recognition
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction Award for Unit Recognition
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction Award for Unit Recognition
-<br>
-</p>
+<p>Distinction Award for Unit Recognition</p>
+<p>Distinction Award for Unit Recognition</p>
+<p>Distinction Award for Unit Recognition</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Awarded Silver for Best Unit Competition</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<p></p>
 <p>2016</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Awarded Silver for Best Unit Competition</p>
 <p>Awarded Silver for Best Unit Competition</p>
 </td>
 </tr>
@@ -166,57 +154,12 @@ through fun, adventurous and military-related activities.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Inter-UG Footdrill Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To showcase the foot drill skills of the cadets &amp; to build up healthy
-fighting spirit among all Uniformed Groups.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Inter-UG Games Day
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To promote teamwork and adventure spirit among different Uniformed Groups.
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Inter-School Cluster Training
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To learn a new skill
-<br>To bond with cluster TICs and cadets
-<br>To instill adventure spirit among cadets
-<br>To increase and build up their fitness level
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Passing Out Parade (POP)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>March</p>
+<p>April</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To appreciate the Senior Cadets Leaders for their outstanding contribution
@@ -243,17 +186,14 @@ to their limits
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adventure and Skills Training
-<br>
-</p>
+<p>National Day Parade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>November</p>
+<p>July/August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To learn a new skill and knowledge through adventure activity, overseas
-training, educational learning journey, skills-based activity and/or VIA
-projects.</p>
+<p>Have the opportunity to be part of a school parade to celebrate and commemorate
+National Day</p>
 </td>
 </tr>
 </tbody>
@@ -323,20 +263,6 @@ its relevance in today’s context to better appreciate GOTC gameplay.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Road Relay (Selected Cadets)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The objectives of the Road Relay are to strengthen and promote:
-<br>(i) Confidence
-<br>(ii) Teamwork
-<br>(iii) A healthy lifestyle</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3-Station Fitness test</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -393,17 +319,6 @@ Intelligence, Energy and Leadership)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>IMT Training</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To equip cadets with shooting skills.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Orienteering</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -435,22 +350,6 @@ NCC
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Basic Precision Drill Course (Selected Cadets)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The objective of the course is to train and equip Cadets with the knowledge
-on advanced arms drills of the Precision Drill Squad and the instructional
-methodologies involved in imparting the skill to their juniors or cadets
-in other units.
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Total Defence (Silver) Badge</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -463,32 +362,6 @@ to stay committed to the development of Singapore.
 <br>To deepen the understanding of our role in TD (of individuals, community
 and businesses, and government) using relatable examples and case studies.
 <br>To deepen the understanding of how we can put TD into action.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Road Relay (Selected Cadets)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The objectives of the Road Relay are to strengthen and promote:
-<br>(i) Confidence
-<br>(ii) Teamwork
-<br>(iii) A healthy lifestyle</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NAPFA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fit body is one of the pillars of Cadet Strong. It is important for cadets
-to keep healthy and fit.</p>
 </td>
 </tr>
 <tr>
@@ -566,7 +439,7 @@ terms of Physical Fitness and General Specialist Knowledge (GSK).</p>
 <p>SAR-21 Technical Handling / Live Range</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>April</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To equip cadets with shooting skills.</p>
@@ -631,20 +504,6 @@ one of the threats/challenges that confront Singapore by planning the lesson.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Road Relay (Selected Cadets)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The objectives of the Road Relay are to strengthen and promote:
-<br>(i) Confidence
-<br>(ii) Teamwork
-<br>(iii) A healthy lifestyle</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3-Station Fitness test</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -666,21 +525,6 @@ to keep healthy and fit.</p>
 <p>The Freestyle Exhibition Drill Competition serves as a platform to validate
 what the cadets have learnt, where they display their array of talents
 by competing amongst other school units in a healthy competitive environment.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mount Ophir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To reinforce the adventurous spirit of the NCC cadets via mountain trekking.
-<br>To facilitate team building and care for fellow cadets in an outdoor environment.
-<br>To provide overseas outdoor learning opportunities for our cadets.
-<br>To develop Leadership Competencies via fitness and discipline as they
-motivate each other during the trekking.</p>
 </td>
 </tr>
 </tbody>
