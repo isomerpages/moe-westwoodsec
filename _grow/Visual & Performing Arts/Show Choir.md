@@ -9,7 +9,7 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>To develop students’ confidence in self-expression through elements of
-singing, dancing and acting &nbsp;</p>
+singing</p>
 </li>
 <li>
 <p>To build forward-thinking through innovative and creative freedom of expression
@@ -99,11 +99,21 @@ and genres&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation Award in SYF Choir 2023
+<br>Emerald Award for Show Choir Festival B-Dazzled 2023
+<br>Best Music Arrangement Award Festival B-Dazzled 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Platinum Award for Show Choir Festival B-Dazzled 2022 Best Vocals Award
-Festival B-Dazzled 2022</p>
+<p>Platinum Award for Show Choir Festival B-Dazzled 2022
+<br>Best Vocals Award Festival B-Dazzled 2022</p>
 </td>
 </tr>
 <tr>
@@ -170,12 +180,24 @@ elements.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Choir Farewell (POP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The juniors will now say goodbye to their seniors in a day of games, food
+and farewell speeches and performances to celebrate their camaraderie.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SYF Camp
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>March School Holiday</p>
+<p>Nov/Dec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To prepare all the members well for our first SYF in April, this holiday
@@ -183,52 +205,6 @@ camp aims to hone every member’s singing and dancing skills through focused
 rehearsals.
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF (Choir)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF is a bi-annual competition where all secondary school choirs in Singapore
-will participate in. This is the first year the Westwood Show Choir is
-going to participate in SYF since our conversion from traditional choir
-to a show choir. We look forward to bringing some show choir elements into
-SYF this year.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Choir Farewell (POP)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The juniors will now say goodbye to their seniors in a day of games, food
-and farewell speeches and performances to celebrate their camaraderie.
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Show Choir Festival B-Dazzled! (2023)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>November</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To showcase the fruit of our labor for the first half of the year and
-as an opportunity for our students to perform on a big stage in an indoor
-theatre, our show choristers will be attending the annual Show Choir Festival
-Competition this year to gain further insight on competitive singing and
-dancing.</p>
 </td>
 </tr>
 </tbody>
