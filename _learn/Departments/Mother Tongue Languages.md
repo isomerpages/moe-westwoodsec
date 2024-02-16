@@ -129,12 +129,12 @@ through various activities and authentic learning experiences.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>14th Good talk international children and youth bilingual speech conference.</strong>
+<p><strong>14th Good talk international children and youth bilingual speech conference.</strong> 
 <br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1st Prize &amp; 3rd prize
 (individual in1st round)</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 Bronze (individual in Final
 round)</p>
-<p>&nbsp;<strong>6th Text Recital Competition for primary and secondary schools (CL):</strong>
+<p>&nbsp;<strong>6th Text Recital Competition for primary and secondary schools (CL):</strong> 
 <br>2 Silvers (individual)
 <br>1 Bronze (Team)&nbsp;</p>
 <p><strong>21st National creative writing competition: </strong>2nd prize
@@ -142,13 +142,13 @@ round)</p>
 <p></p>
 <p><strong>W3 Zonal Mother Tongue Language &amp; Cultural Fiesta 2023</strong>
 </p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Chinese Language Quiz:   </strong>3rd
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Chinese Language Quiz: </strong>3rd
 Prize (Team)
 <br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Chinese Language Creative Essay Writing: </strong>4th
 Prize (Individual)
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Chinese Language Creative Writing with Photography    Competition: </strong>1st
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Chinese Language Creative Writing with Photography Competition: </strong>1st
 prize (Individual)</p>
-<p>&nbsp;<strong>National Malay Language Writing Competition: Saya boleh Mengarang</strong>
+<p>&nbsp;<strong>National Malay Language Writing Competition: Saya boleh Mengarang</strong> 
 <br>1 Silver Award (Individual)
 <br>1 Bronze Award (Individual)</p>
 <p></p>
@@ -231,11 +231,11 @@ prize (Individual)</p>
 </table>
 <h3>Mother Tongue - Chinese Langugage</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdggsEZ7mPloGAk79XBx5jeBgWsK6XKpFFGZAIAaJImmqgoQTyp2XBre0V_u--7oXF385Q1f9cq-B_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAA1ifsfbF0r3NC_1TwcdgY2xsXp5nH_cDPWO31IKDduaU-a5jo9mpeKEfcAk6iegk5Sc8ocHJV_oT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Mother Tongue - Malay Language</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7tQdZYAAdI_3x5YdDA4NRYJNYSj0HhKtZwDTJKx7ljyroQBovOcNTAoTGPrXip7aIyTy1tyfpjFiK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7023Dct2a6NxoDINZIf0cdAgJcfJ4LUGNsfGz49701PnGxfRFXcKzrBnhoWUzTjrcDDG3h5kiOyVu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Useful Links</h3>
 <table>
