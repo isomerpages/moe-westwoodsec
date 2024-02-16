@@ -262,9 +262,8 @@ obstacle course in teams of only ONE member.</p>
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRmHJj1X8UG4Bn61-3rZXl3iaYF52jNgiKoPLiFcXvKpIUXjm0N04ZnqkmxKsQ6aVW326slPfPqj4JG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSunIRnzEdPTADP5W7L5NQReom450wSCmO09-B_wliyy1GdiJh5t0Al7qy0Z_kgS-YCarUioFW3Ui28/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
 </li>
 </ul>
 <p></p>
