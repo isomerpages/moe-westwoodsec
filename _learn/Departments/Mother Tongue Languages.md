@@ -3,166 +3,299 @@ title: Mother Tongue Languages
 permalink: /academic-matters/departments/mother-tongue-languages/
 description: ""
 third_nav_title: Departments
+variant: tiptap
 ---
-### VISION/GOALS
-
-Competent, Dynamic, and Committed in Nurturing Life-Long Passion for the Language and Culture
-
-
-### Programmes / Events
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-0y1c{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
-.tg .tg-njgx{background-color:#FFF;color:#565656;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">NAME OF PROGRAMME / EVENT</span></th>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DATE / MONTH</span></th>
-    <th class="tg-0y1c">OBJECTIVES OF PROGRAMME / EVENT</th>
-  </tr>
-</thead>
+<h3>VISION/GOALS</h3>
+<p>Competent, Dynamic, and Committed in Nurturing Life-Long Passion for the
+Language and Culture</p>
+<h3>Programmes / Events</h3>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Reading Programme</span></td>
-    <td class="tg-mwz3"><span style="color:#565656"> January - September</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">The MTL Reading programme is a structured programme infused into the curriculum which aims to expose the students to different genres of writing; from narrative stories to news articles so that they can be critical and creative thinkers who are connected locally and globally.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Essay Writing Publication</span></td>
-    <td class="tg-mwz3"><span style="color:#565656"> Term 1 to 3 </span></td>
-    <td class="tg-njgx"><span style="background-color:initial">Intra-school essay writing publication that promotes literary excellence, ethics, encouragement, creativity and awareness of current affairs.</span><br><br><span style="background-color:initial">E-Publication of good works across different levels aim to acknowledge and showcase students’ writing talents.</span><br><br>Click <a href="https://read.bookcreator.com/hZRhBliVO3M75UYpHyzXzEhqzks2/dJQOksxdRKGiYpy3U0ifSA"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Chinese Language Version《晨风作品集》 (2020).<br><br>Click<a href="https://www.canva.com/design/DAFQSeqkpZ0/CRd_5hKnAbRb-NiwHWesfQ/view#3"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Chinese Language Version《晨风作品集》 (2022).<br><br>Click <a href="https://www.canva.com/design/DAFTZEq0wtQ/S0hv1vT-v8Bn94jVWDn9wQ/view#4"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Chinese Language Version《晨风作品集》 (2022).<br><br>Click <a href="https://read.bookcreator.com/hZRhBliVO3M75UYpHyzXzEhqzks2/nf2A273BS0Wsq-QP19IjDg"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Malay Language Version《Menyingkap Tabir Ilham》 (2020).<br><br>Click <a href="https://read.bookcreator.com/SRaWqmvEgrbQn7RrYIGcg3RqFm72/WegQBFaHSk6qInkMWdiIhA"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Malay Language Version《Menyingkap Tabir Ilham》 (2021).<br><br>Click <a href="https://bit.ly/3kA6UPA"><span style="text-decoration:none;color:#3AA66F">here</span></a> to read Malay Language Version《Menyingkap Tabir Ilham》 (2022).</td>
-  </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Mother Tongue Fortnight Programme</span></td>
-    <td class="tg-mwz3"><span style="color:#565656"> Term 1 to 2</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">The objective of MTL Fortnight is to ignite students’ interest and appreciation for the Mother Tongue Languages and culture. It provides an enhanced and immersive learning experience for students through various cultural workshops and engaging language activities within and beyond the classroom. </span></td>
-  </tr>
-  <tr>
-    <td class="tg-njgx"><span style="color:#565656">Mother Tongue Languages Intensive Programme</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Term 2</span><br><span style="color:#565656">Week 9 to 10</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Targeted for Secondary Express/ 5 Normal Academic and 4 Normal Academic (‘O’ Level students), this programme aims to prepare graduating students for the O Levels paper in late May/ early June through intensive revision and practices.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Chinese Calligraphy</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Term 1 to 2</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Secondary One Higher Chinese Language students get the opportunity to grasp the depth and breadth of Chinese culture, allowing them to get in touch with their inner self in a busy metropolitan environment.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Theatre Exposure</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Term 2 to 4</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Different levels will be exposed to different types of drama and theatre performances with the aim of inculcating appreciation of the arts and culture as well as to develop critical analytical skills.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Learning Journey – Heritage Trail</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Term 3</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">To provide students with the opportunity to explore different heritage sites in Singapore and have a greater understanding about their culture through various activities and authentic learning experiences.</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NAME OF PROGRAMME / EVENT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DATE / MONTH</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>OBJECTIVES OF PROGRAMME / EVENT</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reading Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>January - September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The MTL Reading programme is a structured programme infused into the curriculum
+which aims to expose the students to different genres of writing; from
+narrative stories to news articles so that they can be critical and creative
+thinkers who are connected locally and globally.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Festival Celebrations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 1 to 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The festival Celebrations are vibrant and diverse, reflecting the multicultural
+tapestry of the nation. These celebrations include Chinese New Year, Deepavali,
+Hari Raya Puasa, and Mid Autum Festival, etc. Students eagerly participate
+in various activities such as traditional dances, music performances, arts
+and crafts workshops, and food fairs, showcasing the richness of each cultural
+tradition. These festivals not only foster a sense of pride and belonging
+among students of different backgrounds but also promote cross-cultural
+understanding and appreciation within the school community. Through these
+festivities, our students celebrate diversity, unity, and the spirit of
+inclusivity.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Fortnight Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 1 to 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The objective of MTL Fortnight is to ignite students’ interest and appreciation
+for the Mother Tongue Languages and culture. It provides an enhanced and
+immersive learning experience for students through various cultural workshops
+and engaging language activities within and beyond the classroom.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages Intensive Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2
+<br>Week 9 to 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Targeted for Secondary Express/ 5 Normal Academic and 4 Normal Academic
+(‘O’ Level students), this programme aims to prepare graduating students
+for the O Levels paper in late May/ early June through intensive revision
+and practices.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Theatre Exposure</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 to 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Different levels will be exposed to different types of drama and theatre
+performances with the aim of inculcating appreciation of the arts and culture
+as well as to develop critical analytical skills.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning Journey – Heritage Trail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2- 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To provide students with the opportunity to explore different heritage
+sites in Singapore and have a greater understanding about their culture
+through various activities and authentic learning experiences.</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Department Achievements 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-cmm0{background-color:#FFF;color:#666;text-align:left;vertical-align:top}
-.tg .tg-zqva{background-color:#FFF;color:#666;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">Year</span></th>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">Awards</span></th>
-  </tr>
-</thead>
+<h3>Department Achievements</h3>
+<table>
 <tbody>
-	<tr>
-    <td class="tg-zqva">2022</td>
-    <td class="tg-cmm0">Text Recital Competition for primary and secondary schools (CL) - Silver<br><br>W3 Mother Tongue Languages Fiesta<br><br>Chinese Creative Essay Writing Competition: 3rd<br>Chinese Language & Cultural Quiz (group): 1st<br>Malay Language & Cultural Quiz (group): 2nd<br><br>13th Good talk international children and youth bilingual speech conference - Silver<br><br>20th National creative writing competition: 3rd</td>
-  </tr>
-  <tr>
-    <td class="tg-zqva">2021</td>
-    <td class="tg-cmm0">12th Global Youth Bilingual Language Conference (CL) Bronze<br><br>Text Recital Competition for primary and secondary schools (CL) Bronze<br><br>W3 Mother Tongue Languages Fiesta<br><br>Chinese Creative Essay Writing Competition: 1st place<br>Chinese Language &amp; Cultural Quiz (Group): 1st place<br>Malay Creative Essay Writing Competition: 2nd place<br>Malay Language &amp; Cultural Quiz (Group): 1st place</td>
-  </tr>
-  <tr>
-    <td class="tg-zqva">2020</td>
-    <td class="tg-cmm0">11th Global Youth Bilingual Language Conference (CL)<br>Bronze</td>
-  </tr>
-  <tr>
-    <td class="tg-zqva">2019</td>
-    <td class="tg-cmm0">W3 Mother Tongue Languages Fiesta <br>ML: 1st <br>CL: 4th</td>
-  </tr>
-  <tr>
-    <td class="tg-zqva"> 2019</td>
-    <td class="tg-cmm0">SPH Journalism Camp and Competition (ML)<br>1st</td>
-  </tr>
-  <tr>
-    <td class="tg-zqva"> 2019</td>
-    <td class="tg-cmm0"> National Malay Writing Competition (ML)<br>Gold Medalist</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Awards</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>14th Good talk international children and youth bilingual speech conference.</strong> 
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1st Prize &amp; 3rd prize
+(individual in1st round)</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 Bronze (individual in Final
+round)</p>
+<p>&nbsp;<strong>6th Text Recital Competition for primary and secondary schools (CL):</strong> 
+<br>2 Silvers (individual)
+<br>1 Bronze (Team)&nbsp;</p>
+<p><strong>21st National creative writing competition: </strong>2nd prize
+(individual)</p>
+<p></p>
+<p><strong>W3 Zonal Mother Tongue Language &amp; Cultural Fiesta 2023</strong>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Chinese Language Quiz: </strong>3rd
+Prize (Team)
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Chinese Language Creative Essay Writing: </strong>4th
+Prize (Individual)
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Chinese Language Creative Writing with Photography Competition: </strong>1st
+prize (Individual)</p>
+<p>&nbsp;<strong>National Malay Language Writing Competition: Saya boleh Mengarang</strong> 
+<br>1 Silver Award (Individual)
+<br>1 Bronze Award (Individual)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Text Recital Competition for primary and secondary schools (CL) -&nbsp;Silver
+<br>
+<br>W3 Mother Tongue Languages Fiesta
+<br>
+<br>Chinese Creative Essay Writing Competition: 3rd
+<br>Chinese Language &amp; Cultural Quiz (group): 1st
+<br>Malay Language &amp; Cultural Quiz (group): 2nd
+<br>
+<br>13th Good talk international children and youth bilingual speech conference
+- Silver
+<br>
+<br>20th National creative writing competition: 3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12th Global Youth Bilingual Language Conference (CL) Bronze
+<br>
+<br>Text Recital Competition for primary and secondary schools (CL) Bronze
+<br>
+<br>W3 Mother Tongue Languages Fiesta
+<br>
+<br>Chinese Creative Essay Writing Competition: 1st place
+<br>Chinese Language &amp; Cultural Quiz (Group): 1st place
+<br>Malay Creative Essay Writing Competition: 2nd place
+<br>Malay Language &amp; Cultural Quiz (Group): 1st place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11th Global Youth Bilingual Language Conference (CL)
+<br>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>W3 Mother Tongue Languages Fiesta
+<br>ML: 1st
+<br>CL: 4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPH Journalism Camp and Competition (ML)
+<br>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Malay Writing Competition (ML)
+<br>Gold Medalist</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Mother Tongue - Chinese Langugage
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQdggsEZ7mPloGAk79XBx5jeBgWsK6XKpFFGZAIAaJImmqgoQTyp2XBre0V_u--7oXF385Q1f9cq-B_/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="560" height="569" allowfullscreen="true"></iframe>
-
-### Mother Tongue - Malay Language
-
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7tQdZYAAdI_3x5YdDA4NRYJNYSj0HhKtZwDTJKx7ljyroQBovOcNTAoTGPrXip7aIyTy1tyfpjFiK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-### Useful Links
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-av5t{background-color:#FFF;color:#3AA66F;text-align:left;vertical-align:top}
-.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">LINK</span></th>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DESCRIPTION</span></th>
-  </tr>
-</thead>
+<h3>Mother Tongue - Chinese Langugage</h3>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAA1ifsfbF0r3NC_1TwcdgY2xsXp5nH_cDPWO31IKDduaU-a5jo9mpeKEfcAk6iegk5Sc8ocHJV_oT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h3>Mother Tongue - Malay Language</h3>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7023Dct2a6NxoDINZIf0cdAgJcfJ4LUGNsfGz49701PnGxfRFXcKzrBnhoWUzTjrcDDG3h5kiOyVu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h3>Useful Links</h3>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-av5t"><a href="http://prpm.dbp.gov.my"><span style="text-decoration:none;color:#3AA66F">Dewan Bahasa dan Pastaka</span></a></td>
-    <td class="tg-mwz3"><span style="color:#565656">The central resource for information on Malay Language </span></td>
-  </tr>
-  <tr>
-    <td class="tg-av5t"><a href="http://beritaharian.sg/"><span style="text-decoration:none;color:#3AA66F">Berita Harian Online</span></a></td>
-    <td class="tg-mwz3"><span style="color:#565656">E-newspaper for Malay Language </span></td>
-  </tr>
-  <tr>
-    <td class="tg-av5t"><a href="http://www.zaobao.com/"><span style="text-decoration:none;color:#3AA66F">Lian He Zao Bao</span></a></td>
-    <td class="tg-mwz3"><span style="color:#565656">E-newspaper for Chinese Language </span></td>
-  </tr>
-  <tr>
-    <td class="tg-av5t"><a href="http://www.zbschools.sg/"><span style="text-decoration:none;color:#3AA66F">SPH ZB Comma</span></a></td>
-    <td class="tg-mwz3"><span style="color:#565656">E-newspaper for Chinese Language</span><br><span style="color:#565656">Clips for listening and oral practices </span></td>
-  </tr>
-	<tr>
-    <td class="tg-av5t"><a href="https://www.cpcll.sg/"><span style="text-decoration:none;color:#3AA66F">Committee to promote Chinese Language Learning</span></a></td>
-    <td class="tg-mwz3"><span style="color:#565656">Interesting activities for Chinese students</span><br><span style="color:#565656"></span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>LINK</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DESCRIPTION</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://prpm.dbp.gov.my" rel="noopener noreferrer nofollow" target="_blank">Dewan Bahasa dan Pastaka</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The central resource for information on Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://beritaharian.sg/" rel="noopener noreferrer nofollow" target="_blank">Berita Harian Online</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E-newspaper for Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.zaobao.com/" rel="noopener noreferrer nofollow" target="_blank">Lian He Zao Bao</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E-newspaper for Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.zbschools.sg/" rel="noopener noreferrer nofollow" target="_blank">SPH ZB Comma</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E-newspaper for Chinese Language
+<br>Clips for listening and oral practices</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.cpcll.sg/" rel="noopener noreferrer nofollow" target="_blank">Committee to promote Chinese Language Learning</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Interesting activities for Chinese students
+<br>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
