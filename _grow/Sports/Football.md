@@ -99,8 +99,16 @@ for students</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games C’ Division Football Championships League 3 – Top
-8</p>
+<p>National School Games C’ Division Boys Football Championships League 3
+– Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games C’ Division Girls Football Championships – 3rd position</p>
 </td>
 </tr>
 <tr>
