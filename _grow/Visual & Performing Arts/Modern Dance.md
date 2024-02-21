@@ -95,6 +95,24 @@ themselves.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2023 – Certificate of Distinction
+<br>SYF 2023 – Certificate of Distinction (Collaboration with ACS)
+<br>LLP SYF Concert 2023 - Metamorphosis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Super 24 - Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,7 +170,7 @@ themselves.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>January</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>To build confident dancers and to gain performing experience.</p>
 </td>
 </tr>
@@ -166,9 +184,6 @@ themselves.&nbsp;</p>
 <p>All year round
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To build confident dancers and to gain performing experience.</p>
 </td>
 </tr>
 <tr>
