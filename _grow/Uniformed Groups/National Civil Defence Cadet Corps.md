@@ -86,9 +86,7 @@ to become effective ambassadors of Civil Defence.</p>
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award (Distinction)
-<br>
-</p>
+<p>Unit Overall Proficiency Award (Distinction)</p>
 </td>
 </tr>
 </tbody>
