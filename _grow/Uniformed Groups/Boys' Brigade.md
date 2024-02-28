@@ -80,6 +80,24 @@ as Leadership, Personal Mastery, Global Awareness and Community Spiritedness</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>J M Fraser Award for Excellence – HIGH DISTINCTION
+<br>*From 2023 onwards, the highest award category was renamed from Gold to
+High Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>J M Fraser Award for Excellence - GOLD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
