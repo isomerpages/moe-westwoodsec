@@ -86,9 +86,7 @@ to become effective ambassadors of Civil Defence.</p>
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unit Overall Proficiency Award (Distinction)
-<br>
-</p>
+<p>Unit Overall Proficiency Award (Distinction)</p>
 </td>
 </tr>
 </tbody>
@@ -184,9 +182,7 @@ in organising and executing an event.
 <p>January (TBC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Combined rehearsal and performance with other organisations and units.
-<br>
-</p>
+<p>Combined rehearsal and performance with other organisations and units.</p>
 </td>
 </tr>
 <tr>
@@ -317,7 +313,7 @@ learnt to good use in authentic situations.</p>
 <p>May - August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day Parade 2021 combined rehearsals with all Uniformed Groups.</p>
+<p>National Day Parade 2024 combined rehearsals with all Uniformed Groups.</p>
 </td>
 </tr>
 <tr>
