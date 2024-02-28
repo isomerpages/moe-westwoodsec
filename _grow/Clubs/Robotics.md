@@ -68,6 +68,8 @@ and activities</p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
+</li>
+</ul>
 <table>
 <tbody>
 <tr>
@@ -83,63 +85,47 @@ and activities</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>First Lego League Competition
-<br>
-</p>
+<p>EV3 and Spike Prime Basic Training Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>January - March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This competition introduces science, technology, engineering and math
-through fun, exciting hands-on learning. Students gain real-world problem
-solving experience through guided, training robotics program. For members
-of all levels.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>EV3 Basic Training Session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March - August</p>
+<p>Term 1 - 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This introductory course aims to familiarise our new members with basic
 skills in constructing and programming a robot. For students with little
-or no experience in robotics.
-<br>
-</p>
+or no experience in robotics.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EV3 Advanced Training Session</p>
+<p>EV3 and Spike Prime Advanced Training Session</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April - August</p>
+<p>Term 2 - 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The advanced course aims to expand the Upper Secondary members with more
-complex basic construction skills and programming know how to tackle complicated
-challenges. For students with basic experience in robotics.</p>
+<p>The advanced course aims to expand the upper secondary members with more
+complex basic construction skills and programming skills to know how to
+tackle complicated challenges. For students with basic experience in robotics.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Robotics Competition</p>
+<p>World Robot Olympiad (WRO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>August - September</p>
+<p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This robotics competition encourages students to develop problem solving
-skills, entrepreneur skills, creative thinking skills, and team spirit
+skills, entrepreneurial skills, creative thinking skills and team spirit
 among the participants. For members of all levels.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<ul>
+<li>
 <p></p>
 </li>
 <li>
