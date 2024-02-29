@@ -97,6 +97,26 @@ and activities</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16th Inter-school Tchoukball National Championship ‘B’ Division Girls
+(Cup Team) , 5th</p>
+<p></p>
+<p>15th Inter-school Tchoukball National Championship ‘B’ Division Girls
+(Plate Team) , Champion</p>
+<p></p>
+<p>1st ActiveSG-TBAS Inter-School ‘C’ DIVISION (Plate Team) Tchoukball Championships
+2023, 2nd Runner Up</p>
+<p></p>
+<p>1st ActiveSG-TBAS Inter-School ‘C’ DIVISION (Cup Team) Tchoukball Championships
+2023, 1st Runner Up</p>
+<p></p>
+<p>1st JSCC-WWSS Tchoukball Tournament 2023 'B Division', 2nd Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,17 +196,19 @@ in students through competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Schools Tchoukball League
+<p>Singapore Schools Tchoukball League /</p>
+<p>JSCC-WWSS Tchoukball Tournament 2023 'B Division'
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April/May</p>
+<p>May/June</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To promote sporting excellence, character development and sportsmanship
-in students through competition.
-<br>To foster communication skills by giving students opportunities to interact
+in students through competition.</p>
+<p>&nbsp;</p>
+<p>To foster communication skills by giving students opportunities to interact
 with players from different schools.</p>
 </td>
 </tr>
@@ -209,7 +231,7 @@ and to prepare for major competitions.
 <p>Inter-School CABIN Tchoukball Tournament</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April</p>
+<p>Oct/Nov</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Members of the Tchoukball team will be involved in a VIA project to help
@@ -218,6 +240,36 @@ to develop their leadership and organization abilities through the planning
 and execution of the project. We also hope to develop their communication
 skills by guiding them to communicate the Tchoukball rules, skills and
 strategies to the participants from the other schools.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Camp/ Sports Education Programme (SEP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oct/Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The SEP aim to advocate the importance of sports education, encourage
+sports participation in schools and allow our students to gain exposure
+to alternative forms of physical activities and sports. This is in line
+with the school’s objectives of increasing sporting opportunities for our
+students and encouraging them to pursue an active and healthy lifestyle.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kuala Lumpur Trip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overseas performances and competitions allow the student groups/teams
+to showcase their talent and pit their skills against foreign teams. Sports
+teams will also get the opportunity to undergo training and improve their
+skills in a foreign environment as well as experiencing different training
+methods and environment.</p>
 </td>
 </tr>
 </tbody>
