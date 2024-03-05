@@ -146,61 +146,14 @@ and accountability through Basketball.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>West Zone 'B' Division Championship</p>
+<p>West Zone Inter-Schools Badminton Championship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>January/February</p>
+<p>February</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Basketballers who have shown superior competency and good attitude during
-training will be selected to represent the school in this main tournament
-of the year for 'B' boys.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>West Zone 'C' Division Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April/May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Basketballers who have shown superior competency and good attitude during
-training will be selected to represent the school in this main tournament
-of the year for the 'C' boys.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T-Net Club Basketball Tournament</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>May-June (C Div) October - November (B Division)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This invitational tournament helps to encourage youths from diverse backgrounds
-to compete in the yearly 5v5 basketball tournament, with the support and
-involvement of local communities, schools and basketball clubs. Basketball
-enthusiasts gather together to showcase their skills, have fun with each
-other, provide encouragement to the players, induce sportsmanship and respect
-among players.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Basketball Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>October/November</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This camp will be organised and conducted by the Secondary 3 Leaders to
-promote team bonding amongst the players from different levels. Basketballers
-will learn to work together and overcome different challenges. An Alumni
-match will also be organised to promote loyalty and further strengthen
-the ties between the alumni, existing team, as well as the teachers. This
-will also be a platform for the Secondary 3 Leaders to hone their leadership
-skills.</p>
+<p>Badminton members who have shown superior competency will be selected
+to represent the school to participate in competition.</p>
 </td>
 </tr>
 <tr>
@@ -208,11 +161,36 @@ skills.</p>
 <p>Friendly Matches</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pre-Season before the start of their B &amp; C Division</p>
+<p>March / November</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friendly matches will be arranged for Basketballers to gain match experience
-and prepare for major tournaments.</p>
+<p>To exchange good practices with other schools in Singapore, to practice
+skills and to create friendship with other badminton teams in Singapore.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This camp aims to develop the leadership skills of our Upper Secondary
+members in planning and executing the activities for a camp and it helps
+to improve team bonding as well.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Values In Action</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This project helps to inculcate our school values through hands on activities
+and service learning.</p>
 </td>
 </tr>
 </tbody>
