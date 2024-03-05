@@ -8,12 +8,16 @@ variant: tiptap
 <h3>OBJECTIVES</h3>
 <ul>
 <li>
-<p>To develop knowledge and interest in the sport through mastery of skills,
-improving fitness and participation in various competitions.&nbsp;</p>
+<p>To promote enjoyment and appreciation of the physical and mental aspects
+of badminton while building up a sense of team spirit.</p>
 </li>
 <li>
-<p>To inculcate values like discipline, responsibility, self-confidence,
-and accountability through Basketball.</p>
+<p>To provide opportunities for club members to play badminton within a social
+environment.</p>
+</li>
+<li>
+<p>To improve their standard of play and to enable them to play competitively
+in matches organised by the various Badminton tournaments.</p>
 </li>
 </ul>
 <p><strong>TEACHERS IN-CHARGE</strong>
