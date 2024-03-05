@@ -84,6 +84,31 @@ Art Making and Art Appreciation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chingay Parade 2024 NE Art Installation</strong>
+</p>
+<p>Participants: All Sec 4 Visual Arts Club members</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Arts Reaching Communities – givingBAC</strong>
+</p>
+<p><em>One Moon, Two Worlds with Artist Veronyka Lau, Students from Boon Lay Seocondary School, Methodist Girls’ School, Westwood Secondary School and Seniors from MWS Wesley Active Ageing Centre – Jalan Berseh</em>
+</p>
+<p></p>
+<p><strong>Participants: </strong>Pang Yu Zhi 2B, Nithiya Sree D/O Siva Kumar
+3C, Nur Iffah Fazillah Binte Samzaman 3E, Franchezka Soh Siang Wee 3F,
+Aaliyah Binte Hermizan 3G, Ng Xin Jie 3G, <em>&nbsp;</em>Chua Hui Ming 3H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,113 +149,6 @@ Art Making and Art Appreciation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Introduction to Colors
-<br>Painting Practice with Watercolor Paint and Acrylic Paint
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Semester 1
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will be introduced to Colors in general, and the various art
-terms and categories that will enable them to create art works while keeping
-in mind the elements of art.
-<br>
-<br>Students will also be exposed to various kind of painting mediums.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ceramics Workshop</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Semester 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will understand the basics of using clay as a medium for artistic
-ceramic creations. This creates a fun-filled environment and engages students
-in the learning of ceramic making.
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Paper &amp; Fabric Marbling Workshop</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Semester 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will demonstrate mastery of materials, tools, and processes in
-marbling on paper and fabric. They will also develop the ability to analyze
-and critique artwork using the vocabulary of marbling art, engaging them
-in a unique art form.
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Painting Practice
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Semester 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will continue to apply what they have learned on painting from
-the previous term in their artworks.
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mural Painting Project</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Semester 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will develop knowledge of the processes and techniques of painting
-a mural and recognize historical and cultural influences in art
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Printmaking Workshop</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Semester 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will appreciate art as a vehicle for expression of ideas as well
-as gain skills and confidence to take on future community projects.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Art Excursions &amp; Learning Journeys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Semester 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Through learning journeys, students gain exposure to a local practising
-artist and experience being in an artist studio. Experience hands-on activity
-and complete an artwork under the guidance of an artist.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Creating art pieces for competitions and SYF</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,28 +161,97 @@ and submit quality artworks for national competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year End Closing/Rounding Up
-<br>Cleaning of Art Room and Art Storeroom
-<br>Stock Taking
-<br>
-<br>
-<br>
-<br>Reflection</p>
+<p>Art Excursions &amp; Learning Journeys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4
+<p>Semester 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Through learning journeys, students gain exposure to a local practising
+artist and experience being in an artist studio.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fun with Pen and Wash for Cityscape painting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semester 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Experience hands-on activity and complete an artwork under the guidance
+of an artist.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Beginners’ Oil Painting by Local Artist Tan Seng Kok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semester 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Develop basic techniques and skills in watercolour and oil painting such
+as colour mixing methods and brush technique unique to each medium.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art Camp – Art Excursion Hike it Amazing Race</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semester 2
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Discussion of students’ progress and experience with teachers
-<br>
-<br>Tidying up their work space for the next year
-<br>
-<br>Closure of the CCA for the year and planning for next year’s CCA Fair
-<br>
-<br>Personal Reflection</p>
+<p>Explore the rich cultural heritage and artistic landmarks along the Singapore
+River and foster teamwork and collaboration among Visual Arts Club members
+as they navigate through various challenges</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hand Building Techniques (Ceramics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semester 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Develop fundamental hand-building techniques in ceramics, including pinching,
+coiling and slab construction and explore creativity and self-expression
+through the tactile medium of clay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Printmaking and Paper making</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Semester 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will explore the fundamentals of printmaking techniques and develop
+an understanding of the papermaking processes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year End Closing/Rounding Up</p>
+<p></p>
+<p>Cleaning of Art Room and Art Storeroom</p>
+<p>Stock Taking</p>
+<p>&nbsp;</p>
+<p>Reflection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discussion of students’ progress and experience with teachers</p>
+<p>Tidying up their work space for the next</p>
+<p>Closure of the CCA for the year and planning for next year’s CCA Fair</p>
+<p>Personal Reflection</p>
 </td>
 </tr>
 </tbody>
