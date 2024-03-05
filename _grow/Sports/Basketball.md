@@ -9,11 +9,12 @@ variant: tiptap
 <ul>
 <li>
 <p>To develop knowledge and interest in the sport through mastery of skills,
-improving fitness and participation in various competitions.&nbsp;</p>
+improving fitness and participation in various competitions.</p>
 </li>
 <li>
 <p>To inculcate values like discipline, responsibility, self-confidence,
 and accountability through Basketball.</p>
+<p></p>
 </li>
 </ul>
 <p><strong>TEACHERS IN-CHARGE</strong>
@@ -107,9 +108,7 @@ and accountability through Basketball.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BM Cup U17 Basketball Tournament (Level 3) – 1st Runner Up
-<br>West Zone ‘C’ Division Championship – Top 6
-<br>
-</p>
+<br>West Zone ‘C’ Division Championship – Top 6</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +145,7 @@ and accountability through Basketball.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>West Zone 'B' Division Championship</p>
+<p>West Zone ‘B’ Division Championship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>January/February</p>
@@ -154,12 +153,12 @@ and accountability through Basketball.</p>
 <td rowspan="1" colspan="1">
 <p>Basketballers who have shown superior competency and good attitude during
 training will be selected to represent the school in this main tournament
-of the year for 'B' boys.</p>
+of the year for ‘B’ boys.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>West Zone 'C' Division Championship</p>
+<p>West Zone ‘C’ Division Championship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>April/May</p>
@@ -167,7 +166,7 @@ of the year for 'B' boys.</p>
 <td rowspan="1" colspan="1">
 <p>Basketballers who have shown superior competency and good attitude during
 training will be selected to represent the school in this main tournament
-of the year for the 'C' boys.</p>
+of the year for ‘C’ boys.</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +174,8 @@ of the year for the 'C' boys.</p>
 <p>T-Net Club Basketball Tournament</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>May-June (C Div) October - November (B Division)</p>
+<p>May-June (C Div)</p>
+<p>October-November (B Division)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This invitational tournament helps to encourage youths from diverse backgrounds
@@ -208,7 +208,7 @@ skills.</p>
 <p>Friendly Matches</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pre-Season before the start of their B &amp; C Division</p>
+<p>Pre-season before the start of their B &amp; C division</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friendly matches will be arranged for Basketballers to gain match experience
