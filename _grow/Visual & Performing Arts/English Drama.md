@@ -240,9 +240,8 @@ through various experiences.</p>
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSiviFgTIiAHi21Cev4NtGwgE6P8Dz8WocvaXzv0k29U-WLcY2zMWltCx-k6QnAtzny6ytr1Y0Uva_L/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREaWTvuRenUex7RRwMztUKwOxeqXBuDucNNJqTHDsOnge9z5BYry-fTpLaWizNFEFzN7mKt5JMzTfy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
 </li>
 </ul>
 <p></p>
