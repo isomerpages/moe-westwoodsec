@@ -3,6 +3,7 @@ title: Science
 permalink: /academic-matters/departments/science/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 ### VISION/GOALS
 
@@ -52,10 +53,10 @@ The abilities, skills and attitude that we aim to develop are as follows.&nbsp;
 </thead>
 <tbody>
   <tr>
-    <td class="tg-qrq8"><span style="color:#565656">Nebula (Secondary 1 & 2)</span><br></td>
-    <td class="tg-mwz3"><span style="color:#565656"> Terms 1 & 2</span></td>
+    <td class="tg-qrq8"><span style="color:#565656">Nebula (Secondary 1 &amp; 2)</span><br></td>
+    <td class="tg-mwz3"><span style="color:#565656"> Terms 1 &amp; 2</span></td>
     <td class="tg-mwz3"><span style="color:#565656">Just like how the formation of a star involves the culmination of interstellar matter over time, our programme hopes to bring together the ‘sparks’ of Science education (inspire, inquire, and innovate) to instill in students a joy of learning and become ‘shining stars’ that contribute back to their community. 
-			Our programmes are aligned to the Lower Secondary Science contexts and themes (_i.e., sustainability in clean energy and water conservation_), as well as learning outcomes taught. It is also aligned to the visions of Science education, and aims to develop 21st century competencies in our students as well.
+			Our programmes are aligned to the Lower Secondary Science contexts and themes (_i.e., sustainability in clean energy and water conservation_), as well as learning outcomes taught. It is also aligned to the visions of Science education, and aims to develop 21st&nbsp;century competencies in our students as well.
 </span></td>
   </tr>
   <tr>
@@ -75,7 +76,7 @@ The abilities, skills and attitude that we aim to develop are as follows.&nbsp;
   </tr>
   <tr>
     <td class="tg-7bcw"><span style="color:#565656">Competitions</span><br></td>
-    <td class="tg-njgx"><span style="color:#565656">Terms 1 & 3</span><br></td>
+    <td class="tg-njgx"><span style="color:#565656">Terms 1 &amp; 3</span><br></td>
     <td class="tg-mwz3"><span style="color:#565656">Our students are given opportunities to participate in various Science competitions that allow them to test their knowledge and skills. Such competitions include the C.B. Paul Science Quiz, the International Biomedical Quiz, and the Singapore Junior Chemistry/Biology/Physics Olympiads</span><br> </td>
   </tr>
 </tbody>
@@ -104,7 +105,7 @@ The abilities, skills and attitude that we aim to develop are as follows.&nbsp;
 <tbody>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:#FFF">2022</span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">C. B. Paul Science Quiz – Merit, Bronze & Silver Award<br>Singapore Junior Chemistry Olympiad – Merit & Bronze Award<br>International Biomedical Quiz<br>Singapore Junior Physics Olympiad – Bronze & Silver Award</span></td>
+    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">C. B. Paul Science Quiz – Merit, Bronze &amp; Silver Award<br>Singapore Junior Chemistry Olympiad – Merit &amp; Bronze Award<br>International Biomedical Quiz<br>Singapore Junior Physics Olympiad – Bronze &amp; Silver Award</span></td>
   </tr>
 
   <tr>
@@ -112,7 +113,7 @@ The abilities, skills and attitude that we aim to develop are as follows.&nbsp;
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRIsQcJqXhj6kcWie-obwcfIHbJolnUJE6NKZDzOpvZ5REYTDXN3L7YhZjAEkztpQI3Bpk6-3vLZVp1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgQ9LScg5GfOgFq4d6VCm2mxYNAvxRFFPAR7EmNVPSK3ok4NudO7nVmSLcoju89p8IlZT60CFIZeJa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Useful Links
 <style type="text/css">
@@ -146,7 +147,7 @@ The abilities, skills and attitude that we aim to develop are as follows.&nbsp;
     <td class="tg-mwz3"><span style="color:#565656">Interactive Math and Science simulations that engages through an intuitive, game-like environment where students learn through exploration and discovery</span></td>
   </tr>
   <tr>
-    <td class="tg-av5t"><a href="http://www.visionlearning.com/library/module_viewer.php?mid=55&mcid=&l= "><span style="text-decoration:none;color:#3AA66F">Vision Learning- Chemical Bonding </span></a></td>
+    <td class="tg-av5t"><a href="http://www.visionlearning.com/library/module_viewer.php?mid=55&amp;mcid=&amp;l="><span style="text-decoration:none;color:#3AA66F">Vision Learning- Chemical Bonding </span></a></td>
     <td class="tg-mwz3"><span style="color:#565656">Online tutorial for different Sciences. Interactive practice exercises and links are available. </span></td>
   </tr>
 </tbody>
