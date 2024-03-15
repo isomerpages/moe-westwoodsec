@@ -3,6 +3,7 @@ title: Humanities
 permalink: /academic-matters/departments/humanities/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 ### VISION/GOALS
 
@@ -135,8 +136,7 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
 </tbody>
 </table>
 
-
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnYb6RPzssx12PugBck3AJK1LAPB5o8QY2g_O9FKIqPOUMSLqU92g4yCR8Gbps7a1Fm0vM-YC8pnLU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYUtievWYYQ9UjmgBXh6LxeRJDRs1AHYlQDgEau6Am00iyxqZssODwwHzzNuqCKR8EGa4uKslvuuQG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Useful Links
 

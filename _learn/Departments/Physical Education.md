@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /academic-matters/departments/physical-education/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 ### VISION/GOALS
 
@@ -59,12 +60,12 @@ For more information, please refer to the following links:<br>1. [ESS Syllabus I
     <td class="tg-mwz3"><span style="color:#565656">Level Camps</span><br><br></td>
     <td class="tg-mwz3"><span style="color:#565656">9 to 11 March</span><br><span style="color:#565656"></span></td>
     <td class="tg-mwz3"><span style="color:#565656">The Level Camps focus on the students’ holistic development integrating outdoor education.  Students learn to appreciate the outdoors, develop their self-reliance via experiential learning, and build meaningful relationships with their peers and teachers.</span><br></td>
-		<tr>
+		</tr><tr>
     <td class="tg-mwz3"><span style="color:#565656">MOE-OBS Challenge Programme</span><br><br></td>
     <td class="tg-mwz3"><span style="color:#565656">6 to 10 February</span><br><span style="color:#565656"></span></td>
     <td class="tg-mwz3"><span style="color:#565656">The MOE-OBS Challenge (MOC) programme offers a unique opportunity for the Secondary Three Students. During the OBS course, students undergo a shared Outdoor Adventure Learning (OAL) experience and are provided opportunities to learn to work together in new, challenging, and authentic situations with their peers to overcome various challenges.</span><br></td>
   </tr>
-  </tr>
+  
  
   <tr>
     <td class="tg-mwz3"><span style="color:#565656">Inter/Intra-Class Games</span></td>
@@ -84,7 +85,7 @@ For more information, please refer to the following links:<br>1. [ESS Syllabus I
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTU4wJ2RAJnPPVXvVwSrCd0U7PHyrvpv8aZnIfo13VMmmD7gpE46w5oCVpGLMzEOwxgcpg3OE3BfNxY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRbRGgZLDw_yUEmZy30BrxoofbFqEZ4n4Q5PlBnEVLXqog1mUwqZ2jU0TpbnD6y5WPxcVFPIhlyMsXu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Useful Links
 
