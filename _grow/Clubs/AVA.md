@@ -192,13 +192,11 @@ directing and video editing.
 </tbody>
 </table>
 </li>
-<li>
+</ul>
 <p><strong>GALLERY</strong>
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvdT3Jhr3jwb75Eg-HswNV4qKa8LqZe8iJfi7HzwNz2yKIQfNcBD9dk8dpR6YxemeSpLiRh1Lpr9EE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvdT3Jhr3jwb75Eg-HswNV4qKa8LqZe8iJfi7HzwNz2yKIQfNcBD9dk8dpR6YxemeSpLiRh1Lpr9EE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-</li>
-</ul>
 <p></p>
