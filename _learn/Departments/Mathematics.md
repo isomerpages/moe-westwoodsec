@@ -52,7 +52,7 @@ To be exemplary leaders in the teaching and learning of Mathematics so as to add
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTS24VbwcABKGBJUqRt5O2XfFcvGOtOzoDV4NeC5QrWITAGsCYXPKPyYyXkcCIeDyV8wMrwQI3fRyH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="535" width="900" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTS24VbwcABKGBJUqRt5O2XfFcvGOtOzoDV4NeC5QrWITAGsCYXPKPyYyXkcCIeDyV8wMrwQI3fRyH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Useful Links
 
