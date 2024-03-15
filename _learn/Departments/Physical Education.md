@@ -85,7 +85,7 @@ For more information, please refer to the following links:<br>1. [ESS Syllabus I
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRbRGgZLDw_yUEmZy30BrxoofbFqEZ4n4Q5PlBnEVLXqog1mUwqZ2jU0TpbnD6y5WPxcVFPIhlyMsXu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="535" width="900" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRbRGgZLDw_yUEmZy30BrxoofbFqEZ4n4Q5PlBnEVLXqog1mUwqZ2jU0TpbnD6y5WPxcVFPIhlyMsXu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Useful Links
 
