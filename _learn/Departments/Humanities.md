@@ -136,7 +136,7 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYUtievWYYQ9UjmgBXh6LxeRJDRs1AHYlQDgEau6Am00iyxqZssODwwHzzNuqCKR8EGa4uKslvuuQG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYUtievWYYQ9UjmgBXh6LxeRJDRs1AHYlQDgEau6Am00iyxqZssODwwHzzNuqCKR8EGa4uKslvuuQG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Useful Links
 
