@@ -186,9 +186,8 @@ to improve team bonding as well.</p>
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRYYfOJlRIQ1OePy6UC7p9MGQC2StjZbhXWPpQv0ew7QKMGgb_ttBL8jbRSx1R8_WwHQoYAmgxfDY-Q/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGhbfi-kHGL2s4w05_5MJDZI71HxA4T_B8zE2hXiCPMZapU-tgzq7agj58nI6Ma7q1wF9aGxQ3zBSo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
 </li>
 </ul>
 <p></p>
