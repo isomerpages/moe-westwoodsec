@@ -231,11 +231,11 @@ prize (Individual)</p>
 </table>
 <h3>Mother Tongue - Chinese Langugage</h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmhHzkvw5Yvw5EViEv1z8-UEpJhl7tQAqxaKNXlE_Lq0DkzFSZnSph0Jbj3XlHVwkqe1NM8F1jvySp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmhHzkvw5Yvw5EViEv1z8-UEpJhl7tQAqxaKNXlE_Lq0DkzFSZnSph0Jbj3XlHVwkqe1NM8F1jvySp/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Mother Tongue - Malay Language</h3>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_vCUs5Q6Ko7oK187VXv5lYeJOxT8snH6O0S7zNxRs2s-UfgLsCl-3fIf_yxRsrcgrXkLt2fkd5cl3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_vCUs5Q6Ko7oK187VXv5lYeJOxT8snH6O0S7zNxRs2s-UfgLsCl-3fIf_yxRsrcgrXkLt2fkd5cl3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Useful Links</h3>
 <table>
