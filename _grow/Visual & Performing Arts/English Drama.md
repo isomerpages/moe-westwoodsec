@@ -236,12 +236,11 @@ through various experiences.</p>
 </tbody>
 </table>
 </li>
-<li>
+</ul>
+<p></p>
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREaWTvuRenUex7RRwMztUKwOxeqXBuDucNNJqTHDsOnge9z5BYry-fTpLaWizNFEFzN7mKt5JMzTfy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREaWTvuRenUex7RRwMztUKwOxeqXBuDucNNJqTHDsOnge9z5BYry-fTpLaWizNFEFzN7mKt5JMzTfy/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-</li>
-</ul>
 <p></p>
