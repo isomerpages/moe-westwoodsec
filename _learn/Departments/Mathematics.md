@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /academic-matters/departments/mathematics/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 ### VISION/GOALS
 
@@ -51,7 +52,7 @@ To be exemplary leaders in the teaching and learning of Mathematics so as to add
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTHwGM3UTwaPZ_4Jv7jycNCEG2IqTXEdsEyAAZv6-SW94YV6Jm_7xcjOCO-pLL_bj5m2V84HZ2ngJRl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTS24VbwcABKGBJUqRt5O2XfFcvGOtOzoDV4NeC5QrWITAGsCYXPKPyYyXkcCIeDyV8wMrwQI3fRyH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Useful Links
 
