@@ -113,7 +113,7 @@ The abilities, skills and attitude that we aim to develop are as follows.&nbsp;
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgQ9LScg5GfOgFq4d6VCm2mxYNAvxRFFPAR7EmNVPSK3ok4NudO7nVmSLcoju89p8IlZT60CFIZeJa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgQ9LScg5GfOgFq4d6VCm2mxYNAvxRFFPAR7EmNVPSK3ok4NudO7nVmSLcoju89p8IlZT60CFIZeJa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 ### Useful Links
 <style type="text/css">
