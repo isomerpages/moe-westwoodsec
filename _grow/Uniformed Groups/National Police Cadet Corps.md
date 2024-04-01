@@ -76,6 +76,14 @@ Singapore safe.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award (Accomplishment)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -165,7 +173,7 @@ make an informed decision on whether to join NPCC</p>
 <p>Community Service Project (CSSP) (Secondary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide cadets with an opportunity to be active citizens by coming
@@ -178,7 +186,7 @@ school</p>
 <p>Police Youth Ambassadors (PYA) (Secondary 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide cadets with an opportunity to be active citizens by coming
@@ -191,7 +199,7 @@ community</p>
 <p>Singapore Anti-Narcotics Association Course (Secondary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To increase awareness of the threats of drug abuse, to encourage cadets
@@ -204,7 +212,7 @@ others against becoming victims to drug abuse.</p>
 <p>Leadership and Mentoring Skills Course (LMSC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>30 – 31 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To develop the leadership skills of the cadets, focusing on the following
@@ -234,10 +242,10 @@ others against becoming victims to drug abuse.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Police Knowledge (Secondary 1)</p>
+<p>Police Knowledge and Procedures (Secondary 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>6 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To equip cadets with relevant knowledge on crime cases which most teenagers
@@ -250,21 +258,10 @@ law
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Visit to Neighbourhood Police Centre (Secondary 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>15 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide cadets insight to the activities that go on inside a neighbourhood
@@ -297,7 +294,7 @@ in public places and transport.
 <p>Visit to Police Heritage Centre (Secondary 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To show cadets the history of the police and the key events in history
@@ -342,10 +339,10 @@ game – Guardians of the City.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Swearing In Ceremony &amp; Police Procedures (Secondary 1)</p>
+<p>Swearing In Ceremony &amp; Area Games Day (Secondary 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>6 July 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The ceremony welcomes our new members joining the NPCC family and instils
@@ -390,7 +387,7 @@ in the form of friendly competition</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>16 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To help cadets appreciate the role of the Singapore Police Force as part
@@ -444,10 +441,10 @@ interacting with potentially aggressive people</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adventure/Survival Training Camp (Secondary 2 and Secondary 3)</p>
+<p>Adventure/Survival Training Camp (Secondary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>18-19 June 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To instill discipline and confidence in the cadets as they overcomes numerous
@@ -471,7 +468,7 @@ evidence from a scene to solve a crime</p>
 <p>Civil Defence (Secondary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To equip cadets with relevant skills on first aid and firefighting which
