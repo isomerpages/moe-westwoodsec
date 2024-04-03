@@ -103,6 +103,14 @@ in the form of competitions and school and public events</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment for Singapore Youth Festival</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -170,56 +178,53 @@ in the form of competitions and school and public events</p>
 <td rowspan="1" colspan="1">
 <p>All year round</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="6" colspan="1">
 <p>To build confident communicators and assist the school in hosting events.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Watch local theatre Production
-<br>
-<br>Preparation for Westwood Arts Festival
-<br>
-<br>Preparation for Teachers' Day Performance
-<br>
-<br>Preparation for SYF Arts Presentation: English Drama
-<br>
-<br>Preparation for School CCA Fair Drama Production
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>March to November
-<br>
-<br>
-<br>March to May
-<br>
-<br>
-<br>July to August
-<br>
-<br>August to April
-<br>
-<br>
-<br>
-<br>December
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>To build character through drama and expose students to different genres
 of drama and touches on key issues and challenges in today's world.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Learning Journeys to watch various plays and Values In Action (VIA)</p>
+<p>Watch local theatre Production</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March to November</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>To be culturally aware of the vibrant arts scene in and around Singapore
-through various experiences.</p>
+<p>Preparation for International Science Drama Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February to March</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Preparation for SYF competition, English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April to November</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Preparation for Teachers' Day Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>June to August</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Preparation for School Open House/ CCA Fair
+<br>
+</p>
+<p>Drama Production</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>December</p>
 </td>
 </tr>
 <tr>
