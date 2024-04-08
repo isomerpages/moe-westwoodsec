@@ -220,7 +220,7 @@ Log in to iCON)</p>
 </p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/rpk4gv" rel="noopener noreferrer nofollow" target="_blank">(View GPA Factsheet)</a>
+<p><a href="https://go.gov.sg/xj0w35" rel="noopener noreferrer nofollow" target="_blank">(View GPA Factsheet)</a>
 </p>
 </li>
 <li>
