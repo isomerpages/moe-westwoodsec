@@ -16,7 +16,7 @@ The school uniform can be purchased from the school bookshop during term time.
 ### **SCHOOL BOOKSHOP**  
 
 Name of supplier: Pacific Bookstores Pte Ltd <br>
-Tel Number: 6794 5296 <br>
+Tel Number: 9091 8381 <br>
 Email:&nbsp;[sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <br>
 Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
 Opening hours: 730 am to 230 pm (during school term)
