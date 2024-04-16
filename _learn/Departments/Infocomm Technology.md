@@ -68,13 +68,13 @@ Planning and Development Division.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AGM Competition 2023 (Animation category)</p>
-<p>Bronze award</p>
-<p>Sri Rama Barathi Periasamy (Class 2A)</p>
+<p>AGM Competition 2023 (Animation category)
+<br>Bronze award
+<br>Sri Rama Barathi Periasamy (Class 2A)</p>
 <p></p>
-<p>AGM Competition 2023 (Game category)</p>
-<p>Bronze Award</p>
-<p>Mohammad Zaihairy Qushairy Bin Mohammad Zaidy (Class 3A)</p>
+<p>AGM Competition 2023 (Game category)
+<br>Bronze Award
+<br>Mohammad Zaihairy Qushairy Bin Mohammad Zaidy (Class 3A)</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,8 @@ Planning and Development Division.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MEC Competition 2017 (Game category)
-<br>Bronze awardMuhammad Khairul Akmal B M (Class 3A)</p>
+<br>Bronze award
+<br>Muhammad Khairul Akmal B M (Class 3A)</p>
 </td>
 </tr>
 <tr>
@@ -202,12 +203,22 @@ Internet and software.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.openoffice.org/" rel="noopener noreferrer nofollow" target="_blank">Open Office</a>
+<p><a href="https://www.office.com/" rel="noopener noreferrer nofollow" target="_blank">Microsoft 365</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open-source office software suite for word processing, spreadsheets, presentations,
-graphics, databases.</p>
+<p>Collaborate for free with online versions of Microsoft Word, PowerPoint,
+Excel, and OneNote.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.openshot.org/" rel="noopener noreferrer nofollow" target="_blank">OpenShot</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OpenShot is an open-source video editor, that can create stunning videos,
+films, and animations with an easy-to-use interface and rich set of features.</p>
 </td>
 </tr>
 <tr>
@@ -227,7 +238,7 @@ creations on the web.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>An open source vector graphics editor with capabilities similar to Illustrator
+<p>An open source vector gkraphics editor with capabilities similar to Illustrator
 and CorelDraw.</p>
 </td>
 </tr>
