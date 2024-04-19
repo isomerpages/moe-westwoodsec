@@ -3,6 +3,7 @@ title: Student Leadership Programme
 permalink: /explore/direct-school-admission/student-leadership-programme/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -38,7 +39,7 @@ Form a network of support with student leaders across different leadership segme
 <tr>
     <td class="tg-zqva">Desired Outcomes</td>
     <td class="tg-cmm0">
-Through 3-4 years of active participation in the opportunities and experiences provided by the school, Westwood’s DSA students will become <b>active citizens</b> who are <b>passionate</b> about making a <b>difference to society</b>and/or <b>bringing Arts to the community</b>, and who have the <b>skills and aptitude</b> to create that impact.</td></tr>
+Through 3-4 years of active participation in the opportunities and experiences provided by the school, Westwood’s DSA students will become active citizens who are passionate about making a difference to society and who have the skills and aptitude to create that impact.</td></tr>
 	 <tr><td class="tg-zqva">Selection Criteria</td>
     <td class="tg-cmm0">Applicants should show evidence in having:<br><br>
 Keen interest in leadership and advocacy, coupled with exemplary passion, determination and potential in serving the school community<br><br>
@@ -48,19 +49,3 @@ Core values of integrity, compassion, resilience, innovation and continual learn
 Confident communicators who are able to positively influence their peers<br><br>
 </td></tr></tbody>
 </table>
-
-##### Application Procedure
-
-Applicants who apply for DSA in Westwood’s Student Leadership will submit a portfolio by email to the Teacher-in-charge, Ms Nadia Eddy Razali 
-(nadia_eddy_razali@moe.edu.sg). The portfolio must be submitted no later than <b>30 July 2023.</b>
-
-The portfolio should include a write-up and introduction of the candidate's leadership involvement and abilities. 
-Additionally, candidates should provide a reflection (no more than 150 words) of their leadership journey thus far. 
-
-Shortlisted students, based on portfolio submitted, will be invited for an in-person interview held in August 2023. The interview panel will ask questions on the following (non-exhaustive):
-
-* Knowledge of leadership philosphies and advocacy
-* Elaborate and reflection on leadership experiences in primary school
-* Balancing of various commitments
-* Experiences that demonstrate the core values of integrity, empathy, resilience, continual learning and strong sense of responsibility
-* Personal vision as a student leader
