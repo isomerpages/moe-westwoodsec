@@ -3,6 +3,7 @@ title: Learning For Life Programme
 permalink: /explore/direct-school-admission/learning-for-life-programme/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -55,80 +56,3 @@ Prior experience in leading, competing or performing at local or international c
 In addition, good character report (eg. conduct and remarks in school report book)<br>
 </td></tr></tbody>
 </table>
-
-##### APPLICATION PROCEDURE
-
-##### Learning for Life Programme (Arts for Life!)
-Applicants who apply for DSA in Westwood’s <b>Learning for Life Programme (Arts for Life!)</b> will have to go through an audition in the specific art form via an in-person audition held in Westwood Secondary School.
-
-Applicants will need to be <b>present for the audition.</b> The school will only consider re-scheduling the in-person audition for applicants who are unwell (e.g. tested COVID-19 positive)
-
-##### Concert Band
-
-Audition on <b>11 August 2023 at 3pm</b>
-
-Email the Teacher-in-charge, Mdm Tang Tai-Chi (tang_tai-chi@moe.edu.sg) at least <b>three days in advance</b> of the audition with the following information:
-
-* The candidate's instrument of choice
-
-* The music piece the candidate will perform during the audition 
-
-* A copy of the music score for the prepared piece
-
-During the audition, candidates may be asked to play a portion of their prepared piece.
-
-Sight-reading exercises will be administered.
-
-Candidates are to bring their own instrument for the audition.
- 
-##### Dance – International 
-Audition on <b>2 August 2023 at 3pm</b>
-
-Candidates to put up a 1-minute dance item with music, preferably from the competition or performance they had performed previously.
-
-Candidates would be required to learn a simple routine from the audition Panel and thereafter perform on the spot.
-
-Candidates would be required to improvise a freestyle dance performance for 30 seconds.
-
-##### Show Choir
-
-Audition on <b>2 August 2023 at 3pm</b>
-
-Candidates would be expected to sing a song of their choice during the audition, preferably one that they have previously performed in a competition or public performance. They are strongly encouraged to sing with the backing track of the song (commonly known as “minus one”) on audition day.
-
-Candidates might be asked to sing only part of the song during the audition.
-
-Basic aural and vocal range tests will be administered.
-
-Candidates would be expected to learn a simple excerpt from the audition Panel and thereafter perform on the spot.
-
-##### Guitar Ensemble
-Audition on <b>4 August 2023 at 3pm</b>
-
-Candidates to play one music piece of their choice for the audition, preferably from the competition or performance they had performed previously.
-
-Candidates might be asked to play only part of the prepared piece during the audition.
-
-Sight-reading exercises will be administered.
-
-Candidates are to prepare their own guitar for the audition.
-
-##### English Drama
-Audition on <b>11 August 2023 at 3pm</b>
-
-Candidates to deliver a monologue that showcases their own script, which should last between 3 to 5 minutes.
-
-Candidates would be required to improvise a scene using provided item.
-
-Candidates would be expected to have a dialogue scene with a Drama Student.
-
-##### Visual Arts
-Audition on <b>2 August 2023 at 3pm</b>
-
-Before the audition, candidates are required to submit a portfolio by email to the Teacher-in-charge, Mdm Tang Tai-Chi (tang_tai-chi@moe.edu.sg). The portfolio must be submitted no later than <b>30 July 2023.</b>
-
-The portfolio should include a write-up and introduction of the candidate's art abilities. Additionally, candidates should describe their submitted artworks and explain if the works are their achievements or enhancements from other sources.
-
-Shortlisted portfolios would be granted an audition which would be held in <b>August 2023.</b>
-
-Candidates would be expected to draw a still-life object given by the Panel during the audition.
