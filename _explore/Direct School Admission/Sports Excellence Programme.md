@@ -3,6 +3,7 @@ title: Sports Excellence Programme
 permalink: /explore/direct-school-admission/sports-excellence-programme/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -54,20 +55,3 @@ Participation and Achievements in the sport at Zonal or National level competiti
 </tr></tbody>
 </table>
 
-##### DSA Application Instructions
-Applicants are required to attend an interview and selection trial.
-Applicants will be asked to demonstrate skills pertaining to the sport that they are interested to apply for.
-The dates for the selection trial of the respective sports are shown below:
--	Badminton: 2 August at 3 pm
-
--	Basketball: 4 August at 3 pm
-
--	Bowling: 2 August at 3 pm
-
--	Football: 4 August at 3 pm
-
--	Netball: 11 August at 3 pm
-
--	Tchoukball: 4 Aug at 3 pm
-
-Applicants will need to be <b>present for the selection trial.</b> The school will only consider re-scheduling the in-person selection trial for applicants who are unwell. (e.g. tested COVID-19 positive)
