@@ -26,25 +26,27 @@ variant: markdown
 <tbody>
 	<tr>
     <td class="tg-zqva">About</td>
-    <td class="tg-cmm0">A school-wide programme in Westwood, ISE involves explicit teaching of skills and knowledge with close connection to real life experiences. It advocates the importance of putting application into practice, highlighting the relevance of what is taught in the classroom in the ‘real world’, giving students a sense of purpose and reality in what they are learning, touching their HEARTs and HEADs and active participation through their HANDs.  The ultimate aim is to develop and inspire Westwoodians to be future-ready learners who possess strong ENTREPRENEURIAL DARE and an INNOVATIVE MINDSET through the application of Science, Technology, Engineering and Mathematics (STEM).<br><br>
+    <td class="tg-cmm0">A school-wide programme in Westwood, ISE involves explicit teaching of skills and knowledge with close connection to real life experiences.&nbsp; It advocates the importance of putting application into practice, highlighting the relevance of what is taught in the classroom in the ‘real world’, giving students a sense of purpose and reality in what they are learning, touching their HEARTs and HEADs and active participation through their HANDs.&nbsp; The ultimate aim is to develop and inspire Westwoodians to be future-ready learners who possess strong ENTREPRENEURIAL DARE and an INNOVATIVE MINDSET through the application of Science, Technology, Engineering and Mathematics (STEM).<br><br>
 <img width="80%" src="/images/dsa%20alp3.png"></td></tr>
 		<tr>
     <td class="tg-zqva">Development</td>
 <td class="tg-cmm0">
-Advanced training and development in innovation and (social) entrepreneurship through the application of STEM.<br><br>
-Represent the school in national / international ISE/entrepreneurship-related competitions including those with an emphasis on application of STEM.<br><br>
-Participate in mentoring programmes by industry practitioners and/or young entrepreneurs<br><br>
-Exposure to programmes offered by Institute of Higher Learning in related fields<br>
+* Advanced training and development in innovation and (social) entrepreneurship through the application of STEM.
+
+* Represent the school in national / international ISE/entrepreneurship-related competitions including those with an emphasis on application of STEM.&nbsp;&nbsp;
+ 
+* Participate in mentoring programmes by industry practitioners and/or young entrepreneurs.
+	
+* Exposure to programmes offered by Institute of Higher Learning in related fields.
 </td></tr>
 	<tr>
-    <td class="tg-zqva">Desired Outcome</td><td class="tg-cmm0">Through 3-4 years of active participation in the opportunities and experiences provided by the school, Westwood’s DSA students will become <b>active citizens</b> who are <b>passionate</b> about making a <b>difference to society</b> and/or <b>bringing Arts to the community</b>, and who have the skills and aptitude to create that impact.</td></tr>
+    <td class="tg-zqva">Desired Outcome</td><td class="tg-cmm0">Through 3-4 years of active participation in the opportunities and experiences provided by the school, Westwood’s DSA students will become *active citizens* who are passionate about making a *difference to society* and/or bringing Arts to the community, and who have the *skills and aptitude* to create that impact.</td></tr>
 	<tr>
-    <td class="tg-zqva">Selection Criteria</td><td class="tg-cmm0">
-Willingness to try and experiment with new ideas and/or new ways of doing things<br><br>
-Strong ability to work in teams<br><br>
-Good communication and presentation skills<br><br>
-Interest in the application of STEM. Background in coding will be an advantage<br><br>
-Good character report (eg. conduct and remarks in school report book)
+ <td class="tg-zqva">Selection Criteria</td><td class="tg-cmm0">
+* Willingness to try and experiment with new ideas and/or new ways of doing things 
+* Strong ability to work in teams
+* Good communication and presentation skills&nbsp;
+* Interest in the application of STEM. &nbsp; Background in coding will be an advantage
+* Good character report (eg. conduct and remarks in school report book)
 </td></tr>
 </tbody></table>
-
