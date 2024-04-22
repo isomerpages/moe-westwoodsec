@@ -132,7 +132,7 @@ Every Westwoodian to be exposed to Aesthetics programmes from various art forms 
     <td class="tg-v4io"><span style="color:#565656">A local classical orchestra</span></td>
   </tr>
   <tr>
-    <td class="tg-mfrk"><a href="https://www.sco.org.sg/"><span style="text-decoration:none;color:#3AA66F">Singapore Chinese Orchestra</span></a></td>
+    <td class="tg-mfrk"><a href="https://www.sco.com.sg/en/"><span style="text-decoration:none;color:#3AA66F">Singapore Chinese Orchestra</span></a></td>
     <td class="tg-v4io"><span style="color:#565656">A local Chinese orchestra</span></td>
   </tr>
   <tr>
@@ -140,8 +140,8 @@ Every Westwoodian to be exposed to Aesthetics programmes from various art forms 
     <td class="tg-v4io"><span style="color:#565656">A local Malay orchestra</span></td>
   </tr>
   <tr>
-    <td class="tg-mfrk"><a href="http://en.wikipedia.org/wki/singapore_Indian_Orchestra_and%20_choir"><span style="text-decoration:none;color:#3AA66F">Singapore Indian Orchestra and Choir</span></a></td>
-    <td class="tg-v4io"><span style="color:#565656">Information on Wikipedia about the Singapore Indian orchestra </span><br></td>
+    <td class="tg-mfrk"><a href="https://www.sioc.com.sg/"><span style="text-decoration:none;color:#3AA66F">Singapore Indian Orchestra and Choir</span></a></td>
+    <td class="tg-v4io"><span style="color:#565656">A local Indian orchestra and choir</span><br></td>
   </tr>
   <tr>
     <td class="tg-mfrk"><a href="http://www.sistic.com.sg/"><span style="text-decoration:none;color:#3AA66F">SISTIC</span></a></td>
