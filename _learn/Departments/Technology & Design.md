@@ -331,16 +331,6 @@ of Participation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.edisonnation.com/" rel="noopener noreferrer nofollow" target="_blank">Edison Nation</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This website shows innovative products as well as a forum for discussion
-into possible design opportunities and creative ideas.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.sketchup.com/learn/videos/826" rel="noopener noreferrer nofollow" target="_blank">Sketchup Tutorials</a>
 </p>
 </td>
