@@ -46,7 +46,7 @@ variant: markdown
 * Willingness to try and experiment with new ideas and/or new ways of doing things 
 * Strong ability to work in teams
 * Good communication and presentation skills&nbsp;
-* Interest in the application of STEM. &nbsp; Background in coding will be an advantage
+* Interest in the application of STEM. Background in coding will be an advantage
 * Good character report (eg. conduct and remarks in school report book)
 </td></tr>
 </tbody></table>
