@@ -160,7 +160,7 @@ To shape values, attitudes and broaden pupils' horizons so as to become critical
 </thead>
 <tbody>
   <tr>
-    <td class="tg-av5t"><a href="http://infopedia.nl.sg/"><span style="text-decoration:none;color:#3AA66F">Singapore Infopedia</span></a></td>
+    <td class="tg-av5t"><a href="https://www.nlb.gov.sg/main/onesearch/result?type=infopedia&amp;nlonline=true"><span style="text-decoration:none;color:#3AA66F">Singapore Infopedia</span></a></td>
     <td class="tg-mwz3"><span style="color:#565656">An electronic encyclopedia on Singapore, by the National Library Board</span></td>
   </tr>
   <tr>
