@@ -96,11 +96,7 @@ Log in to iCON)</p>
 <li>
 <p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MOE Sports and Recreation Club</a>
 </p>
-</li>
-<li>
-<p>
-<br>
-</p>
+<p></p>
 <p></p>
 </li>
 </ul>
@@ -156,15 +152,7 @@ Log in to iCON)</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.nstream.sg/login/login.aspx" rel="noopener noreferrer nofollow" target="_blank">e-streaming portal</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.csa.gov.sg/gosafeonline/" rel="noopener noreferrer nofollow" target="_blank">Go Safe Online</a>
-</p>
-</li>
-<li>
-<p><a href="https://sis.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Junior Colleges</a>
 </p>
 </li>
 <li>
