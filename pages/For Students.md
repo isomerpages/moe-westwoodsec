@@ -2,120 +2,229 @@
 title: For Students
 permalink: /general-information/useful-links/for-students/
 description: ""
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0y1c{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zqva{background-color:#FFF;color:#666;text-align:left;vertical-align:top}
-.tg .tg-cmm0{background-color:#FFF;color:#666;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-zqva"><a href="https://learning.moe.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Student Learning Space</span></a></th>
-    <th class="tg-kgfz">https://learning.moe.edu.sg</th>
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-zqva"><a href="https://workspace.google.com/dashboard"><span style="text-decoration:none;color:#3AA66F">Student iCON</span></a><br></td>
-    <td class="tg-sxrn">https://workspace.google.com/dashboard</td>
-  </tr>
-	<tr>
-    <td class="tg-zqva"><a href="https://go.gov.sg/pdlpwwss"><span style="text-decoration:none;color:#3AA66F">Westwood Sec PDLP Resource Site</span></a><br></td>
-    <td class="tg-sxrn">https://go.gov.sg/pdlpwwss</td>
-  </tr>
-	<tr>
-    <td class="tg-7s4v"><a target="_blank" href="https://drive.google.com/file/d/1GSjC_XxSwQJra0EgTCyTdvJEHI32JfNy/view?usp=share_link"><span style="text-decoration:none;color:#3AA66F">Student Handbook 2023</span></a></td>
-    <td class="tg-kgfz">https://go.gov.sg/wwwssstudenthandbook2023</td>
-  </tr>
-		<tr>
-    <td class="tg-7s4v"><a href="https://go.gov.sg/pytjkj"><span style="text-decoration:none;color:#3AA66F">PLD Fault Reporting</span></a></td>
-    <td class="tg-kgfz">https://go.gov.sg/pytjkj</td>
-  </tr>
-		<tr>
-    <td class="tg-7s4v"><a href="http://go.gov.sg/sw9yzq"><span style="text-decoration:none;color:#3AA66F">Fault Reporting In School / Lockdown Reporting</span></a></td>
-    <td class="tg-kgfz">http://go.gov.sg/sw9yzq</td>
-  </tr>
-  <tr>
-    <td class="tg-7s4v"><a href="https://www.ace-learning.com/"><span style="text-decoration:none;color:#3AA66F">Ace-Learning Math e-learning portal</span></a></td>
-    <td class="tg-kgfz">http://www.ace-learning.com</td>
-  </tr>
-	<tr>
-    <td class="tg-7s4v"><a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><span style="text-decoration:none;color:#3AA66F">School eResource Repository</span></a></td>
-    <td class="tg-kgfz">https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME</td>
-  </tr>
-  <tr>
-    <td class="tg-udx9"><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html"><span style="text-decoration:none;color:#3AA66F">MySkillsFuture Student Portal</span></a><br></td>
-    <td class="tg-sxrn">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7s4v"><a href="https://www.nstream.sg/login/login.aspx"><span style="text-decoration:none;color:#3AA66F">e-streaming portal</span></a><br></td>
-    <td class="tg-kgfz">https://www.nstream.sg/login/login.aspx<br></td>
-  </tr>
-  <tr>
-    <td class="tg-udx9"><a href="https://www.csa.gov.sg/gosafeonline/"><span style="text-decoration:none;color:#3AA66F">Go Safe Online</span></a><br></td>
-    <td class="tg-sxrn">https://www.csa.gov.sg/gosafeonline/<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7s4v"><a href="https://sis.moe.gov.sg/"><span style="text-decoration:none;color:#3AA66F">Junior Colleges</span></a></td>
-    <td class="tg-kgfz">https://sis.moe.gov.sg/</td>
-  </tr>
-  <tr>
-    <td class="tg-udx9"><a href="http://www.sp.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Singapore Polytechnic (SP) </span></a></td>
-    <td class="tg-sxrn">http://www.sp.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-7s4v"><a href="http://www.np.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Ngee Ann Polytechnic (NP)</span></a></td>
-    <td class="tg-kgfz">http://www.np.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-udx9"><a href="http://www.tp.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Temasek Polytechnic (TP)</span></a></td>
-    <td class="tg-sxrn">http://www.tp.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-7s4v"><a href="http://www.nyp.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Nanyang Polytechnic (NYP)</span></a></td>
-    <td class="tg-kgfz">http://www.nyp.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-udx9"><a href="http://www.rp.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Republic Polytechnic (RP)</span></a></td>
-    <td class="tg-sxrn">http://www.rp.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-7s4v"><a href="http://www.ite.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Institute of Technical Education (ITE)</span></a></td>
-    <td class="tg-kgfz">http://www.ite.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-udx9"><a href="http://www.lasalle.edu.sg/"><span style="text-decoration:none;color:#3AA66F">LASALLE College of the Arts</span></a></td>
-    <td class="tg-sxrn">http://www.lasalle.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-7s4v"><a href="http://www.nafa.edu.sg/"><span style="text-decoration:none;color:#3AA66F">Nanyang Academy of Fine Arts (NAFA)</span></a></td>
-    <td class="tg-kgfz">http://www.nafa.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-udx9"><a href="https://www.moe.gov.sg/post-secondary/admissions/dsa/apply/"><span style="text-decoration:none;color:#3AA66F">Direct School Admission - Junior Colleges (DSA-JC)</span></a></td>
-    <td class="tg-sxrn">https://www.moe.gov.sg/post-secondary/admissions/dsa/apply/</td>
-  </tr>
-  <tr>
-    <td class="tg-7s4v"><a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp"><span style="text-decoration:none;color:#3AA66F">Polytechnic Early Admissions Exercise (EAE)</span></a></td>
-    <td class="tg-kgfz">https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp</td>
-  </tr>
-  <tr>
-    <td class="tg-udx9"><a href="https://pfp.polytechnic.edu.sg/PFP/index.html"><span style="text-decoration:none;color:#3AA66F">Polytechnic Foundation Programme (PFP)</span></a></td>
-    <td class="tg-sxrn">https://pfp.polytechnic.edu.sg/PFP/index.html</td>
-  </tr>
-  <tr>
-    <td class="tg-7s4v"><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp"><span style="text-decoration:none;color:#3AA66F">Direct Entry Scheme to Polytechnic Programme (DPP)</span></a></td>
-    <td class="tg-kgfz">https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp<br></td>
-  </tr>
-  <tr>
-    <td class="tg-udx9"><a href="https://studentgpa.incomegroupins.com.sg/"><span style="text-decoration:none;color:#3AA66F">Online student insurance claim portal</span></a><br><a href="https://go.gov.sg/rpk4gv"><span style="text-decoration:none;color:#3AA66F">(View GPA Factsheet)</span></a><br><a href="https://go.gov.sg/nrzysy"><span style="text-decoration:none;color:#3AA66F">(User Guide for Parents)</span></a></td>
-    <td class="tg-sxrn">https://studentgpa.incomegroupins.com.sg</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>https://learning.moe.edu.sg</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://workspace.google.com/dashboard</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pdlpwwss" rel="noopener noreferrer nofollow" target="_blank">Westwood Sec PDLP Resource Site</a>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://go.gov.sg/pdlpwwss</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1GSjC_XxSwQJra0EgTCyTdvJEHI32JfNy/view?usp=share_link" rel="noopener noreferrer nofollow" target="_blank">Student Handbook 2023</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://go.gov.sg/wwwssstudenthandbook2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/pytjkj" rel="noopener noreferrer nofollow" target="_blank">PLD Fault Reporting</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://go.gov.sg/pytjkj</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://go.gov.sg/sw9yzq" rel="noopener noreferrer nofollow" target="_blank">Fault Reporting In School / Lockdown Reporting</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>http://go.gov.sg/sw9yzq</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ace-learning.com/" rel="noopener noreferrer nofollow" target="_blank">Ace-Learning Math e-learning portal</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>http://www.ace-learning.com</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School eResource Repository</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal</a>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://www.myskillsfuture.gov.sg/content/student/en/secondary.html
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.csa.gov.sg/gosafeonline/" rel="noopener noreferrer nofollow" target="_blank">Go Safe Online</a>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://www.csa.gov.sg/gosafeonline/
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.sp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Polytechnic (SP)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>http://www.sp.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.np.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Ngee Ann Polytechnic (NP)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>http://www.np.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.tp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic (TP)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>http://www.tp.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.nyp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Nanyang Polytechnic (NYP)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>http://www.nyp.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.rp.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Republic Polytechnic (RP)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>http://www.rp.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.ite.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Institute of Technical Education (ITE)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>http://www.ite.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.lasalle.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">LASALLE College of the Arts</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>http://www.lasalle.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.nafa.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Nanyang Academy of Fine Arts (NAFA)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>http://www.nafa.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/dsa/apply/" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission - Junior Colleges (DSA-JC)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://www.moe.gov.sg/post-secondary/admissions/dsa/apply/</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp" rel="noopener noreferrer nofollow" target="_blank">Polytechnic Early Admissions Exercise (EAE)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener noreferrer nofollow" target="_blank">Polytechnic Foundation Programme (PFP)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://pfp.polytechnic.edu.sg/PFP/index.html</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener noreferrer nofollow" target="_blank">Direct Entry Scheme to Polytechnic Programme (DPP)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Online student insurance claim portal</a>
+<br><a href="https://go.gov.sg/rpk4gv" rel="noopener noreferrer nofollow" target="_blank">(View GPA Factsheet)</a>
+<br><a href="https://go.gov.sg/nrzysy" rel="noopener noreferrer nofollow" target="_blank">(User Guide for Parents)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://studentgpa.incomegroupins.com.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
