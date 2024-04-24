@@ -2,6 +2,7 @@
 title: For Staff
 permalink: /general-information/useful-links/for-staff/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -93,17 +94,6 @@ description: ""
     <td class="tg-udx9"><a href="https://rbs.avero-tech.com/"><span style="text-decoration:none;color:#3AA66F">Resource Booking Service (RBS)</span></a><br></td>
     <td class="tg-sxrn">https://rbs.avero-tech.com/<br></td>
   </tr>
-  <tr>
-    <td class="tg-7s4v"><a href="http://go.gov.sg/sw9yzq"><span style="text-decoration:none;color:#3AA66F">Fault Reporting Form / Lockdown Reporting</span></a><br><br></td>
-    <td class="tg-kgfz">http://go.gov.sg/sw9yzq<br></td>
-  </tr>
-  <tr>
-    <td class="tg-sxrn"><a href="http://go.gov.sg/47sptz"><span style="text-decoration:none;color:#3AA66F">AVA and ICT Request Form</span></a><br>(Requires Log in to iCON)<br></td>
-    <td class="tg-sxrn">http://go.gov.sg/47sptz<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7s4v"><a href="https://tinyurl.com/near-miss-incident"><span style="text-decoration:none;color:#3AA66F">Near-Miss &amp; Others Reporting Form</span></a><br>(Requires Log in to iCON)</td>
-    <td class="tg-kgfz">https://tinyurl.com/near-miss-incident</td>
-  </tr>
+ 
 </tbody>
 </table>
