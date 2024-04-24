@@ -17,7 +17,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a> 
 <br>
 </p>
 </td>
@@ -27,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pdlpwwss" rel="noopener noreferrer nofollow" target="_blank">Westwood Sec PDLP Resource Site</a>
+<p><a href="https://go.gov.sg/pdlpwwss" rel="noopener noreferrer nofollow" target="_blank">Westwood Sec PDLP Resource Site</a> 
 <br>
 </p>
 </td>
@@ -55,15 +55,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://go.gov.sg/sw9yzq" rel="noopener noreferrer nofollow" target="_blank">Fault Reporting In School / Lockdown Reporting</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>http://go.gov.sg/sw9yzq</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.ace-learning.com/" rel="noopener noreferrer nofollow" target="_blank">Ace-Learning Math e-learning portal</a>
 </p>
 </td>
@@ -82,7 +73,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal</a> 
 <br>
 </p>
 </td>
@@ -94,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.csa.gov.sg/gosafeonline/" rel="noopener noreferrer nofollow" target="_blank">Go Safe Online</a>
+<p><a href="https://www.csa.gov.sg/gosafeonline/" rel="noopener noreferrer nofollow" target="_blank">Go Safe Online</a> 
 <br>
 </p>
 </td>
@@ -216,8 +207,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Online student insurance claim portal</a>
-<br><a href="https://go.gov.sg/rpk4gv" rel="noopener noreferrer nofollow" target="_blank">(View GPA Factsheet)</a>
+<p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Online student insurance claim portal</a> 
+<br><a href="https://go.gov.sg/rpk4gv" rel="noopener noreferrer nofollow" target="_blank">(View GPA Factsheet)</a> 
 <br><a href="https://go.gov.sg/nrzysy" rel="noopener noreferrer nofollow" target="_blank">(User Guide for Parents)</a>
 </p>
 </td>
