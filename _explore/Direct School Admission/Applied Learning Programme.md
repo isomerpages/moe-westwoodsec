@@ -108,7 +108,7 @@ things</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>APPLICATION PROCEDURE</h4>
 <p><strong>Applied Learning Programme (Innovation and Social Entrepreneurship)</strong>
 </p>
 <ul>
@@ -122,7 +122,8 @@ only consider re-scheduling the in-person interview for applicants who
 are unwell.</p>
 </li>
 <li>
-<p>The interview will be held in late July to early August 2024.</p>
+<p>The interview will be held in<strong> late July to early August 2024.</strong>
+</p>
 </li>
 <li>
 <p>Shortlisted students will be invited for an in-person interview where
