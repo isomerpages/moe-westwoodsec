@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -115,4 +119,32 @@ competitions</p>
 </tr>
 </tbody>
 </table>
+<h4><strong><u>DSA Application Instructions</u></strong></h4>
+<p>Applicants are required to attend an interview and selection trial.</p>
+<p>Applicants will be asked to demonstrate skills pertaining to the sport
+that they are interested in applying for.</p>
+<p>The dates for the selection trial of the respective sports are shown below:</p>
+<ul>
+<li>
+<p>Badminton: 2 Aug</p>
+</li>
+<li>
+<p>Basketball: 2 Aug</p>
+</li>
+<li>
+<p>Bowling: 31 Jul</p>
+</li>
+<li>
+<p>Football: 2 Aug</p>
+</li>
+<li>
+<p>Netball: 2 Aug</p>
+</li>
+<li>
+<p>Tchoukball: 31 Jul</p>
+</li>
+</ul>
+<p>Applicants will need to be present for the selection trial. The school
+will only consider re-scheduling the in-person selection trial for applicants
+who are unwell.</p>
 <p></p>
