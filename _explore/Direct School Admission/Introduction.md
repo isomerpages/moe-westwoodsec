@@ -101,15 +101,19 @@ to transfer to another school after the release of the PSLE results</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Application</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2024 to 3
-June 2024 (3 pm). For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+<td rowspan="1" colspan="1">
+<p><strong>Application</strong>
 </p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>Application for DSA-SEC can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May 2024 to 3
+June 2024 (3pm).</p>
+<p></p>
+<p>For more details, please refer to MOE website -</p>
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -167,20 +171,40 @@ email on the exact date of their Interview / Audition /Trial</p>
 <p></p>
 <p><strong><em>Parents and students are strongly encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.</em></strong>
 </p>
-<p><strong><em>&nbsp;</em></strong>
-</p>
 <p><strong><em>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</em></strong>
 </p>
-<p><strong><em>&nbsp;</em></strong>
+<p><strong><em>Please refer to </em></strong><a href="www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">MOE DSA *website</a><strong><em> for the latest update.</em></strong>
 </p>
-<p><strong><em>Please refer to MOE DSA *website for the latest update.</em></strong>
+<p><strong>For further clarifications and enquiries, please contact Westwood Sec at:</strong>
 </p>
-<p><strong>For further clarifications and enquiries, please contact Westwood at:</strong>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Telephone Number:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>6792 9737</strong>
 </p>
-<p><strong>Telephone Number: &nbsp; 6792 9737</strong>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address:&nbsp; &nbsp; </strong>
 </p>
-<p><strong>Email Address:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="mailto:westwood_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="mailto:westwood_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a></strong>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>For email inquiry, please indicate “<u>Westwood DSA 2024</u>” as the subject title of your email.</strong>
 </p>
 <p><strong>&nbsp;* <a href="http://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a></strong>
