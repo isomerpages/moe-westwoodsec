@@ -195,7 +195,7 @@ email on the exact date of their Interview / Audition /Trial</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Email Address:&nbsp; &nbsp; </strong>
+<p><strong>Email Address:&nbsp; &nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
