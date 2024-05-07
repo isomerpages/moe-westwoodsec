@@ -210,7 +210,7 @@ for 30 seconds</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Show Choir</strong>
+<p><strong>Choir</strong>
 </p>
 <ul>
 <li>
