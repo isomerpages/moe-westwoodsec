@@ -172,7 +172,7 @@ email on the exact date of their Interview / Audition /Trial</p>
 </p>
 <p><em>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</em>
 </p>
-<p><em>Please refer to </em><a href="www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">MOE DSA *website</a><em> for the latest update.</em>
+<p><em>Please refer to </em><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">MOE DSA *website</a><em> for the latest update.</em>
 </p>
 <p>For further clarifications and enquiries, please contact Westwood Sec
 at:</p>
