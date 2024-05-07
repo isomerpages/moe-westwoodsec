@@ -168,16 +168,14 @@ email on the exact date of their Interview / Audition /Trial</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong><em>Parents and students are strongly encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.</em></strong>
+<p><em>Parents and students are strongly encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.</em>
 </p>
-<p><strong><em>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</em></strong>
+<p><em>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</em>
 </p>
-<p><strong><em>Please refer to </em></strong><a href="www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">MOE DSA *website</a><strong><em> for the latest update.</em></strong>
+<p><em>Please refer to </em><a href="www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">MOE DSA *website</a><em> for the latest update.</em>
 </p>
-<p><strong>For further clarifications and enquiries, please contact Westwood Sec at:</strong>
-</p>
-<p></p>
+<p>For further clarifications and enquiries, please contact Westwood Sec
+at:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -185,13 +183,13 @@ email on the exact date of their Interview / Audition /Trial</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Telephone Number:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>6792 9737</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Telephone Number:</strong>
 </p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>6792 9737</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -199,14 +197,13 @@ email on the exact date of their Interview / Audition /Trial</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:westwood_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a></strong>
-</p>
+<p>westwood_ss@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>For email inquiry, please indicate “<u>Westwood DSA 2024</u>” as the subject title of your email.</strong>
-</p>
+<p>For email inquiry, please indicate “<u>Westwood DSA 2024</u>” as the subject
+title of your email.</p>
 <p><strong>&nbsp;* <a href="http://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a></strong>
 </p>
 <p>

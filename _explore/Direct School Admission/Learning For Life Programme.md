@@ -207,10 +207,9 @@ Panel and thereafter perform on the spot</p>
 <li>
 <p>Candidates would be required to improvise a freestyle dance performance
 for 30 seconds</p>
+<p></p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Show Choir</strong>
 </p>
 <ul>
@@ -231,8 +230,6 @@ track of the song (commonly known as “minus one”) on audition day</p>
 Panel and thereafter perform on the spot</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Guitar Ensemble</strong>
 </p>
 <ul>
@@ -251,8 +248,6 @@ the audition</p>
 <p>Candidates are to prepare their own guitar for the audition</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>English Drama</strong>
 </p>
 <ul>
@@ -264,8 +259,7 @@ should last between 3 to 5 minutes</p>
 <p>Candidates would be required to improvise a scene using provided item</p>
 </li>
 <li>
-<p>Candidates would be expected to have a dialogue scene with a Drama Student<strong><br></strong>
-</p>
+<p>Candidates would be expected to have a dialogue scene with a Drama Student</p>
 </li>
 </ul>
 <p><strong>Visual Arts</strong>
@@ -285,7 +279,8 @@ from other sources</p>
 </li>
 <li>
 <p>Shortlisted portfolios would be granted an audition which would be held
-in either late July or early August 2024</p>
+in either <u>late July or early August 2024</u>
+</p>
 </li>
 <li>
 <p>Candidates would be expected to draw a still-life object given by the
