@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -104,4 +108,42 @@ things</p>
 </tr>
 </tbody>
 </table>
+<h4>APPLICATION PROCEDURE</h4>
+<p><strong>Applied Learning Programme (Innovation and Social Entrepreneurship)</strong>
+</p>
+<ul>
+<li>
+<p>Applicants who apply for DSA in Westwood’s Applied Learning Programme
+(Innovation and Social Entrepreneurship) will undergo an in-person interview.</p>
+</li>
+<li>
+<p>Applicants will need to be present for the interview. The school will
+only consider re-scheduling the in-person interview for applicants who
+are unwell.</p>
+</li>
+<li>
+<p>The interview will be held in<strong> late July to early August 2024.</strong>
+</p>
+</li>
+<li>
+<p>Shortlisted students will be invited for an in-person interview where
+the panel will ask questions on the following:</p>
+<ul>
+<li>
+<p>Innovation/(Social) entrepreneurship experiences (which may include related
+competitions)</p>
+</li>
+<li>
+<p>Interest in Science Technology Engineering and Mathematics (STEM), including
+sustainability issues</p>
+</li>
+<li>
+<p>Background in coding/programming</p>
+</li>
+<li>
+<p>Leadership positions held in school</p>
+</li>
+</ul>
+</li>
+</ul>
 <p></p>

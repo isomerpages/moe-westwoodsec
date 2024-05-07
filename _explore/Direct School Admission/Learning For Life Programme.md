@@ -6,7 +6,11 @@ third_nav_title: Direct School Admission
 variant: tiptap
 ---
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -143,4 +147,149 @@ report book)</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4><strong>APPLICATION PROCEDURE</strong></h4>
+<p><strong>Learning for Life Programme (Arts for Life!)</strong>
+</p>
+<ul>
+<li>
+<p>Applications who apply for DSA in Westwood’s Learning for Life Programme
+(Arts for Life!) will have to go through an audition in the specific art
+form via an in-person audition.</p>
+</li>
+<li>
+<p>Applicants will need to be present for the audition. The school will only
+consider re-scheduling the in-person audition for applicants who are unwell.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Concert Band</strong>
+</p>
+<ul>
+<li>
+<p>Email the Teacher-in-charge, Mdm Tang Tai-Chi (<a href="mailto:tang_tai-chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_tai-chi@moe.edu.sg</a>) at least
+three days in advance of the audition with the following information:</p>
+<ul>
+<li>
+<p>The candidate's instrument of choice</p>
+</li>
+<li>
+<p>The music piece the candidate will perform during the audition</p>
+</li>
+<li>
+<p>A copy of the music score for the prepared piece</p>
+</li>
+</ul>
+</li>
+<li>
+<p>During the audition, candidates may be asked to play a portion of their
+prepared piece</p>
+</li>
+<li>
+<p>Sight-reading exercises will be administered.</p>
+</li>
+<li>
+<p>Candidates are to bring their own instrument for the audition</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Modern Dance</strong>
+</p>
+<ul>
+<li>
+<p>Candidates to put up a 1-minute dance item with music, preferably from
+the competition or performance they had performed previously</p>
+</li>
+<li>
+<p>Candidates would be required to learn a simple routine from the audition
+Panel and thereafter perform on the spot</p>
+</li>
+<li>
+<p>Candidates would be required to improvise a freestyle dance performance
+for 30 seconds</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Show Choir</strong>
+</p>
+<ul>
+<li>
+<p>Candidates would be expected to sing a song of their choice during the
+audition, preferably one that they have previously performed in a competition
+or public performance. They are strongly encouraged to sing with the backing
+track of the song (commonly known as “minus one”) on audition day</p>
+</li>
+<li>
+<p>Candidates might be asked to sing only part of the song during the audition</p>
+</li>
+<li>
+<p>Basic aural and vocal range tests will be administered</p>
+</li>
+<li>
+<p>Candidates would be expected to learn a simple excerpt from the audition
+Panel and thereafter perform on the spot</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Guitar Ensemble</strong>
+</p>
+<ul>
+<li>
+<p>Candidates to play one music piece of their choice for the audition, preferably
+from the competition or performance they had performed previously</p>
+</li>
+<li>
+<p>Candidates might be asked to play only part of the prepared piece during
+the audition</p>
+</li>
+<li>
+<p>Sight-reading exercises will be administered</p>
+</li>
+<li>
+<p>Candidates are to prepare their own guitar for the audition</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>English Drama</strong>
+</p>
+<ul>
+<li>
+<p>Candidates to deliver a monologue that showcases their own script, which
+should last between 3 to 5 minutes</p>
+</li>
+<li>
+<p>Candidates would be required to improvise a scene using provided item</p>
+</li>
+<li>
+<p>Candidates would be expected to have a dialogue scene with a Drama Student<strong><br></strong>
+</p>
+</li>
+</ul>
+<p><strong>Visual Arts</strong>
+</p>
+<ul>
+<li>
+<p>Before the audition, candidates are required to submit a portfolio by
+email to the Teacher-in-charge, Mdm Tang Tai-Chi (<a href="mailto:tang_tai-chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_tai-chi@moe.edu.sg</a>). The
+portfolio must be <strong><u>submitted no later than 26 July 2024</u></strong>
+</p>
+</li>
+<li>
+<p>The portfolio should include a write-up and introduction of the candidate's
+art abilities. Additionally, candidates should describe their submitted
+artworks and explain if the works are their achievements or enhancements
+from other sources</p>
+</li>
+<li>
+<p>Shortlisted portfolios would be granted an audition which would be held
+in either late July or early August 2024</p>
+</li>
+<li>
+<p>Candidates would be expected to draw a still-life object given by the
+Panel during the audition</p>
+</li>
+</ul>
 <p></p>

@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -104,4 +108,45 @@ learning</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Application Procedure</strong></h4>
+<ul>
+<li>
+<p>Applicants who apply for DSA in Westwood’s Student Leadership will submit
+a portfolio by email to the Teacher-in-charge, Ms Nadia Eddy Razali (
+<a href="mailto:nadia_eddy_razali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_eddy_razali@moe.edu.sg</a>). The portfolio must be submitted <strong>no later than 26 July 2024</strong>.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>The portfolio should include a write-up and introduction of the candidate's
+leadership involvement and abilities.&nbsp;</p>
+</li>
+<li>
+<p>Additionally, candidates should provide a reflection (no more than 150
+words) of their leadership journey thus far<em>.&nbsp;</em>
+</p>
+</li>
+</ul>
+<p></p>
+<p>Shortlisted students, based on portfolio submitted, will be invited for
+an in-person interview held in either late July or August 2024. The interview
+panel will ask questions on the following (non-exhaustive):</p>
+<ul>
+<li>
+<p>Knowledge of leadership philosophies and advocacy</p>
+</li>
+<li>
+<p>Elaborate and reflection on leadership experiences in primary school</p>
+</li>
+<li>
+<p>Balancing of various commitments</p>
+</li>
+<li>
+<p>Experiences that demonstrate the core values of integrity, empathy, resilience,
+continual learning and strong sense of responsibility</p>
+</li>
+<li>
+<p>Personal vision as a student leader</p>
+</li>
+</ul>
 <p></p>
