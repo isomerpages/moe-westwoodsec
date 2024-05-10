@@ -165,7 +165,7 @@ The Westwood PSG hopes to be a community of active and involved parents working 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-av5t"><a href="https://www.facebook.com/psg.wwss/"><span style="text-decoration:none;color:#3AA66F">WWSS PSG Facebook</span></a><span style="color:#222;background-color:#FFF"> </span></td>
+    <td class="tg-av5t"><a href="https://www.facebook.com/profile.php?id=100066388637579"><span style="text-decoration:none;color:#3AA66F">WWSS PSG Facebook</span></a><span style="color:#222;background-color:#FFF"> </span></td>
     <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Westwood PSG Facebook page.</span></td>
   </tr>
   <tr>
