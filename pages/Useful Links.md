@@ -138,7 +138,7 @@ Log in to iCON)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1dVm_FkD2g7gwDW1BC_sf1coKgnhg8uI-/view?usp=share_link/" rel="noopener noreferrer nofollow" target="_blank">NDE Students User Guide</a>
+<p><a href="https://drive.google.com/file/d/1OAzhSbGTHf4CiFdwW55Ne3Ev1_eAirAC/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">NDE Students User Guide</a>
 </p>
 </li>
 </ul>
