@@ -2,6 +2,7 @@
 title: Parent Support Group
 permalink: /partners/parent-support-group/
 description: ""
+variant: markdown
 ---
 The Westwood PSG hopes to be a community of active and involved parents working in collaboration with the school to maximize the potential of the students.
 
@@ -164,28 +165,16 @@ The Westwood PSG hopes to be a community of active and involved parents working 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-av5t"><a href="http://www.facebook.com/#!/profile.php?id=100003622702926"><span style="text-decoration:none;color:#3AA66F">WWSS PSG Facebook</span></a><span style="color:#222;background-color:#FFF"> </span></td>
+    <td class="tg-av5t"><a href="https://www.facebook.com/psg.wwss/"><span style="text-decoration:none;color:#3AA66F">WWSS PSG Facebook</span></a><span style="color:#222;background-color:#FFF"> </span></td>
     <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Westwood PSG Facebook page.</span></td>
   </tr>
   <tr>
-    <td class="tg-av5t"><a href="https://www.schoolbag.sg/"><span style="text-decoration:none;color:#3AA66F">SchoolBag</span></a><br><span style="color:#222;background-color:#FFF">(The Education News Site)</span></td>
+    <td class="tg-av5t"><a href="https://www.schoolbag.edu.sg/"><span style="text-decoration:none;color:#3AA66F">SchoolBag</span></a><br><span style="color:#222;background-color:#FFF">(The Education News Site)</span></td>
     <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">An online publication by the Ministry of Education, Singapore to provide parents, educators and the general public with education news, school features and tips.</span></td>
   </tr>
   <tr>
     <td class="tg-av5t"><a href="https://www.moe.gov.sg/parentkit"><span style="text-decoration:none;color:#3AA66F">Parent Kit</span></a></td>
     <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">Parent Kit is an easy-to-use solution to parenting problems and possibilities. Each Kit presents a series of scenarios with supporting resources, curated carefully by a team of specialists and educators.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-av5t"><a href="https://westwoodsec.moe.edu.sg/qql/slot/u558/PSG/HPB%20Parents%20Booklet.pdf"><span style="text-decoration:none;color:#3AA66F">Healthy Meals in Schools and at Home</span></a></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">HPB has developed a Parents’ Booklet to encourage parents to nurture healthy eating habits at home. Together with the Healthy Meals in Schools Programme, we aim to promote the consumption of healthy meals with a balanced mix of the four different food groups – brown rice, whole grain noodles and wholemeal bread; fruit and vegetables as well as meat and alternatives, both in school and at home.</span>  </td>
-  </tr>
-  <tr>
-    <td class="tg-av5t"><a href="http://westwoodsec.moe.edu.sg/qql/slot/u558/PSG/Managing%20Emotional%20Health%20Book.pdf"><span style="text-decoration:none;color:#3AA66F">Managing Emotional Health</span></a><span style="color:#222;background-color:#FFF"> </span></td>
-    <td class="tg-1ppo"><span style="color:#222;background-color:#FFF">THK Family Services Division has specially prepared short articles and videos by a team of professional psychologists, counsellors and social workers.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-av5t"><a href="http://westwoodsec.moe.edu.sg/qql/slot/u558/PSG/THK%20PSP_Referral_Enquiry_2021updated%203%20Mar%202021.pdf"><span style="text-decoration:none;color:#3AA66F">Positive Parenting Programme</span></a><br><span style="color:#222;background-color:#FFF">(Triple P) for parents is an evidence-based programme</span></td>
-    <td class="tg-tsok">- Supports parents<br>- Introduces practical techniques<br>- Strengthens parent-child relationships<br>- Increases parenting confidence</td>
   </tr>
 </tbody>
 </table>
