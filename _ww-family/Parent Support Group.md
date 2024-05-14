@@ -292,7 +292,7 @@ students.</p>
 <p>Ms Mahawa Bte Nezamudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Exco Member</p>
 </td>
 </tr>
 <tr>
@@ -390,7 +390,7 @@ students.</p>
 <p>Ms Sharifah Juwita</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Exco Member</p>
 </td>
 </tr>
 <tr>
@@ -398,7 +398,7 @@ students.</p>
 <p>Ms Shirlin Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Exco Member</p>
 </td>
 </tr>
 <tr>
@@ -406,7 +406,7 @@ students.</p>
 <p>Ms Siti</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Exco Member</p>
 </td>
 </tr>
 <tr>
