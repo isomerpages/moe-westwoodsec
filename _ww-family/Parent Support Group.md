@@ -23,9 +23,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Tan
-<br>
-</p>
+<p>Ms Vanessa Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairman</p>
@@ -41,9 +39,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ivan Low
-<br>
-</p>
+<p>Mr Ivan Low</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairman (Operation)</p>
@@ -59,9 +55,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Phyu Phyu Hlaing (Phyu)
-<br>
-</p>
+<p>Ms Phyu Phyu Hlaing (Phyu)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Treasurer</p>
@@ -77,9 +71,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Charles Chou
-<br>
-</p>
+<p>Mr Charles Chou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher Liaison</p>
@@ -87,14 +79,10 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Fang
-<br>
-</p>
+<p>Mdm Wang Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher Liaison
-<br>
-</p>
+<p>Teacher Liaison</p>
 </td>
 </tr>
 <tr>
@@ -102,16 +90,12 @@ students.</p>
 <p>Ms Angeline Ang (A.A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exco Member
-<br>
-</p>
+<p>Exco Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Anna Ang
-<br>
-</p>
+<p>Ms Anna Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco Member</p>
@@ -146,9 +130,7 @@ students.</p>
 <p>Ms Elisa Saw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exco Member
-<br>
-</p>
+<p>Exco Member</p>
 </td>
 </tr>
 <tr>
@@ -156,9 +138,7 @@ students.</p>
 <p>Ms Eunice Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exco Member
-<br>
-</p>
+<p>Exco Member</p>
 </td>
 </tr>
 <tr>
@@ -166,9 +146,7 @@ students.</p>
 <p>Ms Farhanah Maricel Cantero</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exco Member
-<br>
-</p>
+<p>Exco Member</p>
 </td>
 </tr>
 <tr>
@@ -181,9 +159,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Gan Kong Nam
-<br>
-</p>
+<p>Mr Gan Kong Nam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco Member</p>
@@ -191,9 +167,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Halim Amin
-<br>
-</p>
+<p>Mr Halim Amin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco Member</p>
@@ -212,7 +186,7 @@ students.</p>
 <p>Ms Hu Qiaoping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Exco Member</p>
 </td>
 </tr>
 <tr>
@@ -308,9 +282,7 @@ students.</p>
 <p>Ms Mahawa Bte Nezamudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exco Member
-<br>
-</p>
+<p>Exco Member</p>
 </td>
 </tr>
 <tr>
