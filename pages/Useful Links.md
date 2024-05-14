@@ -208,7 +208,11 @@ Log in to iCON)</p>
 </p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/xj0w35" rel="noopener noreferrer nofollow" target="_blank">(View GPA Factsheet)</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">(View GPA factsheet)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">(View GPA factsheet).</a>
 </p>
 </li>
 <li>
