@@ -127,6 +127,22 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Desmond Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Doreen Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Elisa Saw</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,12 +163,20 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Farhanah Maricel Cantera</p>
+<p>Ms Farhanah Maricel Cantero</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco Member
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Faridah Zainal Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
 </td>
 </tr>
 <tr>
@@ -177,10 +201,18 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hwee Shan</p>
+<p>Mr Ho Hoi Thong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hu Qiaoping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -193,12 +225,58 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Karmila</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Cheng Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lee Siew Kiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exco Member
-<br>
-</p>
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yun Huey Gerin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Wei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Loo Lee Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lyanna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
 </td>
 </tr>
 <tr>
@@ -206,9 +284,15 @@ students.</p>
 <p>Ms Lyn Sam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Exco Member
-<br>
-</p>
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Mahawa Bte Nezamudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -221,7 +305,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mahawa</p>
+<p>Ms Mahawa Bte Nezamudin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco Member
@@ -239,7 +323,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rabiah Rahim</p>
+<p>Mr Muhammad Ramadhan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco Member</p>
@@ -247,7 +331,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharifah Juwita</p>
+<p>Mr Nabil Ridhwanshah Bin Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco Member</p>
@@ -255,7 +339,31 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shirlin Neo</p>
+<p>Ms Nurfatiha Bte Bahari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Shahira</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Chung Siong Johnny</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rossdiwei Maarip</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco Member</p>
@@ -271,7 +379,71 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Serene Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sharifah Juwita</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shirlin Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Aishah Nawassf</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Sri Subashini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Boon Hang Jason</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Le Ling Genie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Hwee Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco Member</p>
