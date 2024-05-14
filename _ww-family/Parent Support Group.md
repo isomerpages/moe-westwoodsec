@@ -99,7 +99,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Angeline Ang</p>
+<p>Ms Angeline Ang (A.A)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco Member
@@ -309,7 +309,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SchoolBag</a>
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SchoolBag</a> 
 <br>(The Education News Site)</p>
 </td>
 <td rowspan="1" colspan="1">
