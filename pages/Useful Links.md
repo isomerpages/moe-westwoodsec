@@ -208,11 +208,7 @@ Log in to iCON)</p>
 </p>
 <ul>
 <li>
-<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">(View GPA factsheet)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">(View GPA factsheet).</a>
+<p><a href="https://drive.google.com/file/d/1iA_qooOOYRGXwEJUPBUTlGPDbS-IxNjZ/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">(View GPA factsheet).</a>
 </p>
 </li>
 <li>
