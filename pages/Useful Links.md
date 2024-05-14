@@ -208,7 +208,7 @@ Log in to iCON)</p>
 </p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/xj0w35" rel="noopener noreferrer nofollow" target="_blank">(View GPA Factsheet)</a>
+<p><a href="https://drive.google.com/file/d/1iA_qooOOYRGXwEJUPBUTlGPDbS-IxNjZ/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">(View GPA factsheet).</a>
 </p>
 </li>
 <li>
