@@ -135,10 +135,7 @@ Education</p>
 Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/miss see ai xin alliot.jpg">
-</div>
-<p><strong>Ms See Ai Xin Alliot<br></strong>Assistant Year Head/Upper Sec</p>
+<p></p>
 </td>
 </tr>
 <tr>
