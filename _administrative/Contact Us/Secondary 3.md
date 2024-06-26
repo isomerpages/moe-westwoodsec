@@ -5,4 +5,182 @@ description: ""
 third_nav_title: Contact Us
 variant: tiptap
 ---
-<table><tbody><tr><td rowspan="1" colspan="1"><p><strong>NAME</strong></p></td><td rowspan="1" colspan="1"><p><strong>FORM CLASS</strong></p></td><td rowspan="1" colspan="1"><p><strong>EMAIL ADDRESS</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Chan Chi Thio</p></td><td rowspan="1" colspan="1"><p>3A</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">chan_chi_thio@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Siti Hajar Bte Sam'on</p></td><td rowspan="1" colspan="1"><p>3A</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">siti_hajar_samon@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Muhamad Hamim</p></td><td rowspan="1" colspan="1"><p>3B</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">md_hamim_bar@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Eric Liow Choon Cheang</p></td><td rowspan="1" colspan="1"><p>3B</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">liow_choon_cheang@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Melissa Manuela Rama Shan</p></td><td rowspan="1" colspan="1"><p>3C</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">melissa_manuela_rama_shan@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Yeo Wan Qiu Jennifer</p></td><td rowspan="1" colspan="1"><p>3C</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">yeo_wan_qiu_jennifer@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Farah Zila Bte Hassan</p></td><td rowspan="1" colspan="1"><p>3D</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">farah_zila_hassan@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Zavier Ho Chee Yong</p></td><td rowspan="1" colspan="1"><p>3D</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">ho_chee_yong@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Koh Hoe Yap</p></td><td rowspan="1" colspan="1"><p>3E</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">koh_hoe_yap@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Syed Ali Bin Mohamed Alhabshee</p></td><td rowspan="1" colspan="1"><p>3E</p></td><td rowspan="1" colspan="1"><p><a href="mailto:syed_ali_mohamed_alhabshee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syed_ali_mohamed_alhabshee@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Saha Mousumi (Sem 2)</p></td><td rowspan="1" colspan="1"><p>3E</p></td><td rowspan="1" colspan="1"><p><a href="mailto:saha_mousumi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">saha_mousumi@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Nur Nadiah Bte Razni</p></td><td rowspan="1" colspan="1"><p>3F</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">nur_nadiah_razni@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Peh Teow Peng</p></td><td rowspan="1" colspan="1"><p>3F</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">peh_teow_peng@schools.gov.sg</a>&nbsp;&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Kang Lu</p></td><td rowspan="1" colspan="1"><p>3G</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">kang_lu@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Mohammad Redzuan Bin Jaafar</p></td><td rowspan="1" colspan="1"><p>3G</p></td><td rowspan="1" colspan="1"><p><a rel="noopener noreferrer nofollow" target="_blank">mohammad_redzuan_jaafar@schools.gov.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Lim Shi Lei</p></td><td rowspan="1" colspan="1"><p>3G</p></td><td rowspan="1" colspan="1"><p><a href="mailto:lim_shi_lei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_lei@schools.gov.sg</a></p></td></tr></tbody></table><p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NAME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>FORM CLASS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>EMAIL ADDRESS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Chi Thio</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_chi_thio@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Hajar Bte Sam'on</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">siti_hajar_samon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhamad Hamim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">md_hamim_bar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Eric Liow Choon Cheang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">liow_choon_cheang@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Melissa Manuela Rama Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">melissa_manuela_rama_shan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chen Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_han@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Zavier Ho Chee Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ho_chee_yong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Hoe Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">koh_hoe_yap@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Saha Mousumi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:saha_mousumi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">saha_mousumi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Nadiah Bte Razni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">nur_nadiah_razni@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Peh Teow Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">peh_teow_peng@schools.gov.sg</a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kang Lu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">kang_lu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Shi Lei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_shi_lei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shi_lei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

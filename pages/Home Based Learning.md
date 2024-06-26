@@ -33,9 +33,7 @@ per semester.</p>
 </ol>
 <p><strong>HOME BASED LEARNING DAY SCHEDULE</strong>
 </p>
-<p><a href="https://docs.google.com/document/d/13Bt1sWVov32aMCcyBGUhBVNg1NlWU85zAGNrVE79ACI/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">TERM 1 SCHEDULE</a>
-</p>
-<p><a href="https://docs.google.com/document/d/1ZXRijhr27Lo-1V4b532eCmzSzO5mOU6iOHqqV6RM5T0/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">TERM 2 SCHEDULE</a>
+<p><a href="https://docs.google.com/spreadsheets/d/173ieYOi5OKDy3y-ilPXKUqopCN8jnUelNolZjibx-jQ/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Summary of HBL in Term 3 and 4 </a>
 </p>
 <p><a href="https://docs.google.com/document/d/1ji-HdHcmFxUY9dTtGNGnV0FXOFCFDtbOQWUYUBIHsI0/edit" rel="noopener noreferrer nofollow" target="_blank">TERM 3 SCHEDULE</a>
 </p>
