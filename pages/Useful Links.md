@@ -4,10 +4,10 @@ permalink: /administrative/usefullinks/
 description: ""
 variant: tiptap
 ---
-<ul>
-<li>
-<p>For Staff</p>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>For Staff</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
 <p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
@@ -96,14 +96,13 @@ Log in to iCON)</p>
 <li>
 <p><a href="https://www.mesrc.net/" rel="noopener noreferrer nofollow" target="_blank">MOE Sports and Recreation Club</a>
 </p>
-<p></p>
-<p></p>
 </li>
 </ul>
-</li>
-<li>
-<p>For Students</p>
-<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>For Students</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
 <p><a href="https://mims.moe.gov.sg/sspr/" rel="noopener noreferrer nofollow" target="_blank">Student Self-Service Password Reset</a>
@@ -214,11 +213,11 @@ Log in to iCON)</p>
 <li>
 <p><a href="https://go.gov.sg/nrzysy" rel="noopener noreferrer nofollow" target="_blank">(User Guide for Parents)</a>
 </p>
-<p></p>
 </li>
 </ul>
 </li>
 </ul>
-</li>
-</ul>
+</div>
+</details>
+</div>
 <p></p>
