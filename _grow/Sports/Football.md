@@ -32,7 +32,7 @@ for students</p>
 <p>Mr Syed Ali Bin Mohamed Alhabshee</p>
 </li>
 <li>
-<p>Ms Alliot See</p>
+<p>Ms Christy Teng</p>
 </li>
 </ul>
 <p></p>
@@ -41,7 +41,12 @@ for students</p>
 <p><strong>TRAINING DAYS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -84,7 +89,11 @@ for students</p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -137,7 +146,12 @@ position</p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
