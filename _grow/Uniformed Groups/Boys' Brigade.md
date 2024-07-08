@@ -21,10 +21,10 @@ as Leadership, Personal Mastery, Global Awareness and Community Spiritedness</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Terence Tsang</p>
+<p>Ms Tan Rou Jing Geraldine</p>
 </li>
 <li>
-<p>Ms Tan Rou Jing Geraldine</p>
+<p>Mr Terence Tsang</p>
 </li>
 <li>
 <p>Ms Jane Yap Hui Hian</p>
@@ -36,7 +36,12 @@ as Leadership, Personal Mastery, Global Awareness and Community Spiritedness</p>
 <p><strong>TRAINING DAYS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -68,7 +73,11 @@ as Leadership, Personal Mastery, Global Awareness and Community Spiritedness</p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -161,7 +170,12 @@ High Distinction</p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
