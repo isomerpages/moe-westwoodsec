@@ -35,9 +35,6 @@ in the form of competitions and school and public events</p>
 <p>Mdm Jaskirath Kaur</p>
 </li>
 <li>
-<p>Miss Yeo Wan Qiu Jennifer</p>
-</li>
-<li>
 <p>Mdm Maria Loh</p>
 </li>
 </ul>
@@ -47,7 +44,12 @@ in the form of competitions and school and public events</p>
 <p><strong>TRAINING DAYS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -89,7 +91,11 @@ in the form of competitions and school and public events</p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -158,7 +164,12 @@ in the form of competitions and school and public events</p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
