@@ -345,7 +345,7 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Wang Pok Shien                               </strong>
+<p><strong>Mr Wang Pok Shien</strong>
 </p>
 <p>Administration Manager</p>
 </td>
