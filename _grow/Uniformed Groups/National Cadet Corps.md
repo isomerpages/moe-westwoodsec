@@ -22,9 +22,6 @@ through fun, adventurous and military-related activities.
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>CPT (NCC) Nicholas Seah</p>
-</li>
-<li>
 <p>CPT (NCC) Mr How Choon Keat</p>
 </li>
 <li>
@@ -37,7 +34,12 @@ through fun, adventurous and military-related activities.
 <p><strong>TRAINING DAYS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -68,7 +70,11 @@ through fun, adventurous and military-related activities.
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -139,7 +145,12 @@ through fun, adventurous and military-related activities.
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -201,7 +212,12 @@ National Day</p>
 <p><strong>Key Programmes for Senior Cadets (Sec 1)</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -290,7 +306,12 @@ to keep healthy and fit.</p>
 <p><strong>Key Programmes for Senior Cadets (Sec 2)</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -407,7 +428,12 @@ by competing amongst other school units in a healthy competitive environment.</p
 <p></p>
 <p><strong>Key Programmes for Senior Cadets (Sec 3)</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
