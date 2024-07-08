@@ -29,9 +29,6 @@ and accountability through Basketball.</p>
 <li>
 <p>Mr Peh Teow Peng</p>
 </li>
-<li>
-<p>Mr Jeremiah Lim</p>
-</li>
 </ul>
 <p></p>
 <ul>
@@ -39,7 +36,12 @@ and accountability through Basketball.</p>
 <p><strong>TRAINING DAYS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -82,7 +84,11 @@ and accountability through Basketball.</p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -130,7 +136,12 @@ and accountability through Basketball.</p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
