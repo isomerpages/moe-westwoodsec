@@ -5,27 +5,50 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<ul>
-<li>
-<p>School Leaders</p>
+<p><strong>School Leaders</strong>
+</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/mr%20abdul%20harris%20bin%20sumardi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Principal" src="/images/mr abdul harris bin sumardi.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Abdul Harris Bin Sumardi</div>
+<div class="isomer-card-description">Principal</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Vice Principal" src="/images/mr derrick hoi.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Derrick Hoi Weng Kit</div>
+<div class="isomer-card-description">Vice Principal</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Vice Principal" src="/images/mr lek chun guan.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Lek Chun Guan</div>
+<div class="isomer-card-description">Vice Principal Administration</div>
+</div>
+</div>
 </div>
 <p></p>
-<p><strong>Mr Abdul Harris Bin Sumardi <br></strong>Principal</p>
-<div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/mr derrick hoi.jpg">
-</div>
-<p><strong>Mr Derrick Hoi Weng Kit <br></strong> Vice-Principal</p>
-<div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/mr%20lek%20chun%20guan.jpg">
-</div>
-<p><strong>Mr Lek Chun Guan <br></strong> Vice-Principal (Adminstration)</p>
 <p></p>
-</li>
-<li>
-<p>Middle Managers</p>
-<p></p><pre><code>&lt;/tr&gt;		</code></pre>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Middle Managers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -50,8 +73,6 @@ Education</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -120,22 +141,24 @@ Education</p>
 <p><strong>Mr Foo Chee Sian Eric<br></strong>HOD/PE CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/ms%20maria%20marzuki.jpeg">
-</div>
-<p><strong>Ms Maria Marzuki<br></strong>Year Head/ Lower Sec</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/ms%20nurul%20atika%20bte%20ramli.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ms maria marzuki.jpeg">
 </div>
-<p><strong>Ms Nurul Atika Bte Ramli<br></strong>Assistant Year Head/ Lower
-Sec</p>
+<p><strong>Ms Maria Marzuki<br></strong>Year Head/ Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ms nurul atika bte ramli.jpg">
+</div>
+<p><strong>Ms Nurul Atika Bte Ramli<br></strong>Assistant Year Head/Lower
+Sec</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +201,9 @@ Education</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/miss melissa manuela rama shan.jpg">
 </div>
-<p><strong>Ms Melissa Manuela Rama Shan<br></strong> SH/Chemistry
+<p><strong>Ms Melissa Manuela Rama Shan</strong>
+</p>
+<p>SH/Chemistry
 <br>
 </p>
 </td>
@@ -204,9 +229,14 @@ Education</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
-<p>Lead Teachers &amp; Senior Teachers</p>
+</div>
+</details>
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Lead Teachers &amp; Senior Teachers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -218,6 +248,7 @@ Education</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/mdm%20saha%20mousumi.jpeg">
 </div>
+<p></p>
 <p><strong>Mdm Saha Mousumi</strong>
 <br>LT/English Language</p>
 <p></p>
@@ -229,7 +260,6 @@ Education</p>
 <p></p>
 <p><strong>Mr Syed Ali Bin Mohamed Alhabshee</strong> 
 <br>LT/Physics</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -240,7 +270,6 @@ Education</p>
 <p></p>
 <p><strong>Mdm Wang Fang</strong> 
 <br>ST/Chinese Language</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -249,7 +278,6 @@ Education</p>
 <p></p>
 <p><strong>Mdm Puvaneswari d/o Raman</strong> 
 <br>ST/Mathematics</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -260,7 +288,6 @@ Education</p>
 <p></p>
 <p><strong>Mr Muhammad Hamim B Abdul Rahim</strong> 
 <br>ST/PE</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -269,8 +296,6 @@ Education</p>
 <p></p>
 <p><strong>Mr Ahmad Luqman Bin Ghazali</strong> 
 <br>ST/CCE</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -281,7 +306,6 @@ Education</p>
 <p></p>
 <p><strong>Mdm Farhana Binte Mokhtar</strong> 
 <br>ST/Malay Language</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -289,22 +313,53 @@ Education</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p>Executive and Administrative Staff</p>
-<div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/mr%20lek%20chun%20guan.jpg">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
-<p><strong>Mr Lek Chun Guan <br></strong> Vice-Principal (Administration)</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Executive and Administrative Staff</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/mr%20wang%20pok%20shien.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/mr wang pok shien.jpeg">
 </div>
-<p><strong>Mr Wang Pok Shien <br></strong> Administration Manager</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/mdm%20nor%20haseena%20binte%20masrip.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/mdm nor haseena binte masrip.jpg">
 </div>
-<p><strong>Mdm Nor Haseena Binte Masrip <br></strong> Operations Manager</p>
-</li>
-</ul>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Wang Pok Shien                               </strong>
+</p>
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Nor Haseena Masrip</strong>
+</p>
+<p>Operations Manager</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <p></p>
