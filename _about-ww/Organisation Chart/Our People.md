@@ -5,46 +5,68 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<p><strong>School Leaders</strong>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>School Leaders</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mr abdul harris bin sumardi.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mr derrick hoi.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/mr lek chun guan.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Abdul Harris Bin Sumardi </strong>
 </p>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Principal" src="/images/mr abdul harris bin sumardi.jpg">
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Derrick Hoi Weng Kit</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lek Chun Guan</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal Administration</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
+</details>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Abdul Harris Bin Sumardi</div>
-<div class="isomer-card-description">Principal</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Vice Principal" src="/images/mr derrick hoi.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Derrick Hoi Weng Kit</div>
-<div class="isomer-card-description">Vice Principal</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Vice Principal" src="/images/mr lek chun guan.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Lek Chun Guan</div>
-<div class="isomer-card-description">Vice Principal Administration</div>
-</div>
-</div>
-</div>
-<p></p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Middle Managers</summary>
@@ -232,7 +254,6 @@ Education</p>
 </div>
 </details>
 </div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Lead Teachers &amp; Senior Teachers</summary>
@@ -317,7 +338,6 @@ Education</p>
 </div>
 </details>
 </div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Executive and Administrative Staff</summary>
