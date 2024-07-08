@@ -34,9 +34,6 @@ playing skill through public performances.</p>
 <p>Mdm Kang Lu</p>
 </li>
 <li>
-<p>Ms Nyam Lee Chin Ivy</p>
-</li>
-<li>
 <p>Ms Madeline Teo</p>
 </li>
 </ul>
@@ -45,7 +42,12 @@ playing skill through public performances.</p>
 <li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -87,7 +89,11 @@ playing skill through public performances.</p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -157,7 +163,12 @@ playing skill through public performances.</p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
