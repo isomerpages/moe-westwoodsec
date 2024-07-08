@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Abdul Harris Bin Sumardi </strong>
+<p><strong>Mr Abdul Harris Bin Sumardi</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -353,13 +353,13 @@ Education</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/mr wang pok shien.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mr wang pok shien.jpeg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/mdm nor haseena binte masrip.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/mdm nor haseena binte masrip.jpg">
 </div>
 </th>
 </tr>
