@@ -26,9 +26,6 @@ through their involvement in the CCA.&nbsp;</p>
 <p>Mr Terrance Lee Jin Han</p>
 </li>
 <li>
-<p>Mr Clement Huang</p>
-</li>
-<li>
 <p>Mr Md Hamim Bar</p>
 </li>
 <li>
@@ -41,7 +38,12 @@ through their involvement in the CCA.&nbsp;</p>
 <p><strong>TRAINING DAYS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -72,7 +74,11 @@ through their involvement in the CCA.&nbsp;</p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -116,7 +122,12 @@ through their involvement in the CCA.&nbsp;</p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
