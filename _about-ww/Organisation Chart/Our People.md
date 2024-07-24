@@ -252,24 +252,23 @@ Sec</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mr%20lee%20chuen%20hing.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Lee_Chuen_Hing.jpg">
 </div>
-<p><strong>Mr Lee Chuen Hing<br></strong> SH/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:55%" height="auto" width="100%" src="/images/mr%20chan%20chi%20thio.jpeg">
 </div>
-<p><strong>Mr Chan Chi Thio<br></strong> SH/ICT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Lee Chuen Hing<br></strong> SH/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Chan Chi Thio<br></strong> SH/ICT</p>
 </td>
 </tr>
 <tr>
