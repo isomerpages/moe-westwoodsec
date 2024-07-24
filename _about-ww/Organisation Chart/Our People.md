@@ -81,13 +81,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Fauziah_Bte_Ahmad.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Fauziah_Bte_Ahmad.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Miss_Lee_Chew_Yen.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Miss_Lee_Chew_Yen.jpg">
 </div>
 </td>
 </tr>
@@ -95,13 +95,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mr_Zhong_Shenghan_Desmond.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mr_Zhong_Shenghan_Desmond.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Quek_Liza__Guo_Lisha_.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Quek_Liza__Guo_Lisha_.jpg">
 </div>
 </td>
 </tr>
@@ -115,7 +115,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mr_Li_Yundong.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mr_Li_Yundong.jpg">
 </div>
 </td>
 </tr>
@@ -123,13 +123,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Goh_Sok_Fern.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Goh_Sok_Fern.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Nur_Rakeezah_Bte_Abdul_Rahim.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Nur_Rakeezah_Bte_Abdul_Rahim.jpg">
 </div>
 </td>
 </tr>
