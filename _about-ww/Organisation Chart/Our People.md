@@ -94,13 +94,11 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br><strong>Mr Zhong Shenghan Desmond<br></strong> HOD/Humanities</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Zhong_Shenghan_Desmond.jpg">
+</div>
+<p><strong>Mr Zhong Shenghan Desmond<br></strong> HOD/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
