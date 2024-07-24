@@ -232,7 +232,7 @@ Education</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Robert_Lee_Teck_Choon_400.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Robert_Lee_Teck_Choon_400.jpg">
 </div>
 <p><strong>Mr Lee Teck Choon Robert<br></strong> SH/Physical Education</p>
 </td>
