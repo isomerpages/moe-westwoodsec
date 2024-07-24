@@ -128,14 +128,35 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/mr%20lau%20yongxing%20bob.jpeg">
 </div>
-<p><strong>Mr Lau Yongxing Bob<br></strong> HOD/Mathematics</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/mr li yundong.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Li_Yundong.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lau Yongxing Bob<br></strong> HOD/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Li Yundong<br></strong>HOD/Mother Tongue Languages</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Goh_Sok_Fern.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Nur_Rakeezah_Bte_Abdul_Rahim.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -148,15 +169,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mr%20heng%20yih%20foo%20hector.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Nur_Hidayah_Binte_Moktar.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Heng Yih Foo Hector<br></strong> HOD/Technology &amp; Design</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/mdm nur hidayah binte moktar.jpg">
-</div>
 <p><strong>Mdm Nur Hidayah Bte Moktar<br></strong> School Staff Developer</p>
 </td>
 </tr>
