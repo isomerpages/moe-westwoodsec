@@ -208,7 +208,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/Miss_Maria_Bte_Marzuki.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Miss_Maria_Bte_Marzuki.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,7 +238,7 @@ Sec</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Loh_May_Kay_Maria__Luo_Meiqi_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Loh_May_Kay_Maria__Luo_Meiqi_.jpg">
 </div>
 </td>
 </tr>
@@ -254,7 +254,7 @@ Sec</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Lee_Chuen_Hing.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Lee_Chuen_Hing.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -273,21 +273,26 @@ Sec</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/ms nadia binte eddy razali.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Nadia_Bte_Eddy_Razali.jpg">
 </div>
-<p><strong>Mdm Nadia Binte Eddy Razali <br></strong>SH/Character &amp; Citizenship
-Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/miss melissa manuela rama shan.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Nadia Binte Eddy Razali <br></strong>SH/Character &amp; Citizenship
+Education</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Ms Melissa Manuela Rama Shan</strong>
 </p>
-<p>SH/Chemistry
-<br>
-</p>
+<p>SH/Chemistry</p>
 </td>
 </tr>
 <tr>
