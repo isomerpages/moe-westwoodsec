@@ -96,7 +96,7 @@ Education</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Zhong_Shenghan_Desmond.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Zhong_Shenghan_Desmond_400.jpg">
 </div>
 <p><strong>Mr Zhong Shenghan Desmond<br></strong> HOD/Humanities</p>
 </td>
