@@ -208,15 +208,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ms maria marzuki.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/Miss_Maria_Bte_Marzuki.jpg">
 </div>
-<p><strong>Ms Maria Marzuki<br></strong>Year Head/ Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ms nurul atika bte ramli.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Nurul_Atika_Binti_Ramli.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Maria Marzuki<br></strong>Year Head/ Lower Sec</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Ms Nurul Atika Bte Ramli<br></strong>Assistant Year Head/Lower
 Sec</p>
 </td>
