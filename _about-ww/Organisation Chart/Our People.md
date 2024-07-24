@@ -301,12 +301,20 @@ Education</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Robert_Lee_Teck_Choon_400.jpg">
 </div>
-<p><strong>Mr Lee Teck Choon Robert<br></strong> SH/Physical Education</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:55%" height="auto" width="100%" src="/images/mr mohammad redzuan bin ja'afar.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lee Teck Choon Robert<br></strong> SH/Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Mohammad Redzuan Bin Jaafar<br></strong>SH/Student Management</p>
 </td>
 </tr>
