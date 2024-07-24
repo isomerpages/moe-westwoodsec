@@ -79,30 +79,20 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Org Pics/400Mdm_Fauziah_Bte_Ahmad.jpg">
-</div>
+<p><strong>Mdm Fauziah Bte Ahmad</strong>
+</p>
+<p>HOD/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/400Miss_Lee_Chew_Yen.jpg">
-</div>
+<p><strong>Ms Lee Chew Yen<br></strong>HOD/English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mr_Zhong_Shenghan_Desmond.jpg">
-</div>
+<p><strong>Mr Zhong Shenghan Desmond<br></strong>HOD/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Quek_Liza__Guo_Lisha_.jpg">
-</div>
+<p><strong>Mdm Quek Liza<br></strong>HOD/ICT</p>
 </td>
 </tr>
 <tr>
@@ -115,22 +105,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mr_Li_Yundong.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/mr li yundong.jpeg">
 </div>
+<p><strong>Mr Li Yundong<br></strong>HOD/Mother Tongue Languages</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Goh_Sok_Fern.jpg">
-</div>
+<p><strong>Mdm Goh Sok Fern<br></strong>HOD/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Nur_Rakeezah_Bte_Abdul_Rahim.jpg">
-</div>
+<p><strong>Mdm Nur Rakeezah Bte Abdul Rahim<br></strong>HOD/Student Management</p>
 </td>
 </tr>
 <tr>
