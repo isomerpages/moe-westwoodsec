@@ -8,11 +8,6 @@ description: ""
 <details class="isomer-details">
 <summary>Middle Managers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -82,31 +77,23 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/mr lau yongxing bob.jpeg">
-</div>
 <p><strong>Mr Lau Yongxing Bob<br></strong>HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p><strong>Mr Foo Chee Sian Eric<br></strong>HOD/PE CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
 </td>
 </tr>
 </tbody>
