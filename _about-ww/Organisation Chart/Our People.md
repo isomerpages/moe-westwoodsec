@@ -79,32 +79,30 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mdm%20fauziah%20bte%20ahmad.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Fauziah_Bte_Ahmad.jpg">
 </div>
-<p><strong>Mdm Fauziah Bte Ahmad<br></strong> HOD/Character &amp; Citizenship
-Education</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/miss%20lee%20chew%20yen.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Miss_Lee_Chew_Yen.jpg">
 </div>
-<p><strong>Ms Lee Chew Yen<br></strong> HOD/English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Zhong_Shenghan_Desmond_400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mr_Zhong_Shenghan_Desmond.jpg">
 </div>
-<p><strong>Mr Zhong Shenghan Desmond<br></strong> HOD/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/mdm%20quek%20liza.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Quek_Liza__Guo_Lisha_.jpg">
 </div>
-<p><strong>Mdm Quek Liza<br></strong> HOD/ICT</p>
 </td>
 </tr>
 <tr>
