@@ -233,12 +233,20 @@ Sec</p>
 <div class="isomer-image-wrapper">
 <img style="width:55%" height="auto" width="100%" src="/images/miss%20teo%20shi%20yun%20madeline.jpg">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Loh_May_Kay_Maria__Luo_Meiqi_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Miss Teo Shi Yun Madeline<br></strong> SH/Food &amp; Nutrition</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/miss loh may-kay maria.jpg">
-</div>
 <p><strong>Ms Loh May-Kay Maria<br></strong> SH/History &amp; Social Studies</p>
 </td>
 </tr>
@@ -254,6 +262,14 @@ Sec</p>
 <img style="width:55%" height="auto" width="100%" src="/images/mr%20chan%20chi%20thio.jpeg">
 </div>
 <p><strong>Mr Chan Chi Thio<br></strong> SH/ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
