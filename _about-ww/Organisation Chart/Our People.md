@@ -113,24 +113,24 @@ variant: tiptap
 <p><strong>Mr Lau Yongxing Bob<br></strong> HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/mr li yundong.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mr_Li_Yundong.jpg">
 </div>
-<p><strong>Mr Li Yundong<br></strong> HOD/Mother Tongue Languages</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mdm%20goh%20sok%20fern.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Goh_Sok_Fern.jpg">
 </div>
-<p><strong>Mdm Goh Sok Fern<br></strong> HOD/Science</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/mdm%20nur%20rakeezah%20bte%20abdul%20rahim.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Nur_Rakeezah_Bte_Abdul_Rahim.jpg">
 </div>
-<p><strong>Mdm Nur Rakeezah Bte Abdul Rahim<br></strong> HOD/Student Management</p>
 </td>
 </tr>
 <tr>
