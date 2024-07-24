@@ -88,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chen Han</p>
+<p>Mr Chen Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3C</p>
