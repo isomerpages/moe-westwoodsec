@@ -445,13 +445,13 @@ Education</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mr wang pok shien.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Wang_Pok_Shien.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/mdm nor haseena binte masrip.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mdm_nor_haseena_binte_masrip.jpg">
 </div>
 </th>
 </tr>
