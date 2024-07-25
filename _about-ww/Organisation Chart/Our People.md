@@ -27,13 +27,13 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mr derrick hoi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Hoi_Weng_Kit_Derrick.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/mr lek chun guan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Lek_Chun_Guan.jpg">
 </div>
 </th>
 </tr>
