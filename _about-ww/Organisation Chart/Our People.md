@@ -244,7 +244,7 @@ Sec</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Teo Shi Yun Madeline<br></strong> SH/Food &amp; Nutrition</p>
+<p><strong>Ms Teo Shi Yun Madeline<br></strong> SH/Food &amp; Nutrition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Loh May-Kay Maria<br></strong> SH/History &amp; Social Studies</p>
@@ -290,7 +290,7 @@ Sec</p>
 Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Melissa Manuela Rama Shan</strong>
+<p><strong>Ms Melissa Manuela </strong>
 </p>
 <p>SH/Chemistry</p>
 </td>
