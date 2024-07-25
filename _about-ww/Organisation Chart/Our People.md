@@ -21,7 +21,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mr abdul harris bin sumardi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/mr_abdul_harris_bin_sumardi.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -33,13 +33,13 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Lek_Chun_Guan.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Lek_Chun_Guan.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Abdul Harris Bin Sumardi</strong>
+<p><strong>Mr Abdul Harris Sumardi</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -336,8 +336,17 @@ Education</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mdm%20saha%20mousumi.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mdm_saha_mousumi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -359,8 +368,9 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mdm wang fang.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Wang_Fang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -383,8 +393,9 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mr muhamad hamim b abdul rahim.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mr_muhamad_hamim_b_abdul_rahim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
