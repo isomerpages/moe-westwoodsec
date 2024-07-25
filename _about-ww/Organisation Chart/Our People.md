@@ -339,16 +339,20 @@ Education</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/mdm%20saha%20mousumi.jpeg">
 </div>
-<p></p>
-<p><strong>Mdm Saha Mousumi</strong>
-<br>LT/English Language</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mr syed ali bin mohd alhabshee.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Syed_Ali_Bin_Mohamed_Alhabshee.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Saha Mousumi</strong>
+<br>LT/English Language</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Syed Ali Bin Mohamed Alhabshee</strong> 
 <br>LT/Physics</p>
 </td>
