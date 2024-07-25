@@ -125,10 +125,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mr%20lau%20yongxing%20bob.jpeg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/mr_lau_yongxing_bob.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -290,7 +290,7 @@ Sec</p>
 Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Melissa Manuela </strong>
+<p><strong>Ms Melissa Manuela</strong>
 </p>
 <p>SH/Chemistry</p>
 </td>
