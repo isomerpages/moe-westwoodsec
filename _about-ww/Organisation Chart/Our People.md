@@ -386,25 +386,37 @@ Education</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/mr muhamad hamim b abdul rahim.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Ahmad_Luqman_Bin_Ghazali.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Muhammad Hamim B Abdul Rahim</strong> 
 <br>ST/PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mr ahmad luqman bin ghazali.jpg">
-</div>
-<p></p>
 <p><strong>Mr Ahmad Luqman Bin Ghazali</strong> 
 <br>ST/CCE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mdm_farhana_binte_mokhtar.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Farhana_Binte_Mokhtar.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mdm Farhana Binte Mokhtar</strong> 
 <br>ST/Malay Language</p>
 </td>
