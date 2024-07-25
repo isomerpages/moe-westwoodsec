@@ -368,8 +368,9 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mdm wang fang.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Wang_Fang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -392,8 +393,9 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/mr muhamad hamim b abdul rahim.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mr_muhamad_hamim_b_abdul_rahim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
