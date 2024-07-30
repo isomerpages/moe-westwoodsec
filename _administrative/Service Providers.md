@@ -5,11 +5,13 @@ description: ""
 variant: markdown
 ---
 ### SCHOOL UNIFORM 
-Name of supplier: Shanghai School Uniforms Pte Ltd <br> 
-Tel Number: 6352 2741  <br>
+Name of supplier:  Asencio Pte Ltd<br> 
+Tel Number: 6764 3102   <br>
+Ms Carol: 9832 4917<br>
+Ms Noelle Peng (Sales Manager): 9693 0610<br>
 Email:&nbsp;[contact@shanghai-uniforms.com](mailto:contact@shanghai-uniforms.com)  <br>
 Website:&nbsp;[https://shanghai-uniforms.com](https://shanghai-uniforms.com/)  <br>
-Ubi Retail Outlet: 63 Ubi Avenue 1 #04-09 (63 @ Ubi)   <br>
+Retail Outlet: 120 Hillview Avenue #05-02 (Kewalram Hillview) <br>
 The school uniform can be purchased from the school bookshop during term time.
 
 
