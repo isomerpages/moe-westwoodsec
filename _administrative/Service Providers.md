@@ -8,7 +8,7 @@ variant: markdown
 Name of supplier:  Asencio Pte Ltd<br> 
 Tel Number: 6764 3102   <br>
 Email:&nbsp;[uniforms@asencio.com.sg](mailto:uniforms@asencio.com.sg)  <br>
-Website: [https://asencio.com.sg/](https://asencio.com.sg/)  <br> 
+Website: [https://asencio.com.sg/](https://asencio.com.sg)  <br> 
 Retail Outlet: 120 Hillview Avenue #05-02 (Kewalram Hillview) <br>
 The school uniform can be purchased from the school bookshop during term time.
 
