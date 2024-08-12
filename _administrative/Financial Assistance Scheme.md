@@ -13,8 +13,6 @@ Office (“GO”) by <strong>28 August 2024 (Wednesday)</strong>. Late submissio
 will not be entertained. Thank you for your co-operation and understanding.</p>
 <p>Click <a href="/files/STPM_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
 download form.</p>
-<p><a href="/files/STPM_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
 <p></p>
 <p><strong>MOE FINANCIAL ASSISTANCE SCHEME</strong>
 </p>
