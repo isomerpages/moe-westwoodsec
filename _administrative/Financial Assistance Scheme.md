@@ -11,7 +11,7 @@ Application Form. It’s open to current Secondary 1 Students. Submit the
 Application Form with the necessary complete supporting documents to General
 Office (“GO”) by <strong>28 August 2024 (Wednesday)</strong>. Late submission
 will not be entertained. Thank you for your co-operation and understanding.</p>
-<p>Click <a href="/files/Annex_A__Annex_B___2024_STSPMF_Application_Form_for_schools.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
+<p>Click <a href="/files/STPM_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
 download form.</p>
 <p></p>
 <p></p>
