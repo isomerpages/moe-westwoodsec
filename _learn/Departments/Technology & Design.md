@@ -49,7 +49,12 @@ to adapt to changes in the future</p>
 </li>
 </ul>
 <h3>D&amp;T</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -112,7 +117,12 @@ facilitated by their teachers.</p>
 </tbody>
 </table>
 <h3>NFS</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -168,7 +178,12 @@ when innovating food products.
 </tbody>
 </table>
 <h3>ART</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -229,7 +244,11 @@ the showcase.</p>
 </tbody>
 </table>
 <h3>Department Achievements</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -292,7 +311,11 @@ of Participation
 <h3>Useful Links</h3>
 <p><strong>D&amp;T</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -342,7 +365,11 @@ of Participation
 </table>
 <p><strong>NFS</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -389,20 +416,15 @@ of Participation
 accessed to view evidence-based health and wellness information.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.craftybaking.com/" rel="noopener noreferrer nofollow" target="_blank">Crafty Baking formerly known as Baking 911</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To understand the science behind baking.</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong>ART</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
