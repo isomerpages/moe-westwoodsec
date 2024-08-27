@@ -28,23 +28,23 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1Jkq9matvQqQMSXt4sp0n3oTWIdLTwoNQ/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Sec 1 End-of-Year Examination</a>
+<p><a href="https://drive.google.com/file/d/1Jkq9matvQqQMSXt4sp0n3oTWIdLTwoNQ/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1 End-of-Year Examination</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1XB5oio6ewSwGQXW23rxfXyKeHujbtA4O/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2EXP/NA/NT End-of Year Examination</a>
+<p><a href="https://drive.google.com/file/d/1XB5oio6ewSwGQXW23rxfXyKeHujbtA4O/view?usp=sharing" rel="noopener nofollow" target="_blank">2EXP/NA/NT End-of Year Examination</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1DGsY-eiiZVZHV-kZOkkqT-ZIqHg1_iYi/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3EXP End-of-Year Examination</a>
+<p><a href="https://drive.google.com/file/d/1DGsY-eiiZVZHV-kZOkkqT-ZIqHg1_iYi/view?usp=sharing" rel="noopener nofollow" target="_blank">3EXP End-of-Year Examination</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/10mrRgs_OI72MJs7hvwPlKQZbY7p95XCs/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3NA End-of-Year Examination</a>
+<p><a href="https://drive.google.com/file/d/10mrRgs_OI72MJs7hvwPlKQZbY7p95XCs/view?usp=sharing" rel="noopener nofollow" target="_blank">3NA End-of-Year Examination</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1l4N5aXTt52P2sZE4oIa_6xYOmSO5Jb-z/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">3NT End-of-Year Examination</a>
+<p><a href="https://drive.google.com/file/d/1l4N5aXTt52P2sZE4oIa_6xYOmSO5Jb-z/view?usp=sharing" rel="noopener nofollow" target="_blank">3NT End-of-Year Examination</a>
 </p>
 </li>
 </ul>
