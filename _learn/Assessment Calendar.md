@@ -32,7 +32,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1XB5oio6ewSwGQXW23rxfXyKeHujbtA4O/view?usp=sharing" rel="noopener nofollow" target="_blank">2EXP/NA/NT End-of Year Examination</a>
+<p><a href="https://drive.google.com/file/d/1XB5oio6ewSwGQXW23rxfXyKeHujbtA4O/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2 End-of Year Examination</a>
 </p>
 </li>
 <li>
