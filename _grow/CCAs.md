@@ -110,6 +110,10 @@ training</p>
 </p>
 </li>
 <li>
+<p><a href="/cca/visual-and-performing-arts/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+</p>
+</li>
+<li>
 <p><a href="/cca/visual-and-performing-arts/english-drama/" rel="noopener noreferrer nofollow" target="_blank">English Drama</a>
 </p>
 </li>
@@ -119,10 +123,6 @@ training</p>
 </li>
 <li>
 <p><a href="/cca/visual-and-performing-arts/modern-dance/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance</a>
-</p>
-</li>
-<li>
-<p><a href="/cca/visual-and-performing-arts/show-choir/" rel="noopener noreferrer nofollow" target="_blank">Show Choir</a>
 </p>
 </li>
 <li>
