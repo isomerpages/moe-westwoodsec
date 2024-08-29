@@ -112,7 +112,7 @@ and genres&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Commendation Award in SYF Choir 2023
-<br>Emerald Award for Show Choir Festival B-Dazzled 2023
+<br>Emerald Award for Choir Festival B-Dazzled 2023
 <br>Best Music Arrangement Award Festival B-Dazzled 2023</p>
 </td>
 </tr>
@@ -121,7 +121,7 @@ and genres&nbsp;</p>
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Platinum Award for Show Choir Festival B-Dazzled 2022
+<p>Platinum Award for Choir Festival B-Dazzled 2022
 <br>Best Vocals Award Festival B-Dazzled 2022</p>
 </td>
 </tr>
@@ -130,7 +130,7 @@ and genres&nbsp;</p>
 <p>2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Platinum Award for Show Choir Festival B-Dazzled 2019</p>
+<p>Platinum Award for Choir Festival B-Dazzled 2019</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +138,7 @@ and genres&nbsp;</p>
 <p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Diamond Award for Show Choir Festival B-Dazzled 2018
+<p>Diamond Award for Choir Festival B-Dazzled 2018
 <br>
 </p>
 </td>
@@ -148,7 +148,7 @@ and genres&nbsp;</p>
 <p>2017</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Platinum Award for Show Choir Festival B-Dazzled 2017</p>
+<p>Platinum Award for Choir Festival B-Dazzled 2017</p>
 </td>
 </tr>
 </tbody>
@@ -188,8 +188,7 @@ and genres&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The choir is fully prepared to ‘charm’ potential sec 1 members with an
-extensive Show Choir program that encompasses singing, dancing and acting
-elements.</p>
+extensive Choir program that encompasses singing, dancing and acting elements.</p>
 </td>
 </tr>
 <tr>
