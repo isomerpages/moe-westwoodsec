@@ -13,7 +13,11 @@ external: /2025-sec-3-subject-option/
 below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/184tW98cuXq4dza_sH8ybrN7jJh7g7PZI/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 WWSS International Programme </a>
+<p><a href="https://drive.google.com/file/d/140q4BIlVHOcxTLlm3cwqeWf7bF5kmkpQ/view?usp=drive_link" rel="noopener nofollow" target="_blank">Subject Option - Briefing to parents</a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/184tW98cuXq4dza_sH8ybrN7jJh7g7PZI/view?usp=sharing" rel="noopener nofollow" target="_blank">2025 WWSS International Programme</a>
 </p>
 </li>
 <li>
@@ -26,10 +30,6 @@ below:</p>
 </li>
 <li>
 <p><a href="https://drive.google.com/file/d/1hKWdHkKOT1oCVmQZbfLxha0wy-9wxBZc/view?usp=drive_link" rel="noopener nofollow" target="_blank">Elements Of Business Skills sharing</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/140q4BIlVHOcxTLlm3cwqeWf7bF5kmkpQ/view?usp=drive_link" rel="noopener nofollow" target="_blank">Subject Option - Briefing to parents</a>
 </p>
 </li>
 </ul>
