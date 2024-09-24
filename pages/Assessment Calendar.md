@@ -36,11 +36,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1DGsY-eiiZVZHV-kZOkkqT-ZIqHg1_iYi/view?usp=sharing" rel="noopener nofollow" target="_blank">3EXP End-of-Year Examination</a>
+<p><a href="https://drive.google.com/file/d/1nPVTAYup_3EQ51KPOrPyArDFrRXKeCSp/view?usp=sharing" rel="noopener nofollow" target="_blank">3EXP End-of-Year Examination</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/10mrRgs_OI72MJs7hvwPlKQZbY7p95XCs/view?usp=sharing" rel="noopener nofollow" target="_blank">3NA End-of-Year Examination</a>
+<p><a href="https://drive.google.com/file/d/1_ZzsJ1vyt_YH7QeWBYrggOP69pUVx8ky/view?usp=sharing" rel="noopener nofollow" target="_blank">3NA End-of-Year Examination</a>
 </p>
 </li>
 <li>
