@@ -73,7 +73,7 @@ reset process will take place.</p>
 Mdm Barbara or Mdm Suziana at 6792 9737 if the PLD has not been de-enrolled
 successfully.
 <br>
-<br>Students can refer to the PLD De-enrolment guide: <strong>Instructions for PLD De-enrolment</strong>  <strong>(add link) </strong>which
+<br>Students can refer to the PLD De-enrolment guide: <a href="https://drive.google.com/file/d/1QwItyeBxwaL_JadwAdjAl3rv6Na6pioy/view?usp=sharing" rel="noopener nofollow" target="_blank">Instructions for PLD De-enrolment</a><strong> </strong>which
 provides a step-by-step instructions to follow during the PLD De-enrolment
 exercise and to also check if the PLD has been de-enrolled successfully.
 <br>
