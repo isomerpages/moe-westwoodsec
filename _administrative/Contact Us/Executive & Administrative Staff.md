@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Contact Us
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -90,6 +95,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kalechselvi_wanggili@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kalechselvi_wanggili@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Maimunah Abdul Kadir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer (CSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:maimunah_abdul_kadir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maimunah_abdul_kadir@schools.gov.sg</a>
 </p>
 </td>
 </tr>
