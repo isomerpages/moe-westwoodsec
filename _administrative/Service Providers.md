@@ -32,7 +32,7 @@ Please refer to the booklist for details on sales of textbooks and uniform durin
 **Secondary 2**<br>
 [Sec 2G1](https://drive.google.com/file/d/1tCSD7_DG2Nz--5xKGBwY5Z4XjIgMPb-S/view?usp=sharing)<br>
 [Sec 2G2](https://drive.google.com/file/d/1sJu6MHVNjHb3QJGuynnK5mwX4CqZuNjM/view?usp=sharing)<br>
-[Sec 2G3](https://drive.google.com/file/d/1J-RJfbrCzdrAh-knhVo8N1xNnUrDVGzX/view?usp=sharing)[Sec 2 NT](/files/s2nt%202024.pdf)<br>
+[Sec 2G3](https://drive.google.com/file/d/1J-RJfbrCzdrAh-knhVo8N1xNnUrDVGzX/view?usp=sharing)<br>
 
 **Secondary 3**<br>
 [Sec 3 Express](https://drive.google.com/file/d/114lhCkxSPh9Cp2dO2TVQHo1aai0SCIGR/view?usp=drive_link)<br>
