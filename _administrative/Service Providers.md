@@ -21,26 +21,26 @@ Email:&nbsp;[sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <b
 Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
 Opening hours: 730 am to 230 pm (during school term)
 
-### Booklist 2024
+### Booklist 2025
 Please refer to the booklist for details on sales of textbooks and uniform during the school holiday period.
 
 **Secondary 1**<br>
-[Sec 1 G1](/files/s1%20g1%202024.pdf)<br>
-[Sec 1 G2](/files/s1%20g2%202024.pdf)<br>
-[Sec 1 G3](/files/s1%20g3%202024.pdf)<br>
+[Sec 1G1](https://drive.google.com/file/d/14SNfrEAeVogIQ3BMEcotska0AQrnIls_/view?usp=sharing)<br>
+[Sec 1G2](https://drive.google.com/file/d/1d-SbAAYcZ6CmsJGfyH0VHCLhJKF_-wIr/view?usp=sharing)<br>
+[Sec 1G3](https://drive.google.com/file/d/17ccKg6oynHDZ2MUzD5kQcmgIzlLkI2pH/view?usp=sharing)<br>
 
 **Secondary 2**<br>
-[Sec 2 Express](/files/s2exp%202024.pdf)<br>
-[Sec 2 NA](/files/s2na%202024.pdf)<br>
-[Sec 2 NT](/files/s2nt%202024.pdf)<br>
+[Sec 2G1](https://drive.google.com/file/d/1tCSD7_DG2Nz--5xKGBwY5Z4XjIgMPb-S/view?usp=sharing)<br>
+[Sec 2G2](https://drive.google.com/file/d/1sJu6MHVNjHb3QJGuynnK5mwX4CqZuNjM/view?usp=sharing)<br>
+[Sec 2G3](https://drive.google.com/file/d/1J-RJfbrCzdrAh-knhVo8N1xNnUrDVGzX/view?usp=sharing)[Sec 2 NT](/files/s2nt%202024.pdf)<br>
 
 **Secondary 3**<br>
-[Sec 3 Express](/files/s3exp%202024.pdf)<br>
-[Sec 3 NA](/files/s3na%202024.pdf)<br>
-[Sec 3 NT](/files/s3nt%202024.pdf)<br>
+[Sec 3 Express](https://drive.google.com/file/d/114lhCkxSPh9Cp2dO2TVQHo1aai0SCIGR/view?usp=drive_link)<br>
+[Sec 3NA](https://drive.google.com/file/d/1ZwaUTZYkonw75oCrAsTQP696PvF3ZKWw/view?usp=drive_link)<br>
+[Sec 3 NT](https://drive.google.com/file/d/1h0MtnogLqbp35Ur3fBoY1aboIPZkauUW/view?usp=drive_link)<br>
 
 **Secondary 4 &amp; 5**<br>
-[Sec 4 Express](/files/s4exp%202024.pdf)<br>
-[Sec 4 NA](/files/s4na%202024.pdf)<br>
-[Sec 4 NT](/files/s4nt%202024.pdf)<br>
-[Sec 5 NA](/files/s5na%202024.pdf)
+[Sec 4 Express](https://drive.google.com/file/d/1rLSaDYawo_1j9E6TDOLdR70E1SKt4cyJ/view?usp=drive_link)<br>
+[Sec 4 NA](https://drive.google.com/file/d/1PiP1wMIXeYhAhNipTyfOb8ReX8G3ctZX/view?usp=drive_link)<br>
+[Sec 4 NT](https://drive.google.com/file/d/18E5IIDcVrrzODopS66sVcL2JAF6uRxIZ/view?usp=drive_link)<br>
+[Sec 5 NA](https://drive.google.com/file/d/1O9P2OdWNxEMyr-qu9h_KiOroBxjcHxla/view?usp=drive_link)
