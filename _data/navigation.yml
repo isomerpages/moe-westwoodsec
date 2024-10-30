@@ -18,10 +18,10 @@ links:
       - title: Discipline
         url: /discipline/
   - title: Explore
-    url: https://www.westwoodsec.moe.edu.sg/direct-school-admission/
+    url: /direct-school-admission/
     sublinks:
       - title: Direct School Admission
-        url: https://www.westwoodsec.moe.edu.sg/direct-school-admission/
+        url: /direct-school-admission/
   - title: WW Family
     collection: ww-family
   - title: Administration
