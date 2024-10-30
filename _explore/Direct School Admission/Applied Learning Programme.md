@@ -1,6 +1,6 @@
 ---
 title: Applied Learning Programme
-permalink: /explore/applied-learning-programme/
+permalink: /dsa/applied-learning-programme/
 description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
