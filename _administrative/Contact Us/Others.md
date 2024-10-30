@@ -51,18 +51,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Yamin Masop</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_yamin_masop@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_yamin_masop@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ng Puay San Christina&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,18 +75,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zainun Bte Hashim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Zainun_Hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zainun_Hashim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Sim Tze Yong, Jeryl</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -118,18 +94,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lynda_kwan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lynda_kwan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Madeline Ong Li Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:madeline_ong_li_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">madeline_ong_li_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
