@@ -1,6 +1,6 @@
 ---
 title: Introduction
-permalink: /about-us/direct-school-admission/
+permalink: /direct-school-admission/
 description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
