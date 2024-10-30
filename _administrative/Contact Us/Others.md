@@ -87,18 +87,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lynda Kwan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lynda_kwan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lynda_kwan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Muhammad Danial Afiq</p>
 </td>
 <td rowspan="1" colspan="1">
