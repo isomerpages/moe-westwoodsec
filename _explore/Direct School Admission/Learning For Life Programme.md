@@ -1,6 +1,6 @@
 ---
 title: Learning For Life Programme
-permalink: /dsa/direct-school-admission/learning-for-life-programme/
+permalink: /dsa/learning-for-life-programme/
 description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
