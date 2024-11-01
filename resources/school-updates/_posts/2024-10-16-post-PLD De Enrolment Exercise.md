@@ -34,8 +34,7 @@ Date selected by the school.</p>
 <p>4NT and 4NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 4 to 6 November 2024</p>
-<p>(exact date to be confirmed)</p>
+<p>4 November 2024</p>
 </td>
 </tr>
 <tr>
@@ -43,8 +42,7 @@ Date selected by the school.</p>
 <p>4EX and 5NA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Between 12 to 14 November 2024</p>
-<p>(exact date to be confirmed)</p>
+<p>12 November 2024</p>
 </td>
 </tr>
 </tbody>
