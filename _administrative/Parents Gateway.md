@@ -26,7 +26,7 @@ who are unable to come onboard Parents Gateway.</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1L7aotG6zhmnmR3eyhNMkkX8MvXwucBxQ/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway User Guide</a>
+<p><a href="https://drive.google.com/file/d/1xRJiTm6TpDG6abHB_7ke-1e2Nd2yYUs_/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parents Gateway User Guide</a>
 </p>
 </li>
 <li>
