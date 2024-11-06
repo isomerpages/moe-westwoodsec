@@ -320,6 +320,14 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mdm Lim Shi Lei</strong>
 </p>
 <p>ST/Biology</p>
@@ -328,6 +336,14 @@ Education</p>
 <p><strong>Mdm Tang Tai-Chi</strong>
 </p>
 <p>SH/Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
