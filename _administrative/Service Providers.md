@@ -25,19 +25,19 @@ Opening hours: 730 am to 230 pm (during school term)
 Please refer to the booklist for details on sales of textbooks and uniform during the school holiday period.
 
 **Secondary 1**<br>
-[Sec 1G1](https://drive.google.com/file/d/14SNfrEAeVogIQ3BMEcotska0AQrnIls_/view?usp=sharing)<br>
-[Sec 1G2](https://drive.google.com/file/d/1d-SbAAYcZ6CmsJGfyH0VHCLhJKF_-wIr/view?usp=sharing)<br>
-[Sec 1G3](https://drive.google.com/file/d/17ccKg6oynHDZ2MUzD5kQcmgIzlLkI2pH/view?usp=sharing)<br>
+[Sec 1G1](https://drive.google.com/file/d/1YM_HPUwZ6XOuiKM1vtoESHHYmq08R5N0/view?usp=drive_link) <br>
+[Sec 1G2](https://drive.google.com/file/d/135lURkjSpRDwjdLB00kVw9Av2ZbtUols/view?usp=drive_link)<br>
+[Sec 1G3](https://drive.google.com/file/d/1aQ8ir9IBzBvg-3El3XCbx9luh9Vao4CA/view?usp=drive_link)<br>
 
 **Secondary 2**<br>
-[Sec 2G1](https://drive.google.com/file/d/1tCSD7_DG2Nz--5xKGBwY5Z4XjIgMPb-S/view?usp=sharing)<br>
-[Sec 2G2](https://drive.google.com/file/d/1sJu6MHVNjHb3QJGuynnK5mwX4CqZuNjM/view?usp=sharing)<br>
-[Sec 2G3](https://drive.google.com/file/d/1J-RJfbrCzdrAh-knhVo8N1xNnUrDVGzX/view?usp=sharing)<br>
+[Sec 2G1](https://drive.google.com/file/d/1AvycerbWpTR6XXpHqbD4MuBtxsR__U5S/view?usp=drive_link)<br>
+[Sec 2G2](https://drive.google.com/file/d/1yEbll9fMTvHMuLoNM0EZ48pJTTjxbldX/view?usp=drive_link)<br>
+[Sec 2G3](https://drive.google.com/file/d/1MSoNyboitxQ7O8D3skN6W3YTokUs5mTX/view?usp=drive_link)<br>
 
 **Secondary 3**<br>
-[Sec 3 Express](https://drive.google.com/file/d/114lhCkxSPh9Cp2dO2TVQHo1aai0SCIGR/view?usp=drive_link)<br>
-[Sec 3NA](https://drive.google.com/file/d/1ZwaUTZYkonw75oCrAsTQP696PvF3ZKWw/view?usp=drive_link)<br>
-[Sec 3 NT](https://drive.google.com/file/d/1h0MtnogLqbp35Ur3fBoY1aboIPZkauUW/view?usp=drive_link)<br>
+[Sec 3 Express](https://drive.google.com/file/d/12Ai2ugqE34W0NyVN7OmN9Qwe3Zgkv_1t/view?usp=drive_link)<br>
+[Sec 3NA](https://drive.google.com/file/d/1yrDhrd_jfxYu_ITjQmGUEgMJ4AM-JTSw/view?usp=drive_link)<br>
+[Sec 3 NT](https://drive.google.com/file/d/1jkZBcYARMoPRMbWlHNcj584-qGtQAKLZ/view?usp=drive_link)<br>
 
 **Secondary 4 &amp; 5**<br>
 [Sec 4 Express](https://drive.google.com/file/d/1rLSaDYawo_1j9E6TDOLdR70E1SKt4cyJ/view?usp=drive_link)<br>
