@@ -20,7 +20,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Release of streaming results <u>without</u> class allocation</strong>
+<p><strong>Release of streaming results <a href="https://forms.moe.edu.sg/forms/vV5LYl" rel="noopener nofollow" target="_blank">without</a> class allocation</strong>
 </p>
 <p>Refer to noticeboard outside General Office or check online through All
 Ears Form link.</p>
@@ -34,7 +34,9 @@ Ears Form link.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Deadline for appeals</strong>
 </p>
-<p>Submit appeals for change of subjects through online appeal form.</p>
+<p>Submit appeals for change of subjects through online appeal form.
+<br><strong><a href="https://forms.moe.edu.sg/forms/oOklpO" rel="noopener nofollow" target="_blank">Appeal link </a></strong>
+</p>
 </td>
 </tr>
 <tr>
