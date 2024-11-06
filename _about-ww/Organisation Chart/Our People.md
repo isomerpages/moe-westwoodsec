@@ -335,13 +335,11 @@ Education</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Lim Shi Lei</strong>
-</p>
-<p>ST/Biology</p>
+<br>ST/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Tang Tai-Chi</strong>
-</p>
-<p>SH/Aesthetics</p>
+<br>SH/Aesthetics</p>
 </td>
 </tr>
 <tr>
@@ -358,8 +356,7 @@ Education</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Natria Nor Siman</strong>
-</p>
-<p>SH/21CC</p>
+<br>SH/21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
