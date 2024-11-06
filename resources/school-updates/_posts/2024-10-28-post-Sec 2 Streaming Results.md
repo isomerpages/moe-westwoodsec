@@ -35,7 +35,7 @@ Ears Form link.</p>
 <p><strong>Deadline for appeals</strong>
 </p>
 <p>Submit appeals for change of subjects through online appeal form.
-<br><strong><a href="https://forms.moe.edu.sg/forms/oOklpO" rel="noopener nofollow" target="_blank">Appeal link </a></strong>
+<br><strong><a href="https://forms.moe.edu.sg/forms/oOklpO" rel="noopener nofollow" target="_blank">Appeal link</a></strong>
 </p>
 </td>
 </tr>
