@@ -318,6 +318,28 @@ Education</p>
 <p><strong>Mr Mohammad Redzuan Bin Jaafar<br></strong>SH/Student Management</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Lim Shi Lei </strong>
+</p>
+<p>ST/Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Tang Tai-Chi </strong>
+</p>
+<p>SH/Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Natria Nor Siman </strong>
+</p>
+<p>SH/21CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
