@@ -328,7 +328,7 @@ Education</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Tang_Tai_Chi.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Tang_Tai_Chi.jpg">
 </div>
 </td>
 </tr>
@@ -348,7 +348,7 @@ Education</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Natria_Binte_Nor_Siman.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Natria_Binte_Nor_Siman.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
