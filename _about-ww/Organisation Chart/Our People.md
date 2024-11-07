@@ -367,13 +367,11 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mdm_saha_mousumi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/mdm_saha_mousumi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Syed_Ali_Bin_Mohamed_Alhabshee.jpg">
 </div>
@@ -385,7 +383,7 @@ Education</p>
 <br>LT/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Syed Ali Bin Mohamed Alhabshee</strong> 
+<p><strong>Mr Syed Ali Bin Mohamed Alhabshee</strong>
 <br>LT/Physics</p>
 </td>
 </tr>
@@ -393,7 +391,7 @@ Education</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Wang_Fang.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Wang_Fang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -418,7 +416,7 @@ Education</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mr_muhamad_hamim_b_abdul_rahim.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Pics/mr_muhamad_hamim_b_abdul_rahim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -442,7 +440,7 @@ Education</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Farhana_Binte_Mokhtar.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Farhana_Binte_Mokhtar.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -459,8 +457,7 @@ Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Lim Shi Lei</strong>
-</p>
-<p>ST/Biology</p>
+<br>ST/Biology</p>
 </td>
 </tr>
 </tbody>
