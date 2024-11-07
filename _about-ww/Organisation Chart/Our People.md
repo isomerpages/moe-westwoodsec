@@ -418,7 +418,7 @@ Education</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mr_muhamad_hamim_b_abdul_rahim.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Pics/mr_muhamad_hamim_b_abdul_rahim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -442,7 +442,7 @@ Education</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Farhana_Binte_Mokhtar.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Farhana_Binte_Mokhtar.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
