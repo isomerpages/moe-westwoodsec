@@ -469,7 +469,7 @@ Education</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/ms_lim_shi_lei.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/ms_lim_shi_lei.jpg">
 </div>
 </td>
 </tr>
@@ -482,32 +482,6 @@ Education</p>
 <p><strong>Mdm Lim Shi Lei</strong>
 </p>
 <p>ST/Biology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Tang_Tai_Chi.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Ms_Natria_Binte_Nor_Siman.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tang Tai-Chi</strong>
-</p>
-<p>SH/Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Natria Nor Siman</strong>
-</p>
-<p>SH/21CC</p>
 </td>
 </tr>
 </tbody>
