@@ -320,9 +320,8 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/ms_lim_shi_lei.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Natria_Binte_Nor_Siman.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -334,32 +333,12 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lim Shi Lei</strong>
-<br>ST/Biology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Tang Tai-Chi</strong>
-<br>SH/Aesthetics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Natria_Binte_Nor_Siman.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Natria Nor Siman</strong>
 <br>SH/21CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Tang Tai-Chi</strong>
+<br>SH/Aesthetics</p>
 </td>
 </tr>
 </tbody>
