@@ -385,7 +385,7 @@ Education</p>
 <br>LT/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Syed Ali Bin Mohamed Alhabshee</strong> 
+<p><strong>Mr Syed Ali</strong>
 <br>LT/Physics</p>
 </td>
 </tr>
@@ -459,8 +459,7 @@ Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Lim Shi Lei</strong>
-</p>
-<p>ST/Biology</p>
+<br>ST/Biology</p>
 </td>
 </tr>
 </tbody>
