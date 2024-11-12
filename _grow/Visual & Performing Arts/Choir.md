@@ -12,15 +12,15 @@ variant: tiptap
 singing</p>
 </li>
 <li>
-<p>To build forward-thinking through innovative and creative freedom of expression
-&nbsp;</p>
+<p>To foster forward-thinking by participating in exchange programs with
+other choir teams.&nbsp;</p>
 </li>
 <li>
 <p>To foster a strong sense of belonging and teamwork &nbsp;&nbsp;</p>
 </li>
 <li>
-<p>To broaden students’ perspectives through repertoire from different cultures
-and genres&nbsp;</p>
+<p>To broaden students' perspectives by exploring repertoire from diverse
+cultures and genres.</p>
 </li>
 </ul>
 <p><strong>TEACHERS IN-CHARGE</strong>
@@ -205,6 +205,21 @@ and farewell speeches and performances to celebrate their camaraderie.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Choral Exchange Programme @ Methodist Girls School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Under the enthusiastic guidance of instructors from both schools, we immersed
+ourselves in practicing the 2025 SYF set piece "What is That I Hear?" in
+three dynamic groups. This collaborative experience was not only inspiring
+but also enriching, as it sharpened our vocal skills while deepening the
+connections between students and instructors.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SYF Camp
 <br>
 </p>
@@ -213,9 +228,9 @@ and farewell speeches and performances to celebrate their camaraderie.</p>
 <p>Nov/Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To prepare all the members well for our first SYF in April, this holiday
-camp aims to hone every member’s singing and dancing skills through focused
-rehearsals.
+<p>To prepare all the members well for our second SYF in April 2025, this
+holiday camp aims to hone every member’s singing and dancing skills through
+focused rehearsals.
 <br>
 </p>
 </td>
