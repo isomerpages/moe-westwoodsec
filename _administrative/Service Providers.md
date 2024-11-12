@@ -30,9 +30,9 @@ Please refer to the booklist for details on sales of textbooks and uniform durin
 [Sec 1G3](https://drive.google.com/file/d/1aQ8ir9IBzBvg-3El3XCbx9luh9Vao4CA/view?usp=drive_link)<br>
 
 **Secondary 2**<br>
-[Sec 2G1](https://drive.google.com/file/d/1AvycerbWpTR6XXpHqbD4MuBtxsR__U5S/view?usp=drive_link)<br>
-[Sec 2G2](https://drive.google.com/file/d/1yEbll9fMTvHMuLoNM0EZ48pJTTjxbldX/view?usp=drive_link)<br>
-[Sec 2G3](https://drive.google.com/file/d/1MSoNyboitxQ7O8D3skN6W3YTokUs5mTX/view?usp=drive_link)<br>
+[Sec 2G1](https://drive.google.com/file/d/1WsPjpDdrbNNno2_Z_KglzAkDjIib-ZBs/view?usp=drive_link)<br>
+[Sec 2G2](https://drive.google.com/file/d/1t_Bed8Yrc6TkzKZfu3ykxwQBNA-bejfg/view?usp=sharing)<br>
+[Sec 2G3](https://drive.google.com/file/d/10duBCUzxmRv7ifDjYbEAJMjIAE2sEZx-/view?usp=drive_link)<br>
 
 **Secondary 3**<br>
 [Sec 3 Express](https://drive.google.com/file/d/12Ai2ugqE34W0NyVN7OmN9Qwe3Zgkv_1t/view?usp=drive_link)<br>
