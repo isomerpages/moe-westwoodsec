@@ -62,34 +62,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/screengrab%20ugs.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/screengrab%202%20sports.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/screengrab%20clubs.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/screengrab%20vpa.jpg">
-</div>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/screengrab%20niche%20int.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
