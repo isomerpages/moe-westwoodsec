@@ -36,6 +36,29 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p><strong>Life @ Westwood</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>SCREENGRAB CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>SCREENGRAB TCR LEADERS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>ALP &amp; INT PROGRAMMES</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 <tr>
