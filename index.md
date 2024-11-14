@@ -21,8 +21,13 @@ sections:
           description: ""
           url: /administrative/usefullinks/
       background: /images/picture3.png
+  - infopic:
+      title: Open House 2024
+      subtitle: Add an image and text
+      id: infopic
+      button: Button Text
+      alt: Image alt text
   - resources:
       title: Announcements
       id: resources
-      button: More Updates
 ---
