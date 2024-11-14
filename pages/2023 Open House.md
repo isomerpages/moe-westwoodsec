@@ -2,31 +2,83 @@
 title: 2023 Open House
 permalink: /ohlandingpage/
 description: ""
+variant: tiptap
 ---
-<img style="width:200%" src="/images/sohlandingpage.jpeg"><table>
-<thead>
-	<tr></tr>
-  <tr>
-		<th colspan="2"><center><font size="5">Principal's Message </font><br><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/T14k8rra9ek?si=558ziJIpAraw013s" height="315" width="560"></iframe></center></th>
-  </tr>
-</thead>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2024BANNER.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-		<td colspan="2"><center><font size="5"><b>Life @ Westwood</b></font></center></td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="/ohuniformed/"><img src="/images/screengrab%20ugs.jpg"></a></td>
-    <td><a target="_blank" href="/ohphysicalsports/"><img src="/images/screengrab%202%20sports.jpg"></a></td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="/ohclubs/"><img src="/images/screengrab%20clubs.jpg"></a></td>
-    <td><a target="_blank" href="/ohvisual/"><img src="/images/screengrab%20vpa.jpg"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><a target="_blank" href="/ohinternationalisation/"><img src="/images/screengrab%20niche%20int.jpg" style="width:55%"></a></td>
-  </tr>
-  <tr>
-		<td colspan="2"><center><b>    <font size="5">Walking Tour</font></b><br>
-		<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/g6ssIbawoSw?si=mWYkrvNbEMnWsfp0" height="315" width="560"></iframe></center></td>
-  </tr></tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Principal's Message
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T14k8rra9ek?si=558ziJIpAraw013s"></iframe>
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Life @ Westwood</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/screengrab%20ugs.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/screengrab%202%20sports.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/screengrab%20clubs.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/screengrab%20vpa.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width:55%" height="auto" width="100%" src="/images/screengrab%20niche%20int.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Walking Tour</strong>
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/g6ssIbawoSw?si=mWYkrvNbEMnWsfp0"></iframe>
+</div>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
