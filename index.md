@@ -21,13 +21,6 @@ sections:
           description: ""
           url: /administrative/usefullinks/
       background: /images/picture3.png
-  - infopic:
-      title: 2024 Virtual Open House
-      id: infopic
-      button: MORE INFO HERE
-      alt: Image alt text
-      url: https://www.westwoodsec.moe.edu.sg/ohlandingpage/
-      image: /images/OH2024BANNER.png
   - resources:
       title: Announcements
       id: resources
