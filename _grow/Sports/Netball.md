@@ -46,7 +46,12 @@ to develop good team camaraderie over the 4 years.</p>
 <p><strong>TRAINING DAYS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -91,7 +96,11 @@ to develop good team camaraderie over the 4 years.</p>
 <p></p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -107,6 +116,8 @@ to develop good team camaraderie over the 4 years.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SSSC Inter-School Netball Competition – Top 8 in West Zone (B Div Girls)</p>
+<p></p>
+<p>Netops Carnival - Champion</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +146,12 @@ to develop good team camaraderie over the 4 years.</p>
 <p><strong>PROGRAMMES / EVENTS</strong> 
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
