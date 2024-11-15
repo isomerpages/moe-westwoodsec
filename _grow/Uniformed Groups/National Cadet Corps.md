@@ -22,10 +22,13 @@ through fun, adventurous and military-related activities.
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>LTA (NCC) Mr Chen Han</p>
+</li>
+<li>
 <p>CPT (NCC) Mr How Choon Keat</p>
 </li>
 <li>
-<p>Mr Chen Han</p>
+<p>Mr Jeryl Sim</p>
 </li>
 </ul>
 <p></p>
