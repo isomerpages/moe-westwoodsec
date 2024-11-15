@@ -20,6 +20,10 @@ links:
   - title: Explore
     url: /direct-school-admission/
     sublinks:
+      - title: ALP
+        url: /applied-learning-programme/
+      - title: LLP
+        url: /learning-for-life-programme/
       - title: Direct School Admission
         url: /direct-school-admission/
   - title: WW Family
