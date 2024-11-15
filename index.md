@@ -22,7 +22,7 @@ sections:
           url: /administrative/usefullinks/
       background: /images/picture3.png
   - infopic:
-      title: 2024 Open House
+      title: 2024 Virtual Open House
       id: infopic
       button: MORE INFO HERE
       alt: Image alt text
