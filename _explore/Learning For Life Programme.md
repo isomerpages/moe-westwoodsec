@@ -19,6 +19,9 @@ to take on challenges and make a positive impact.
 of the arts as a pathway to lifelong learning and personal growth.</p>
 <p>2. Offer opportunities for every Westwoodian to actively explore, engage
 with, and develop their unique interests and passions in the arts.</p>
+<p>3. Provide a comprehensive arts education that fosters character development
+and equips students with the skills and dispositions necessary for success
+in life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp1.png">
 </div>
