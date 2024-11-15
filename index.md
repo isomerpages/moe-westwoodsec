@@ -22,11 +22,12 @@ sections:
           url: /administrative/usefullinks/
       background: /images/picture3.png
   - infopic:
-      title: Open House 2024
-      subtitle: Add an image and text
+      title: 2024 Open House
       id: infopic
-      button: Button Text
+      button: MORE INFO HERE
       alt: Image alt text
+      url: https://www.westwoodsec.moe.edu.sg/ohlandingpage/
+      image: /images/OH2024BANNER.png
   - resources:
       title: Announcements
       id: resources
