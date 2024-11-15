@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Learning For Life Programme:.md
       - Applied Learning Programme:.md
       - Direct School Admission/.keep
       - Direct School Admission/Introduction.md
