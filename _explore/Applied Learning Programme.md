@@ -4,7 +4,8 @@ permalink: /applied-learning-programme/
 variant: tiptap
 description: ""
 ---
-<h4><strong><u>Innovation and Social Entrepreneurship Vision</u></strong></h4>
+<p><strong>Innovation and Social Entrepreneurship Vision</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>To equip students with an <strong>innovative and enterprising mindset</strong> to <strong>solve</strong> tomorrow’s
