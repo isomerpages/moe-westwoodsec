@@ -100,6 +100,14 @@ and accountability through Basketball.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG National ‘C’ Division, League 5 - Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,7 +164,7 @@ and accountability through Basketball.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>West Zone ‘B’ Division Championship</p>
+<p>National ‘B’ Division Championship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>January/February</p>
@@ -169,7 +177,7 @@ of the year for ‘B’ boys.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>West Zone ‘C’ Division Championship</p>
+<p>National ‘C’ Division Championship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>April/May</p>

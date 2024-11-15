@@ -216,7 +216,7 @@ of drama and touches on key issues and challenges in today's world.</p>
 <p>Preparation for SYF competition, English Drama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April to November</p>
+<p>January to April</p>
 </td>
 </tr>
 <tr>
@@ -235,7 +235,7 @@ of drama and touches on key issues and challenges in today's world.</p>
 <p>Drama Production</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>December</p>
+<p>November to December</p>
 </td>
 </tr>
 <tr>

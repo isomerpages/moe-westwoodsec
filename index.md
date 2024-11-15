@@ -24,5 +24,4 @@ sections:
   - resources:
       title: Announcements
       id: resources
-      button: More Updates
 ---

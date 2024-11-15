@@ -41,7 +41,12 @@ and activities</p>
 <p><strong>TRAINING DAYS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -59,7 +64,7 @@ and activities</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 6:00pm</p>
+<p>2:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Quadrangle/ISH/Basketball Court</p>
@@ -85,7 +90,11 @@ and activities</p>
 <p><strong>CCA ACHIEVEMENT</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -94,6 +103,15 @@ and activities</p>
 <th rowspan="1" colspan="1">
 <p>AWARD</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ActiveSG Tchoukball National Championship ‘B’ Division Girls, Top 8</p>
+<p>ActiveSG Tchoukball National Championship ‘C’ Division Girls, 3<sup>rd</sup> Runner-Up</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -168,7 +186,13 @@ Champions</p>
 <p></p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -220,7 +244,12 @@ Champions</p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -235,14 +264,19 @@ Champions</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Inter School 'B' Division Tchoukball Championships
-<br>
-<br>Inter School 'C' Division Tchoukball Championships</p>
+<p>ActiveSG Inter School 'B' Division Tchoukball Championships</p>
+<p></p>
+<p>ActiveSG Inter School 'C' Division Tchoukball Championships</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March/April
 <br>
-<br>July/August</p>
+<br>
+<br>
+</p>
+<p></p>
+<p></p>
+<p>July/Aug</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To promote sporting excellence, character development and sportsmanship
@@ -251,13 +285,13 @@ in students through competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Schools Tchoukball League /</p>
-<p>JSCC-WWSS Tchoukball Tournament 2023 'B Division'
+<p>Singapore Schools Tchoukball League/</p>
+<p>JSCC-WWSS Tchoukball Tournament
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>May/June</p>
+<p>May/Jun/December</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To promote sporting excellence, character development and sportsmanship
@@ -314,7 +348,7 @@ students and encouraging them to pursue an active and healthy lifestyle.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kuala Lumpur Trip</p>
+<p>Overseas Trip Trip</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>May</p>

@@ -15,8 +15,8 @@ variant: tiptap
 in performance and in theory</p>
 </li>
 <li>
-<p>To build member’s character through performance and learning opportunities
-and challenges</p>
+<p>To build members’ character through performance and learning opportunities
+and challenges.</p>
 </li>
 <li>
 <p>To develop co-operation, camaraderie and team work outside of academic
@@ -44,7 +44,12 @@ subjects.</p>
 <li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -86,7 +91,11 @@ subjects.</p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -171,7 +180,12 @@ subjects.</p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -194,6 +208,18 @@ subjects.</p>
 <td rowspan="1" colspan="1">
 <p>To exchange good practices with other school bands in Singapore, to share
 practice techniques and to create friendship with other bandsmen in Singapore.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concerts and Performances</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All year round</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To provide band members the opportunity to witness performances from other
+bands and ensembles, as well as be exposed to new musical styles and interpretations.</p>
 </td>
 </tr>
 <tr>
@@ -286,7 +312,7 @@ application of values, knowledge and skills.
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3T_nz-hTJ26LBrtmZZIKzj2gZAFk5izUH-RrdzM2z1-hb5VU2bDuEQu4Xp7JkP8DkjKN2BlwxHX0g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3T_nz-hTJ26LBrtmZZIKzj2gZAFk5izUH-RrdzM2z1-hb5VU2bDuEQu4Xp7JkP8DkjKN2BlwxHX0g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 </li>

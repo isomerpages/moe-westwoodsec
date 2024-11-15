@@ -15,7 +15,12 @@ experiences&nbsp;</p>
 effective use of ICT&nbsp;</p>
 <p>Every student is a discerning and responsible ICT user</p>
 <h3>Programmes / Events</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -41,19 +46,24 @@ MS Word and MS PowerPoint to organize, analyse and communicate information
 effectively and responsibly.
 <br>
 <br>At Secondary Two, the students will be creating an animated story using
-the software SCRATCH. The best students’ work will be selected for submission
-to the National Media Computing Competition.
+the software SCRATCH.
 <br>
 <br>At Secondary Three, the students will be designing and developing an animated
-game using the software SCRATCH. The best students’ work will be selected
-for submission to the Media Computing Competition organized by MOE Curriculum
-Planning and Development Division.</p>
+game using the software SCRATCH.</p>
+<p></p>
+<p>The best students’ work for Secondary Two and Three will be selected for
+submission to the Animation and Game Making Competition organized by MOE
+Curriculum Planning and Development Division.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Department Achievements</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -62,6 +72,26 @@ Planning and Development Division.</p>
 <th rowspan="1" colspan="1">
 <p>AWARD</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AGM Competition 2024 (Animation category)</p>
+<p>Bronze award</p>
+<p>M Irfan Aryan Bin M Nazri (Class 2A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AGM Competition 2024 (Game category)</p>
+<p>Certificate of Participation</p>
+<p>Ong Kiat Poh (Class 3A)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -119,58 +149,14 @@ Planning and Development Division.</p>
 <br>Muhammad Adriyan Bin Zainal Izzuddin (Class 3A)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MEC Competition 2019 (Animation category)
-<br>Bronze award
-<br>Muhammad Adriyan Bin Zainal Izzuddin (Class 2A)
-<br>
-<br>MEC Competition 2019 (Game category)
-<br>Gold award
-<br>Kendrick Huang Zhi Quan (Class 3A)
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MEC Competition 2018 (Animation category)
-<br>Silver award
-<br>Kendrick Huang Zhi Quan (Class 2A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MEC Competition 2017 (Game category)
-<br>Bronze award
-<br>Muhammad Khairul Akmal B M (Class 3A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2016
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MEC Competition 2016 (Game category)
-<br>Silver award
-<br>Irham Hussaini B Mohamad H (Class 2A)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Useful Links</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

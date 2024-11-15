@@ -198,32 +198,128 @@ when innovating food products.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 1
-<br>My Portfolio</p>
+<p>Secondary 1</p>
+<p>Learning with Portfolio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>January to December</p>
+<p>Jan to Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A one-year project aimed to create a series work which will be compiled
-into students' portfolio. The project will be taught on mastering dry mediums
-and students' ability to create original works inspired by the surrounding
-that they are in.</p>
+<p>n the first year of the Lower Secondary Art curriculum, students are introduced
+to the foundations of Art and Design, focusing on essential skills and
+concepts that inspire creativity and personal expression. The curriculum
+covers keys learning areas; <strong>Art Forms and Media, Artistic Processes, Visual Qualities and Contextual Understanding.</strong>
+</p>
+<p>&nbsp;</p>
+<p>Core learning experiences emphasize “Making Thinking Visible with Drawing”
+where students use drawing as a tool for visual thinking. They are prompted
+to reflect deeply through drawing by observing, thinking and imagining.
+This foundational year aims to build confidence and curiosity, enabling
+students to create original works that reflect their individuality and
+understanding of art’s role in society.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 2
-<br>Mini Coursework and Digital Art</p>
+<p>Secondary 2</p>
+<p>Live On!</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Learning with Portfolio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>January to December</p>
+<p>Term 1</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Jan to Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will be introduced to the requirements of Art Coursework through
-exploration of traditional &amp; digital mediums in the course of one year.
-They will go through the process of perceiving, communicating &amp; appreciating
-Art.</p>
+<p>The Live On Festival (LOF) is an initiative by the National Organ Transplant
+Unit (NOTU) of Singapore’s Ministry of Health (MOH) aimed at raising awareness
+about organ donation and transplant through creative expression. Students
+participate by creating artowkr in traditional or digital mediums, sharing
+personal interpretations of the theme. This initiative not only promotes
+artistic skills but also aligns with the 21<sup>st</sup> Century Competencies
+framework in education by fostering social and emotional competencies.
+Through this creative process, students cultivate empathy, social awareness
+and responsible decision-making, essential for developing a compassionate
+and inclusive society.</p>
+<p>&nbsp;</p>
+<p>In support of reflective learning in Art, design tasks throughout the
+curriculum are based on four domains which <strong>are Document, Curate, Reflect and (Re)present.</strong> These
+components support students in building habits of reflective learning and
+provide a structured way to express and evaluate their artistic journey.</p>
 </td>
 </tr>
 <tr>
@@ -257,6 +353,24 @@ the showcase.</p>
 <th rowspan="1" colspan="1">
 <p>AWARD</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Digital Sticker Design Competition 2023</p>
+<p>Iffah Rahilah Binti Muhammad Imran – 3<sup>rd</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Live On! 2024 - Certificate of Participations</p>
+<p>Design &amp; Technology Awards 2024 - Certificate of Participations</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
