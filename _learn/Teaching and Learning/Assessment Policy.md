@@ -137,7 +137,7 @@ part of the termly weighted assessments where relevant.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><strong>SECONDARY 4 TO 5</strong>
+<p><strong>Secondary 4 TO 5</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
