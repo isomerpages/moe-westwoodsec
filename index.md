@@ -21,6 +21,13 @@ sections:
           description: ""
           url: /administrative/usefullinks/
       background: /images/picture3.png
+  - infopic:
+      title: Open House 2024
+      id: infopic
+      button: Click Here
+      url: https://www.youtube.com/playlist?list=PLDjyR7w4Xp1zwGXAkYBPBYFlK1pYzJSIu
+      image: /images/SEC_1_REGN_Resized.png
+      alt: Image alt text
   - resources:
       title: Announcements
       id: resources
