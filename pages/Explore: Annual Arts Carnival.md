@@ -8,7 +8,8 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Uc25qdqSRcE?si=EzucOIBPbzibnXvV"></iframe>
 </div>
-<p>Step into the vibrant world of the Westwood Arts Carnival!&nbsp;</p>
+<p>Step into the vibrant world of the <strong>Westwood Arts Carnival!&nbsp;</strong>
+</p>
 <p>A celebration of culture, creativity, and collaboration - this event brought
 students together to express themselves artistically and explore the exciting
 possibilities of artistic entrepreneurship. From fostering cultural appreciation
