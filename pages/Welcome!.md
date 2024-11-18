@@ -26,7 +26,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="315" width="450" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T14k8rra9ek?autoplay=1&amp;mute=1"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EciKNgEyY_Q?si=LMhCCTM5c6dutYDz"></iframe>
 </div>
 </td>
 </tr>
@@ -34,41 +34,54 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Life At Westwood</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="EXPLORE: Wwss Arts Carnival (VPA)" src="/images/Arts_Carnival.jpg">
+</div>
+<p>EXPLORE: Wwss Arts Carnival (VPA)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
+</div>
+<p>Learn &amp; Grow</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Niche.jpg">
+</div>
+<p><strong>Niche</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LEARN &amp; LEAD: Teachers Leader" src="/images/Teacher_Leaders.jpg">
+</div>
+<p><strong>LEARN &amp; LEAD: Teachers Leader</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="400" src="/images/screengrab%20ugs.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="400" src="/images/screengrab%202%20sports.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="400" src="/images/screengrab%20clubs.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="400" src="/images/screengrab%20vpa.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="400" src="/images/screengrab%20niche%20int.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>

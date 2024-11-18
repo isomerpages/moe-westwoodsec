@@ -25,7 +25,7 @@ sections:
       title: Virtual Open House 2024
       id: infopic
       button: Click Here
-      url: https://www.youtube.com/playlist?list=PLDjyR7w4Xp1zwGXAkYBPBYFlK1pYzJSIu
+      url: /ohlandingpage/
       image: /images/OH2024BANNER.png
       alt: Image alt text
   - resources:
