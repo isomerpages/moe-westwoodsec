@@ -34,9 +34,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
 <p><strong>Life @ Westwood</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
