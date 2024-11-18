@@ -47,26 +47,32 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="EXPLORE: Wwss Arts Carnival (VPA)" src="/images/Arts_Carnival.jpg">
 </div>
+<p>EXPLORE: Wwss Arts Carnival (VPA)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Learn &amp; Grow" src="/images/CCA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
 </div>
+<p>Learn &amp; Grow</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Niche" src="/images/Niche.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Niche.jpg">
 </div>
+<p><strong>Niche</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LEARN &amp; LEAD: Teachers Leader" src="/images/Teacher_Leaders.jpg">
 </div>
+<p><strong>LEARN &amp; LEAD: Teachers Leader</strong>
+</p>
 </td>
 </tr>
 </tbody>
