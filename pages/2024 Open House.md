@@ -52,7 +52,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/learnngrowcca/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg"></a>
 <p><strong>Learn &amp; Grow: CCAs in WWSS </strong>
-<br>
 </p>
 </th>
 </tr>
