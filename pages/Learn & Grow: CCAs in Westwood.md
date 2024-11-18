@@ -1,5 +1,5 @@
 ---
-title: Learn n Grow CCA
+title: "Learn & Grow: CCAs in Westwood"
 permalink: /learnngrowcca/
 variant: tiptap
 description: ""

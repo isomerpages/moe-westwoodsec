@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lj2fQJlQVWQ?autoplay=1&amp;mute=1"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lj2fQJlQVWQ?si=Tmc5pamhl-qaxvWn"></iframe>
 </div>
 <p></p>
 <table style="minWidth: 25px">
