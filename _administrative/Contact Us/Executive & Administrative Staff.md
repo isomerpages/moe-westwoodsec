@@ -40,6 +40,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Nor Haseena Binte Masrip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nor_haseena_Masrip@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nor_haseena_Masrip@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Siti Farlina Samat</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,13 +76,49 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nor Haseena Binte Masrip</p>
+<p>Mdm Barbara Lee Yee Huey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nor_haseena_Masrip@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nor_haseena_Masrip@schools.gov.sg</a>
+<p><a href="mailto:barbara_lee_yee_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">barbara_lee_yee_huey@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Suziana Binte Selamat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:suziana_selamat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suziana_selamat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Zul Haffiq Nasriq Bin Zulkifli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhaffiq@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">zhaffiq@ncs.com.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp;Madhanraj s/o Velasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:madhanrajv@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">madhanrajv@ncs.com.sg</a>
 </p>
 </td>
 </tr>
@@ -203,54 +251,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norhayati_mohamed_jumahin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhayati_mohamed_jumahin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Barbara Lee Yee Huey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:barbara_lee_yee_huey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">barbara_lee_yee_huey@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Suziana Binte Selamat&nbsp; &nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Associate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:suziana_selamat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suziana_selamat@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Zul Haffiq Nasriq Bin Zulkifli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zhaffiq@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">zhaffiq@ncs.com.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr&nbsp;Madhanraj s/o Velasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:madhanrajv@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">madhanrajv@ncs.com.sg</a>
 </p>
 </td>
 </tr>
