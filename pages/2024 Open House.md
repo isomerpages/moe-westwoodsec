@@ -73,6 +73,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
 <p><strong>Walking Tour</strong>
 <br>
 </p>
