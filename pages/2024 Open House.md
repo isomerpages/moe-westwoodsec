@@ -45,10 +45,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Carnival.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/explore-annual-arts-carnival/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Carnival.jpg"></a>
 <p>EXPLORE: Wwss Arts Carnival (VPA)</p>
 </th>
 <th rowspan="1" colspan="1">
