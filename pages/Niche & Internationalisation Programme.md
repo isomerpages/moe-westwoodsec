@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>EMBRACE GLOBAL HORIZONS</strong>
+<p><strong>Embrace Global Horizons</strong>
 <br>
 <br>Westwood's Internationalisation Programme develops 21st-century skills
 like global awareness and cross-cultural competence in future-ready students.
@@ -60,7 +60,7 @@ communities.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>FOSTERING FUTURE INNOVATORS AND SOCIAL CHANGEMAKERS</strong>
+<p><strong>Fostering Future Innovators and Social Changemakers</strong>
 <br>
 <br>Through our Applied Learning Program (ALP), we instil an innovative mindset
 by encouraging students to be observant, think creatively, and design solutions.
@@ -91,7 +91,7 @@ and socially responsible Westwoodians.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>UNLEASH YOUR ARTISTIC PASSION</strong>
+<p><strong>Unleash Your Artistic Passion</strong>
 <br>
 <br>At Westwood Secondary, we're dedicated to nurturing a profound and lifelong
 appreciation for the Arts in all its vibrant forms. Through our Learning
