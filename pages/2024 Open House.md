@@ -61,10 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Niche.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/ohinternationalisation/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Niche.jpg"></a>
 <p><strong>Niche</strong>
 </p>
 </td>
