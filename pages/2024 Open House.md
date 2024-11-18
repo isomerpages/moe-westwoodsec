@@ -56,8 +56,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/ohinternationalisation/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Niche.jpg"></a>
-<p><strong>Niche</strong>
-</p>
+<p><strong>Niche -</strong>
+<br>Applied Learning Program
+<br>Learning for Life Program
+<br>Internationalisation Program</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
