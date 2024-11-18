@@ -28,7 +28,7 @@ variant: tiptap
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/T14k8rra9ek?si=558ziJIpAraw013s"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EciKNgEyY_Q?si=4e4BEqt1PDVksys3"></iframe>
 </div>
 </th>
 </tr>
@@ -45,15 +45,35 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>SCREENGRAB CCA</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Carnival.jpg">
+</div>
+<p>EXPLORE: Wwss Arts Carnival (VPA)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>SCREENGRAB TCR LEADERS</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg">
+</div>
+<p>LEARN &amp; GROW</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p><strong>ALP &amp; INT PROGRAMMES</strong>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Niche.jpg">
+</div>
+<p><strong>Niche</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teacher_Leaders.jpg">
+</div>
+<p><strong>LEARN &amp; LEAD: Teacher Leaders</strong>
 </p>
 </td>
 </tr>
