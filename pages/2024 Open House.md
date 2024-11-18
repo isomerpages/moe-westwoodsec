@@ -46,23 +46,26 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/explore-annual-arts-carnival/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Carnival.jpg"></a>
-<p>EXPLORE: Wwss Arts Carnival (VPA)</p>
+<p><strong>Explore: Annual Arts Carnival</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/learnngrowcca/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.jpg"></a>
-<p>LEARN &amp; GROW</p>
+<p><strong>Learn &amp; Grow: CCAs in WWSS </strong>
+<br>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/ohinternationalisation/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Niche.jpg"></a>
-<p><strong>Niche</strong>
+<p><strong>Niche Programmes:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/learning-leading-with-westwood-s-teacher-leaders/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teacher_Leaders.jpg"></a>
-<p><strong>LEARN &amp; LEAD: Teacher Leaders</strong>
+<p><strong>Learn &amp; Lead: Teacher Leaders</strong>
 </p>
 </td>
 </tr>
