@@ -45,7 +45,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/explore-annual-arts-carnival/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts_Carnival.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/explore-annual-arts-carnival/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Arts_Carnival.jpg"></a>
 <p><strong>Explore: Annual Arts Carnival</strong>
 </p>
 </th>
@@ -58,12 +58,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/ohinternationalisation/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Niche.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/ohinternationalisation/"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Niche.jpg"></a>
 <p><strong>Niche &amp; Internationalisation Programme</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p><a class="isomer-image-wrapper" href="/learning-leading-with-westwood-s-teacher-leaders/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teacher_Leaders.jpg"></a>
 <p><strong>Learn &amp; Lead: Teacher Leaders</strong>
 </p>
