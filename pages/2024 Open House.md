@@ -67,9 +67,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teacher_Leaders.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/learning-leading-with-westwood-s-teacher-leaders/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teacher_Leaders.jpg"></a>
 <p><strong>LEARN &amp; LEAD: Teacher Leaders</strong>
 </p>
 </td>
