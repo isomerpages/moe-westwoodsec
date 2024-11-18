@@ -4,10 +4,10 @@ permalink: /learnngrowcca/
 variant: tiptap
 description: ""
 ---
-<h3>Sports</h3>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zzHg5WP4Zs8?si=VD-sYC-4h1bz0XJf"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ac36RbwUXnk?si=2cOO8C8_03IE3w_G"></iframe>
 </div>
+<h3>Sports</h3>
 <p>Our sports CCA not only supports Westwoodians’ sporting ambitions but
 also instills crucial values such as sportsmanship, fair play, and the
 spirit of teamwork as they hone fundamental skills, preparing them for
@@ -44,9 +44,6 @@ a lifetime of enjoying sports.</p>
 authentic experiences that develop leadership, teamwork, and resilience.
 These shared experiences foster well-rounded individuals with a sense of
 nation, and camaraderie.</p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-FvllXxSYGw?si=MoAmtXejsqHDfnLa"></iframe>
-</div>
 <h4>UGs @ WWSS:</h4>
 <ul>
 <li>
@@ -70,10 +67,6 @@ nation, and camaraderie.</p>
 </p>
 </li>
 </ul>
-<p></p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xzSm9TFTrEw?si=6k45AEg8EYaHTW1A"></iframe>
-</div>
 <h3>Visual and Performing Arts</h3>
 <p>The VPA strives to give students a unique opportunity to develop a lifelong
 love of art, celebrate diversity, encourage creative expression, and instill
@@ -106,9 +99,6 @@ and heritage.</p>
 </p>
 </li>
 </ul>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jSBDDeZEaw0?si=X1E3GHt9S6xLL0S6"></iframe>
-</div>
 <h3>Clubs</h3>
 <p>Joining a club in Westwood allows students to delve into a wide spectrum
 of specialized interests where they enhance their creative and technical
