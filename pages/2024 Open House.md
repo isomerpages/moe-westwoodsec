@@ -59,7 +59,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/ohinternationalisation/"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Niche.jpg"></a>
-<p><strong>Niche &amp; Internationalisation Programme</strong>
+<p><strong>Niche: ALP, LLP &amp; INT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
