@@ -262,7 +262,7 @@ variant: tiptap
 <p>School Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Maniseh_Hotbi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Maniseh_Hotbi@schools.gov.sg</a>
+<p><a href="mailto:Maniseh_Hotbi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Maniseh_Hotbi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
