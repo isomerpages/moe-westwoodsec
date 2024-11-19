@@ -254,18 +254,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Maniseh Hotbi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Librarian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Maniseh_Hotbi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Maniseh_Hotbi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
