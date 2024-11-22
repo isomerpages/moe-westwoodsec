@@ -159,7 +159,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Foo Chee Sian Eric</p>
+<p>Mr Foo Chee Sian Eric</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/PE CCA</p>
