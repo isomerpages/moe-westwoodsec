@@ -311,6 +311,30 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Natria Nor Siman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/21CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:natria_nor_siman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">natria_nor_siman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tang Tai-Chi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tang_tai-chi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_tai-chi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
