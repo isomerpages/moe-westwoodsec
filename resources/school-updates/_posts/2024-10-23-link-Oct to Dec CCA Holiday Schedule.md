@@ -1,5 +1,5 @@
 ---
-title: Oct & Nov CCA Holiday Schedule
+title: Oct to Dec CCA Holiday Schedule
 date: 2024-10-23
 layout: link
 description: ""
