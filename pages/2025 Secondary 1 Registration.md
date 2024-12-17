@@ -35,7 +35,7 @@ the results, and we will gladly confirm and reserve a place for your child.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2024_S1_Orientation_Overview__PG_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Orientation Booklet</a>
+<p><a href="https://drive.google.com/file/d/1ihglCIXPuRDPW3AHUhnk4aXkouTRod8y/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 1 Orientation Booklet</a>
 </p>
 </li>
 </ul>
@@ -44,7 +44,7 @@ into Westwood Secondary School, you could do so through the link provided
 below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/appealtowwss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/appealtowwss</a>
+<p><a href="https://go.gov.sg/appealtowwss2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/appealtowwss2025</a>
 </p>
 </li>
 </ul>
