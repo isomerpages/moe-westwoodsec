@@ -51,13 +51,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lek Chun Guan&nbsp;</p>
+<p>Ms Theodora Huang Xinyi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (Administration)</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lek_chun_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lek_chun_guan@schools.gov.sg</a>
+<p><a href="mailto:theodora_huang_xinyi@schools.gov.sg" rel="noopener nofollow" target="_blank">theodora_huang_xinyi@schools.gov.sg</a>
 </p>
 </td>
 </tr>

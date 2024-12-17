@@ -21,20 +21,17 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/mr_abdul_harris_bin_sumardi.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mr_abdul_harris_bin_sumardi.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Hoi_Weng_Kit_Derrick.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Hoi_Weng_Kit_Derrick.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Lek_Chun_Guan.jpg">
-</div>
 </th>
 </tr>
 <tr>
@@ -47,7 +44,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lek Chun Guan</strong>
+<p><strong>Ms Theodora</strong>
+<br><strong>Huang Xinyi</strong>
 </p>
 </td>
 </tr>
@@ -56,10 +54,10 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal Administration</p>
+<p>Vice-Principal</p>
 </td>
 </tr>
 </tbody>
