@@ -32,9 +32,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Lek_Chun_Guan.jpg">
-</div>
 </th>
 </tr>
 <tr>
@@ -47,7 +44,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lek Chun Guan</strong>
+<p><strong>Ms. Theodora Huang Xinyi</strong>
 </p>
 </td>
 </tr>
@@ -59,7 +56,7 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal Administration</p>
+<p>Vice Principal</p>
 </td>
 </tr>
 </tbody>
