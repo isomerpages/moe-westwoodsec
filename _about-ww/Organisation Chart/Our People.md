@@ -21,20 +21,17 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/mr_abdul_harris_bin_sumardi.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mr_abdul_harris_bin_sumardi.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Hoi_Weng_Kit_Derrick.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Hoi_Weng_Kit_Derrick.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms__Theodora_Huang_Xinyi__Vice_Principal_.jpg">
-</div>
 </th>
 </tr>
 <tr>
