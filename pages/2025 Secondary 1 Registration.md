@@ -31,7 +31,7 @@ the results, and we will gladly confirm and reserve a place for your child.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2024_S1_Registration_Letter_to_Parents__PG_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Registration Letter to Parent</a>
+<p><a href="https://drive.google.com/file/d/199UWpC07iMyeftDm0gTyXdM8z5LSs8Yq/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 1 Registration Letter to Parent</a>
 </p>
 </li>
 <li>
