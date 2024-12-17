@@ -57,10 +57,10 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice Principal</p>
+<p>Vice-Principal</p>
 </td>
 </tr>
 </tbody>
