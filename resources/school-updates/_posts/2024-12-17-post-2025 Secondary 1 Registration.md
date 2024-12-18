@@ -30,11 +30,11 @@ the results, and we will gladly confirm and reserve a place for your child.</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/199UWpC07iMyeftDm0gTyXdM8z5LSs8Yq/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 1 Registration Letter to Parent</a>
+<p><a href="https://drive.google.com/file/d/1UVmlnNstHHKzpYLtSikW6a55fEl2s1LU/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1 Registration Letter to Parent</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1ihglCIXPuRDPW3AHUhnk4aXkouTRod8y/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 1 Orientation Booklet</a>
+<p><a href="https://drive.google.com/file/d/1GHeZ8VgPn1aPwPzdZp8Us_kkjbcLJb4k/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1 Orientation Booklet</a>
 </p>
 </li>
 </ul>
