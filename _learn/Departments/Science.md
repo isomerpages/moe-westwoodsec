@@ -146,9 +146,7 @@ The abilities, skills and attitude that we aim to develop are as follows.&nbsp;
     <td class="tg-av5t"><a href="https://phet.colorado.edu/en/simulations/filter?type=html"><span style="text-decoration:none;color:#3AA66F">pHet Interative Simulations</span></a></td>
     <td class="tg-mwz3"><span style="color:#565656">Interactive Math and Science simulations that engages through an intuitive, game-like environment where students learn through exploration and discovery</span></td>
   </tr>
-  <tr>
-    <td class="tg-av5t"><a href="http://www.visionlearning.com/library/module_viewer.php?mid=55&amp;mcid=&amp;l="><span style="text-decoration:none;color:#3AA66F">Vision Learning- Chemical Bonding </span></a></td>
-    <td class="tg-mwz3"><span style="color:#565656">Online tutorial for different Sciences. Interactive practice exercises and links are available. </span></td>
-  </tr>
+
+  
 </tbody>
 </table>
