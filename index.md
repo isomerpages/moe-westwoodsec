@@ -24,11 +24,4 @@ sections:
   - resources:
       title: Announcements
       id: resources
-  - infopic:
-      title: Virtual Open House 2024
-      id: infopic
-      button: Click Here
-      url: /ohlandingpage/
-      image: /images/OH2024BANNER.png
-      alt: Image alt text
 ---
