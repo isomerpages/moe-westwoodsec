@@ -55,9 +55,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
+<p>(Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
+<p>(Academic)</p>
 </td>
 </tr>
 </tbody>
