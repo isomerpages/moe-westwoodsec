@@ -308,7 +308,7 @@ variant: tiptap
 <p>SH/History &amp; Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:loh_may-kay_maria@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_may-kay_maria@schools.gov.sg</a>
+<p><a href="mailto:loh_may-kay_maria@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_may-kay_maria@schools.gov.sg</a>
 </p>
 </td>
 </tr>
