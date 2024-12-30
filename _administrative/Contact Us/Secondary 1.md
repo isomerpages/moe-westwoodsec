@@ -89,13 +89,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sophia Wong</p>
+<p>Ms Yong Chun Lei Sophia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Yong_Chun_Lei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yong_Chun_Lei@schools.gov.sg</a>
+<p><a href="mailto:Yong_Chun_Lei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_chun_lei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -143,7 +143,7 @@ variant: tiptap
 <p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Gloria_Boey_Li_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gloria_Boey_Li_Ling@schools.gov.sg</a>
+<p><a href="mailto:Gloria_Boey_Li_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gloria_boey_li_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
