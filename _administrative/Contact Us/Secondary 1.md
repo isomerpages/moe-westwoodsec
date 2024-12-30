@@ -143,7 +143,7 @@ variant: tiptap
 <p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Gloria_Boey_Li_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gloria_Boey_Li_Ling@schools.gov.sg</a>
+<p><a href="mailto:Gloria_Boey_Li_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gloria_boey_li_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
