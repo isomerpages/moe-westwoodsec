@@ -5,70 +5,41 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>School Leaders</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<h4>School Leaders</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mr_abdul_harris_bin_sumardi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Org Chart 2024/mr_abdul_harris_bin_sumardi.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Principal</div>
+<div class="isomer-card-description">Mr Abdul Harris Sumardi</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Hoi_Weng_Kit_Derrick.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Org Chart 2024/Mr_Hoi_Weng_Kit_Derrick.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Vice Principal (Academic)</div>
+<div class="isomer-card-description">Mr Derrick Hoi Weng Kit</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 27%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms__Theodora_Huang_Xinyi__Vice_Principal_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Org Pics/Ms__Theodora_Huang_Xinyi__Vice_Principal_.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Abdul Harris Sumardi</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Derrick Hoi Weng Kit</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Theodora</strong>
-<br><strong>Huang Xinyi</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-<p>(Academic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-<p>(Academic)</p>
-</td>
-</tr>
-</tbody>
-</table>
 </div>
-</details>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Vice Principal (Academic)</div>
+<div class="isomer-card-description">Ms Theodora Huang Xinyi</div>
+</div>
+</div>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
