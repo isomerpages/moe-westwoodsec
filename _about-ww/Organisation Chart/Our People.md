@@ -32,7 +32,7 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Org Pics/Ms__Theodora_Huang_Xinyi__Vice_Principal_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/mr_abdul_harris_bin_sumardi400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
