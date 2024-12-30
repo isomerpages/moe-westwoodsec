@@ -140,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Foo Sek Jin<br></strong> HOD/Mathematics</p>
+<p><strong>Mr Foo Sek Jin<br></strong>HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Li Yundong<br></strong>HOD/Mother Tongue Languages</p>
@@ -184,7 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Heng Yih Foo Hector<br></strong> HOD/Technology &amp; Design</p>
+<p><strong>Mr Heng Yih Foo Hector<br></strong>HOD/Technology &amp; Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Nur Hidayah Bte Moktar<br></strong> School Staff Developer</p>
