@@ -124,9 +124,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mr_lau_yongxing_bob.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -137,7 +135,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lau Yongxing Bob<br></strong> HOD/Mathematics</p>
+<p><strong>Mr Foo Sek Jin<br></strong> HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Li Yundong<br></strong>HOD/Mother Tongue Languages</p>
@@ -271,7 +269,6 @@ Sec</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Nadia_Bte_Eddy_Razali.jpg">
 </div>
@@ -295,17 +292,14 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Robert_Lee_Teck_Choon_400.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:55%" height="auto" width="100%" src="/images/mr mohammad redzuan bin ja'afar.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
