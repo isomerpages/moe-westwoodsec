@@ -21,13 +21,6 @@ sections:
           description: ""
           url: /administrative/usefullinks/
       background: /images/picture3.png
-  - infopic:
-      title: Virtual Open House 2024
-      id: infopic
-      button: Click Here
-      url: /ohlandingpage/
-      image: /images/OH2024BANNER.png
-      alt: Image alt text
   - resources:
       title: Announcements
       id: resources

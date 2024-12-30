@@ -111,13 +111,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lau Yongxing&nbsp;Bob</p>
+<p>Mr Foo Sek Jin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lau_yongxing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_yongxing@schools.gov.sg</a>
+<p><a href="mailto:Foo_Sek_Jin_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Foo_Sek_Jin_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -206,7 +206,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurul Atika Binti Ramli</p>
+<p>Mdm Nurul Atika Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head/ Lower Sec</p>
