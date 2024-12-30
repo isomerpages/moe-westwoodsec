@@ -63,6 +63,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Nur Hidayah Bte Moktar&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_hidayah_moktar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_moktar@schools.gov.sg</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Fauziah Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,17 +178,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:heng_yih_foo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_yih_foo@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nur Hidayah Bte Moktar&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hidayah_moktar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_moktar@schools.gov.sg</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
