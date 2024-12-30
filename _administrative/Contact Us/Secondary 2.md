@@ -63,7 +63,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hanisah Binte Salim</p>
+<p>Mr Lua Wen Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lua_wen_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lua_wen_liang@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hanisah Salim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2C</p>
@@ -75,13 +87,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lua Wen Liang</p>
+<p>Mr Redzuan Jaafar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lua_wen_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lua_wen_liang@schools.gov.sg</u></a>
+<p><a href="mailto:mohammad_redzuan_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_redzuan_jaafar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -111,13 +123,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Puvaneswari d/o Raman</p>
+<p>Mr Lim Jun Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_jun_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jun_wei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Koh Hoe Yap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:puvaneswari_raman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>puvaneswari_raman@schools.gov.sg</u></a>
+<p><a href="mailto:koh_hoe_yap@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_hoe_yap@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -130,6 +154,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:insyirah_jumat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">insyirah_jumat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Madeline Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_shi_yun_madeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_shi_yun_madeline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
