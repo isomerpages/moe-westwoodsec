@@ -54,8 +54,7 @@ variant: tiptap
 <p>Ms Theodora Huang Xinyi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-<p>(Academic)</p>
+<p>Vice-Principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:theodora_huang_xinyi@schools.gov.sg" rel="noopener nofollow" target="_blank">theodora_huang_xinyi@schools.gov.sg</a>
