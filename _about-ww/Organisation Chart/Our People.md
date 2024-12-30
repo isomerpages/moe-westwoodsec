@@ -193,19 +193,26 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Miss_Maria_Bte_Marzuki.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mr Foo Chee Sian Eric<br></strong>HOD/PE CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Maria Marzuki</strong>
+</p>
+<p>Year Head/ Lower Sec</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Miss_Maria_Bte_Marzuki.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -217,97 +224,93 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Maria Marzuki<br></strong>Year Head/ Lower Sec</p>
+<p><strong>Mr Tan Yeong Kuen John<br></strong>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nurul Atika Bte Ramli<br></strong>Assistant Year Head/Lower
-Sec</p>
+<p><strong>Ms Nurul Atika Bte Ramli<br></strong>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:55%" height="auto" width="100%" src="/images/miss%20teo%20shi%20yun%20madeline.jpg">
 </div>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Farah Zila Hassan</strong>
+</p>
+<p>Assistant Year Head (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Teo Shi Yun Madeline<br></strong>SH/Food &amp; Nutrition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Loh_May_Kay_Maria__Luo_Meiqi_.jpg">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Teo Shi Yun Madeline<br></strong> SH/Food &amp; Nutrition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Loh May-Kay Maria<br></strong> SH/History &amp; Social Studies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Lee_Chuen_Hing.jpg">
 </div>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Loh May-Kay Maria<br></strong>SH/History &amp; Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lee Chuen Hing<br></strong> SH/Mathematics</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:55%" height="auto" width="100%" src="/images/mr%20chan%20chi%20thio.jpeg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Lee Chuen Hing<br></strong> SH/Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Chan Chi Thio<br></strong> SH/ICT</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Nadia_Bte_Eddy_Razali.jpg">
 </div>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chan Chi Thio<br></strong>SH/ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Nadia Binte Eddy Razali <br></strong>SH/Character &amp; Citizenship
+Education</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/miss melissa manuela rama shan.jpg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Nadia Binte Eddy Razali <br></strong>SH/Character &amp; Citizenship
-Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Melissa Manuela</strong>
-</p>
-<p>SH/Chemistry</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Robert_Lee_Teck_Choon_400.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/mr mohammad redzuan bin ja'afar.jpg">
-</div>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lee Teck Choon Robert<br></strong> SH/Physical Education</p>
+<p><strong>Ms Melissa Manuela</strong>
+</p>
+<p>SH/Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Mohammad Redzuan Bin Jaafar<br></strong>SH/Student Management</p>
+<p><strong>Mr Lee Teck Choon Robert<br></strong>SH/Physical Education</p>
 </td>
 </tr>
 <tr>
