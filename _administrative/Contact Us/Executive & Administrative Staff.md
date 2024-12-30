@@ -88,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Suziana Binte Selamat</p>
+<p>Mdm Suziana Selamat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Associate</p>
@@ -208,6 +208,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Jumiyati Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer (OSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jumiyati_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jumiyati_ismail@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Mohamed Rafi Bin Mat Rais</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,7 +256,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norhayati Binte Mohamed Jumahin</p>
+<p>Mdm Norhayati Binte Mohamed Jumahin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Technical Support Officer (TSO)</p>
