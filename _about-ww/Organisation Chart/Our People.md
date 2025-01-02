@@ -261,13 +261,37 @@ Education</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Miss_Lim_Lay_Ping.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Natria Nor Siman</strong>
 <br>SH/21CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Lay Ping</strong>
+</p>
+<p>SH/Student Management (Acting)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Miss_Julitta_Chia_Meng_You.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Julitta Chia</strong>
+</p>
+<p>SH/Literature (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -335,6 +335,30 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Lay Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Student Management (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_lay_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_ping@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Julitta Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Literature (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_meng_you_julitta@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_meng_you_julitta@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
