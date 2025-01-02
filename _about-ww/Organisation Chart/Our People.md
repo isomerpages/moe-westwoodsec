@@ -6,40 +6,8 @@ third_nav_title: Organisation Chart
 variant: tiptap
 ---
 <h4>School Leaders</h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/mr_abdul_harris_bin_sumardi400.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Principal</div>
-<div class="isomer-card-description">Mr Abdul Harris Sumardi</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Mr_Hoi_Weng_Kit_Derrick400.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Vice Principal (Academic)</div>
-<div class="isomer-card-description">Mr Derrick Hoi Weng Kit</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/th.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Vice Principal (Academic)</div>
-<div class="isomer-card-description">Ms Theodora Huang Xinyi</div>
-</div>
-</div>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/test.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
