@@ -70,19 +70,6 @@ and activities</p>
 <p>Quadrangle/ISH/Basketball Court</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1:30pm-4:30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quadrangle/ISH/Basketball Court
-<br>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 </li>
