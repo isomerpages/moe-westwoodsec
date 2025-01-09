@@ -125,7 +125,7 @@ Log in to iCON)</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1-oGn_LhV90HlUnILdnZrl9kQKqrS5oJz/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Student Handbook 2024</a>
+<p><a href="https://drive.google.com/file/d/1YoESojxn-5gnmWJAK1Rx0M3Qou_fZGuR/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2025 Student Handbook</a>
 </p>
 </li>
 <li>
