@@ -33,11 +33,9 @@ per semester.</p>
 </ol>
 <p><strong>HOME BASED LEARNING DAY SCHEDULE</strong>
 </p>
-<p><a href="https://docs.google.com/spreadsheets/d/173ieYOi5OKDy3y-ilPXKUqopCN8jnUelNolZjibx-jQ/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Summary of HBL in Term 3 and 4 </a>
+<p><a href="https://docs.google.com/document/d/1kG0olkhzmown2GwFgNh5e3z2tZwoFO4n4Rk3uEwasVU/edit?tab=t.0" rel="noopener nofollow" target="_blank">TERM 1 SCHEDULE</a>
 </p>
-<p><a href="https://docs.google.com/document/d/1ji-HdHcmFxUY9dTtGNGnV0FXOFCFDtbOQWUYUBIHsI0/edit" rel="noopener noreferrer nofollow" target="_blank">TERM 3 SCHEDULE</a>
-</p>
-<p><a href="https://docs.google.com/document/d/1QC3aUDkk-ILuCNyXTrkpRqExNIUHV8Kl0P9EjXFJGqM/edit" rel="noopener noreferrer nofollow" target="_blank">TERM 4 SCHEDULE</a>
+<p><a href="https://docs.google.com/document/d/1dJAb2i2SVoCN4aP8qgeO7GmbtuinlJJh41I2MBIfYJA/edit?tab=t.0" rel="noopener nofollow" target="_blank">TERM 2 SCHEDULE</a>
 </p>
 <p><strong>RESOURCES FOR PARENTS</strong> 
 <br>We hope to partner parents/guardians by inculcating in your child/ward
