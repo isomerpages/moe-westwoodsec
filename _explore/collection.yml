@@ -2,11 +2,11 @@ collections:
   explore:
     output: true
     order:
+      - Applied Learning Programme.md
+      - Learning For Life Programme.md
       - Direct School Admission/.keep
       - Direct School Admission/Introduction.md
       - Direct School Admission/Applied Learning Programme.md
       - Direct School Admission/Learning For Life Programme.md
       - Direct School Admission/Sports Excellence Programme.md
       - Direct School Admission/Student Leadership Programme.md
-      - Applied Learning Programme.md
-      - Learning For Life Programme.md
