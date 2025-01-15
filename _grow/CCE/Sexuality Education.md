@@ -151,7 +151,12 @@ are empowered to make wise, informed and sensible decisions.
 will be implemented as follows in 2024:</p>
 </li>
 </ol>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -163,20 +168,6 @@ will be implemented as follows in 2024:</p>
 <th rowspan="1" colspan="1">
 <p>Term Period</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Awareness of the different STIs and HIV/AIDS
-<br>Modes of transmission
-<br>Modes of protection, specifically on how the condom is used
-<br>Consequences and impact of STIs/HIV</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 4 Week 1</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -200,12 +191,12 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 </li>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
-to complete an opt-out form. You may click <a href="https://form.gov.sg/65daa9d392e5bcc24296e12b" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to complete
+to complete an opt-out form. You may click <a href="https://form.gov.sg/677f36d57e69fe74e83347b4" rel="noopener nofollow" target="_blank">here</a>&nbsp;to complete
 the opt-out form.&nbsp;</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em>&nbsp;programme</strong>&nbsp;need
-to complete an opt-out form.&nbsp;You may click <a href="https://form.gov.sg/65daaf7d108cf8e3fda9bc96" rel="noopener noreferrer nofollow" target="_blank">here </a>to complete
+to complete an opt-out form.&nbsp;You may click <a href="https://form.gov.sg/677f38919f07cd74ccf16b44" rel="noopener nofollow" target="_blank">here </a>to complete
 the opt-out form.</p>
 </li>
 <li>
