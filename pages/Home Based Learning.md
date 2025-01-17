@@ -57,7 +57,10 @@ to reset their SLS password if they had forgotten and unable to do self-reset.&n
 <br>The MIMS Username is&nbsp;<strong>student’s NRIC/FIN</strong>. Students
 can approach IT department personnel to reset their MIMS password if they
 had forgotten the password.</p>
-<p>Refer to&nbsp;<a href="https://www.learning.moe.edu.sg/sls/students/index.html" rel="noopener noreferrer nofollow" target="_blank">Guide to SLS account login.<br></a>
+<p>Refer to&nbsp;<a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/how-to-log-in-student/" rel="noopener nofollow" target="_blank">Guide to SLS account login</a>
+<a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/how-to-log-in-student/" rel="noopener noreferrer nofollow" target="_blank">
+<br>
+</a>
 </p>
 <h5><strong>SLS Support</strong> <br><br><strong>School Operating Hours</strong><br></h5>
 <p>During school operating hours, students should contact the SLS school-based
