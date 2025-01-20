@@ -26,9 +26,6 @@ and activities</p>
 <li>
 <p>Mr Jeffrey Chua</p>
 </li>
-<li>
-<p>Mdm&nbsp;Nadia Eddy</p>
-</li>
 </ul>
 <p></p>
 <ul>
@@ -36,7 +33,12 @@ and activities</p>
 <p><strong>TRAINING DAYS</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -54,10 +56,10 @@ and activities</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 6:00pm</p>
+<p>3:00pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Robotics Room / Computer Lab 1 &amp; 2</p>
+<p>Computer Lab 1 and 2 &amp; Robotics Club Room</p>
 </td>
 </tr>
 </tbody>
@@ -70,7 +72,12 @@ and activities</p>
 <p></p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
