@@ -26,13 +26,8 @@ Art Making and Art Appreciation</p>
 </li>
 <li>
 <p>Ms Mumtazah Binte Mohd Haron</p>
-</li>
-<li>
-<p>Mdm Siti Hajar</p>
-</li>
-</ul>
 <p></p>
-<ul>
+</li>
 <li>
 <p><strong>TRAINING DAYS</strong>
 </p>
@@ -62,7 +57,7 @@ Art Making and Art Appreciation</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 6:00pm</p>
+<p>3:15pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room
@@ -163,109 +158,110 @@ Aaliyah Binte Hermizan 3G, Ng Xin Jie 3G, <em>&nbsp;</em>Chua Hui Ming 3H</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Creating art pieces for competitions and SYF</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All year round</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will apply their knowledge of different art mediums to create
-and submit quality artworks for national competitions.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Art Excursions &amp; Learning Journeys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Semester 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Through learning journeys, students gain exposure to a local practising
-artist and experience being in an artist studio.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fun with Pen and Wash for Cityscape painting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Semester 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Experience hands-on activity and complete an artwork under the guidance
-of an artist.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Beginners’ Oil Painting by Local Artist Tan Seng Kok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Semester 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Develop basic techniques and skills in watercolour and oil painting such
-as colour mixing methods and brush technique unique to each medium.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Art Camp – Art Excursion Hike it Amazing Race</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Semester 2
+<p>Essentials of Digital Painting</p>
+<p>Alternative Colour Theory with Epoxy Resin</p>
+<p>&nbsp;</p>
+<p>Pinhole and darkroom printing Workshop
 <br>
-</p>
+<br>Learning Journeys to NAFA Customised workshops</p>
+<p>&nbsp;</p>
+<p>Variety of Printmaking Workshops</p>
+<p>&nbsp;</p>
+<p>Oil Painting with Artist Tan Seng Kok</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Explore the rich cultural heritage and artistic landmarks along the Singapore
-River and foster teamwork and collaboration among Visual Arts Club members
-as they navigate through various challenges</p>
+<p>Semester 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Introduce students to foundational skills in digital art using industry-standard
+software.</p>
+</li>
+<li>
+<p>Explore innovative uses of color theory through hands-on experience with
+epoxy resin.</p>
+</li>
+<li>
+<p>Develop a deep understanding of traditional photographic techniques through
+creating and printing from pinhole cameras.</p>
+</li>
+<li>
+<p>Provide exposure to advanced art practices and techniques through immersive
+workshops at NAFA.</p>
+</li>
+<li>
+<p>&nbsp;Expand students' printmaking skills with hands-on practice in linocut,
+rubber block printing, and intaglio techniques.</p>
+</li>
+<li>
+<p>Learn advanced oil painting techniques under the guidance of renowned
+artist Tan Seng Kok.</p>
+<p></p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Art Competitions</p>
+<p>&nbsp;</p>
 <p>Hand Building Techniques (Ceramics)</p>
+<p>&nbsp;</p>
+<p>Graffiti style drawing</p>
+<p>&nbsp;</p>
+<p>Graffiti Mural</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Semester 2</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Foster creativity and competitive spirit by participating in prestigious
+art contests like LiveOn Design, World Aquatic Championships Art Competition,
+and VIArt.</p>
+</li>
+<li>
 <p>Develop fundamental hand-building techniques in ceramics, including pinching,
 coiling and slab construction and explore creativity and self-expression
 through the tactile medium of clay</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Printmaking and Paper making</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Semester 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will explore the fundamentals of printmaking techniques and develop
-an understanding of the papermaking processes.</p>
+</li>
+<li>
+<p>&nbsp;Encourage self-expression and creativity by exploring the dynamic
+and bold style of graffiti drawing.</p>
+</li>
+<li>
+<p>&nbsp;Promote teamwork and large-scale artistic expression by creating
+a collaborative graffiti mural.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Year End Closing/Rounding Up</p>
-<p></p>
 <p>Cleaning of Art Room and Art Storeroom</p>
 <p>Stock Taking</p>
 <p>&nbsp;</p>
 <p>Reflection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discussion of students’ progress and experience with teachers</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Tidying up their work space for the next</p>
+</li>
+<li>
 <p>Closure of the CCA for the year and planning for next year’s CCA Fair</p>
+</li>
+<li>
 <p>Personal Reflection</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
