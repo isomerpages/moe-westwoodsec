@@ -27,9 +27,6 @@ students.&nbsp; &nbsp; &nbsp; &nbsp;</p>
 <li>
 <p>Ms Lim Simin</p>
 </li>
-<li>
-<p>Ms Andrea Lin Xiulin</p>
-</li>
 </ul>
 <p></p>
 <ul>
@@ -63,11 +60,14 @@ students.&nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p>3:00pm - 6:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Field / Hall / Classroom</p>
+<p>ML Room 3</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+</li>
+<li>
 <p><strong>PRE-REQUISITES (ACCORDING TO SINGAPORE YOUTH FLYING CLUB RULES)</strong>
 </p>
 <p><strong>STUDENTS MUST BE</strong>
@@ -80,6 +80,7 @@ students.&nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p></p>
 <p>For further information, please <a href="https://www.syfc.sg" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
+<p></p>
 </li>
 <li>
 <p><strong>CCA ACHIEVEMENTS</strong>
@@ -98,6 +99,15 @@ students.&nbsp; &nbsp; &nbsp; &nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>AWARDS</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd </sup>&nbsp;Runner up in Inter School Aeromodelling Competition
+- FPV Drone Race (Junior Final) Category</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -180,7 +190,8 @@ Final) Category</p>
 <p></p>
 <p>Category C3 – FPV Flight
 <br>
-<br>Organised by: Singapore Science Centre</p>
+<br><em>Organised by: Singapore Science Centre</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March - April</p>
@@ -213,7 +224,8 @@ obstacle course in teams of only ONE member.</p>
 <br>
 <br>C130 and visit to Paya Lebar Airbase DA-40 planes
 <br>
-<br>Organised by: Singapore Youth Flying Club</p>
+<br><em>Organised by: Singapore Youth Flying Club</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>June and December holidays</p>
@@ -231,7 +243,8 @@ obstacle course in teams of only ONE member.</p>
 <br>
 <br>Aviation Instructors’ (AI) Courses
 <br>
-<br>Organised by: Singapore Youth Flying Club</p>
+<br><em>Organised by: Singapore Youth Flying Club</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>June and December holidays</p>
@@ -261,7 +274,8 @@ obstacle course in teams of only ONE member.</p>
 <td rowspan="1" colspan="1">
 <p>Westwood Flying Enrichment Activities
 <br>
-<br>Organised by: Westwood Flying Club</p>
+<br><em>Organised by: Westwood Flying Club</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>October/November</p>
