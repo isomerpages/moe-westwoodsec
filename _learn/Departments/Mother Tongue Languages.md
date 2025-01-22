@@ -9,7 +9,12 @@ variant: tiptap
 <p>Competent, Dynamic, and Committed in Nurturing Life-Long Passion for the
 Language and Culture</p>
 <h3>Programmes / Events</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -61,7 +66,7 @@ inclusivity.</p>
 <p>Mother Tongue Fortnight Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 to 2</p>
+<p>Term 1 W9 - 10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The objective of MTL Fortnight is to ignite students’ interest and appreciation
@@ -75,8 +80,7 @@ and engaging language activities within and beyond the classroom.</p>
 <p>Mother Tongue Languages Intensive Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2
-<br>Week 9 to 10</p>
+<p>Term 2 W10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Targeted for Secondary Express/ 5 Normal Academic and 4 Normal Academic
@@ -87,7 +91,9 @@ and practices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Theatre Exposure</p>
+<p>Theatre Exposure (Sec 3)</p>
+<p>Chinese Language: CPEF</p>
+<p>Malay Language: CEPS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 to 4</p>
@@ -100,10 +106,12 @@ as well as to develop critical analytical skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Learning Journey – Heritage Trail</p>
+<p>Learning Journey:</p>
+<p>Sec 1 Heritage Trail</p>
+<p>Sec 2 Authentic Learning Journey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2- 4</p>
+<p>Term 2 - 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide students with the opportunity to explore different heritage
@@ -114,7 +122,11 @@ through various activities and authentic learning experiences.</p>
 </tbody>
 </table>
 <h3>Department Achievements</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -123,6 +135,87 @@ through various activities and authentic learning experiences.</p>
 <th rowspan="1" colspan="1">
 <p>Awards</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7th Text Recital Competition for secondary schools (CL):</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1<sup>st</sup> Place (Team - Final) (Click <a href="https://youtu.be/dtE96WAgqO0?si=3Nju_B4CQShcI91-" rel="noopener nofollow" target="_blank">here</a> to watch
+the video)</p>
+</li>
+<li>
+<p>Gold (Team - Upper Sec)</p>
+</li>
+<li>
+<p>1 Silver (Team - Upper Sec)</p>
+</li>
+<li>
+<p>1 Bronze (Team – Upper Sec)</p>
+</li>
+<li>
+<p>2 Bronzes (individual)</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>15th Good talk international children and youth bilingual speech conference.</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1<sup>st</sup> Prize &amp; 3<sup>rd</sup> prize (individual in1<sup>st</sup> round)</p>
+</li>
+<li>
+<p>1 Silver (individual in Final round)</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>W3 Zonal Mother Tongue Language &amp; Cultural Fiesta 2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese Language Quiz: 3rd Prize (Team)</p>
+</li>
+<li>
+<p>Malay Language Quiz: 1<sup>st</sup> Prize (Team)</p>
+</li>
+<li>
+<p>Chinese Language Creative Essay Writing: 4th Prize (Individual)</p>
+</li>
+<li>
+<p>Malay Language Creative Essay Writing: 1<sup>st</sup> Prize (Individual)</p>
+</li>
+<li>
+<p>Chinese Language Creative Writing with Photography Competition: 3rd prize
+(Individual)</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>National Malay Language Writing Competition: Saya Boleh Mengarang</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2 Golds (Individual)</p>
+</li>
+<li>
+<p>1 Silver (Individual)</p>
+</li>
+<li>
+<p>1 Bronze (Individual)</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>National Malay Scrabble Competition</strong>
+</p>
+<p>1<sup>st</sup> place for Zonal (Team)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -238,7 +331,11 @@ prize (Individual)</p>
 <iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_vCUs5Q6Ko7oK187VXv5lYeJOxT8snH6O0S7zNxRs2s-UfgLsCl-3fIf_yxRsrcgrXkLt2fkd5cl3/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Useful Links</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
