@@ -29,14 +29,9 @@ for students</p>
 </li>
 <li>
 <p>Mr Ajaib Singh</p>
-</li>
-</ul>
-<p></p>
-<ul>
-<li>
-<p><strong>TRAINING DAYS</strong>
+<p>
+<br><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -68,10 +63,7 @@ for students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girls:</p>
-<p>Monday (B’Div)</p>
-<p>Tuesday (C’Div)</p>
-<p>Thursday (All)</p>
+<p>Girls: Monday (B’Div), Tuesday (C’Div), Thursday (All)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:00pm - 5:30pm</p>
@@ -83,8 +75,6 @@ for students</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
 <p></p>
@@ -149,8 +139,6 @@ position</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
