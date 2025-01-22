@@ -9,11 +9,16 @@ variant: tiptap
 <p>To develop students into Empathetic Communicators, Discerning Readers
 and Creative Inquirers.</p>
 <h3>Programmes/Events</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>NAME OF PROGRAMME / EVENT</p>
+<p>NAME OF PROGRAMME / EVENT / RESOURCES</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>DATE / MONTH</p>
@@ -24,7 +29,7 @@ and Creative Inquirers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Reading Programme
+<p>Reading Material
 <br>(for all students)
 <br>
 </p>
@@ -35,23 +40,52 @@ and Creative Inquirers.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To encourage good reading habits by engaging students to read widely.
+<p>To encourage good reading habits by engaging students to read widely.</p>
+<p></p>
+<p>To enhance their literacy skills, expand vocabulary and promote empathy
+and cultural awareness.
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Public Speaking / Prepared Speech
+<p>Speech Enrichment
 <br>(for Secondary Three students)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Terms 2/3</p>
+<p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To develop students’ confidence in speaking in formal settings, emphasizing
-on the importance of punctuation, articulation and pacing and developing
-personal response.</p>
+<p>To enable students to employ an appropriate range of verbal and non-verbal
+skills when communicating with others on a personal level</p>
+<p></p>
+<p>To empower students to engage with individuals and/or groups in different
+scenarios</p>
+<p></p>
+<p>To instill confidence in students to share and substantiate their views
+in speech</p>
+<p>Encourage students to speak standard English in a formal conversational
+setting, with sufficient emphasis on pronunciation, articulation, appropriate
+pace</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Post-exam Sec 3 Enrichment</p>
+<p>(Video Production and Content Creation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To appreciate the Semiotic Modes Pentagon when applied onto everyday content
+creation</p>
+<p>To apply language skills to different aspects of life, beyond the four
+walls of the English Language classroom</p>
+<p></p>
+<p>To step into the shoes of a content creator and decide how to use certain
+linguistic and paralinguistic features with an intended purpose in mind</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +120,11 @@ the text.
 </tbody>
 </table>
 <h3>Department Achievements</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -146,7 +184,11 @@ the text.
 </tbody>
 </table>
 <h3>Useful Links</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
