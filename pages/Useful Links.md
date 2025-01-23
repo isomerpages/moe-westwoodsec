@@ -46,6 +46,10 @@ Log in to iCON)</p>
 Log in to iCON)</p>
 </li>
 <li>
+<p><a href="https://for.edu.sg/wwssmorning" rel="noopener nofollow" target="_blank">Introduction of Morning Announcement</a>
+</p>
+</li>
+<li>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
 </p>
 </li>
