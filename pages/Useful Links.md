@@ -46,6 +46,14 @@ Log in to iCON)</p>
 Log in to iCON)</p>
 </li>
 <li>
+<p><a href="https://for.edu.sg/wwssmorning" rel="noopener nofollow" target="_blank">Introduction of Morning Announcement</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ecg-wwss/home" rel="noopener nofollow" target="_blank">Westwood ECG site</a>
+</p>
+</li>
+<li>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
 </p>
 </li>
@@ -122,6 +130,10 @@ Log in to iCON)</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/pdlpwwss" rel="noopener noreferrer nofollow" target="_blank">Westwood Sec PDLP Resource Site</a>
+</p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/ecg-wwss/home" rel="noopener nofollow" target="_blank">Westwood ECG site</a>
 </p>
 </li>
 <li>

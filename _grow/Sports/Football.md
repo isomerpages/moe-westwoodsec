@@ -8,11 +8,10 @@ variant: tiptap
 <h3>OBJECTIVES</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>To promote sporting excellence</p>
+<p>To promote sporting excellence and values such as Friendship and Respect</p>
 </li>
 <li>
-<p>To hone and develop the football skills and knowledge of students with
-potential</p>
+<p>To hone and develop the Football skills and knowledge of students</p>
 </li>
 <li>
 <p>To use football as an avenue to provide character and moral education
@@ -29,18 +28,10 @@ for students</p>
 <p>Mr Lua Wen Liang</p>
 </li>
 <li>
-<p>Mr Syed Ali Bin Mohamed Alhabshee</p>
-</li>
-<li>
-<p>Ms Christy Teng</p>
-</li>
-</ul>
-<p></p>
-<ul>
-<li>
-<p><strong>TRAINING DAYS</strong>
+<p>Mr Ajaib Singh</p>
+<p>
+<br><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -72,7 +63,7 @@ for students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girls: Thursday</p>
+<p>Girls: Monday (B’Div), Tuesday (C’Div), Thursday (All)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:00pm - 5:30pm</p>
@@ -84,8 +75,6 @@ for students</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
 <p></p>
@@ -150,8 +139,6 @@ position</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
@@ -214,8 +201,7 @@ leadership skills.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>GALLERY</strong>
 </p>
 <p></p>
