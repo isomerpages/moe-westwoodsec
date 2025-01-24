@@ -46,7 +46,7 @@ Log in to iCON)</p>
 Log in to iCON)</p>
 </li>
 <li>
-<p><a href="https://for.edu.sg/wwssmorning" rel="noopener nofollow" target="_blank">Introduction of Morning Announcement</a>
+<p><a href="https://for.edu.sg/wwssmorning" rel="noopener nofollow" target="_blank">Morning Announcement Request Form</a>
 </p>
 </li>
 <li>
