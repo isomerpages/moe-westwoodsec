@@ -50,6 +50,22 @@ and cultural awareness.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Morning Pulse (Pre-Assembly Programme)</p>
+<p>Topical podcast (BBC 6 Minute English) and News (CNA Radio 938)</p>
+<p>(for all students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Whole Year</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To foster a school culture of learning.</p>
+<p></p>
+<p>To promote exposure to diverse topics</p>
+<p>To expand language use and vocabulary.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Speech Enrichment
 <br>(for Secondary Three students)</p>
 </td>
@@ -58,63 +74,131 @@ and cultural awareness.
 </td>
 <td rowspan="1" colspan="1">
 <p>To enable students to employ an appropriate range of verbal and non-verbal
-skills when communicating with others on a personal level</p>
+skills when communicating with others on a personal level.</p>
 <p></p>
 <p>To empower students to engage with individuals and/or groups in different
-scenarios</p>
+scenarios.</p>
 <p></p>
 <p>To instill confidence in students to share and substantiate their views
 in speech</p>
 <p>Encourage students to speak standard English in a formal conversational
 setting, with sufficient emphasis on pronunciation, articulation, appropriate
-pace</p>
+pace.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Post-exam Sec 3 Enrichment</p>
-<p>(Video Production and Content Creation)</p>
+<p>Post-exam Enrichment - Video Production and Content Creation (for Secondary
+3 students)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To appreciate the Semiotic Modes Pentagon when applied onto everyday content
-creation</p>
+creation.</p>
+<p></p>
 <p>To apply language skills to different aspects of life, beyond the four
-walls of the English Language classroom</p>
+walls of the English Language classroom.</p>
 <p></p>
 <p>To step into the shoes of a content creator and decide how to use certain
-linguistic and paralinguistic features with an intended purpose in mind</p>
+linguistic and paralinguistic features with an intended purpose in mind.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>W3/ West Zone Literature Symposium
-<br>(for Secondary Three students)</p>
+<p>Live on Festival (LOF) – Essay writing Competition</p>
+<p>(for Secondary Two students) (external)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be able to gain insights on the delicate and emotive nature of organ
+donation and transplantation, and a platform to express their thoughts
+about the topic.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Podcast (in collaboration with ALP &amp; CCE)</p>
+<p>(for Secondary One students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To develop communication skills through collaboration and articulation
+of ideas.</p>
+<p></p>
+<p>To develop critical thinking skills through evaluation of different perspectives
+and forming well-reasoned opinions.</p>
+<p></p>
+<p>To appreciate the Semiotic Modes Pentagon when applied onto everyday content
+creation.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exposure to Play</p>
+<p>(for Secondary Three and Four students taking Pure and Elective Literature)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To motivate students in studying the subject; gain more confidence in
-articulating their opinions and viewpoints in public; and develop new perspectives
-of their literary text as they are exposed to diverse viewpoints about
-the text.
-<br>
-</p>
+<p>To provide the opportunity for students to watch a play come to live.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Exposure to Play
-<br>(for Secondary Three and Four students taking Pure and Elective Literature)</p>
+<p>Literature Learning Journey</p>
+<p>(for Secondary Three and Four students taking Pure and Elective Literature)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 - 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To challenge students to consider and empathise with different perspectives,
+influenced by the settings and contexts they explore.</p>
+<p></p>
+<p>To inspire students to apply their literary understanding and analytical
+skills to real-world scenarios, bridging classroom learning with lived
+experiences.</p>
+<p></p>
+<p>To explore how physical and social settings influence narrative development,
+character behaviour, and thematic resonance.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>W3/ West Zone Literature Symposium
+<br>(for Secondary Three Literature students) (external)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To motivate students in studying the subject.</p>
+<p></p>
+<p>To gain more confidence in articulating their opinions and viewpoints
+in public.</p>
+<p></p>
+<p>To develop new perspectives of their literary text as they are exposed
+to diverse viewpoints about the text.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>W3 Voices of the West Oratorical Competition</p>
+<p>(selected students) (external)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Terms 2/3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To provide the opportunity for students to watch a play come to live.</p>
+<p>To promote a culture of oratorical excellence and to encourage purposeful
+interaction amongst students of W3 schools.</p>
 </td>
 </tr>
 </tbody>
@@ -228,6 +312,21 @@ NL Overdrive.</p>
 and to promote leisure reading.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://learnenglishteens.britishcouncil.org/?utm_source" rel="noopener nofollow" target="_blank">British Council's Learn English Teens</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This platform offers a variety of free resources, including reading, writing,
+and listening practice, exam tips, grammar and vocabulary exercises, games,
+and videos.</p>
+</td>
+</tr>
 </tbody>
 </table>
+<h4>Gallery</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSW1rhd369MNCRyPHlp0Navys2PQNtqE7SRfeGVY40-SODNrWFlK2we3WnGstrGRaZGPdA0AaPQXRht/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
