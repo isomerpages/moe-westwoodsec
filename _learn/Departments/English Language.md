@@ -231,3 +231,6 @@ and to promote leisure reading.</p>
 </tbody>
 </table>
 <p></p>
+<p>Gallery</p>
+<p><a href="https://docs.google.com/presentation/d/e/2PACX-1vSW1rhd369MNCRyPHlp0Navys2PQNtqE7SRfeGVY40-SODNrWFlK2we3WnGstrGRaZGPdA0AaPQXRht/pub?start=false&amp;loop=false&amp;delayms=3000" rel="noopener noreferrer nofollow" target="_blank">https://docs.google.com/presentation/d/e/2PACX-1vSW1rhd369MNCRyPHlp0Navys2PQNtqE7SRfeGVY40-SODNrWFlK2we3WnGstrGRaZGPdA0AaPQXRht/pub?start=false&amp;loop=false&amp;delayms=3000</a>
+</p>
