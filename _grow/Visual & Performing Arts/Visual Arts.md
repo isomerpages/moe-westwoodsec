@@ -159,16 +159,16 @@ Aaliyah Binte Hermizan 3G, Ng Xin Jie 3G, <em>&nbsp;</em>Chua Hui Ming 3H</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Essentials of Digital Painting</p>
+<p></p>
 <p>Alternative Colour Theory with Epoxy Resin</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Pinhole and darkroom printing Workshop
 <br>
-<br>Learning Journeys to NAFA Customised workshops</p>
+<br>Learning Journeys to NAFA Customised workshops
+<br>Variety of Printmaking Workshops
+<br>Oil Painting with Artist Tan Seng Kok</p>
 <p>&nbsp;</p>
-<p>Variety of Printmaking Workshops</p>
-<p>&nbsp;</p>
-<p>Oil Painting with Artist Tan Seng Kok</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Semester 1</p>
@@ -178,26 +178,27 @@ Aaliyah Binte Hermizan 3G, Ng Xin Jie 3G, <em>&nbsp;</em>Chua Hui Ming 3H</p>
 <li>
 <p>Introduce students to foundational skills in digital art using industry-standard
 software.</p>
+<p></p>
 </li>
 <li>
 <p>Explore innovative uses of color theory through hands-on experience with
 epoxy resin.</p>
-</li>
-<li>
-<p>Develop a deep understanding of traditional photographic techniques through
-creating and printing from pinhole cameras.</p>
+<p></p>
 </li>
 <li>
 <p>Provide exposure to advanced art practices and techniques through immersive
 workshops at NAFA.</p>
+<p></p>
 </li>
 <li>
-<p>&nbsp;Expand students' printmaking skills with hands-on practice in linocut,
-rubber block printing, and intaglio techniques.</p>
+<p>Promote teamwork and large-scale artistic expression by creating a collaborative
+graffiti mural.</p>
+<p></p>
 </li>
 <li>
-<p>Learn advanced oil painting techniques under the guidance of renowned
-artist Tan Seng Kok.</p>
+<p>Our students will collaborate with Boon Lay Secondary School and participate
+in hands-on workshops – Ceramics &amp; Animation with various artists (E.g.
+Ahmad Abu Bakar, Yanyun Chen, Jerrold Chong).</p>
 <p></p>
 </li>
 </ul>
@@ -210,8 +211,10 @@ artist Tan Seng Kok.</p>
 <p>Hand Building Techniques (Ceramics)</p>
 <p>&nbsp;</p>
 <p>Graffiti style drawing</p>
-<p>&nbsp;</p>
-<p>Graffiti Mural</p>
+<p></p>
+<p>Variety of Printmaking Workshop
+<br>
+<br>Graffiti Mural</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Semester 2</p>
@@ -221,16 +224,31 @@ artist Tan Seng Kok.</p>
 <li>
 <p>Foster creativity and competitive spirit by participating in prestigious
 art contests like LiveOn Design, World Aquatic Championships Art Competition,
-and VIArt.</p>
+and VIArt.
+<br>
+</p>
+<p></p>
 </li>
 <li>
 <p>Develop fundamental hand-building techniques in ceramics, including pinching,
 coiling and slab construction and explore creativity and self-expression
-through the tactile medium of clay</p>
+through the tactile medium of clay
+<br>
+</p>
+<p></p>
 </li>
 <li>
 <p>&nbsp;Encourage self-expression and creativity by exploring the dynamic
-and bold style of graffiti drawing.</p>
+and bold style of graffiti drawing.
+<br>
+</p>
+</li>
+<li>
+<p>Expand students' printmaking skills with hands-on practice in linocut,
+rubber block printing, and intaglio techniques.
+<br>
+</p>
+<p></p>
 </li>
 <li>
 <p>&nbsp;Promote teamwork and large-scale artistic expression by creating
@@ -242,9 +260,9 @@ a collaborative graffiti mural.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Year End Closing/Rounding Up</p>
-<p>Cleaning of Art Room and Art Storeroom</p>
-<p>Stock Taking</p>
-<p>&nbsp;</p>
+<p>Cleaning of Art Room and Art Storeroom &amp; Stock Taking
+<br>
+</p>
 <p>Reflection</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,9 +272,13 @@ a collaborative graffiti mural.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tidying up their work space for the next</p>
+<p></p>
 </li>
 <li>
-<p>Closure of the CCA for the year and planning for next year’s CCA Fair</p>
+<p>Closure of the CCA for the year and planning for next year’s CCA Fair
+<br>
+<br>
+</p>
 </li>
 <li>
 <p>Personal Reflection</p>
