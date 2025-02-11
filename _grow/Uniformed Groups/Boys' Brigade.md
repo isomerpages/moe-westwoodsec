@@ -21,10 +21,10 @@ as Leadership, Personal Mastery, Global Awareness and Community Spiritedness</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Tan Rou Jing Geraldine</p>
+<p>Mr Terence Tsang</p>
 </li>
 <li>
-<p>Mr Terence Tsang</p>
+<p>Ms Tan Rou Jing Geraldine</p>
 </li>
 <li>
 <p>Ms Jane Yap Hui Hian</p>
@@ -60,6 +60,17 @@ as Leadership, Personal Mastery, Global Awareness and Community Spiritedness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8:30am to 12:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BB Room / Quadrangle / Classroom</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday (once per month)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 pm – 6.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BB Room / Quadrangle / Classroom</p>
@@ -256,18 +267,6 @@ at adventure and sports courses. Boys from different companies compete
 against each other in this physically and mentally challenging, but thoroughly
 fulfilling adventure race. It will also allow Boys to take part in Kayaking,
 Rock Climbing/Abseiling and Archery.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Badgework Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A 3-day-2-night camp that allows Boys to complete various badgework activities,
-such as First Aid, Adventure and Drills.</p>
 </td>
 </tr>
 <tr>
