@@ -28,13 +28,13 @@ playing skill through public performances.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Siti Mahmudah</p>
+<p>Ms Siti Mahmudah</p>
 </li>
 <li>
-<p>Mdm Kang Lu</p>
+<p>Mdm Siti Hajar</p>
 </li>
 <li>
-<p>Ms Madeline Teo</p>
+<p>Ms Kang Lu</p>
 </li>
 </ul>
 <p></p>
@@ -65,10 +65,10 @@ playing skill through public performances.</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 6:00pm</p>
+<p>3:00pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guitar Room / Classroom</p>
+<p>Guitar Room</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ playing skill through public performances.</p>
 <p>2:00pm - 5:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guitar Room / Classroom</p>
+<p>Guitar Room</p>
 </td>
 </tr>
 </tbody>
@@ -163,6 +163,8 @@ playing skill through public performances.</p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -198,30 +200,31 @@ members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year Concert</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>February</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Guitar Ensemble performs for the school as part of the Chinese New
-Year Celebrations through a video recording. The students hone their skills
-and confidence by entertaining the audience with familiar Chinese New Year
-melodies.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Masterclass workshop</p>
+<p>Masterclass workshop (to prepare for SYF)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The workshop allows the students to get valuable feedback from other conductors
-on how to improve on the articulation and dynamics on the set piece for
-their Singapore Youth Festival (SYF) Competition or to learn how to take
-care of their guitars.</p>
+<p>Building up to the Singapore Youth Festival (SYF), the Guitar Ensemble
+will be going on exchange with other schools to share good practices and
+techniques on how to improve their individual playing.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Singapore Youth Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Singapore Youth Festival (SYF) is an annual event organised by the
+Ministry of Education to celebrate the achievements of our youths in their
+co-curricular activities (CCAs). Starting in April and culminating in a
+month-long celebration in July, the SYF will engage students from schools
+across Singapore involved in the performing arts, sports, and uniformed
+group CCAs.</p>
 </td>
 </tr>
 <tr>
@@ -230,7 +233,7 @@ care of their guitars.</p>
 / skills</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>June – December</p>
+<p>Whole Year</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Learning Journeys, Concerts or workshops will give members the opportunity
@@ -241,10 +244,24 @@ their guitars.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Masterclass workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March / November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The workshop allows the students to get valuable feedback from other conductors
+on how to improve on the articulation and dynamics on the set piece for
+their Singapore Youth Festival (SYF) Competition or to learn how to take
+care of their guitars.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Values in Action</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>June - December</p>
+<p>Whole year</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide a platform for the members to be socially responsible citizens
@@ -257,54 +274,43 @@ application of values, knowledge and skills.</p>
 <p>Annual Bonding &amp; Training Camp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>October / November</p>
+<p>October/ November</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The annual Bonding Day is held during the Year-End holiday so as</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to forge a stronger bond among Sec
-1 to Sec 3 students through fun and games,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to provide opportunity to the sec
-3 CCA leaders to practice their leadership skills by empowering them to
-plan and run activities themselvess</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to nurture and identify potential
-leaders and provide them with the necessary skills for future appointment
-in guitar.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>to forge a stronger bond among Sec 1 to Sec 3 students through fun and
+games,</p>
+</li>
+<li>
+<p>to provide opportunity to the sec 3 CCA leaders to practice their leadership
+skills by empowering them to plan and run activities themselves</p>
+</li>
+<li>
+<p>to nurture and identify potential leaders and provide them with the necessary
+skills for future appointment in guitar.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Preparation for CCA Fair 2025 – Introduction of new songs</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>September – December</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preparation for the CCA Fair for the following year.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Preparation for SYF Arts Presentation: Guitar Ensemble</p>
+<p>Preparation for CCA Fair 2026 – Introduction of new songs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>September - December</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Preparation for SYF Arts Presentation for the following year.</p>
+<p>Preparation for the CCA Fair for the following year.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
-<p><strong>GALLERY</strong>
+<p><strong>Gallery</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFaUeOV_zA0tZOd7TgpmQWbHqr3QhHWGJ3BCHvy38xUL5OBTUZcLV3LBzqivJOlt3p4AzmSLYT2KHJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-</li>
-</ul>
 <p></p>
