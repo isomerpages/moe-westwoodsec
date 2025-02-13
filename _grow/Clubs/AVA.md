@@ -23,13 +23,13 @@ through their involvement in the CCA.&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Terrance Lee Jin Han</p>
-</li>
-<li>
-<p>Mr Md Hamim Bar</p>
+<p>Mr Terrance Lee</p>
 </li>
 <li>
 <p>Mr Lawrence Chia</p>
+</li>
+<li>
+<p>Mr Hamim Bar</p>
 </li>
 </ul>
 <p></p>
