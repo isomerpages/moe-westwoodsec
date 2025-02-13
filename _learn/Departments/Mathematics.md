@@ -97,7 +97,7 @@ to help bridge learning gaps in secondary school Mathematics.</p>
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTS24VbwcABKGBJUqRt5O2XfFcvGOtOzoDV4NeC5QrWITAGsCYXPKPyYyXkcCIeDyV8wMrwQI3fRyH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4NX7PTsO7Rg_67lTNxSsPMFP_bzCUTBvmfREZ_DslGb_-FOTEgfscwgSzmVfea-KMyxWK9fJ6hDOK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h3>Useful Links</h3>
 <table style="minWidth: 25px">
