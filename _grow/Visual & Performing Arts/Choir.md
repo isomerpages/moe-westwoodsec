@@ -30,21 +30,15 @@ cultures and genres.</p>
 <p>Mdm You Chow Ling</p>
 </li>
 <li>
-<p>Mdm Tang Tai-Chi</p>
+<p>Mdm Insyirah Jumat</p>
 </li>
 <li>
 <p>Mr Mohammad Redzuan Bin Jaafar</p>
 </li>
-<li>
-<p>Mdm Insyirah Jumat</p>
-</li>
 </ul>
 <p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -79,7 +73,7 @@ cultures and genres.</p>
 <p>Friday (Only during competition season)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 5:30pm</p>
+<p>2:00pm - 5:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Room</p>
@@ -87,11 +81,9 @@ cultures and genres.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>CCA ACHIEVEMENT</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -153,11 +145,9 @@ cultures and genres.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p><strong>PROGRAMMES / EVENTS</strong>
+<p>
+<br><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -225,7 +215,7 @@ connections between students and instructors.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nov/Dec</p>
+<p>Nov/Dec School Holiday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To prepare all the members well for our second SYF in April 2025, this
@@ -237,15 +227,11 @@ focused rehearsals.
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p><strong>GALLERY</strong>
+<p>
+<br><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3fd7_HvvoadQSDJp8ousGWfjjB5Tlcy71nPVzEOHDRxS3fcJsnRYogXTbB98rbVG-mQZvDQAs00FY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>
