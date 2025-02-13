@@ -68,7 +68,7 @@ to develop good team camaraderie over the 4 years.</p>
 <p>3:00pm - 6:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH/Quadrangle</p>
+<p>ISH</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ to develop good team camaraderie over the 4 years.</p>
 <p>1:30pm - 4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH/Quadrangle</p>
+<p>ISH</p>
 </td>
 </tr>
 </tbody>
