@@ -22,20 +22,11 @@ resilience and sportsmanship.</p>
 </ul>
 <p><strong>TEACHERS IN-CHARGE</strong>
 </p>
-<p><strong>Boys</strong>
-</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Lee Teck Choon Robert</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Koh Hoe Yap</p>
-<p><strong>Girls</strong>
-</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Mavis Teo</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Charles Chou Kin Sang</p>
+<p><strong>Boys : </strong>Mr Lee Teck Choon Robert and Mr Koh Hoe Yap</p>
+<p><strong>Girls : </strong>Ms Mavis Teo and Mr Charles Chou Kin Sang</p>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -59,11 +50,12 @@ resilience and sportsmanship.</p>
 <p>Boys: Wednesdays and Fridays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday: 3:00pm-5:30pm</p>
+<p>Wednesday: 3:00pm-6:00pm</p>
 <p>Friday: 1:30pm-4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Hall</p>
+<p>Wednesday: Indoor Sports Hall (ISH)</p>
+<p>Friday: School Hall</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +72,7 @@ resilience and sportsmanship.</p>
 </tr>
 </tbody>
 </table>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
@@ -117,7 +109,7 @@ to represent the school to participate in competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Invitational Matches with Neighbouring Schools</p>
+<p>CCA Invitational Matches/Competition with W3 Cluster</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>June/November</p>
@@ -163,6 +155,14 @@ to improve team bonding as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>W3 Cluster Badminton Invitational Challenge: Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,6 +185,6 @@ to improve team bonding as well.</p>
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGhbfi-kHGL2s4w05_5MJDZI71HxA4T_B8zE2hXiCPMZapU-tgzq7agj58nI6Ma7q1wF9aGxQ3zBSo/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0naQSFBo2iM5B4F2UUMBp21IwoVSxVsF8loICWJo5nPbP9obfEka4TqNkUovzCx0aMcoQqlJSIfD6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

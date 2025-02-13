@@ -15,7 +15,9 @@ variant: tiptap
 themselves.&nbsp;</p>
 </li>
 <li>
-<p>To instill school values in dancers through dance.</p>
+<p>To instill school values in dancers through dance.
+<br>
+</p>
 </li>
 </ul>
 <p><strong>TEACHERS IN-CHARGE</strong>
@@ -25,18 +27,10 @@ themselves.&nbsp;</p>
 <p>Mdm Lim Shi Lei</p>
 </li>
 <li>
-<p>Mdm Hanisah Binte Salim</p>
-</li>
-<li>
 <p>Mdm Farah Zila Hassan</p>
-</li>
-<li>
-<p>Mr Lim Jun Wei</p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
 <table style="minWidth: 75px">
@@ -83,11 +77,9 @@ themselves.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -101,6 +93,14 @@ themselves.&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>AWARDS</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Super 24 – Gold Standard</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -154,11 +154,9 @@ themselves.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p><strong>PROGRAMMES / EVENTS</strong>
+<p>
+<br><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -238,15 +236,11 @@ from the experts of the dance scene.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p><strong>GALLERY</strong>
+<p>
+<br><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTA09gJjqeuPmK9nOZQinFgPYvP008UZN7wSzzaIAiFpK34SHGzFMnJpWs06HIprrrvSLFMPqujeNNc/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>
