@@ -3,93 +3,143 @@ title: Mathematics
 permalink: /academic-matters/departments/mathematics/
 description: ""
 third_nav_title: Departments
-variant: markdown
+variant: tiptap
 ---
-### VISION/GOALS
-
-**For pupils**&nbsp;<br>
-To be equipped with the necessary knowledge, skills and attitude to solve authentic Mathematical problems confidently.
-
-**For teachers** <br>
-To be exemplary leaders in the teaching and learning of Mathematics so as to add value to every Westwood pupil.
-
-### Programmes/ Events
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-0y1c{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-mwz3{background-color:#FFF;color:#565656;text-align:left;vertical-align:middle}
-.tg .tg-njgx{background-color:#FFF;color:#565656;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">NAME OF PROGRAMME / EVENT</span></th>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">DATE / MONTH</span></th>
-    <th class="tg-0y1c">OBJECTIVES OF PROGRAMME / EVENT</th>
-  </tr>
-</thead>
+<h3>VISION/GOALS</h3>
+<p><strong>For pupils</strong>&nbsp;
+<br>To be equipped with the necessary knowledge, skills and attitude to solve
+authentic Mathematical problems confidently.</p>
+<p><strong>For teachers</strong> 
+<br>To be exemplary leaders in the teaching and learning of Mathematics so
+as to add value to every Westwood pupil.</p>
+<h3>Programmes/ Events</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Sec 2 and 3</span><br><span style="color:#565656">Problem Solving Project</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">May - July</span><br><br><br></td>
-    <td class="tg-njgx">Secondary 2 and 3 students will apply what they learnt in the classroom to solve real world problems in the school and the community.</td>
-  </tr>
-  <tr>
-    <td class="tg-mwz3"><span style="color:#565656">Sec 1 Code for fun</span><br></td>
-    <td class="tg-mwz3"><span style="color:#565656">July - September</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Secondary 1 students will be exposed to basic coding as well as computational thinking. </span></td>
-  </tr>
-	<tr>
-    <td class="tg-mwz3"><span style="color:#565656">Sec 2 Coding Programme</span><br></td>
-    <td class="tg-mwz3"><span style="color:#565656">April - September</span></td>
-    <td class="tg-mwz3"><span style="color:#565656">Selected Secondary 2 students who are interested in coding are given opportunities to further their interest, meet people in the industry and to take part in curated competition.</span><br><br></td></tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NAME OF PROGRAMME / EVENT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DATE / MONTH</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>OBJECTIVES OF PROGRAMME / EVENT</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1, 2 and 3
+<br>Problem Solving Project</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May - July
+<br>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 1, 2 and 3 students will apply what they learnt in the classroom
+to solve real world problems in the school and the community.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Code for fun
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March - May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 students will be exposed to basic coding as well as computational
+thinking.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2 Coding Programme
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April - July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected Secondary 2 students who are interested in coding are given opportunities
+to further their interest, meet people in the industry and to take part
+in curated competition.
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Foundational Mathematics Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February - May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 students from G2 and G3 who previously studied Foundation
+Mathematics in primary school will participate in the Foundational Mathematics
+Programme, conducted either during or outside regular curriculum hours,
+to help bridge learning gaps in secondary school Mathematics.</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<iframe allowfullscreen="true" height="535" width="900" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTS24VbwcABKGBJUqRt5O2XfFcvGOtOzoDV4NeC5QrWITAGsCYXPKPyYyXkcCIeDyV8wMrwQI3fRyH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-### Useful Links
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-k0s0{background-color:#3AA66F;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-qrq8{background-color:#FFF;color:#565656;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-av5t{background-color:#FFF;color:#3AA66F;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-k0s0"><span style="color:#FFF;background-color:#3AA66F">LINK</span></th>
-  </tr>
-</thead>
+<div class="iframe-wrapper">
+<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTS24VbwcABKGBJUqRt5O2XfFcvGOtOzoDV4NeC5QrWITAGsCYXPKPyYyXkcCIeDyV8wMrwQI3fRyH/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h3>Useful Links</h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-qrq8">National Examination Syllabus </td>
-  </tr>
-  <tr>
-    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/4052_y23_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Elementary Mathematics (Express)(Revised)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/4045_y23_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Mathematics Syllabus A (Normal Academic)(Revised)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/4046_y23_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Mathematics Syllabus T (Normal Technical)(Revised)</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/4049_y23_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Additional Mathematics (Express)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-av5t"><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/4051_y23_sy.pdf"><span style="text-decoration:none;color:#3AA66F">Additional Mathematics (Normal Academic)</span></a></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>LINK</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/4052_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Elementary Mathematics (Express)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2025/4045_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics Syllabus A (Normal Academic)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/NT%20Lvl%20Syllabus%20Sch%20Cddts/2025/4046_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics Syllabus T (Normal Technical)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/O%20Lvl%20Syllabus%20Sch%20Cddts/2025/4049_y25_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Additional Mathematics (Express)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.seab.gov.sg/files/NA%20Level%20Syllabus%20Sch%20Cddts/2026/4051_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Additional Mathematics (Normal Academic)</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
