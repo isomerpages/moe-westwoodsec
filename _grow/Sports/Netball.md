@@ -21,31 +21,27 @@ among players through different strategies employed during trainings&nbsp;and
 to develop good team camaraderie over the 4 years.</p>
 </li>
 <li>
-<p>To groom vibrant student leaders who can lead and inspire fellow players.</p>
+<p>To groom vibrant student leaders who can lead and inspire fellow players.
+<br>
+</p>
 </li>
 </ol>
 <p><strong>TEACHERS IN-CHARGE</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Naomi Chua</p>
+<p>Mdm Nur Nadiah Razni</p>
 </li>
 <li>
 <p>Mdm Farhana Mokhtar</p>
 </li>
 <li>
-<p>Ms Mavis Teo</p>
-</li>
-<li>
-<p>Mdm Nur Nadiah Razni</p>
+<p>Ms Naomi Chua</p>
 </li>
 </ul>
 <p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -89,13 +85,8 @@ to develop good team camaraderie over the 4 years.</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
-<p></p>
-</li>
-</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -141,10 +132,8 @@ to develop good team camaraderie over the 4 years.</p>
 </tr>
 </tbody>
 </table>
-<ul>
-<li>
-<p><strong>PROGRAMMES / EVENTS</strong> 
-<br>
+<p>
+<br><strong>PROGRAMMES / EVENTS</strong> 
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -169,7 +158,7 @@ to develop good team camaraderie over the 4 years.</p>
 <p>SSSC Inter-school Netball Competition (West Zone)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>January/April</p>
+<p>January to March/ May to July</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Main tournament of the year for B and C Division.</p>
@@ -239,7 +228,7 @@ within the team</p>
 <p>Netops Carnival</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>December</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Promote sporting excellence through competitions to prepare main players
@@ -248,16 +237,11 @@ for next year.</p>
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
-<h4><strong>GALLERY</strong></h4>
-<ul>
-<li>
-<p></p>
+<p>
+<br><strong>Gallery</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2CP4zumkjjjgEJHJxTGQHkiUgwQtWuomsg-pcDkeoj854io9in7MQqGHROIOQsFPsV_dJBZmXoXPe/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>
