@@ -22,20 +22,11 @@ resilience and sportsmanship.</p>
 </ul>
 <p><strong>TEACHERS IN-CHARGE</strong>
 </p>
-<p><strong>Boys</strong>
-</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Lee Teck Choon Robert</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Koh Hoe Yap</p>
-<p><strong>Girls</strong>
-</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Mavis Teo</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Charles Chou Kin Sang</p>
+<p><strong>Boys : </strong>Mr Lee Teck Choon Robert and Mr Koh Hoe Yap</p>
+<p><strong>Girls : </strong> Ms Mavis Teo and Mr Charles Chou Kin Sang</p>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -59,11 +50,12 @@ resilience and sportsmanship.</p>
 <p>Boys: Wednesdays and Fridays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday: 3:00pm-5:30pm</p>
+<p>Wednesday: 3:00pm-6:00pm</p>
 <p>Friday: 1:30pm-4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Hall</p>
+<p>Wednesday: Indoor Sports Hall (ISH)</p>
+<p>Friday: School Hall</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +72,7 @@ resilience and sportsmanship.</p>
 </tr>
 </tbody>
 </table>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
@@ -117,7 +109,7 @@ to represent the school to participate in competition.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Invitational Matches with Neighbouring Schools</p>
+<p>CCA Invitational Matches/Competition with W3 Cluster</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>June/November</p>
@@ -160,6 +152,14 @@ to improve team bonding as well.</p>
 <th rowspan="1" colspan="1">
 <p>AWARD</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>W3 Cluster Badminton Invitational Challenge: Champion</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
