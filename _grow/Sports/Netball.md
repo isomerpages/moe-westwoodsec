@@ -133,7 +133,7 @@ to develop good team camaraderie over the 4 years.</p>
 </tbody>
 </table>
 <p>
-<br><strong>PROGRAMMES / EVENTS</strong> 
+<br><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
