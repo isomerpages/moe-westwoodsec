@@ -64,7 +64,7 @@ and activities</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 5:30pm</p>
+<p>2:30pm - 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Quadrangle/ISH/Basketball Court</p>
