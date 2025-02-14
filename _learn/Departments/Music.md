@@ -56,7 +56,7 @@ inclusivity and engagement</p>
 <td rowspan="1" colspan="1">
 <p>Secondary 1
 <br>
-<br>Music Technology</p>
+<br>Ukulele Playing Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jun-Oct
@@ -64,30 +64,31 @@ inclusivity and engagement</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Be exposed to music technology and experience how it is commonly used
-in the music industry
-<br>Learning how to create music using music softwares such as “Bandlab” and
-“Soundtrap”
-<br>Understand how to write original lyrics and create a song based on assigned
-themes</p>
+<p>Identify and be able to explain the functions of the different parts of
+ukulele</p>
+<p>Understand how to play various music chords and strumming patterns on
+ukulele</p>
+<p>Be able to sing a popular song and accompany it with appropriate music
+chords</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Secondary 2
 <br>
-<br>Ukulele Playing Programme</p>
+</p>
+<p>Music Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jan-Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Identify and be able to explain the functions of the different parts of
-ukulele and guitar
-<br>Understand how to play various music chords and strumming patterns on
-ukulele/guitar
-<br>Be able to sing a popular song and accompany it with appropriate music
-chords</p>
+<p>Be exposed to music technology and experience how it is commonly used
+in the music industry</p>
+<p>Learning how to create music using music softwares such as “Bandlab” and
+“Suno AI</p>
+<p>Understand how to write original lyrics and create a song based on assigned
+themes</p>
 </td>
 </tr>
 <tr>
