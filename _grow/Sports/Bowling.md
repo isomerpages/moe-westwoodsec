@@ -205,7 +205,7 @@ to represent the school at National level.
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2NAFtPIx4Wtzap40hrzgPhn3tfWsOcdODTa3UeVvLXwfnWjY4T9_CVYWvlH3pBG7e5GKiflzFrzik/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2NAFtPIx4Wtzap40hrzgPhn3tfWsOcdODTa3UeVvLXwfnWjY4T9_CVYWvlH3pBG7e5GKiflzFrzik/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 </li>
