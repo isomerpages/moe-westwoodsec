@@ -234,18 +234,15 @@ others against becoming victims to drug abuse.</p>
 <td rowspan="1" colspan="1">
 <p>To develop the leadership skills of&nbsp;the cadets, focusing on the following
 3 core skills and 3 elective skills in NPCC cadets:</p>
-<p>&nbsp;</p>
 <p><u>Core Skills</u>
-</p>
-<p>1. Leadership</p>
-<p>2. Effective Communication</p>
-<p>3. Team Dynamics</p>
-<p>&nbsp;</p>
+<br>1. Leadership
+<br>2. Effective Communication
+<br>3. Team Dynamics</p>
+<p></p>
 <p><u>Elective Skills</u>
-</p>
-<p>1. Goal Setting</p>
-<p>2. Lesson Planning</p>
-<p>3. Method of Instructions</p>
+<br>1. Goal Setting
+<br>2. Lesson Planning
+<br>3. Method of Instructions</p>
 </td>
 </tr>
 <tr>
@@ -282,15 +279,12 @@ police centre</p>
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To equip cadets with the relevant knowledge as follows:</p>
-<p>&nbsp;</p>
-<p>Greater awareness on specific threats like chemical, biological and radiological,
-and its effect on the human body</p>
-<p>&nbsp;</p>
-<p>Skills and knowledge in identifying suspicious persons or items found
-in public places and transport</p>
-<p>&nbsp;</p>
-<p>Public Warning System and Emergency Evacuation Procedures</p>
+<p>To equip cadets with the relevant knowledge as follows:&nbsp;
+<br>Greater awareness on specific threats like chemical, biological and radiological,
+and its effect on the human body&nbsp;
+<br>Skills and knowledge in identifying suspicious persons or items found
+in public places and transport
+<br>Public Warning System and Emergency Evacuation Procedures</p>
 </td>
 </tr>
 <tr>
@@ -406,8 +400,7 @@ community</p>
 <td rowspan="1" colspan="1">
 <p>The ceremony welcomes our new members joining the NPCC family and instils
 a sense of belonging to the Corps</p>
-<p>
-<br>To equip cadets with relevant knowledge on crime cases which students
+<p>To equip cadets with relevant knowledge on crime cases which students
 are more likely encounter, to cultivate in them a strong sense of respect
 for the law, and to instill a sense of responsibility in upholding the
 law</p>
@@ -447,14 +440,11 @@ its people</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To equip cadets with the relevant knowledge as follows:</p>
-<p>&nbsp;</p>
-<p>Greater awareness on specific threats like chemical, biological and radiological,
-and its effect on the human body</p>
-<p>&nbsp;</p>
+<p>&nbsp;Greater awareness on specific threats like chemical, biological
+and radiological, and its effect on the human body</p>
 <p>Skills and knowledge in identifying suspicious persons or items found
 in public places and transport</p>
-<p>&nbsp;</p>
-<p>Public Warning System and Emergency Evacuation Procedures</p>
+<p>&nbsp;Public Warning System and Emergency Evacuation Procedures</p>
 </td>
 </tr>
 <tr>
@@ -501,8 +491,8 @@ evidence from a scene to solve a crime</p>
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><s>This program aims</s> To equip cadets with relevant skills on first
-aid and firefighting which will be useful in times of emergency</p>
+<p>To equip cadets with relevant skills on first aid and firefighting which
+will be useful in times of emergency</p>
 </td>
 </tr>
 <tr>
