@@ -20,10 +20,13 @@ Singapore safe.&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Julitta Chia</p>
+<p>Ms Julitta Chia Chia Meng You</p>
 </li>
 <li>
 <p>Mr Zavier Ho Chee Yong</p>
+</li>
+<li>
+<p>Ms. Gloria Boey Li Ling</p>
 </li>
 </ul>
 <p></p>
@@ -59,6 +62,17 @@ Singapore safe.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NPCC room / Quadrangle / Area behind canteen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(Ad-hoc trainings for competitions and events organised by HQ)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
 </td>
 </tr>
 </tbody>
