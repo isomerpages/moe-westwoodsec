@@ -166,6 +166,8 @@ Singapore safe.&nbsp;</p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
 <p></p>
+</li>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -175,6 +177,7 @@ Singapore safe.&nbsp;</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <p>NAME OF PROGRAMME / EVENT</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -198,36 +201,10 @@ make an informed decision on whether to join NPCC</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Community Service Project (CSSP) (Secondary 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To provide cadets with an opportunity to be active citizens by coming
-up with their own project and spreading crime prevention messages to the
-school</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Police Youth Ambassadors (PYA) (Secondary 3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To provide cadets with an opportunity to be active citizens by coming
-up with their own project and spreading crime prevention messages to the
-community</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Singapore Anti-Narcotics Association Course (Secondary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To increase awareness of the threats of drug abuse, to encourage cadets
@@ -237,35 +214,38 @@ others against becoming victims to drug abuse.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leadership and Mentoring Skills Course (LMSC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 – 31 May 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To develop the leadership skills of the cadets, focusing on the following
-3 core skills and 3 elective skills in NPCC cadets:
-<br>**Core Skills**
-<br>1. Leadership
-<br>2. Effective Communication
-<br>3. Team Dynamics
-<br>**Elective Skills **
-<br>1. Goal Setting
-<br>2. Lesson Planning
-<br>3. Method of Instructions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cadet Leaders Training</p>
+<p>Cadet Leaders Training (Secondary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To prepare incoming cadet leaders for their roles in leading the unit
-<br>
+<p>To prepare incoming cadet leaders for their roles in leading the unit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leadership and Mentoring Skills Course (LMSC) (Secondary 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March Holidays</p>
+<p>17 – 18 March 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To develop the leadership skills of&nbsp;the cadets, focusing on the following
+3 core skills and 3 elective skills in NPCC cadets:</p>
+<p>&nbsp;</p>
+<p><u>Core Skills</u>
 </p>
+<p>1. Leadership</p>
+<p>2. Effective Communication</p>
+<p>3. Team Dynamics</p>
+<p>&nbsp;</p>
+<p><u>Elective Skills</u>
+</p>
+<p>1. Goal Setting</p>
+<p>2. Lesson Planning</p>
+<p>3. Method of Instructions</p>
 </td>
 </tr>
 <tr>
@@ -273,15 +253,13 @@ others against becoming victims to drug abuse.</p>
 <p>Police Knowledge and Procedures (Secondary 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 May 2024</p>
+<p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To equip cadets with relevant knowledge on crime cases which most teenagers
 are likely to encounter, to cultivate in them a strong sense of respect
 for the law, and to instill a sense of responsibility in upholding the
-law
-<br>
-</p>
+law</p>
 </td>
 </tr>
 <tr>
@@ -289,13 +267,11 @@ law
 <p>Visit to Neighbourhood Police Centre (Secondary 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 May 2024</p>
+<p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide cadets insight to the activities that go on inside a neighbourhood
-police centre
-<br>
-</p>
+police centre</p>
 </td>
 </tr>
 <tr>
@@ -306,27 +282,15 @@ police centre
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To equip cadets with the relevant knowledge as follows:
-<br>
-<br>Greater awareness on specific threats like chemical, biological and radiological,
-and its effect on the human body.
-<br>
-<br>Skills and knowledge in identifying suspicious persons or items found
-in public places and transport.
-<br>
-<br>Public Warning System and Emergency Evacuation Procedures</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Visit to Police Heritage Centre (Secondary 1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To show cadets the history of the police and the key events in history
-in which the police played vital roles.</p>
+<p>To equip cadets with the relevant knowledge as follows:</p>
+<p>&nbsp;</p>
+<p>Greater awareness on specific threats like chemical, biological and radiological,
+and its effect on the human body</p>
+<p>&nbsp;</p>
+<p>Skills and knowledge in identifying suspicious persons or items found
+in public places and transport</p>
+<p>&nbsp;</p>
+<p>Public Warning System and Emergency Evacuation Procedures</p>
 </td>
 </tr>
 <tr>
@@ -359,27 +323,10 @@ game – Guardians of the City.</p>
 <p>NPCC Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>May</p>
+<p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To instill in the cadets loyalty and dedication to the Corps</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Swearing In Ceremony &amp; Area Games Day (Secondary 1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 July 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The ceremony welcomes our new members joining the NPCC family and instils
-a sense of belonging to the Corps To to equip cadets with relevant knowledge
-on crime cases which students are more likely encounter, to cultivate in
-them a strong sense of respect for the law, and to instill a sense of responsibility
-in upholding the law
-<br>
-</p>
+<p>To instill and reinforce the cadets’ sense of identity to the Corps</p>
 </td>
 </tr>
 <tr>
@@ -398,7 +345,77 @@ law</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Inter-Uniformed Group Drill Competition and National Day Celebrations</p>
+<p>Adventure/Survival Training Camp (Secondary 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+<p>4 – 6 July 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To instill discipline and confidence in the cadets as they overcome numerous
+challenges</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Visit to Police Heritage Centre (Secondary 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To show cadets the history of the police and the key events in history
+in which the police played vital roles.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Community Service Project (CSSP) (Secondary 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To provide cadets with an opportunity to be active citizens by coming
+up with their own project and spreading crime prevention messages to the
+school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Police Youth Ambassadors (PYA) (Secondary 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To provide cadets with an opportunity to be active citizens by coming
+up with their own project and spreading crime prevention messages to the
+community</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Swearing In Ceremony &amp; Area Games Day (Secondary 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+<p>&nbsp;</p>
+<p>12 July 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The ceremony welcomes our new members joining the NPCC family and instils
+a sense of belonging to the Corps</p>
+<p>
+<br>To equip cadets with relevant knowledge on crime cases which students
+are more likely encounter, to cultivate in them a strong sense of respect
+for the law, and to instill a sense of responsibility in upholding the
+law</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day Celebrations</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Day Celebrations in School</p>
@@ -410,12 +427,10 @@ in the form of friendly competition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Visit to Home Team Gallery (Secondary 3)
-<br>
-</p>
+<p>Visit to Home Team Gallery (Secondary 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 May 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To help cadets appreciate the role of the Singapore Police Force as part
@@ -431,16 +446,15 @@ its people</p>
 <p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To equip cadets with the relevant knowledge as follows:
-<br>
-<br>
-<br>Greater awareness on specific threats like chemical, biological and radiological,
-and its effect on the human body
-<br>Skills and knowledge in identifying suspicious persons or items found
-in public places and transport
-<br>Public Warning System and Emergency Evacuation Procedures
-<br>
-</p>
+<p>To equip cadets with the relevant knowledge as follows:</p>
+<p>&nbsp;</p>
+<p>Greater awareness on specific threats like chemical, biological and radiological,
+and its effect on the human body</p>
+<p>&nbsp;</p>
+<p>Skills and knowledge in identifying suspicious persons or items found
+in public places and transport</p>
+<p>&nbsp;</p>
+<p>Public Warning System and Emergency Evacuation Procedures</p>
 </td>
 </tr>
 <tr>
@@ -463,20 +477,8 @@ CCA</p>
 <p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To equip cadets with basic self-defense skills used by the Police when
+<p>To equip cadets with basic self-defence skills used by the Police when
 interacting with potentially aggressive people</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Adventure/Survival Training Camp (Secondary 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18-19 June 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To instill discipline and confidence in the cadets as they overcomes numerous
-challenges</p>
 </td>
 </tr>
 <tr>
@@ -499,21 +501,8 @@ evidence from a scene to solve a crime</p>
 <p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To equip cadets with relevant skills on first aid and firefighting which
-will be useful in times of emergency</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Total Defence Badges</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TBC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To promote awareness of, and involvement in, Total Defence among cadets.
-The cadets will learn more about our pillars of defence through a card
-game – Guardians of the City.</p>
+<p><s>This program aims</s> To equip cadets with relevant skills on first
+aid and firefighting which will be useful in times of emergency</p>
 </td>
 </tr>
 <tr>
@@ -530,7 +519,7 @@ to Police work</p>
 </tr>
 </tbody>
 </table>
-</li>
+<ul>
 <li>
 <p><strong>GALLERY</strong>
 </p>
