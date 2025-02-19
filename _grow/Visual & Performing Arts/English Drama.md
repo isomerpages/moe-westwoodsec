@@ -253,6 +253,6 @@ of drama and touches on key issues and challenges in today’s world.</p>
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREaWTvuRenUex7RRwMztUKwOxeqXBuDucNNJqTHDsOnge9z5BYry-fTpLaWizNFEFzN7mKt5JMzTfy/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv5GaA2JocQS-fAJ8EX2GTnhLp-NpV0BwceqLtSVtRJdM-J0ZPEyBma_2fCSOSxvvbg_O71I7EyeZt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
