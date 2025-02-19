@@ -27,16 +27,10 @@ through fun, adventurous and military-related activities.
 <li>
 <p>CPT (NCC) Mr How Choon Keat</p>
 </li>
-<li>
-<p>Mr Jeryl Sim</p>
-</li>
 </ul>
 <p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -68,11 +62,9 @@ through fun, adventurous and military-related activities.
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -151,11 +143,9 @@ through fun, adventurous and military-related activities.
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -176,22 +166,6 @@ through fun, adventurous and military-related activities.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Passing Out Parade (POP)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To appreciate the Senior Cadets Leaders for their outstanding contribution
-to the Westwood NCC.
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Annual NCC Camp cum Promotion Ceremony
 <br>
 </p>
@@ -201,9 +175,19 @@ to the Westwood NCC.
 </td>
 <td rowspan="1" colspan="1">
 <p>Allow cadets to further bond with one another, pushing future cadet leaders
-to their limits
-<br>
-</p>
+to their limits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Passing Out Parade (POP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To appreciate the Senior Cadets Leaders for their outstanding contribution
+to the Westwood NCC</p>
 </td>
 </tr>
 <tr>
@@ -567,7 +551,7 @@ by competing amongst other school units in a healthy competitive environment.</p
 </tbody>
 </table>
 <p></p>
-</li>
+<ul>
 <li>
 <p><strong>GALLERY</strong>
 </p>
