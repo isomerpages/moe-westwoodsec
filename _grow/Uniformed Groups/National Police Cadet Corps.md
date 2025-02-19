@@ -26,15 +26,12 @@ Singapore safe.&nbsp;</p>
 <p>Mr Zavier Ho Chee Yong</p>
 </li>
 <li>
-<p>Ms. Gloria Boey Li Ling</p>
+<p>Ms Gloria Boey Li Ling</p>
 </li>
 </ul>
 <p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -78,11 +75,8 @@ Singapore safe.&nbsp;</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>CCA Achievements</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -161,13 +155,9 @@ Singapore safe.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
-</li>
-</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -423,7 +413,7 @@ in the form of friendly competition</p>
 <p>Visit to Home Team Gallery (Secondary 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To help cadets appreciate the role of the Singapore Police Force as part
