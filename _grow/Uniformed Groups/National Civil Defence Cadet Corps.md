@@ -118,11 +118,9 @@ Quadrangle</p>
 </tr>
 </tbody>
 </table>
-<ul>
-<li>
+<p></p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -222,7 +220,7 @@ in organising and executing an event.
 <p>Psychological first aid Course</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>January (TBC)</p>
+<p>January</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>An advanced specialisation course to impart to our cadets the importance
@@ -408,15 +406,11 @@ the development of skills, character and values</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRHuMWBmiuq-ngKjo0WMGdy7hi30gDqf2F8booSXqFmCJGBnU-s0RBp_9USOEsoG0qm9JGH5PZ0Rke/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>
