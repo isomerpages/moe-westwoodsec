@@ -35,15 +35,12 @@ in the form of competitions and school and public events</p>
 <p>Mdm Jaskirath Kaur</p>
 </li>
 <li>
-<p>Mdm Maria Loh</p>
+<p>Mr Mahathir Aziz</p>
 </li>
 </ul>
 <p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -67,10 +64,12 @@ in the form of competitions and school and public events</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:00pm</p>
+<p>3:00 – 5:00 pm (Non- SYF timing)</p>
+<p>3:00 – 6:00 pm</p>
+<p>(SYF training timing)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher’s Hub</p>
+<p>Teacher’s Hub, MRL</p>
 </td>
 </tr>
 <tr>
@@ -81,16 +80,14 @@ in the form of competitions and school and public events</p>
 <p>2:00pm - 5:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher’s Hub</p>
+<p>Teacher’s Hub, MRL</p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -159,11 +156,9 @@ in the form of competitions and school and public events</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -189,10 +184,8 @@ in the form of competitions and school and public events</p>
 <td rowspan="1" colspan="1">
 <p>All year round</p>
 </td>
-<td rowspan="6" colspan="1">
+<td rowspan="1" colspan="1">
 <p>To build confident communicators and assist the school in hosting events.</p>
-<p>To build character through drama and expose students to different genres
-of drama and touches on key issues and challenges in today's world.</p>
 </td>
 </tr>
 <tr>
@@ -201,6 +194,13 @@ of drama and touches on key issues and challenges in today's world.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>March to November</p>
+</td>
+<td rowspan="5" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p>To build character through drama and expose students to different genres
+of drama and touches on key issues and challenges in today’s world.</p>
 </td>
 </tr>
 <tr>
@@ -221,7 +221,7 @@ of drama and touches on key issues and challenges in today's world.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Preparation for Teachers' Day Performance</p>
+<p>Preparation for National Day/Teachers' Day Performance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>June to August</p>
@@ -230,9 +230,7 @@ of drama and touches on key issues and challenges in today's world.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Preparation for School Open House/ CCA Fair
-<br>
-</p>
-<p>Drama Production</p>
+<br>Drama Production</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>November to December</p>
@@ -251,8 +249,6 @@ of drama and touches on key issues and challenges in today's world.</p>
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
 <p></p>
 <p><strong>GALLERY</strong>
 </p>
