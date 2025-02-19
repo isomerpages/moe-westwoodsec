@@ -27,16 +27,10 @@ through fun, adventurous and military-related activities.
 <li>
 <p>CPT (NCC) Mr How Choon Keat</p>
 </li>
-<li>
-<p>Mr Jeryl Sim</p>
-</li>
 </ul>
 <p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -68,11 +62,9 @@ through fun, adventurous and military-related activities.
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -151,11 +143,9 @@ through fun, adventurous and military-related activities.
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -176,22 +166,6 @@ through fun, adventurous and military-related activities.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Passing Out Parade (POP)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To appreciate the Senior Cadets Leaders for their outstanding contribution
-to the Westwood NCC.
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Annual NCC Camp cum Promotion Ceremony
 <br>
 </p>
@@ -201,9 +175,19 @@ to the Westwood NCC.
 </td>
 <td rowspan="1" colspan="1">
 <p>Allow cadets to further bond with one another, pushing future cadet leaders
-to their limits
-<br>
-</p>
+to their limits</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Passing Out Parade (POP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To appreciate the Senior Cadets Leaders for their outstanding contribution
+to the Westwood NCC</p>
 </td>
 </tr>
 <tr>
@@ -220,9 +204,9 @@ National Day</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Key Programmes for Senior Cadets (Sec 1)</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -250,9 +234,7 @@ National Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To welcome our new cadets to the Corps the event will cover Junior Cadets
-pledging ceremony,
-<br>
-</p>
+pledging ceremony.</p>
 </td>
 </tr>
 <tr>
@@ -316,7 +298,6 @@ to keep healthy and fit.</p>
 <p></p>
 <p><strong>Key Programmes for Senior Cadets (Sec 2)</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -347,6 +328,17 @@ to keep healthy and fit.</p>
 <br>(Secondary 2 Cadets) and preparing them to become responsible and empathetic
 leaders. Hence 1-day Camp STEEL (Acronym for Standards, Tenacity, Emotional
 Intelligence, Energy and Leadership)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IMT Training</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To equip cadets with shooting skills.</p>
 </td>
 </tr>
 <tr>
@@ -436,7 +428,6 @@ by competing amongst other school units in a healthy competitive environment.</p
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p><strong>Key Programmes for Senior Cadets (Sec 3)</strong>
 </p>
 <table style="minWidth: 75px">
@@ -462,7 +453,7 @@ by competing amongst other school units in a healthy competitive environment.</p
 <p>Specialist Assessment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April</p>
+<p>May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To test Cadet Leaders on their knowledge and instructional abilities in
@@ -567,15 +558,10 @@ by competing amongst other school units in a healthy competitive environment.</p
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgl4N8daa061TgabM22R3qjvUflC-QPkdvzRq4sEPuWjIYlJniYIYQ6lqqVGbwycK-xcoxjCG_pmzv/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgl4N8daa061TgabM22R3qjvUflC-QPkdvzRq4sEPuWjIYlJniYIYQ6lqqVGbwycK-xcoxjCG_pmzv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>

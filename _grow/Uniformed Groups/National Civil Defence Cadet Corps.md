@@ -21,6 +21,7 @@ to become effective ambassadors of Civil Defence.</p>
 <p>To develop our members into leaders with character and values.</p>
 </li>
 </ul>
+<p></p>
 <p><strong>TEACHERS IN-CHARGE</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -28,18 +29,18 @@ to become effective ambassadors of Civil Defence.</p>
 <p>Ms Lim Lay Ping</p>
 </li>
 <li>
-<p>Mr Chan Chi Thio</p>
+<p>Ms Nicole Yau Zhi Qi</p>
 </li>
 <li>
-<p>Ms Melissa Shan</p>
+<p>Ms Crystal Gan Jia Min</p>
+</li>
+<li>
+<p>Ms Yong Chun Lei Sophia</p>
 </li>
 </ul>
 <p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -66,16 +67,15 @@ to become effective ambassadors of Civil Defence.</p>
 <p>3:00pm - 6:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCDCC room, 5A and 3G Classroom, FCE Corridor, Basketball court, Quadrangle</p>
+<p>NCDCC room, 2G Classroom, RR 11 and RR 12, FCE Corridor, Basketball court,
+Quadrangle</p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -89,6 +89,16 @@ to become effective ambassadors of Civil Defence.</p>
 <th rowspan="1" colspan="1">
 <p>Award</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award (Distinction)</p>
+<p></p>
+<p>Precision Drill Challenge (Top 10)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -108,11 +118,9 @@ to become effective ambassadors of Civil Defence.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -212,7 +220,7 @@ in organising and executing an event.
 <p>Psychological first aid Course</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>January (TBC)</p>
+<p>January</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>An advanced specialisation course to impart to our cadets the importance
@@ -398,15 +406,11 @@ the development of skills, character and values</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRHuMWBmiuq-ngKjo0WMGdy7hi30gDqf2F8booSXqFmCJGBnU-s0RBp_9USOEsoG0qm9JGH5PZ0Rke/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>

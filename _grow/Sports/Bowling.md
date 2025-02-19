@@ -26,21 +26,18 @@ values such as resilience, responsibility and teamwork.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Natria Siman</p>
+<p>Ms Elia Hamarian</p>
 </li>
 <li>
-<p>Ms Elia Hamarian</p>
+<p>Mdm Hanisah Salim</p>
 </li>
 <li>
 <p>Mdm Amarjit Kaur</p>
 </li>
 </ul>
 <p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -50,21 +47,25 @@ values such as resilience, responsibility and teamwork.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>DAY</p>
+<p><strong>DAY</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>TIME</p>
+<p><strong>TIME</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>VENUE</p>
+<p><strong>VENUE</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
+<p>[one-way transport]</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 5:30pm</p>
+<p>3:30pm - 5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Westwood Bowl @ Bukit Batok CSC</p>
@@ -72,12 +73,13 @@ values such as resilience, responsibility and teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday (only during competition season)
-<br>
-</p>
+<p>Friday
+<br>[no transport]</p>
+<p>Seniors – semester 1</p>
+<p>Juniors – semester 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 5:30pm</p>
+<p>2:30pm - 4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Westwood Bowl @ Bukit Batok CSC</p>
@@ -85,7 +87,7 @@ values such as resilience, responsibility and teamwork.</p>
 </tr>
 </tbody>
 </table>
-</li>
+<ul>
 <li>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
@@ -203,7 +205,7 @@ to represent the school at National level.
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2NAFtPIx4Wtzap40hrzgPhn3tfWsOcdODTa3UeVvLXwfnWjY4T9_CVYWvlH3pBG7e5GKiflzFrzik/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS2NAFtPIx4Wtzap40hrzgPhn3tfWsOcdODTa3UeVvLXwfnWjY4T9_CVYWvlH3pBG7e5GKiflzFrzik/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 </li>
