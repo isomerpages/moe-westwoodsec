@@ -204,9 +204,9 @@ National Day</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Key Programmes for Senior Cadets (Sec 1)</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -234,9 +234,7 @@ National Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To welcome our new cadets to the Corps the event will cover Junior Cadets
-pledging ceremony,
-<br>
-</p>
+pledging ceremony.</p>
 </td>
 </tr>
 <tr>
@@ -300,7 +298,6 @@ to keep healthy and fit.</p>
 <p></p>
 <p><strong>Key Programmes for Senior Cadets (Sec 2)</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -331,6 +328,17 @@ to keep healthy and fit.</p>
 <br>(Secondary 2 Cadets) and preparing them to become responsible and empathetic
 leaders. Hence 1-day Camp STEEL (Acronym for Standards, Tenacity, Emotional
 Intelligence, Energy and Leadership)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IMT Training</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To equip cadets with shooting skills.</p>
 </td>
 </tr>
 <tr>
@@ -420,7 +428,6 @@ by competing amongst other school units in a healthy competitive environment.</p
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p><strong>Key Programmes for Senior Cadets (Sec 3)</strong>
 </p>
 <table style="minWidth: 75px">
@@ -446,7 +453,7 @@ by competing amongst other school units in a healthy competitive environment.</p
 <p>Specialist Assessment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April</p>
+<p>May</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To test Cadet Leaders on their knowledge and instructional abilities in
