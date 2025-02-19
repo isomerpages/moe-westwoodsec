@@ -20,28 +20,23 @@ and challenges.</p>
 </li>
 <li>
 <p>To develop co-operation, camaraderie and team work outside of academic
-subjects.</p>
+subjects.
+<br>
+</p>
 </li>
 </ul>
 <p><strong>TEACHERS IN-CHARGE</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Jasmine Wong</p>
+<p>Mrs Jasmine Wong</p>
 </li>
 <li>
-<p>Mr Lee Chuen Hing</p>
-</li>
-<li>
-<p>Ms Jovin Tan Wen Lin</p>
-</li>
-<li>
-<p>Mdm Nurul Atika Ramli
+<p>Ms Jovin Tan Wen Lin
 <br>
 </p>
-<p></p>
 </li>
-<li>
+</ul>
 <p><strong>TRAINING DAYS</strong>
 </p>
 <table style="minWidth: 75px">
@@ -69,8 +64,8 @@ subjects.</p>
 <td rowspan="1" colspan="1">
 <p>3:00pm - 6:00pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Band Room</p>
+<td rowspan="2" colspan="1">
+<p>Band Room (D4-04)</p>
 </td>
 </tr>
 <tr>
@@ -80,17 +75,12 @@ subjects.</p>
 <td rowspan="1" colspan="1">
 <p>2:30pm - 5:30pm</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Band Room</p>
-</td>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -175,11 +165,9 @@ subjects.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -276,8 +264,7 @@ out (Passing-out-parade)</p>
 <p>National Day Parade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>August</p>
+<p>August</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide a background music to support the commands made by the Uniform
@@ -291,9 +278,7 @@ Group students, as well as performing the national anthem.
 <p>Values In Action</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>End of Year</p>
+<p>End of Year</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To provide a platform for band members to be socially responsible citizens
@@ -306,15 +291,10 @@ application of values, knowledge and skills.
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3T_nz-hTJ26LBrtmZZIKzj2gZAFk5izUH-RrdzM2z1-hb5VU2bDuEQu4Xp7JkP8DkjKN2BlwxHX0g/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>
