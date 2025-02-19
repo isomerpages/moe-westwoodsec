@@ -558,15 +558,10 @@ by competing amongst other school units in a healthy competitive environment.</p
 </tbody>
 </table>
 <p></p>
-<ul>
-<li>
 <p><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgl4N8daa061TgabM22R3qjvUflC-QPkdvzRq4sEPuWjIYlJniYIYQ6lqqVGbwycK-xcoxjCG_pmzv/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgl4N8daa061TgabM22R3qjvUflC-QPkdvzRq4sEPuWjIYlJniYIYQ6lqqVGbwycK-xcoxjCG_pmzv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>
