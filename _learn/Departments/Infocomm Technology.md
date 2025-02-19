@@ -41,16 +41,9 @@ effective use of ICT&nbsp;</p>
 <p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>At Secondary One, students will use a variety of software such as Inkscape,
-MS Word and MS PowerPoint to organize, analyse and communicate information
-effectively and responsibly.
-<br>
-<br>At Secondary Two, the students will be creating an animated story using
-the software SCRATCH.
-<br>
-<br>At Secondary Three, the students will be designing and developing an animated
+<p>At Secondary Three, the students will be designing and developing an animated
 game using the software SCRATCH.</p>
-<p></p>
+<p>&nbsp;</p>
 <p>The best students’ work for Secondary Two and Three will be selected for
 submission to the Animation and Game Making Competition organized by MOE
 Curriculum Planning and Development Division.</p>
