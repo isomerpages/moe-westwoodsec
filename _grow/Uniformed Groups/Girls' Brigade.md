@@ -28,17 +28,16 @@ physical, educational and social domain</p>
 <li>
 <p>Mdm Wang Fang</p>
 </li>
-<li>
-<p>Mdm Ang Li Ping Sylvia</p>
-</li>
 </ul>
 <p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,20 +55,22 @@ physical, educational and social domain</p>
 <p>Saturday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8:30am - 12:30pm</p>
+<p>9:00am - 12:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GB Room / Quadrangle / Classroom</p>
+<p>RR14</p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
-<p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -129,12 +130,15 @@ physical, educational and social domain</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -287,15 +291,11 @@ with the GB objectives for the year: Growing Girls, Becoming Leaders.
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQotQ4PB4zXAWytBl-P9uCbe8KrU4MSJP_dMjoDlTKFh5ifz5eqwiFjlzMyPMEm1Aa1Ib7s_EQ7eLFR/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>
