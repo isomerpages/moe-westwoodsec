@@ -31,11 +31,8 @@ and accountability through Basketball.</p>
 </li>
 </ul>
 <p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -79,11 +76,8 @@ and accountability through Basketball.</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -139,11 +133,8 @@ and accountability through Basketball.</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -236,15 +227,10 @@ and prepare for major tournaments.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
 <p><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyz56MI6chz24C1OvB_bMVEOHaSUsYDngAbJGSvoxv0zM9-td7RhaIpPfytr7rodsEmM38ceAFsKo5/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>
