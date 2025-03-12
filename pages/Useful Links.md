@@ -10,7 +10,7 @@ variant: tiptap
 <summary>For Staff</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><a href="https://sites.google.com/moe.edu.sg/wwstaffportal" rel="noopener nofollow" target="_blank">Staff Portal</a> (Requires
+<p><a href="https://sites.google.com/moe.edu.sg/wwstaffportal" rel="noopener nofollow" target="_blank">Westwood Staff Portal</a> (Requires
 Log in to iCON)</p>
 </div>
 </details>
