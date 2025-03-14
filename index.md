@@ -27,7 +27,6 @@ sections:
       subtitle: 25th Anniversa
   - infopic:
       title: 25th Anniversary
-      subtitle: Welcome
       id: infopic
       description: Infopic description
       button: Button Text
