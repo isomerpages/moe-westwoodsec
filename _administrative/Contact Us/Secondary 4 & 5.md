@@ -76,6 +76,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Sim Tze Yong Jeryl</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_tze_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_tze_yong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Jeryl Sim</p>
 </td>
 <td rowspan="1" colspan="1">
