@@ -99,18 +99,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nai Huey Chyi&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nai_huey_chyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nai_huey_chyi@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Terence Tsang</p>
 </td>
 <td rowspan="1" colspan="1">
