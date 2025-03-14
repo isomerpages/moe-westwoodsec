@@ -123,18 +123,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Jun Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_jun_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jun_wei@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Koh Hoe Yap</p>
 </td>
 <td rowspan="1" colspan="1">
