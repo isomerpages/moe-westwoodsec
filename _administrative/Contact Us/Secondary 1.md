@@ -52,6 +52,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Qucinta Ardilah Binte Roslan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Qucinta_Ardilah_Roslan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Qucinta_Ardilah_Roslan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Caleb Lee&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;</p>
 </td>
@@ -180,6 +192,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kwa_poh_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwa_poh_hwa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Tze Kerr Scott</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_tze_kerr_scott@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_tze_kerr_scott@schools.gov.sg</a>
 </p>
 </td>
 </tr>
