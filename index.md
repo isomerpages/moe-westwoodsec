@@ -24,4 +24,13 @@ sections:
   - resources:
       title: Announcements
       id: resources
+      subtitle: 25th Anniversa
+  - infopic:
+      title: 25th Anniversary
+      subtitle: Welcome
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      url: https://drive.google.com/file/d/1zhUG6Nt0lEpNFAUXEocuhXy8ATf83a9K/view?usp=sharing
+      alt: 25th anni
 ---
