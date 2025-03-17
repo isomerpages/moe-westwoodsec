@@ -32,5 +32,4 @@ sections:
   - resources:
       title: Announcements
       id: resources
-      subtitle: 25th Anniversa
 ---
