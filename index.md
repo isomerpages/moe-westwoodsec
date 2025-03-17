@@ -21,10 +21,6 @@ sections:
           description: ""
           url: /administrative/usefullinks/
       background: /images/picture3.png
-  - resources:
-      title: Announcements
-      id: resources
-      subtitle: 25th Anniversa
   - infobar:
       title: 25th Anniersary
       subtitle: 15th May 2025
@@ -33,4 +29,8 @@ sections:
         at our 25th Anniversary Dinner and Concert! 🥳✨
       button: Don’t miss out
       url: https://form.gov.sg/67c29b9f60e212231c097376
+  - resources:
+      title: Announcements
+      id: resources
+      subtitle: 25th Anniversa
 ---
