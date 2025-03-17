@@ -25,11 +25,12 @@ sections:
       title: Announcements
       id: resources
       subtitle: 25th Anniversa
-  - infopic:
-      title: 25th Anniversary
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      url: https://drive.google.com/file/d/1zhUG6Nt0lEpNFAUXEocuhXy8ATf83a9K/view?usp=sharing
-      alt: 25th anni
+  - infobar:
+      title: 25th Anniersary
+      subtitle: 15th May 2025
+      id: infobar
+      description: Join us in celebrating a quarter century of memories and milestones
+        at our 25th Anniversary Dinner and Concert! 🥳✨
+      button: Don’t miss out
+      url: https://form.gov.sg/67c29b9f60e212231c097376
 ---
