@@ -23,7 +23,7 @@ sections:
       background: /images/picture3.png
   - infobar:
       title: Westwood Secondary School's 25th Anniversary Celebration
-      subtitle: 15th May 2025
+      subtitle: Thursday,15th May 2025
       id: infobar
       description: Join us in celebrating a quarter century of memories and milestones
         at our 25th Anniversary Dinner and Concert! 🥳✨
