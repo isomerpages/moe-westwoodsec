@@ -33,6 +33,8 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://go.gov.sg/pytjkj" rel="noopener nofollow" target="_blank">PLD Fault Reporting</a>
 </p>
+<p><a href="https://learn.icdlasia.org" rel="noopener nofollow" target="_blank">NDE e-Learning Portal</a>
+</p>
 <p>Westwood ECG site</p>
 <p>NDE e-Learning Portal</p>
 <p>NDE Students User Guide</p>
