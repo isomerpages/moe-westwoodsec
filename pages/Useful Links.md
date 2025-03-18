@@ -37,6 +37,8 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://drive.google.com/file/d/1OAzhSbGTHf4CiFdwW55Ne3Ev1_eAirAC/view?usp=sharing" rel="noopener nofollow" target="_blank">NDE Students User Guide</a>
 </p>
+<p><a href="https://sites.google.com/moe.edu.sg/ecg-wwss/home" rel="noopener nofollow" target="_blank">Westwood ECG Site</a>
+</p>
 <p>Westwood ECG site</p>
 <p>Ace-Learning Math e-learning portal</p>
 <p>MySkillsFuture Student Portal</p>
