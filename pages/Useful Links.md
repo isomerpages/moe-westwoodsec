@@ -41,7 +41,9 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">MySkillsFuture Student Portal</a>
 </p>
-<p>Ace-Learning Math e-learning portal</p>
+<p><a href="https://www.ace-learning.com/" rel="noopener nofollow" target="_blank">Ace-Learning Math e-learning portal</a>
+</p>
+<p></p>
 <p>Go Safe Online</p>
 <p><a href="https://www.sp.edu.sg/" rel="noopener nofollow" target="_blank">Singapore Polytechnic (SP)</a>
 </p>
