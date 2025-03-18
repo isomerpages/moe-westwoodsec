@@ -63,15 +63,13 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://eae.polytechnic.edu.sg/" rel="noopener nofollow" target="_blank">Polytechnic Early Admissions Exercise (EAE)</a>
 </p>
-<p><a href="https://pfp.polytechnic.edu.sg/" rel="noopener nofollow" target="_blank">Polytechnic Foundation Programme (PFP)</a>
+<p><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">Polytechnic Foundation Programme (PFP)</a>
 </p>
-<p><a href="https://www.moe.gov.sg/post-secondary/admissions/dpp" rel="noopener nofollow" target="_blank">Direct Entry Scheme to Polytechnic Programme (DPP)</a>
+<p><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener nofollow" target="_blank">Direct Entry Scheme to Polytechnic Programme (DPP)</a>
 </p>
-<ul>
-<li>
-<p>Online student insurance claim portal</p>
-</li>
-</ul>
+<p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener nofollow" target="_blank">Online student insurance claim portal</a>
+</p>
+<p></p>
 <p>(View GPA factsheet).</p>
 <p>(User Guide for Parents)</p>
 </div>
