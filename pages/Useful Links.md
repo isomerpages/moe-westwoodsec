@@ -55,9 +55,11 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://www.ite.edu.sg/" rel="noopener nofollow" target="_blank">Institute of Technical Education (ITE)</a>
 </p>
+<p><a href="https://www.lasalle.edu.sg/" rel="noopener nofollow" target="_blank">LASELLE College of the Arts</a>
+</p>
+<p><a href="https://www.nafa.edu.sg/" rel="noopener nofollow" target="_blank">Nanyang Academy of Fine Arts (NAFA)</a>
+</p>
 <p></p>
-<p>LASALLE College of the Arts</p>
-<p>Nanyang Academy of Fine Arts (NAFA)</p>
 <p>Direct School Admission - Junior Colleges (DSA-JC)</p>
 <p>Polytechnic Early Admissions Exercise (EAE)</p>
 <p>Polytechnic Foundation Programme (PFP)</p>
