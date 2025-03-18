@@ -27,11 +27,13 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://go.gov.sg/pdlpwwss" rel="noopener nofollow" target="_blank">PDLP Resource Site</a>
 </p>
-<p></p>
+<p><a href="https://sites.google.com/moe.edu.sg/wwsscentralisedreportingsite/home" rel="noopener nofollow" target="_blank">WWSS Centralised Reporting Site</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1YoESojxn-5gnmWJAK1Rx0M3Qou_fZGuR/view" rel="noopener nofollow" target="_blank">2025 Student Handbook</a>
+</p>
+<p><a href="https://go.gov.sg/pytjkj" rel="noopener nofollow" target="_blank">PLD Fault Reporting</a>
+</p>
 <p>Westwood ECG site</p>
-<p>2025 Student Handbook</p>
-<p>WWSS Centralised Reporting Site</p>
-<p>PLD Fault Reporting</p>
 <p>NDE e-Learning Portal</p>
 <p>NDE Students User Guide</p>
 <p>Ace-Learning Math e-learning portal</p>
