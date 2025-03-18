@@ -23,8 +23,11 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">Student Learning Space</a>
 </p>
-<p>Student iCON Email</p>
-<p>Westwood Sec PDLP Resource Site</p>
+<p><a href="https://icon.moe.edu.sg/" rel="noopener nofollow" target="_blank">Student iCON Email</a>
+</p>
+<p><a href="https://go.gov.sg/pdlpwwss" rel="noopener nofollow" target="_blank">PDLP Resource Site</a>
+</p>
+<p></p>
 <p>Westwood ECG site</p>
 <p>2025 Student Handbook</p>
 <p>WWSS Centralised Reporting Site</p>
