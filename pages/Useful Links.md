@@ -39,16 +39,23 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://sites.google.com/moe.edu.sg/ecg-wwss/home" rel="noopener nofollow" target="_blank">Westwood ECG Site</a>
 </p>
-<p>Westwood ECG site</p>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/myskillsfuture-for-students.html" rel="noopener nofollow" target="_blank">MySkillsFuture Student Portal</a>
+</p>
 <p>Ace-Learning Math e-learning portal</p>
-<p>MySkillsFuture Student Portal</p>
 <p>Go Safe Online</p>
-<p>Singapore Polytechnic (SP)</p>
-<p>Ngee Ann Polytechnic (NP)</p>
-<p>Temasek Polytechnic (TP)</p>
-<p>Nanyang Polytechnic (NYP)</p>
-<p>Republic Polytechnic (RP)</p>
-<p>Institute of Technical Education (ITE)</p>
+<p><a href="https://www.sp.edu.sg/" rel="noopener nofollow" target="_blank">Singapore Polytechnic (SP)</a>
+</p>
+<p><a href="https://www.np.edu.sg/" rel="noopener nofollow" target="_blank">Ngee Ann Polytechnic (NP)</a>
+</p>
+<p><a href="https://www.tp.edu.sg/" rel="noopener nofollow" target="_blank">Temasek Polytechnic (TP)</a>
+</p>
+<p><a href="https://www.nyp.edu.sg/" rel="noopener nofollow" target="_blank">Nanyang Polytechnic (NYP)</a>
+</p>
+<p><a href="https://www.rp.edu.sg/" rel="noopener nofollow" target="_blank">Republic Polytechnic (RP)</a>
+</p>
+<p><a href="https://www.ite.edu.sg/" rel="noopener nofollow" target="_blank">Institute of Technical Education (ITE)</a>
+</p>
+<p></p>
 <p>LASALLE College of the Arts</p>
 <p>Nanyang Academy of Fine Arts (NAFA)</p>
 <p>Direct School Admission - Junior Colleges (DSA-JC)</p>
