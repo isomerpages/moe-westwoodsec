@@ -17,8 +17,12 @@ Log in to iCON)</p>
 <details class="isomer-details">
 <summary>For Students</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Student Self-Service Password Reset</p>
-<p>MIMS Portal Login</p>
+<p><a href="https://mims.moe.gov.sg/sspr" rel="noopener nofollow" target="_blank">Student Self-Service Password Reset</a>
+</p>
+<p><a href="https://idp.mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">MIMS Portal Login</a>
+</p>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">Student Learning Space</a>
+</p>
 <p>Student Learning Space</p>
 <p>Student iCON Email</p>
 <p>Westwood Sec PDLP Resource Site</p>
@@ -26,11 +30,7 @@ Log in to iCON)</p>
 <p>2025 Student Handbook</p>
 <p>WWSS Centralised Reporting Site</p>
 <p>PLD Fault Reporting</p>
-<ul>
-<li>
 <p>NDE e-Learning Portal</p>
-</li>
-</ul>
 <p>NDE Students User Guide</p>
 <p>Ace-Learning Math e-learning portal</p>
 <p>MySkillsFuture Student Portal</p>
