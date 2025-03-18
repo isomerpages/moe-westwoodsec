@@ -35,9 +35,9 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://learn.icdlasia.org" rel="noopener nofollow" target="_blank">NDE e-Learning Portal</a>
 </p>
+<p><a href="https://drive.google.com/file/d/1OAzhSbGTHf4CiFdwW55Ne3Ev1_eAirAC/view?usp=sharing" rel="noopener nofollow" target="_blank">NDE Students User Guide</a>
+</p>
 <p>Westwood ECG site</p>
-<p>NDE e-Learning Portal</p>
-<p>NDE Students User Guide</p>
 <p>Ace-Learning Math e-learning portal</p>
 <p>MySkillsFuture Student Portal</p>
 <p>Go Safe Online</p>
