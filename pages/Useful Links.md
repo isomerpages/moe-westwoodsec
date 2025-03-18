@@ -69,9 +69,16 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener nofollow" target="_blank">Online student insurance claim portal</a>
 </p>
-<p></p>
-<p>(View GPA factsheet).</p>
-<p>(User Guide for Parents)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://drive.google.com/file/d/1iA_qooOOYRGXwEJUPBUTlGPDbS-IxNjZ/view?usp=sharing" rel="noopener nofollow" target="_blank">View GPA Factsheet</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/nrzysy" rel="noopener nofollow" target="_blank">User Guide for Parents</a>
+</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
