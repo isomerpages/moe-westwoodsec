@@ -65,8 +65,8 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://pfp.polytechnic.edu.sg/" rel="noopener nofollow" target="_blank">Polytechnic Foundation Programme (PFP)</a>
 </p>
-<p></p>
-<p>Direct Entry Scheme to Polytechnic Programme (DPP)</p>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/dpp" rel="noopener nofollow" target="_blank">Direct Entry Scheme to Polytechnic Programme (DPP)</a>
+</p>
 <ul>
 <li>
 <p>Online student insurance claim portal</p>
