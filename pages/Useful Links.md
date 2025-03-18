@@ -43,8 +43,8 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://www.ace-learning.com/" rel="noopener nofollow" target="_blank">Ace-Learning Math e-learning portal</a>
 </p>
-<p></p>
-<p>Go Safe Online</p>
+<p><a href="https://www.csa.gov.sg/gosafeonline/" rel="noopener nofollow" target="_blank">Go Safe Online</a>
+</p>
 <p><a href="https://www.sp.edu.sg/" rel="noopener nofollow" target="_blank">Singapore Polytechnic (SP)</a>
 </p>
 <p><a href="https://www.np.edu.sg/" rel="noopener nofollow" target="_blank">Ngee Ann Polytechnic (NP)</a>
