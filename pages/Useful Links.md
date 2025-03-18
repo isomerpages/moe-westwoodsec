@@ -59,10 +59,13 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://www.nafa.edu.sg/" rel="noopener nofollow" target="_blank">Nanyang Academy of Fine Arts (NAFA)</a>
 </p>
+<p><a href="https://www.moe.gov.sg/dsa-jc" rel="noopener nofollow" target="_blank">Direct School Admission - Junior Colleges (DSA-JC)</a>
+</p>
+<p><a href="https://eae.polytechnic.edu.sg/" rel="noopener nofollow" target="_blank">Polytechnic Early Admissions Exercise (EAE)</a>
+</p>
+<p><a href="https://pfp.polytechnic.edu.sg/" rel="noopener nofollow" target="_blank">Polytechnic Foundation Programme (PFP)</a>
+</p>
 <p></p>
-<p>Direct School Admission - Junior Colleges (DSA-JC)</p>
-<p>Polytechnic Early Admissions Exercise (EAE)</p>
-<p>Polytechnic Foundation Programme (PFP)</p>
 <p>Direct Entry Scheme to Polytechnic Programme (DPP)</p>
 <ul>
 <li>
