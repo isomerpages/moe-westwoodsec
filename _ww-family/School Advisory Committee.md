@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /partners/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 The Westwood School Advisory Committee (SAC) comprising representatives from grassroot organisations, business owners, working professionals and alumni, aims to
 
@@ -49,7 +50,7 @@ The Westwood School Advisory Committee (SAC) comprising representatives from gra
     <td class="tg-cmm0">Member </td>
   </tr>
   <tr>
-    <td class="tg-zqva">Mr Kelvin Koh Li Qun<br></td>
+    <td class="tg-zqva">Mr Clarence Cai Geren <br></td>
     <td class="tg-cmm0">Member</td>
   </tr>
 </tbody>
