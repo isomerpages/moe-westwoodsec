@@ -17,8 +17,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Applied Learning Programme
-<br><em>Innovation and Social Enterpreneurship (ISE)</em>
-</p>
+<br>Innovation and Social Enterpreneurship (ISE)</p>
 </th>
 </tr>
 <tr>
@@ -122,8 +121,7 @@ only consider re-scheduling the in-person interview for applicants who
 are unwell.</p>
 </li>
 <li>
-<p>The interview will be held in<strong> late July to early August 2024.</strong>
-</p>
+<p>The interview will be held in late July to early August 2025.</p>
 </li>
 <li>
 <p>Shortlisted students will be invited for an in-person interview where
