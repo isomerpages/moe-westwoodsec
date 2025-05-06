@@ -112,8 +112,8 @@ learning</p>
 <ul>
 <li>
 <p>Applicants who apply for DSA in Westwood’s Student Leadership will submit
-a portfolio by email to the Teacher-in-charge, Ms Nadia Eddy Razali (
-<a href="mailto:nadia_eddy_razali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_eddy_razali@moe.edu.sg</a>). The portfolio must be submitted <strong>no later than 26 July 2024</strong>.</p>
+a portfolio by email to the Teacher-in-charge, Ms Melissa (<a href="mailto:melissa_manuela_rama_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">melissa_manuela_rama_shan@schools.gov.sg</a>).
+The portfolio must be submitted no later than 21 July 2025.</p>
 </li>
 </ul>
 <ul>
@@ -129,7 +129,7 @@ words) of their leadership journey thus far<em>.&nbsp;</em>
 </ul>
 <p></p>
 <p>Shortlisted students, based on portfolio submitted, will be invited for
-an in-person interview held in either late July or August 2024. The interview
+an in-person interview held in either late July or August 2025. The interview
 panel will ask questions on the following (non-exhaustive):</p>
 <ul>
 <li>
