@@ -18,7 +18,8 @@ canteen purchases.&nbsp;</p>
 and C.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Annex A - POSB Smart Buddy Programme</p>
+<p><a href="annexaposb" rel="noopener nofollow" target="_blank">Annex A - POSB Smart Buddy Programme</a>
+</p>
 </li>
 <li>
 <p>Annex B - How to register on POSB Smart Buddy</p>
