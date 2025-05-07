@@ -122,8 +122,7 @@ to transfer to another school after the release of the PSLE results</p>
 <br><strong>Learning for Life Programme – Arts for Life!,&nbsp;</strong>
 <br><strong>Sport Excellence Programme and&nbsp;</strong>
 <br><strong>Student Leadership Programme please refer to our school’s website for more information.</strong>
-</p>
-<p><strong><a href="https://westwoodsec.moe.edu.sg/about-us/direct-school-admission" rel="noopener noreferrer nofollow" target="_blank">https://westwoodsec.moe.edu.sg/about-us/direct-school-admission</a></strong>
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://westwoodsec.moe.edu.sg/direct-school-admission</a>
 </p>
 <p><strong>For more details, please contact us directly at 6792 9737 or email to <a href="mailto:westwood_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a>.</strong>
 </p>
@@ -166,7 +165,6 @@ to transfer to another school after the release of the PSLE results</p>
 </table>
 <p><strong><em>&nbsp;Parents and students are strongly encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.</em></strong>
 </p>
-<p></p>
 <p><strong><em>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Sec 1-4.</em></strong>
 </p>
 <p></p>
