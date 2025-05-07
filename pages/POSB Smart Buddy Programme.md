@@ -18,13 +18,13 @@ canteen purchases.&nbsp;</p>
 and C.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Annex A</p>
+<p>Annex A - POSB Smart Buddy Programme</p>
 </li>
 <li>
-<p>Annex B</p>
+<p>Annex B - How to register on POSB Smart Buddy</p>
 </li>
 <li>
-<p>Annex C</p>
+<p>Annex C - FAQs</p>
 </li>
 </ul>
 <p>We hope that in support of this national initiative, our students will
