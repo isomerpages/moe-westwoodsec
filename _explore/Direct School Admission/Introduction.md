@@ -157,7 +157,7 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>All applicants will be informed of the DSA outcome by mid September 2025</strong>
+<p><strong>All applicants will be informed of the DSA outcome from 25 August to 4 September 2025</strong>
 </p>
 </td>
 </tr>
