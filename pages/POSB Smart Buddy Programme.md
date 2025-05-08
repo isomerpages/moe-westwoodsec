@@ -18,15 +18,15 @@ canteen purchases.&nbsp;</p>
 and C.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.westwoodsec.moe.edu.sg/files/annexaposb.pdf" rel="noopener nofollow" target="_blank">Annex A - POSB Smart Buddy Programme</a>
+<p><a href="https://drive.google.com/file/d/1-EzKHX4tpAJ5cwMA_KDX6vZ9dOjj586S/view?usp=drive_link" rel="noopener nofollow" target="_blank">Annex A - POSB Smart Buddy Programme</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.westwoodsec.moe.edu.sg/files/annexb.pdf" rel="noopener nofollow" target="_blank">Annex B - How to register on POSB Smart Buddy</a>
+<p><a href="https://drive.google.com/file/d/1UBuDULMTtzGlY2v7SgJkQrGsi3qAz4kF/view?usp=drive_link" rel="noopener nofollow" target="_blank">Annex B - How to register on POSB Smart Buddy</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.westwoodsec.moe.edu.sg/files/annexc.pdf" rel="noopener nofollow" target="_blank">Annex C - FAQs</a>
+<p><a href="https://drive.google.com/file/d/1aXL2gmhjLb8xRfTsEvW6QtNRIPWj1g3n/view?usp=drive_link" rel="noopener nofollow" target="_blank">Annex C - FAQs</a>
 </p>
 </li>
 </ul>
