@@ -2,6 +2,7 @@ collections:
   administrative:
     output: true
     order:
+      - POSB Smart Buddy Programme.md
       - Financial Assistance.md
       - Service Providers.md
       - Parents Gateway.md
