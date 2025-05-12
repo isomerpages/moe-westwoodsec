@@ -14,7 +14,6 @@ go-live on <strong>16 May 2025</strong>. This is in support of the&nbsp;
 all schools in Singapore. With this implementation in Westwood Secondary
 School, all our students can now opt to use e-payments for their in-school
 canteen purchases.&nbsp;</p>
-<p>&nbsp;</p>
 <p>More information about the programme can be found in Annex A, B and C.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -30,7 +29,6 @@ canteen purchases.&nbsp;</p>
 </p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>We hope that in support of this national initiative, our students will
 be able to experience digital payments in a safe and secured environment.</p>
 <p>&nbsp;</p>
