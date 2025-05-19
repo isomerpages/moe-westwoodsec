@@ -21,13 +21,6 @@ sections:
           description: ""
           url: /administrative/usefullinks/
       background: /images/picture3.png
-  - infobar:
-      title: Westwood Secondary School's 25th Anniversary Celebration
-      subtitle: 15th May 2025, 5pm to 9pm
-      id: infobar
-      description: Join us in celebrating a quarter century of memories and milestones! 🥳✨
-      button: Don’t miss out
-      url: https://form.gov.sg/67c29b9f60e212231c097376
   - resources:
       title: Announcements
       id: resources
