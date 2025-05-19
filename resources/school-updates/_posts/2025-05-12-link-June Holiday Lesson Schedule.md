@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://docs.google.com/spreadsheets/d/1W_B0dj5CvXzWe4qBC8Kw1fBR2PrUa5KX/edit?usp=sharing&ouid=103780765645723957845&rtpof=true&sd=true
+external: https://docs.google.com/spreadsheets/d/192TiuXM-mQTeV3ZVFS_1P6i3kOn3HD16/edit?gid=1865058054#gid=1865058054
 ---
