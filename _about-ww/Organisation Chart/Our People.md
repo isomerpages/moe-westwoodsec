@@ -142,7 +142,7 @@ variant: tiptap
 <p>Year Head/ Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nurul Atika Bte Ramli<br></strong>Assistant Year Head</p>
+<p><strong>Ms Nurul Atika Bte Ramli<br></strong>Year Head/ Upper Sec</p>
 </td>
 </tr>
 <tr>
@@ -167,7 +167,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Farah Zila Hassan</strong>
 </p>
-<p>Assistant Year Head (Acting)</p>
+<p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
