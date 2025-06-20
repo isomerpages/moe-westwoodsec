@@ -195,18 +195,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Kang Lu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4G</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kang_lu@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Lim Shi Lei</p>
 </td>
 <td rowspan="1" colspan="1">
