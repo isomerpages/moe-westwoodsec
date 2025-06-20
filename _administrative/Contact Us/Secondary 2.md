@@ -87,18 +87,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Redzuan Jaafar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_redzuan_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_redzuan_jaafar@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Terence Tsang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,18 +178,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_xin_pei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_xin_pei@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurul Amirah Bte Zubir</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2G</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_amirah_zubir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_amirah_zubir@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
