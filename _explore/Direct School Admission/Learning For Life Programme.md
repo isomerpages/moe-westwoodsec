@@ -34,7 +34,7 @@ of performing and visual art activities, students can develop their skills
 and express themselves creatively while building confidence and a sense
 of community.</p>
 <p></p>
-<p>Westwood’s “Arts for Life!” programme for DSA 2024 involves the following
+<p>Westwood’s “Arts for Life!” programme for DSA 2025 involves the following
 specific art forms:</p>
 <p>(i) PERFORMING ARTS</p>
 <ul>
@@ -212,7 +212,7 @@ Panel and thereafter perform on the spot</p>
 for 30 seconds</p>
 </li>
 </ul>
-<p><strong>Show Choir</strong>
+<p><strong>Choir</strong>
 </p>
 <ul>
 <li>
