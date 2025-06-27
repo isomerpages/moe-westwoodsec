@@ -52,18 +52,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhamad Hamim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">md_hamim_bar@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Eric Liow Choon Cheang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,18 +65,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Sim Tze Yong Jeryl</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sim_tze_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_tze_yong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jeryl Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4B</p>
