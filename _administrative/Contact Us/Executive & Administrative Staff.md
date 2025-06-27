@@ -223,7 +223,7 @@ variant: tiptap
 <p>Mr Mohamed Rafi Bin Mat Rais</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (TSO)</p>
+<p>STEM Instructor (T&amp;D)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_rafi_mat_rais@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_rafi_mat_rais@schools.gov.sg</a>
@@ -235,7 +235,7 @@ variant: tiptap
 <p>Mr Owe Yong Chow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (TSO)</p>
+<p>STEM Instructor (T&amp;D)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:owe_yong_chow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">owe_yong_chow@schools.gov.sg</a>
@@ -247,7 +247,7 @@ variant: tiptap
 <p>Mr&nbsp;Ho Tuck Yan Jeffrey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (TSO)</p>
+<p>STEM Instructor (Sci)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_tuck_yan_jeffrey@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_tuck_yan_jeffrey@schools.gov.sg</a>
@@ -259,7 +259,7 @@ variant: tiptap
 <p>Mdm Norhayati Binte Mohamed Jumahin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technical Support Officer (TSO)</p>
+<p>STEM Instructor (Sci)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norhayati_mohamed_jumahin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhayati_mohamed_jumahin@schools.gov.sg</a>
