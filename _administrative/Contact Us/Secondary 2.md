@@ -63,6 +63,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Mardiana Roslan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mardiana_roslan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mardiana_roslan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lua Wen Liang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -159,25 +171,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Naomi Chua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:naomi_chua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>naomi_chua@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Toh Xin Pei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_xin_pei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_xin_pei@schools.gov.sg</a>
+<p><a href="mailto:Toh_Xin_Pei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Toh_Xin_Pei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
