@@ -197,7 +197,7 @@ variant: tiptap
 <p>Mdm Nurul Atika Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head/Upper Sec</p>
+<p>Year Head/Upper Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurul_atika_ramli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_atika_ramli@schools.gov.sg</a>
@@ -221,7 +221,7 @@ variant: tiptap
 <p>Mdm Farah Zila Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Acting)</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:farah_zila_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farah_zila_hassan@schools.gov.sg</a>
