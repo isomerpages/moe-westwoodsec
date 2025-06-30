@@ -140,11 +140,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Maria Marzuki</strong>
-</p>
-<p>Year Head/ Lower Sec</p>
+<br>Year Head/Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nurul Atika Bte Ramli<br></strong>Year Head/ Upper Sec</p>
+<p><strong>Ms Nurul Atika Bte Ramli<br></strong>Year Head/Upper Sec</p>
 </td>
 </tr>
 <tr>
@@ -166,8 +165,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Farah Zila Hassan</strong>
-</p>
-<p>Assistant Year Head</p>
+<br>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
@@ -247,8 +245,7 @@ Education</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Melissa Manuela</strong>
-</p>
-<p>SH/Chemistry</p>
+<br>SH/Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lee Teck Choon Robert<br></strong>SH/Physical Education</p>
@@ -290,8 +287,7 @@ Education</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Julitta Chia</strong>
-</p>
-<p>SH/Literature (Acting)</p>
+<br>SH/Literature (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
