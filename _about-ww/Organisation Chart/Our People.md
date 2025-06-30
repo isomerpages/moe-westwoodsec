@@ -65,11 +65,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mr__Foo_Sek_Jin.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -114,6 +112,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mr__Foo_Chee_Sian_Eric.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -149,11 +150,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mr__John_Tan_Yeong_Kuen.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -209,7 +208,7 @@ variant: tiptap
 <p><strong>Ms Loh May-Kay Maria<br></strong>SH/History &amp; Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lee Chuen Hing<br></strong> SH/Mathematics</p>
+<p><strong>Mr Lee Chuen Hing<br></strong>SH/Mathematics</p>
 </td>
 </tr>
 <tr>
