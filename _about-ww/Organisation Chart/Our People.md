@@ -6,8 +6,9 @@ third_nav_title: Organisation Chart
 variant: tiptap
 ---
 <h4>School Leaders</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/test.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
