@@ -448,7 +448,7 @@ students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Westwood PSG Facebook page.</p>
+<p>Westwood PSG Facebook page</p>
 </td>
 </tr>
 </tbody>
