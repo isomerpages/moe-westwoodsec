@@ -6,8 +6,9 @@ third_nav_title: Organisation Chart
 variant: tiptap
 ---
 <h4>School Leaders</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/test.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL.png">
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -64,11 +65,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mr__Foo_Sek_Jin.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -113,6 +112,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mr__Foo_Chee_Sian_Eric.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -138,21 +140,18 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Maria Marzuki</strong>
-</p>
-<p>Year Head/ Lower Sec</p>
+<br>Year Head/Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nurul Atika Bte Ramli<br></strong>Year Head/ Upper Sec</p>
+<p><strong>Ms Nurul Atika Bte Ramli<br></strong>Year Head/Upper Sec</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mr__John_Tan_Yeong_Kuen.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -166,8 +165,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Farah Zila Hassan</strong>
-</p>
-<p>Assistant Year Head</p>
+<br>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
@@ -208,13 +206,13 @@ variant: tiptap
 <p><strong>Ms Loh May-Kay Maria<br></strong>SH/History &amp; Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lee Chuen Hing<br></strong> SH/Mathematics</p>
+<p><strong>Mr Lee Chuen Hing<br></strong>SH/Mathematics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/mr%20chan%20chi%20thio.jpeg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/mr%20chan%20chi%20thio.jpeg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,8 +245,7 @@ Education</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Melissa Manuela</strong>
-</p>
-<p>SH/Chemistry</p>
+<br>SH/Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lee Teck Choon Robert<br></strong>SH/Physical Education</p>
@@ -290,8 +287,7 @@ Education</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Julitta Chia</strong>
-</p>
-<p>SH/Literature (Acting)</p>
+<br>SH/Literature (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -370,39 +366,13 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Pics/mr_muhamad_hamim_b_abdul_rahim.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Farhana_Binte_Mokhtar.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Ahmad_Luqman_Bin_Ghazali.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Muhammad Hamim B Abdul Rahim</strong> 
-<br>ST/PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ahmad Luqman Bin Ghazali</strong> 
-<br>ST/CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Farhana_Binte_Mokhtar.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/ms_lim_shi_lei.jpg">
 </div>
 </td>
 </tr>
@@ -412,8 +382,27 @@ Education</p>
 <br>ST/Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Ahmad Luqman Bin Ghazali</strong> 
+<br>ST/CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/ms_lim_shi_lei.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mdm Lim Shi Lei</strong>
 <br>ST/Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
