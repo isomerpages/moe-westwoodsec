@@ -451,28 +451,6 @@ students.</p>
 <p>Westwood PSG Facebook page.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SchoolBag</a> 
-<br>(The Education News Site)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>An online publication by the Ministry of Education, Singapore to provide
-parents, educators and the general public with education news, school features
-and tips.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Parent Kit</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parent Kit is an easy-to-use solution to parenting problems and possibilities.
-Each Kit presents a series of scenarios with supporting resources, curated
-carefully by a team of specialists and educators.</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
