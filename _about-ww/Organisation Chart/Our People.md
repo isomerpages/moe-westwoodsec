@@ -211,8 +211,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" src="/images/mr%20chan%20chi%20thio.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mr__Chan_Chi_Thio.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,13 +318,15 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mdm_saha_mousumi.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Org Pics/mdm_saha_mousumi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Syed_Ali_Bin_Mohamed_Alhabshee.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Syed_Ali_Bin_Mohamed_Alhabshee.jpg">
 </div>
 </td>
 </tr>
@@ -347,9 +350,8 @@ Education</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Puvaneswari_D_O_Raman.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Puvaneswari_D_O_Raman.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -370,7 +372,7 @@ Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Ahmad_Luqman_Bin_Ghazali.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Ahmad_Luqman_Bin_Ghazali.jpg">
 </div>
 </td>
 </tr>
