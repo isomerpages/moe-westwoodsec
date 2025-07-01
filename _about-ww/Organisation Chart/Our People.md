@@ -211,8 +211,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" src="/images/mr%20chan%20chi%20thio.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mr__Chan_Chi_Thio.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
