@@ -88,6 +88,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Mary Anne Estrellas Fernandez</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mary_anne_estrellas_fernandez@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mary_anne_estrellas_fernandez@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Claris Ang</p>
 </td>
 <td rowspan="1" colspan="1">
