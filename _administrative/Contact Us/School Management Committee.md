@@ -185,7 +185,7 @@ variant: tiptap
 <p>Ms Maria Marzuki</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head/ Lower Sec</p>
+<p>Year Head/Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maria_marzuki@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maria_marzuki@schools.gov.sg</a>
@@ -233,7 +233,7 @@ variant: tiptap
 <p>Mdm Nadia Binte Eddy Razali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/CCE</p>
+<p>SH/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nadia_eddy_razali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_eddy_razali@schools.gov.sg</a>
