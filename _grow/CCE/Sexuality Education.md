@@ -91,7 +91,7 @@ issues related to sexuality, which are of prime concern at this age.
 view the Sexuality Education Programme in Westwood Secondary School.</p>
 </li>
 </ol>
-<h4>eTeens_&nbsp;Programme</h4>
+<h4>eTeens Programme</h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p><em>eTeens</em> is a programme developed by Health Promotion Board, in
