@@ -136,6 +136,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lee Fame Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_fame_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_fame_han@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Puvaneswari d/o Raman</p>
 </td>
 <td rowspan="1" colspan="1">
