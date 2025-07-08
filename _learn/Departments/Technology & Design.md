@@ -550,7 +550,7 @@ accessed to view evidence-based health and wellness information.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.singart.com/" rel="noopener noreferrer nofollow" target="_blank">Singapore Art Museum</a>
+<p><a href="https://www.singaporeartmuseum.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Art Museums</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
