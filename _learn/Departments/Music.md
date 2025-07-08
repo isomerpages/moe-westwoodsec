@@ -226,15 +226,6 @@ inclusivity and engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.omsyouth.blogspot.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Malay Orchestra</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A local Malay orchestra</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.sioc.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Indian Orchestra and Choir</a>
 </p>
 </td>
