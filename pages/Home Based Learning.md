@@ -47,9 +47,9 @@ to support your child/ward on HBL days.</p>
 <p><a href="https://drive.google.com/file/d/13-KdRV08w2D5K7H8zi-oVMyC-s5KIn-V/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Experiencing Home-Based Learning (HBL) with our Children</a>
 </p>
 <p><strong>ACCESS TO SLS</strong>
-<br>The SLS can be accessed from&nbsp;<a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://learning.moe.edu.sg</a>. The
-SLS is accessible through internet browsers on Windows PC, Mac, tablets
-and mobile devices.&nbsp;</p>
+<br>The SLS can be accessed from&nbsp;<a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">SLS Login</a>. The SLS is
+accessible through internet browsers on Windows PC, Mac, tablets and mobile
+devices.&nbsp;</p>
 <p>There are 2 login methods:</p>
 <p><strong>1. Login with SLS</strong>
 <br>The SLS Username consists of&nbsp;<strong>first 5 characters of the student’s full name and last 5 characters of the student’s NRIC/FIN</strong>.
