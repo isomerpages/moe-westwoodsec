@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Hajar Bte Sam'on</p>
+<p>Mdm Siti Hajar Sam'on</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4A</p>
@@ -100,7 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Yu Ching</p>
+<p>Ms Ng Yu Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4C</p>
@@ -136,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Fame Han</p>
+<p>Ms Lee Fame Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4D</p>
@@ -231,7 +231,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jane Yap</p>
+<p>Ms Jane Yap Hui Hian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5A</p>

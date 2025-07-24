@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Harris Bin Sumardi</p>
+<p>Mr Abdul Harris Sumardi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -63,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hidayah Bte Moktar&nbsp;</p>
+<p>Mdm Nur Hidayah Moktar&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -74,7 +74,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fauziah Bte Ahmad</p>
+<p>Mdm Fauziah Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Character &amp; Citizenship Education</p>
@@ -146,7 +146,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Rakeezah Bte Abdul Rahim</p>
+<p>Mdm Nur Rakeezah Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Student Management</p>
@@ -230,7 +230,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadia Binte Eddy Razali</p>
+<p>Mdm Nadia Eddy Razali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Character &amp; Citizenship Education</p>
@@ -349,7 +349,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Julitta Chia</p>
+<p>Ms Chia Meng You Julitta</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Literature (Acting)</p>
