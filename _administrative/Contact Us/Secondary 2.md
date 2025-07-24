@@ -147,7 +147,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Madeline Teo</p>
+<p>Ms Madeline Teo Shi Yun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2E</p>
