@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadia Eddy</p>
+<p>Mdm Nadia Eddy Razali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3A</p>
@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ajaib Singh</p>
+<p>Mr Ajaib Singh S/O Gurbachan Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3B</p>
@@ -100,7 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Claris Ang</p>
+<p>Ms Claris Ang Gian Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3C</p>
@@ -136,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Maria Loh</p>
+<p>Mdm Maria Loh May Kay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3D</p>
@@ -184,7 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Belicia Ong</p>
+<p>Ms Belicia Ong Sze Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3F</p>
