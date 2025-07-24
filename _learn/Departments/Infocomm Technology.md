@@ -71,19 +71,13 @@ Curriculum Planning and Development Division.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AGM Competition 2024 (Animation category)</p>
-<p>Bronze award</p>
-<p>M Irfan Aryan Bin M Nazri (Class 2A)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AGM Competition 2024 (Game category)</p>
-<p>Certificate of Participation</p>
-<p>Ong Kiat Poh (Class 3A)</p>
+<p>AGM Competition 2024 (Animation category)
+<br>Bronze award
+<br>M Irfan Aryan Bin M Nazri (Class 2A)</p>
+<p></p>
+<p>AGM Competition 2024 (Game category)
+<br>Certificate of Participation
+<br>Ong Kiat Poh (Class 3A)</p>
 </td>
 </tr>
 <tr>
@@ -133,13 +127,21 @@ Curriculum Planning and Development Division.</p>
 <p>2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AGM Competition 2019 (Animation category)
+<p>AGM Competition 2020 (Animation category)
 <br>Bronze award
 <br>Shimashree Dewi d/o Sinnasamy (Class 2A)
 <br>
 <br>AGM Competition 2020 (Game category)
 <br>Silver award
 <br>Muhammad Adriyan Bin Zainal Izzuddin (Class 3A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
