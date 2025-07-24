@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Farhana Binte Mokhtar</p>
+<p>Mdm Farhana Mokhtar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2A</p>
@@ -159,7 +159,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Luqman Bin Ghazali</p>
+<p>Mr Ahmad Luqman Ghazali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2F</p>
