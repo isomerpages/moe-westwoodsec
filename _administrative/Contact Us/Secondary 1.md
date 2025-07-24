@@ -125,7 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Julitta Chia Meng You</p>
+<p>Ms Chia Meng You Julitta</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1D</p>
