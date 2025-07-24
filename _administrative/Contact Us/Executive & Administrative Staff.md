@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nor Haseena Binte Masrip</p>
+<p>Mdm Nor Haseena Masrip</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -100,7 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Zul Haffiq Nasriq Bin Zulkifli</p>
+<p>Mr Zul Haffiq Nasriq Zulkifli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -172,7 +172,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jumari Bin Wasarip&nbsp;</p>
+<p>Mr Jumari Wasarip&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer (OSO)</p>
@@ -220,7 +220,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Rafi Bin Mat Rais</p>
+<p>Mr Mohamed Rafi Mat Rais</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor (T&amp;D)</p>
@@ -256,7 +256,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norhayati Binte Mohamed Jumahin</p>
+<p>Mdm Norhayati Mohamed Jumahin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor (Sci)</p>
