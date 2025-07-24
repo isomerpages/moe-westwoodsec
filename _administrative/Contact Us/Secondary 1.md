@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Caleb Lee&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<p>Mr Caleb Lee&nbsp;Rui Ming&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,7 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Geraldine Tan</p>
+<p>Ms Geraldine Tan Rou Jing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1C</p>
@@ -125,7 +125,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Julitta Chia</p>
+<p>Ms Julitta Chia Meng You</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1D</p>
@@ -161,7 +161,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gloria Boey&nbsp;</p>
+<p>Ms Gloria Boey&nbsp;Li Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1E</p>
@@ -185,7 +185,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jeffrey Chua</p>
+<p>Mr Jeffrey Chua Yeow Huat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1F</p>
@@ -209,7 +209,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Wong</p>
+<p>Mrs Jasmine Wong Poh Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1G</p>
