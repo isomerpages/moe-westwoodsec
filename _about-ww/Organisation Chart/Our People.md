@@ -286,7 +286,7 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Julitta Chia</strong>
+<p><strong>Ms Julitta Chia Meng You</strong>
 <br>SH/Literature (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
