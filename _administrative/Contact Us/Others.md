@@ -110,6 +110,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Dawn Chew Chenxi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dawn_chew_chenxi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dawn_chew_chenxi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Koo Shi Min</p>
 </td>
 <td rowspan="1" colspan="1">
