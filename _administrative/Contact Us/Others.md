@@ -87,17 +87,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Cher How</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_cher_how@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_cher_how@schools.gov.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Peck Soo Hong</p>
 </td>
 <td rowspan="1" colspan="1">
