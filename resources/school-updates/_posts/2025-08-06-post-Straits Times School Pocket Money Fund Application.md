@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>Applications for the STSPMF 2026 are now open to all current Secondary
 1 to Secondary 3 students.</p>
-<p>Please complete the application form <a href="https://drive.google.com/file/d/1F-rQfCDcOwdgcjs9kJOgsNBAoz_4i0rg/view?usp=drive_link" rel="noopener nofollow" target="_blank">Application Form</a> and
+<p>Please complete the <a href="https://drive.google.com/file/d/1F-rQfCDcOwdgcjs9kJOgsNBAoz_4i0rg/view?usp=drive_link" rel="noopener nofollow" target="_blank">Application Form</a> and
 submit it <strong>together with all required supporting documents</strong> to
 the <strong>General Office (GO)</strong> by <strong>27 August 2025 Wednesday. </strong>Late
 submissions will not be accepted.</p>
