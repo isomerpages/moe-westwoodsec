@@ -160,66 +160,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chahrul Mustaffar&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer (OSO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chahrul_mustaffar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chahrul_mustaffar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jumari Wasarip&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer (OSO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jumari_b_wasarip@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jumari_b_wasarip@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Po Lay Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer (OSO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:po_lay_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">po_lay_cheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Puhari Kasan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer (OSO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:puhari_kasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puhari_kasan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Jumiyati Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer (OSO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jumiyati_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jumiyati_ismail@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Mohamed Rafi Mat Rais</p>
 </td>
 <td rowspan="1" colspan="1">
