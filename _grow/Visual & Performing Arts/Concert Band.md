@@ -8,11 +8,11 @@ variant: tiptap
 <h3>OBJECTIVES</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>To develop an appreciation of good music and interest in music making</p>
+<p>To develop an appreciation of good music and interest in music making.</p>
 </li>
 <li>
 <p>To encourage high standards of musical performance with good musicianship
-in performance and in theory</p>
+in performance and in theory.</p>
 </li>
 <li>
 <p>To build members’ character through performance and learning opportunities
@@ -64,7 +64,7 @@ subjects.
 <td rowspan="1" colspan="1">
 <p>3:00pm - 6:00pm</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Band Room (D4-04)</p>
 </td>
 </tr>
@@ -74,6 +74,9 @@ subjects.
 </td>
 <td rowspan="1" colspan="1">
 <p>2:30pm - 5:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Room (D4-04)</p>
 </td>
 </tr>
 </tbody>
@@ -97,10 +100,26 @@ subjects.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival – Percussion Ensemble - Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Youth Festival – Brass Ensemble - Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival – Percussion Ensemble - Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -228,14 +247,10 @@ of the music scores better.</p>
 <p>Singapore Youth Festival
 <br>
 <br>
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Alternate years – March - April
-<br>
-<br>
 <br>
 </p>
 </td>
@@ -256,7 +271,7 @@ and compete with other school bands.</p>
 <td rowspan="1" colspan="1">
 <p>To provide a platform for band members to enjoy bonding activities with
 each other, and for a session for the graduating batch of seniors to pass
-out (Passing-out-parade)</p>
+out (Passing-out-parade).</p>
 </td>
 </tr>
 <tr>
