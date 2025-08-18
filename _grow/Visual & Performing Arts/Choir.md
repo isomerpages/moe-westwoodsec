@@ -32,11 +32,7 @@ cultures and genres.</p>
 <li>
 <p>Mdm Insyirah Jumat</p>
 </li>
-<li>
-<p>Mr Mohammad Redzuan Bin Jaafar</p>
-</li>
 </ul>
-<p></p>
 <p><strong>TRAINING DAYS</strong>
 </p>
 <table style="minWidth: 75px">
@@ -97,6 +93,14 @@ cultures and genres.</p>
 <th rowspan="1" colspan="1">
 <p>AWARDS</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment Award in SYF Choir 2025</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -195,34 +199,31 @@ and farewell speeches and performances to celebrate their camaraderie.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Choral Exchange Programme @ Methodist Girls School</p>
+<p>Singapore International Choral Festival 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>October</p>
+<p>July</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Under the enthusiastic guidance of instructors from both schools, we immersed
-ourselves in practicing the 2025 SYF set piece "What is That I Hear?" in
-three dynamic groups. This collaborative experience was not only inspiring
-but also enriching, as it sharpened our vocal skills while deepening the
-connections between students and instructors.</p>
+<p>For the choir members, the SICF aims to provide performance exposure on
+a professional stage while allowing them to benchmark themselves against
+other local and international choirs. It also offers valuable learning
+opportunities through expert feedback, inspires them to strive for excellence,
+and builds connections with fellow choristers from diverse backgrounds.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF Camp
-<br>
-</p>
+<p>National Day 2025 Collaboration with Gek Poh Ville Community Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nov/Dec School Holiday</p>
+<p>August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To prepare all the members well for our second SYF in April 2025, this
-holiday camp aims to hone every member’s singing and dancing skills through
-focused rehearsals.
-<br>
-</p>
+<p>This collaboration gives choir members the chance to engage with the community
+while contributing to the National Day spirit. It also allows them to experience
+performing in a festive, non-competitive setting, boosting their confidence
+and strengthening team bonds in a meaningful and joyful way.</p>
 </td>
 </tr>
 </tbody>
