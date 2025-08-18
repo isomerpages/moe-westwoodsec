@@ -44,9 +44,9 @@ effective use of ICT&nbsp;</p>
 <p>At Secondary Three, the students will be designing and developing an animated
 game using the software SCRATCH.</p>
 <p>&nbsp;</p>
-<p>The best students’ work for Secondary Two and Three will be selected for
-submission to the Animation and Game Making Competition organized by MOE
-Curriculum Planning and Development Division.</p>
+<p>The best students’ work will be selected for submission to the Animation
+and Game Making Competition organized by MOE Curriculum Planning and Development
+Division.</p>
 </td>
 </tr>
 </tbody>
@@ -163,33 +163,12 @@ Curriculum Planning and Development Division.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.webopedia.com/" rel="noopener noreferrer nofollow" target="_blank">Webopedia: Online Computer Dictionary</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>An online dictionary and search engine for computer and Internet technology
-definitions.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="http://computer.howstuffworks.com/" rel="noopener noreferrer nofollow" target="_blank">How Stuff Works?</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HowStuffWorks Computer answers your home networking questions and more.
-Find explanations, reviews, videos and prices on peripherals, hardware,
-Internet and software.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.office.com/" rel="noopener noreferrer nofollow" target="_blank">Microsoft 365</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Collaborate for free with online versions of Microsoft Word, PowerPoint,
-Excel, and OneNote.</p>
+<p>Web-based versions of Word, Excel, PowerPoint, and OneNote where you can
+collaborate with others.</p>
 </td>
 </tr>
 <tr>
@@ -198,8 +177,8 @@ Excel, and OneNote.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OpenShot is an open-source video editor, that can create stunning videos,
-films, and animations with an easy-to-use interface and rich set of features.</p>
+<p>OpenShot is an open-source video editor that delivers high quality video
+editing and animation solutions.</p>
 </td>
 </tr>
 <tr>
@@ -208,9 +187,8 @@ films, and animations with an easy-to-use interface and rich set of features.</p
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Scratch is a programming language that makes it easy to create your own
-interactive stories, animations, games, music, and art -- and share your
-creations on the web.</p>
+<p>Scratch is a visual programming language used to create interactive stories,
+animations and games.</p>
 </td>
 </tr>
 <tr>
@@ -219,8 +197,8 @@ creations on the web.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>An open source vector gkraphics editor with capabilities similar to Illustrator
-and CorelDraw.</p>
+<p>Inkscape is an open-source vector graphics editor used for creating and
+editing vector graphics.</p>
 </td>
 </tr>
 </tbody>
