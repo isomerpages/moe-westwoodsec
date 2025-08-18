@@ -206,61 +206,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Po Lay Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Jumiyati Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chahrul Mustaffar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jumari B Wasarip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Puhari Bin Kasan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
