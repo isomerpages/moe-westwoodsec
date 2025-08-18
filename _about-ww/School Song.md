@@ -2,6 +2,7 @@
 title: School Song
 permalink: /about-us/school-song/
 description: ""
+variant: markdown
 ---
 **Verse 1**
 
@@ -14,19 +15,15 @@ Together we make things better
 
 A day at Westwood is a day of hopes and dreams <br>
 We face our challenges ahead with pride and integrity <br>
-We’ll show the world our open minds will help us shine in every way <br>
+We’ll show the world our open minds will help us shine in every way&nbsp;<br>
 At the fore we’ll always be
 
 **Chorus**
 
 Like a tree we’re rooted firmly<br>
-Spread our branches high and wide <br>
+Spread our branches high and wide&nbsp;<br>
 Like a tree we’ll grow so strongly<br>
 Lift our crowns to the sky<br>
-Like a tree we’re rooted deeply<br>
-Standing tall as we learn and grow<br>
-Like a tree we’ll grow so strongly<br>
-Lifting Westwood to the sky
 
 **Verse 3**
 
@@ -37,10 +34,6 @@ Pressing onwards to our goals
 
 **Chorus**
 
-Like a tree we’re rooted firmly<br>
-Spread our branches high and wide <br>
-Like a tree we’ll grow so strongly<br>
-Lift our crowns to the sky<br>
 Like a tree we’re rooted deeply<br>
 Standing tall as we learn and grow<br>
 Like a tree we’ll grow so strongly<br>
