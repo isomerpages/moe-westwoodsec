@@ -67,9 +67,7 @@ themselves.&nbsp;</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00pm - 4:30pm
-<br>
-</p>
+<p>2:00pm - 4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Studio</p>
@@ -93,6 +91,14 @@ themselves.&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>AWARDS</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF 2025 – Certificate of Distinction</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
