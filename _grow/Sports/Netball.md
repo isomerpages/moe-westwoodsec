@@ -6,7 +6,7 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h3>OBJECTIVES</h3>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>To equip players with Netball skills for tournaments and competitions
 at the highest level possible.</p>
@@ -25,7 +25,7 @@ to develop good team camaraderie over the 4 years.</p>
 <br>
 </p>
 </li>
-</ol>
+</ul>
 <p><strong>TEACHERS IN-CHARGE</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -36,7 +36,7 @@ to develop good team camaraderie over the 4 years.</p>
 <p>Mdm Farhana Mokhtar</p>
 </li>
 <li>
-<p>Ms Naomi Chua</p>
+<p>Mrs Lee - Soh Hong Ngo</p>
 </li>
 </ul>
 <p></p>
@@ -79,7 +79,7 @@ to develop good team camaraderie over the 4 years.</p>
 <p>1:30pm - 4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH</p>
+<p>ISH/Quadrangle</p>
 </td>
 </tr>
 </tbody>
@@ -100,6 +100,14 @@ to develop good team camaraderie over the 4 years.</p>
 <th rowspan="1" colspan="1">
 <p>AWARD</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Netops Carnival - Champion</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
