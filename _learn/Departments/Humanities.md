@@ -6,7 +6,7 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <h3>VISION/GOALS</h3>
-<p>To shape values, attitudes and broaden pupils' horizons so as to become
+<p>To shape values, attitudes and broaden Westwoodians' horizons to become
 critical thinkers.</p>
 <h3>Programmes/ Events</h3>
 <table style="minWidth: 75px">
@@ -29,49 +29,69 @@ critical thinkers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p><strong>HUMANITIES</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary Three Internationalisation Programme – Humanities Learning Journey
+to Kanchanaburi &amp; Bangkok, Thailand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>With the re-opening of borders, post-pandemic, it is an opportune time
+to re-imagine Internationalisation Programme in the changing landscape,
+the ‘new normal’.&nbsp; The vision of Internationalisation Programme, “Seizing
+opportunities, experiencing possibilities,” coincides with the school’s
+theme for 2023: “Always Learning, Learning all ways”.
+<br>
+</p>
+<p>With this direction, the department came together to plan for a e21CC
+anchored humanities trip to Kanchanaburi &amp; Bangkok, Thailand, starting
+from June 2023. Underpinned by the broad concept of authentic learning,
+opportunities are engineered for Westwoodians to engage in real-world application
+of knowledge and skills. The interdisciplinary nature of authentic learning
+also enables students to see connections between humanities subjects and
+this would help to ignite their passion and curiosity and foster deeper
+“joy of learning” in them. The authentic contexts of learning also facilitates
+the use of pedagogies that would deepen 21CC, like inquiry-based learning
+(e.g. field-based learning).
+<br>
+<br>Westwoodians get to experience these:
+<br>History:
+<br>WWII memorial sites like the Death Railway and Hellfire pass.
+<br>
+<br>Geography:
+<br>Iconic tourism sites like floating market and rooftop urban farm.
+<br>
+</p>
+<p>Business and commerce:
+<br>Visit TruDigital Park and engage with entrepreneurs on their experience
+and journey.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p><strong>GEOGRAPHY</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NUS Geography Challenge (NUS GC)</p>
+<p>Geographical Investigation on Neighbourhoods in Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected Secondary Four students will be given the opportunity to compete
-with their peers in the NUS Geography Challenge under the guidance of teachers.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Geographical Investigation on the Tropical Rainforest</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secondary One Geography students will be engaged in a Geographical Investigation
-to learn more about the tropical rainforest at Singapore Botanical Gardens.
-They will then collaborate with one another to apply their knowledge on
-the usefulness of the tropical rainforest to both the environment and human.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Geographical Investigation on public housing in Singapore</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secondary Two Geography students will collaborate in groups to research
-about sustainable efforts done in cities around the world and re-imagine
-a Singapore of the future that is even more sustainable and livable.
-<br>
-</p>
+<p>Secondary Three students are tasked to plan and carry out a GI based on
+their curriculum syllabus cluster: Geography In Everyday Life, anchored
+on the theme of ‘Our neighbourhoods’. They are tasked to craft their own
+hypothesis and actions to take at different stage of the Geographical Investigations
+and to present their learning.</p>
 </td>
 </tr>
 <tr>
@@ -95,27 +115,14 @@ about in the History classroom.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Prove-It-Contest</p>
+<p>Historical Scene Investigation (H.S.I.) Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2/3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secondary Two students have the opportunity to engage in critical thinking
-to discern online falsehood and misinformation. They will also learn research
-skills through the engagement of sources provided by National Library Board.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Historical Scene Investigation (H.S.I) Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2/3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Historical Scene Investigation (H.S.I) Challenge gives Secondary Two
-students the opportunity to conduct a historical inquiry on an assigned
+<p>The Historical Scene Investigation (H.S.I.) Challenge gives Secondary
+Two students the opportunity to conduct a historical inquiry on an assigned
 topic and to put their research skills to the test.</p>
 </td>
 </tr>
@@ -321,14 +328,12 @@ videos and games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.wfp.org/" rel="noopener noreferrer nofollow" target="_blank">Geography of Food</a>
+<p><a href="https://www.greenplan.gov.sg/" rel="noopener nofollow" target="_blank">SG Green Plan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The World Food Programm (WFP) websites provides news and information about
-operations, policies, publications, appeals and how to help. Includes special
-reports, questions and answers and video. A must-read for all graduating
-pupils offering Geography</p>
+<p>The Singapore Green Plan 2030, or the Green Plan, is a whole-of-nation
+movement to advance Singapore’s national agenda on sustainable development.</p>
 </td>
 </tr>
 <tr>
@@ -345,4 +350,10 @@ skills.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>GALLERY</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkUK-JlEg5I8mZlZGfFuqY_uvsFHr9-Eo06L8PjngiSRuWr608TMQ0MMo1HO4KKf9HsssSMk6gqL63/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
