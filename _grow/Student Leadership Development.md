@@ -50,3 +50,28 @@ Prom Night, Student Forum, and other school-wide initiatives and projects.</p>
 <p>These experiences enable students to collaborate in teams, sharpen communication
 and interpersonal skills, build resilience, and strengthen their ability
 to adapt to challenges.</p>
+<p></p>
+<h4>STUDENT LEADERSHIP STRUCTURE</h4>
+<p>While all students experience baseline leadership development, specific
+student leader segments receive tailored training and close monitoring.
+At Westwood, there are four defined student leader segments: Student Councillors,
+CCA Leaders, Peer Support Leaders and Class Chairpersons.</p>
+<p>These segments are represented by the Student Leadership Board (SLB),
+which works under the guidance of the Student Leadership Development Committee
+to:</p>
+<p>• Advocate – Gather and share student feedback, ensuring diverse perspectives
+are heard.</p>
+<p>• Drive Change – Identify areas for improvement, propose solutions, and
+follow through.</p>
+<p>• Mentor – Guide junior leaders and share constructive feedback.</p>
+<p>• Lead Events – Facilitate major school programmes and work with peers
+and teachers to ensure success.</p>
+<p>• Build Culture – Model school values and lead campaigns that foster a
+caring, inclusive environment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student Leadership Board members engaging with students and providing a platform for them to share their ideas during the student forum." src="/images/Student_Leadership_Development.png">
+</div>
+<p><sub>Student Leadership Board members engaging with students and providing a platform for them to share their ideas during the student forum.</sub>
+</p>
+<p></p>
