@@ -47,9 +47,9 @@ variant: tiptap
 <br>- Pure Sciences (Chemistry, Physics, Biology)
 <br>- Social Studies
 <br>- Pure and Elective Humanities (Geography, History, Literature in English)
-<br>- Elements of Business Skills</p>
-<p>- Economics</p>
-<p>- Principles of Accounts
+<br>- Elements of Business Skills
+<br>- Economics
+<br>- Principles of Accounts
 <br>- Art
 <br>- Food and Nutrition
 <br>- Design and Technology</p>
