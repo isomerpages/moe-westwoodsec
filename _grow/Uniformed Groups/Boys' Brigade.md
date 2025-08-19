@@ -21,21 +21,18 @@ as Leadership, Personal Mastery, Global Awareness and Community Spiritedness</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Ms Geraldine Tan</p>
+</li>
+<li>
 <p>Mr Terence Tsang</p>
 </li>
 <li>
-<p>Ms Tan Rou Jing Geraldine</p>
-</li>
-<li>
-<p>Ms Jane Yap Hui Hian</p>
+<p>Ms Jane Yap</p>
 </li>
 </ul>
 <p></p>
-<ul>
-<li>
-<p><strong>TRAINING DAYS</strong>
+<p><strong>CCA TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -79,11 +76,8 @@ as Leadership, Personal Mastery, Global Awareness and Community Spiritedness</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -97,6 +91,22 @@ as Leadership, Personal Mastery, Global Awareness and Community Spiritedness</p>
 <th rowspan="1" colspan="1">
 <p>Awards</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Founder’s Award – LESLIE TEO YEW QUEN and ZENON TIN KAY HAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>J M Fraser Award for Excellence – HIGH DISTINCTION</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -192,11 +202,8 @@ High Distinction</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -317,21 +324,15 @@ wishes of the beneficiaries.</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>Other Badges or Awards</strong>
 </p>
 <p>NYAA Bronze &amp; NYAA Silver, Kayaking 1 Star, Total Defence, and First
-Aid</p>
-</li>
-<li>
-<p><strong>GALLERY</strong>
+Aid
+<br>
+<br><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8R1f2vbH086HIIZg6e6HHktqrqs2BEuMZfQc6Gb5C41I8PTIvOZ-tPVgCfJqPQS6v1hODRClySOmK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>
