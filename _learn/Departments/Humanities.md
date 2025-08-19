@@ -247,9 +247,6 @@ Component)
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYUtievWYYQ9UjmgBXh6LxeRJDRs1AHYlQDgEau6Am00iyxqZssODwwHzzNuqCKR8EGa4uKslvuuQG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <h3>Useful Links</h3>
 <table style="minWidth: 50px">
 <colgroup>
