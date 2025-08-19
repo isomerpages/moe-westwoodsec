@@ -29,8 +29,13 @@ for students</p>
 </li>
 <li>
 <p>Mr Ajaib Singh</p>
-<p>
-<br><strong>TRAINING DAYS</strong>
+</li>
+<li>
+<p>Ms Qucinta Ardilah Roslan</p>
+</li>
+</ul>
+<p></p>
+<p><strong>TRAINING DAYS</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -63,7 +68,7 @@ for students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girls: Monday (B’Div), Tuesday (C’Div), Thursday (All)</p>
+<p>Girls: Monday (C’Div), Tuesday (B’Div), Thursday (All)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:00pm - 5:30pm</p>
@@ -77,7 +82,6 @@ for students</p>
 <p></p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -141,7 +145,6 @@ position</p>
 <p></p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -204,11 +207,8 @@ leadership skills.</p>
 <p></p>
 <p><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTzSrqtbFGId31aqucCGwQmrsu-0oFlW760fQCpb2jr8umq_3Y4Q1T_c-4Ejqd-EGJgKwCvdqHGy4Qa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>

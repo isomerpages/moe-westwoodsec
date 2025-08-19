@@ -48,6 +48,8 @@ variant: tiptap
 <br>- Social Studies
 <br>- Pure and Elective Humanities (Geography, History, Literature in English)
 <br>- Elements of Business Skills
+<br>- Economics
+<br>- Principles of Accounts
 <br>- Art
 <br>- Food and Nutrition
 <br>- Design and Technology</p>

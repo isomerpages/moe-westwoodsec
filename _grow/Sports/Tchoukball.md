@@ -21,26 +21,27 @@ during tournaments&nbsp;</p>
 </li>
 <li>
 <p>To groom confident student leaders to lead fellow players in training's
-and activities</p>
+and activities
+<br>
+</p>
 </li>
 </ul>
 <p><strong>TEACHERS IN-CHARGE</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Nai Huey Chyi</p>
-</li>
-<li>
-<p>Ms Nurul Amirah Zubir</p>
-</li>
-<li>
 <p>Mdm Puvaneswari</p>
+</li>
+<li>
+<p>Ms Jade Leong</p>
+</li>
+<li>
+<p>Ms Li Yang</p>
 <p></p>
 </li>
-<li>
+</ul>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -64,7 +65,18 @@ and activities</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm - 5pm</p>
+<p>3:00pm - 5:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quadrangle/ISH/Basketball Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1:30pm – 4:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Quadrangle/ISH/Basketball Court</p>
@@ -72,11 +84,9 @@ and activities</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>CCA ACHIEVEMENT</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -164,15 +174,9 @@ Champions</p>
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
+<p></p>
 <p><strong>NATIONAL TEAM PLAYER ACHIEVEMENT</strong>
 </p>
-<p></p>
-</li>
-</ul>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -226,11 +230,9 @@ Champions</p>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
+<p></p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -350,15 +352,11 @@ methods and environment.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRzHWXOfEDyHKRFU3mWrsGcM67NCyxLlp0PbdZPyV_7jXtLa4nZA4nDnfjuxET5nKqLPYFzVERdgu2Y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>

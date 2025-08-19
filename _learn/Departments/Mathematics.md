@@ -44,8 +44,8 @@ as to add value to every Westwood pupil.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secondary 1, 2 and 3 students will apply what they learnt in the classroom
-to solve real world problems in the school and the community.</p>
+<p>Secondary One, Two and Three G1 students will apply what they learnt in
+the classroom to solve real world problems in the school and the community.</p>
 </td>
 </tr>
 <tr>
@@ -64,20 +64,34 @@ thinking.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Coding Programme
+<p>Sec 2 AI for Fun
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April - July</p>
+<p>July – September</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selected Secondary 2 students who are interested in coding are given opportunities
-to further their interest, meet people in the industry and to take part
-in curated competition.
+<p>Secondary Two G3 students will participate in the AI for Fun Programme.</p>
+<p>&nbsp;</p>
+<p>The objectives of the AI for Fun programme is to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Understand Artificial Intelligence (AI) as a technology that enables computers
+to perform tasks that typically require human intelligence.</p>
+</li>
+<li>
+<p>Use Generative AI (GAI) to develop solutions related to sustainable living.</p>
+</li>
+<li>
+<p>Enhance the design thinking process using GAI tools to support ideation,
+research, and code generation to build a prototype that solves real-world
+problems.
 <br>
 <br>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -88,7 +102,7 @@ in curated competition.
 <p>February - May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secondary 1 students from G2 and G3 who previously studied Foundation
+<p>Secondary One students from G2 and G3 who previously studied Foundation
 Mathematics in primary school will participate in the Foundational Mathematics
 Programme, conducted either during or outside regular curriculum hours,
 to help bridge learning gaps in secondary school Mathematics.</p>
