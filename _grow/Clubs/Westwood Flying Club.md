@@ -283,10 +283,9 @@ obstacle course in teams of only ONE member.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Museum based learning journey </strong>
+<p><strong>Museum based learning journey</strong>
 </p>
-<p>Visit Singapore Air Force Museum<strong> </strong>
-</p>
+<p>Visit Singapore Air Force Museum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>May</p>
