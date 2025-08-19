@@ -18,7 +18,7 @@ critical thinkers.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>NAME OF PROGRAMAME / EVENT</p>
+<p>NAME OF PROGRAMME / EVENT</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>DATE / MONTH</p>
