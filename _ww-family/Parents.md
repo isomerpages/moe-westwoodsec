@@ -32,7 +32,8 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SchoolBag</a> 
-<br>(The Education News Site)</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>An online publication by the Ministry of Education, Singapore to provide
