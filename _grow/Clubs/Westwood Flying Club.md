@@ -29,11 +29,8 @@ students.&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </li>
 </ul>
 <p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -66,26 +63,14 @@ students.&nbsp; &nbsp; &nbsp; &nbsp;</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>PRE-REQUISITES (ACCORDING TO SINGAPORE YOUTH FLYING CLUB RULES)</strong>
 </p>
-<p><strong>STUDENTS MUST BE</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>MEDICALLY FIT</p>
-</li>
-</ul>
-<p></p>
+<p>STUDENTS MUST BE MEDICALLY FIT</p>
 <p>For further information, please <a href="https://www.syfc.sg" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 <p></p>
-</li>
-<li>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -99,6 +84,15 @@ students.&nbsp; &nbsp; &nbsp; &nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>AWARDS</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9<sup>th</sup> Runner Up and 14<sup>th</sup> Runner Up in Singapore Amazing
+Flying Machine Race Cat C2</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -158,11 +152,9 @@ Final) Category</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -183,7 +175,7 @@ Final) Category</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Amazing Flying Machine Competition (SAFMC)
+<p><strong>Singapore Amazing Flying Machine Competition (SAFMC)</strong> 
 <br>
 <br>Category B - Unpowered Glider
 <br>Category C2 – FPV Flight</p>
@@ -197,31 +189,33 @@ Final) Category</p>
 <p>March - April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>**Unpowered Glider**
-<br>
-<br>Category B: Furthest Distance
-<br>
-<br>Design and build small unpowered gliders to be bungee-launched from designated
-launcher in a bid to fly the furthest. Design and build small unpowered
-gliders to be Radio Control Flight
-<br>
-<br>Category C2: FPV Flight (Drones)
-<br>Bring or design a FPV (first-person view) air platform to navigate an
-obstacle course.</p>
+<p><strong>Rationale</strong>
+</p>
 <p></p>
-<p>Category C3:&nbsp; FPV Flight (Drones)
+<p><strong>Unpowered Glider</strong>
+</p>
+<p></p>
+<p><strong><u>Category B:&nbsp;Furthest Distance</u></strong>
+<br>Design and build small unpowered gliders to be bungee-launched from designated
+launcher in a bid to fly the furthest.</p>
+<p>Design and build small unpowered gliders to be
+<br>
+</p>
+<p><strong><u>Category C2:&nbsp; FPV Flight (Drones)</u></strong>
+<br>Bring or design a FPV (first-person view) air platform to navigate an
+obstacle course.
+<br>
+<br><strong><u>Category C3:&nbsp; FPV Flight (Drones)</u></strong>
 <br>Bring or design a FPV (first-person view) air platform to navigate an
 obstacle course in teams of only ONE member.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Flight Experience Programmes
+<p><strong>Flight Experience Programmes</strong> 
 <br>
 <br>DA-40 planes
-<br>
 <br>F50 and visit to Changi Airbase
-<br>
 <br>C130 and visit to Paya Lebar Airbase DA-40 planes
 <br>
 <br><em>Organised by: Singapore Youth Flying Club</em>
@@ -231,7 +225,7 @@ obstacle course in teams of only ONE member.</p>
 <p>June and December holidays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Target Group
+<p><strong>Target Group</strong> 
 <br>All students
 <br>
 </p>
@@ -239,7 +233,7 @@ obstacle course in teams of only ONE member.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Flying Club Courses
+<p><strong>Singapore Youth Flying Club Courses </strong>
 <br>
 <br>Aviation Instructors’ (AI) Courses
 <br>
@@ -250,29 +244,61 @@ obstacle course in teams of only ONE member.</p>
 <p>June and December holidays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Target Group
+<p><strong>Target Group </strong>
 <br>All students</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Inter-Schools Aeromodelling Competitions
+<p><strong>Inter-Schools Aeromodelling Competitions </strong>
 <br>
 <br>Aircraft Simulator Juniors &amp; Seniors Competitions
 <br>
 <br>Organised by: Singapore Youth Flying Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>July - September</p>
+<p>July to September</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Target Group
+<p><strong>Target Group</strong> 
 <br>All students</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Westwood Flying Enrichment Activities
+<p><strong>AeroChallenge</strong>
+</p>
+<p></p>
+<p>TinyWhoop FPV Drone Racing Unpowered Glider</p>
+<p><em>Organised by: Arr</em>owDynamics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Target Group</strong>
+</p>
+<p>All students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Museum based learning journey </strong>
+</p>
+<p>Visit Singapore Air Force Museum<strong> </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Target Group</strong> 
+<br>All students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Westwood Flying Enrichment Activities </strong>
 <br>
 <br><em>Organised by: Westwood Flying Club</em>
 </p>
@@ -281,14 +307,12 @@ obstacle course in teams of only ONE member.</p>
 <p>October/November</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Target Group
+<p><strong>Target Group</strong> 
 <br>All students</p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
 <p></p>
 <p><strong>GALLERY</strong>
 </p>
