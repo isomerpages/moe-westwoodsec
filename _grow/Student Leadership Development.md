@@ -50,5 +50,3 @@ Prom Night, Student Forum, and other school-wide initiatives and projects.</p>
 <p>These experiences enable students to collaborate in teams, sharpen communication
 and interpersonal skills, build resilience, and strengthen their ability
 to adapt to challenges.</p>
-<p></p>
-<p>up with School Management, where appropriate.</p>
