@@ -242,7 +242,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Melissa Manuela Rama Shan</p>
+<p>Mdm Melissa Manuela Rama Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Chemistry</p>
@@ -301,7 +301,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Loh May-Kay Maria</p>
+<p>Mdm Loh May-Kay Maria</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/History &amp; Social Studies</p>
@@ -337,7 +337,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Lay Ping</p>
+<p>Mdm Lim Lay Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Management (Acting)</p>
@@ -349,7 +349,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Meng You Julitta</p>
+<p>Mdm Chia Meng You Julitta</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Literature (Acting)</p>
