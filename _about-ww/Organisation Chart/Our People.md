@@ -143,7 +143,7 @@ variant: tiptap
 <br>Year Head/Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nurul Atika Bte Ramli<br></strong>Year Head/Upper Sec</p>
+<p><strong>Mdm Nurul Atika Bte Ramli<br></strong>Year Head/Upper Sec</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Loh May-Kay Maria<br></strong>SH/History &amp; Social Studies</p>
+<p><strong>Mdm Loh May-Kay Maria<br></strong>SH/History &amp; Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lee Chuen Hing<br></strong>SH/Mathematics</p>
@@ -245,7 +245,7 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Melissa Manuela</strong>
+<p><strong>Mdm Melissa Manuela</strong>
 <br>SH/Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,7 +270,7 @@ Education</p>
 <br>SH/21CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lim Lay Ping</strong>
+<p><strong>Mdm Lim Lay Ping</strong>
 <br>SH/Student Management (Acting)</p>
 </td>
 </tr>
@@ -286,7 +286,7 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Julitta Chia Meng You</strong>
+<p><strong>Mdm Julitta Chia Meng You</strong>
 <br>SH/Literature (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
