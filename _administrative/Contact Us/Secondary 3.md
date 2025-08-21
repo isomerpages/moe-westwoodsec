@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ajaib Singh S/O Gurbachan Singh</p>
+<p>Mr Ajaib Singh s/o Gurbachan Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3B</p>
