@@ -166,11 +166,9 @@ show and tell.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students will be taught the cooking skills and research skills required
-to innovate the new food product. This project aims to provide opportunities
-for students to appreciate the value of individuality, creativity and authenticity
-when innovating food products.
-<br>
+<p>Students will learn the essential cooking and research skills necessary
+to carry out a food science investigation. This project is designed to
+foster critical thinking and enhance decision-making abilities.
 <br>
 </p>
 </td>
@@ -356,6 +354,21 @@ the showcase.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Live On! 2025 – Certificate of Participations
+<br>Award Winner – Xiao Yao, 2E
+<br>
+</p>
+<p>Stick with SAM Design Contest 2025
+<br>Xie Hui Ting 1C – 3<sup>rd</sup> Place
+<br>
+<br>Design &amp; Technology Awards 2025 - Certificate of Participations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -438,24 +451,6 @@ of Participation
 <th rowspan="1" colspan="1">
 <p>DESCRIPTION</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.technologystudent.com/" rel="noopener noreferrer nofollow" target="_blank">Technology student</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This website contains useful information on the D&amp;T subject.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.bbc.co.uk/schools/gcsebitesize/design/" rel="noopener noreferrer nofollow" target="_blank">Bitesize Revision</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This website contains useful information on the D&amp;T subject</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
