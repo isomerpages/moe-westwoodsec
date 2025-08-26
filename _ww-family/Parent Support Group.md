@@ -23,7 +23,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Tan</p>
+<p>Ms Nornani Ab Wahab (Nani)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairman</p>
@@ -31,18 +31,10 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nornani Ab Wahab (Nani)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairman (Admin)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ivan Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairman (Operation)</p>
+<p>Vice-Chairman</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +58,7 @@ students.</p>
 <p>Ms Su Su Mar (Su Mar)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst Treasurer</p>
+<p>Assistant Treasurer</p>
 </td>
 </tr>
 <tr>
