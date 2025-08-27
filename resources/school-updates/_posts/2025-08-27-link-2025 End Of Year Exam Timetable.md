@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.westwoodsec.moe.edu.sg/2025EYE
+external: https://www.westwoodsec.moe.edu.sg/2025eye
 ---
