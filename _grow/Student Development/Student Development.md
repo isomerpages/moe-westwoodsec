@@ -3,27 +3,70 @@ title: Student Development
 permalink: /co-curriculum/student-development/
 description: ""
 third_nav_title: Student Development
+variant: tiptap
 ---
-### PHILOSOPHY AND APPROACH
-
-In Westwood, we believe that all students are unique individuals with different talents and abilities, who can learn and grow, and eventually, make a difference to society. As such, the school has the responsibility to develop each student holistically and to his best ability. This will be done through the provision of equal access to developmental opportunities, and, regardless of level or stream, talents and interests, all students will be ensured of a strong foundation in the knowledge, skills and competencies required for success in life in the 21st Century. Even more importantly, all students will be imbued with strong moral values and a sense of social responsibility, so that they may continue to serve and contribute to their community even after they leave Westwood.
-
-  
-
-In Westwood, student development comprises 3 main components:
-
-*   **Academic Curriculum**
-*   **Co-Curriculum**
-*   **Student Well-Being**
-
-Westwood’s Co-Curriculum consists of Character and Citizenship Education, Co-Curricular Activities, Student Leadership Development, Values in Action and Enrichment and Lifeskills.
-
-Westwood adopts 4 key guiding principles in its approach to and design of student development programmes:
-
-![](/images/student%20development.png)
-
-The school adopts the philosophy of Restorative Practice as a whole school approach to develop good relationships and restore a sense of community, bringing students and staff together to create the desired school culture of care and appreciation.  All student development programmes and activities involve students working collaboratively with one another, at both inter as well as intra-class level.  It creates opportunities for students to know each other better, hone their leadership skills and develop camaraderie.  Teachers also work alongside and guide their students, and the process facilitates the building of strong teacher-student relationships.  
-
-  
-
-Ultimately, the purpose of student development in Westwood is to ensure that the product of the Westwood Brand of Education is anchored in sound values, has the necessary skills and knowledge to take on future challenges and is driven by the desire to make a difference. This is only possible within a positive school culture and environment created by the collaborative partnership of the school community, parents, and the community at large, working in tandem to achieve the same goals.
+<h4>PHILOSOPHY AND APPROACH</h4>
+<p><strong><u>Rooted in Character to Soar for the Nation</u></strong>
+</p>
+<p>At Westwood, we believe that every child is a unique individual with strengths
+waiting to be discovered and nurtured. We see potential not only in academic
+achievement, but in the way our students lead, collaborate, and serve.
+Every student, regardless of stream, level or starting point, is given
+access to equal and meaningful opportunities — to grow in confidence, build
+their character, and find their voice.</p>
+<p>We are committed to holistic development. Our approach ensures that every
+Westwoodian is anchored in sound values, equipped with 21st-century competencies,
+and driven by a deep sense of purpose to make a positive impact beyond
+the school gates.</p>
+<p></p>
+<p><strong><u>Our Three Pillars of Student Development</u></strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Academic Curriculum – Building strong foundations for lifelong learning.</p>
+</li>
+<li>
+<p>Co-Curriculum – Providing platforms to lead, serve, and shine.</p>
+</li>
+<li>
+<p>Student Well-Being – Creating a safe, nurturing space where every student
+is seen and supported.
+<br>
+</p>
+</li>
+</ol>
+<p>Within our Co-Curriculum, students experience:</p>
+<p><strong>• Character &amp; Citizenship Education</strong>
+</p>
+<p><strong>• Co-Curricular Activities (CCAs)</strong>
+</p>
+<p><strong>• Student Leadership Development</strong>
+</p>
+<p><strong>• Values-in-Action (VIA)</strong>
+</p>
+<p><strong>• Lifeskills &amp; Enrichment Experiences</strong>
+</p>
+<p></p>
+<p><strong><u>Our Guiding Principles</u></strong>
+</p>
+<p>Westwood’s student development programmes are anchored in four key design
+principles:</p>
+<p><strong>Values-based. Developmental. Collaborative. Student-centric.</strong>
+</p>
+<p>These principles are brought to life through our commitment to nurturing
+a <strong>Culture of Care</strong> — one where every individual is seen,
+heard, and valued.</p>
+<p>At the heart of this culture is <strong>Restorative Practice</strong>,
+a whole-school approach that prioritises positive relationships and a strong
+sense of community. Our programmes are thoughtfully designed to create
+shared experiences between students and teachers — across levels, classes,
+and backgrounds. These connections cultivate empathy, strengthen camaraderie,
+and sharpen leadership — nurturing both the heart and the mind.</p>
+<p><strong><u>The Westwood Promise</u></strong>
+</p>
+<p>We envision every Westwoodian as a person of character, courage and compassion
+— grounded in values, skilled for the future, and ready to make a difference.
+This is only possible through the collective effort of our school, parents,
+and wider community, working hand-in-hand to grow a generation that is <em>Rooted in character, and ready to soar for the nation.</em>
+</p>
+<p></p>
