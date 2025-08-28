@@ -27,6 +27,12 @@ through fun, adventurous and military-related activities.
 <li>
 <p>CPT (NCC) Mr How Choon Keat</p>
 </li>
+<li>
+<p>Mr Lee Tze Kerr Scott</p>
+</li>
+<li>
+<p>Mr Ng Hai Guan</p>
+</li>
 </ul>
 <p></p>
 <p><strong>TRAINING DAYS</strong>
@@ -78,6 +84,14 @@ through fun, adventurous and military-related activities.
 <th rowspan="1" colspan="1">
 <p>Award</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction Award for Unit Recognition</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
