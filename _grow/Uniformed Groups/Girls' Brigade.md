@@ -28,6 +28,9 @@ physical, educational and social domain</p>
 <li>
 <p>Mdm Wang Fang</p>
 </li>
+<li>
+<p>Ms Mary Anne Estrellas Fernandez</p>
+</li>
 </ul>
 <p></p>
 <p><strong>TRAINING DAYS</strong>
