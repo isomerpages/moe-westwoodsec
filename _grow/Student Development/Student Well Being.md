@@ -116,19 +116,16 @@ step, one success at a time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students know that help is never out of reach.
-<br>All teachers are approachable and ready to support students facing academic
-stress, peer relationships, or personal challenges. When deeper support
-is needed, students may turn to the <strong>School Counsellors</strong> or
-speak with the <strong>Special Educational Needs Officer</strong>.</p>
-<p>&nbsp;</p>
+<p>Students know that help is never out of reach. All teachers are approachable
+and ready to support students facing academic stress, peer relationships,
+or personal challenges. When deeper support is needed, students may turn
+to the <strong>School Counsellors</strong> or speak with the <strong>Special Educational Needs Officer</strong>.</p>
 <p>External helplines are also made available to provide students with extended
 care beyond the school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No child should ever be left behind because of financial concerns.</p>
-<p>
-<br>Westwood offers a range of <strong>financial support schemes</strong>,
+<p>Westwood offers a range of <strong>financial support schemes</strong>,
 including:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -141,8 +138,6 @@ including:</p>
 <p>Subsidies for enrichment courses (on a case-by-case basis)</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 </tr>
 </tbody>
