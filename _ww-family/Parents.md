@@ -12,6 +12,8 @@ description: ""
 </p>
 <p><a href="https://drive.google.com/file/d/1EQA2rD3tzi7LEOO9a9mH6YltMTFK6Rge/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 3 Parent Letter</a>
 </p>
+<p><a href="https://drive.google.com/file/d/1ouwW4mujBNh729B6eiSfWKyRm7Z4mjBB/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 4 Parent Letter</a>
+</p>
 <p></p>
 <p></p>
 <h4>Useful Links</h4>
