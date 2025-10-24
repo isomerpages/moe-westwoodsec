@@ -21,26 +21,26 @@ Email:&nbsp;[sales@pacificbookstores.com](mailto:sales@pacificbookstores.com) <b
 Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/) <br>
 Opening hours: 730 am to 230 pm (during school term)
 
-### Booklist 2025
+### Booklist 2026
 Please refer to the booklist for details on sales of textbooks and uniform during the school holiday period.
 
 **Secondary 1**<br>
-[Sec 1G1](https://drive.google.com/file/d/1jtAcVQOVSow899wgcvUp62GWS_NyStqG/view?usp=drive_link)<br>
-[Sec 1G2](https://drive.google.com/file/d/1WaqRuQ5lb7gGd6vpJibTNaVSjaqUTkZV/view?usp=drive_link)<br>
-[Sec 1G3](https://drive.google.com/file/d/1OvInJBrS7tJi_pFuKT8LX6zrwp8ogadu/view?usp=drive_link)<br>
+[Sec 1G1](https://drive.google.com/file/d/1K6b_nEYkLSGMP4kOvIqTIrk4Tn0VtMVB/view?usp=sharing)<br>
+[Sec 1G2](https://drive.google.com/file/d/1HW22DiKTXh1yICfxDvYDG8mIgpO45PlK/view?usp=sharing)<br>
+[Sec 1G3](https://drive.google.com/file/d/17ApSraPtQFG-RTHKOf939d2LnK1VLdCs/view?usp=sharing)<br>
 
 **Secondary 2**<br>
-[Sec 2G1](https://drive.google.com/file/d/1uCVlUQAAjkNhOXQOJMAcXdY4VgaIbOZj/view?usp=drive_link)<br>
-[Sec 2G2](https://drive.google.com/file/d/1Kz6yFpUvS7Cg3zoZ4ei0lyRDcR6XD1HG/view?usp=drive_link)<br>
-[Sec 2G3](https://drive.google.com/file/d/1tuGdc9pConiles9e65yETY3zLkJGjJI8/view?usp=drive_link)<br>
+[Sec 2G1](https://drive.google.com/file/d/1H-0wUb0kbw-Au-c1qUpal1egJJs1DgSC/view?usp=sharing)<br>
+[Sec 2G2](https://drive.google.com/file/d/1g8f-RI0pCaMad9aNZ0uL0QhIsYKn9J81/view?usp=sharing)<br>
+[Sec 2G3](https://drive.google.com/file/d/11S6UF_8JQQcR_95AFM5mphB7mFTCXQQM/view?usp=sharing)<br>
 
 **Secondary 3**<br>
-[Sec 3 Express](https://drive.google.com/file/d/1h2keFwwkv0keNGT2RTieb7H8y1nOdBui/view?usp=drive_link)<br>
-[Sec 3NA](https://drive.google.com/file/d/1R2E3aM4I3GgLUjh1elpfhL4z86iuQfOx/view?usp=drive_link)<br>
+[Sec 3G1](https://drive.google.com/file/d/1duTVDASM9XdJc4twN4KH44VFZjyfNNYE/view?usp=sharing)<br>
+[Sec 3G3](https://drive.google.com/file/d/10S03bFGsD2siQH0TrlgBpZEd0COIvou5/view?usp=sharing)<br>
 [Sec 3 NT](https://drive.google.com/file/d/1xqEJ42JUiDq2DBNWC8CLyfqQzKhw_up-/view?usp=drive_link)<br>
 
 **Secondary 4 &amp; 5**<br>
-[Sec 4 Express](https://drive.google.com/file/d/1ukgFTp5vi0qRNQgTPDZZKTxqqba2Fwgk/view?usp=drive_link)<br>
-[Sec 4 NA](https://drive.google.com/file/d/1cPnROiYbDiUJ-SyaSgFTj4iX78Id73Fx/view?usp=drive_link)<br>
-[Sec 4 NT](https://drive.google.com/file/d/1lTWWO09rBkxsGSLNFo_pKzuclPTrBw7G/view?usp=drive_link)<br>
-[Sec 5 NA](https://drive.google.com/file/d/1g4-GJCdBCqqIDsrsHru3U7pcRUH29MhO/view?usp=drive_link)<br>
+[Sec 4 Express](https://drive.google.com/file/d/1AveYhMJkAod0mC_OnDwmW_VDEmh90LgZ/view?usp=sharing)<br>
+[Sec 4 NA](https://drive.google.com/file/d/13CMcTeiZwVfaAmBX6ll9XpbF1RS9hHKK/view?usp=sharing)<br>
+[Sec 4 NT](https://drive.google.com/file/d/1DAe38hbZTRIX13GM8TE1xJZ3m1k9V8B7/view?usp=sharing)<br>
+[Sec 5 NA](https://drive.google.com/file/d/11ycqs9dxZ75dgNNpFlmZccwX_ulhshSn/view?usp=sharing)<br>
