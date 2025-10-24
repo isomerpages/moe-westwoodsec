@@ -36,8 +36,9 @@ Please refer to the booklist for details on sales of textbooks and uniform durin
 
 **Secondary 3**<br>
 [Sec 3G1](https://drive.google.com/file/d/1duTVDASM9XdJc4twN4KH44VFZjyfNNYE/view?usp=sharing)<br>
+[Sec 3G2](https://drive.google.com/file/d/1E6GAtAW7Vri_awfmsCIyHPPTrEZml2pS/view?usp=sharing)<br>
 [Sec 3G3](https://drive.google.com/file/d/10S03bFGsD2siQH0TrlgBpZEd0COIvou5/view?usp=sharing)<br>
-[Sec 3 NT](https://drive.google.com/file/d/1xqEJ42JUiDq2DBNWC8CLyfqQzKhw_up-/view?usp=drive_link)<br>
+
 
 **Secondary 4 &amp; 5**<br>
 [Sec 4 Express](https://drive.google.com/file/d/1AveYhMJkAod0mC_OnDwmW_VDEmh90LgZ/view?usp=sharing)<br>
