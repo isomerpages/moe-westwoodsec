@@ -41,7 +41,7 @@ Please refer to the booklist for details on sales of textbooks and uniform durin
 
 
 **Secondary 4 &amp; 5**<br>
-[Sec 4 Express](https://drive.google.com/file/d/1AveYhMJkAod0mC_OnDwmW_VDEmh90LgZ/view?usp=sharing)<br>
+[Sec 4 Express](https://drive.google.com/file/d/1Dg_ThoN95WdnwprtJ0mzBimPD9SbAHbf/view?usp=sharing)<br>
 [Sec 4 NA](https://drive.google.com/file/d/13CMcTeiZwVfaAmBX6ll9XpbF1RS9hHKK/view?usp=sharing)<br>
 [Sec 4 NT](https://drive.google.com/file/d/1DAe38hbZTRIX13GM8TE1xJZ3m1k9V8B7/view?usp=sharing)<br>
 [Sec 5 NA](https://drive.google.com/file/d/11ycqs9dxZ75dgNNpFlmZccwX_ulhshSn/view?usp=sharing)<br>
