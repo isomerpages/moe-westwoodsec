@@ -27,14 +27,13 @@ variant: tiptap
 <p>Principal's Message
 <br>
 </p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EciKNgEyY_Q?si=4e4BEqt1PDVksys3"></iframe>
-</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EciKNgEyY_Q?si=vxR1QyAYMKzCai1T"></iframe>
+</div>
 <p><strong>Life @ Westwood</strong>
 </p>
 <table style="minWidth: 50px">
