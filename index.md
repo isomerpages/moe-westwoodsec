@@ -24,4 +24,11 @@ sections:
   - resources:
       title: Announcements
       id: resources
+  - infopic:
+      title: E Open House 2025
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
