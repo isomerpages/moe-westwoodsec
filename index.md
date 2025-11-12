@@ -29,6 +29,7 @@ sections:
       subtitle: Add an image and text
       id: infopic
       description: Infopic description
-      button: Button Text
+      button: Click here
       alt: Image alt text
+      url: https://www.westwoodsec.moe.edu.sg/ohlandingpage/
 ---
