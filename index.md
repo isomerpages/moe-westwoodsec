@@ -21,4 +21,7 @@ sections:
           description: ""
           url: /administrative/usefullinks/
       background: /images/picture3.png
+  - resources:
+      title: Announcements
+      id: resources
 ---
