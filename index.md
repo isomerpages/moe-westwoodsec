@@ -22,7 +22,7 @@ sections:
           url: /administrative/usefullinks/
       background: /images/picture3.png
   - infopic:
-      title: E-Open House 2025
+      title: 2025 E-Open House
       id: infopic
       button: Click here
       url: https://www.westwoodsec.moe.edu.sg/ohlandingpage/
