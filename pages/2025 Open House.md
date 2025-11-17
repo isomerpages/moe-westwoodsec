@@ -1,13 +1,10 @@
 ---
-title: 2024 Open House
+title: 2025 Open House
 permalink: /ohlandingpage/
 description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2024BANNER.png">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -17,6 +14,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2025BANNER.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
