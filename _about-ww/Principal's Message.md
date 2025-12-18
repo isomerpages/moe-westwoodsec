@@ -20,7 +20,7 @@ We are also a community that _cares deeply_ and looks out for each other. Care-g
 
 As a team, we strive to win in everything we do, winning not alone, but _winning together_. This is only possible when we support one another, motivate each other and learn to work together, a very important life-skill at the workplace.
 
-I hope youare as excited as I am in welcoming 2026, and I look forward to your support for us as we Lead, Care and Win Together in the coming year!
+I hope you are as excited as I am in welcoming 2026, and I look forward to your support for us as we Lead, Care and Win Together in the coming year!
 
 Mr Brian Tan<br>
 Principal<br>
