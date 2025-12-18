@@ -28,13 +28,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Harris Sumardi</p>
+<p>Mr Brian Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_harris_sumardi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_harris_sumardi@schools.gov.sg</a>
+<p><a href="mailto:tan_weiming_brian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_weiming_brian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
