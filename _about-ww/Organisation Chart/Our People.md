@@ -271,7 +271,7 @@ Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Lim Lay Ping</strong>
-<br>SH/Student Management (Acting)</p>
+<br>SH/Student Management</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ Education</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Julitta Chia Meng You</strong>
-<br>SH/Literature (Acting)</p>
+<br>SH/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
