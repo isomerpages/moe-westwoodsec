@@ -340,7 +340,7 @@ variant: tiptap
 <p>Mdm Lim Lay Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Management (Acting)</p>
+<p>SH/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_lay_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_ping@schools.gov.sg</a>
@@ -352,7 +352,7 @@ variant: tiptap
 <p>Mdm Chia Meng You Julitta</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Literature (Acting)</p>
+<p>SH/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_meng_you_julitta@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_meng_you_julitta@schools.gov.sg</a>
