@@ -290,7 +290,9 @@ Education</p>
 <br>SH/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Jamie Foo</strong>
+</p>
+<p>SH/English</p>
 </td>
 </tr>
 </tbody>
