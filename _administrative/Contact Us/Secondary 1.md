@@ -28,62 +28,49 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Lay Ping</p>
+<p>Ms Julitta Chia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_lay_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lay_ping@schools.gov.sg</a>
+<p><a href="mailto:chia_meng_you_julitta@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_meng_you_julitta@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Robert Lee Teck Choon</p>
+<p>Mr Lua Wen Liang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_teck_choon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_choon@schools.gov.sg</a>
+<p><a href="mailto:lua_wen_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lua_wen_liang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Qucinta Ardilah Roslan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Qucinta_Ardilah_Roslan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">qucinta_ardilah_roslan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Caleb Lee&nbsp;Rui Ming&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-&nbsp;</p>
+<p>Ms Insyirah Jumat&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_rui_ming_caleb@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_rui_ming_caleb@schools.gov.sg</a>
+<p><a href="mailto:insyirah_jumat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">insyirah_jumat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tang Tai-Chi&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</p>
+<p>Mr Tsang Terence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_tai-chi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_tai-chi@schools.gov.sg</a>
+<p><a href="mailto:tsang_terence@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tsang_terence@schools.gov.sg</a>
 </p>
 </td>
 </tr>
