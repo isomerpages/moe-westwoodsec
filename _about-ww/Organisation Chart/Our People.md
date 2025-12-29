@@ -28,7 +28,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Quek_Liza__Guo_Lisha_.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Mr__Chan_Chi_Thio.jpg">
 </div>
 </td>
 </tr>
@@ -39,7 +39,7 @@ variant: tiptap
 <p>HOD/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Quek Liza<br></strong>HOD/ICT</p>
+<p><strong>Mr Chan Chi Thio<br></strong>HOD/ICT (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -206,14 +206,14 @@ variant: tiptap
 <p><strong>Mdm Loh May-Kay Maria<br></strong>SH/History &amp; Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lee Chuen Hing<br></strong>SH/Mathematics</p>
+<p><strong>Mr Lee Chuen Hing<br></strong>SH/ICT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mr__Chan_Chi_Thio.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mdm__Siti_Mahmudah_Bte_Mohd_Omar.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,7 +224,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chan Chi Thio<br></strong>SH/ICT</p>
+<p><strong>Mdm Siti Mahmudah Omar<br></strong>SH/Mathematics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Nadia Binte Eddy Razali <br></strong>SH/Character &amp; Citizenship
