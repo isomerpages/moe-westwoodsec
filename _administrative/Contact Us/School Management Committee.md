@@ -98,13 +98,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Quek Liza</p>
+<p>Mr Chan Chi Thio</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ICT</p>
+<p>HOD/ICT (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quek_liza_guo_lisha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_liza_guo_lisha@schools.gov.sg</a>
+<p><a href="mailto:chan_chi_thio@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_chi_thio@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -266,25 +266,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Chi Thio</p>
+<p>Mr Lee Chuen Hing&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_chi_thio@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_chi_thio@schools.gov.sg</a>
+<p><a href="mailto:lee_chuen_hing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chuen_hing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Chuen Hing&nbsp;</p>
+<p>Mdm Siti Mahmudah Omar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Mathematics&nbsp;</p>
+<p>SH/Mathematics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chuen_hing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chuen_hing@schools.gov.sg</a>
+<p><a href="mailto:siti_mahmudah_mohd_omar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_mahmudah_mohd_omar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jamie Foo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:foo_jie_min_jamie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_jie_min_jamie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
