@@ -265,6 +265,6 @@ skills for future appointments in guitar.</p>
 <p><strong>Gallery</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFaUeOV_zA0tZOd7TgpmQWbHqr3QhHWGJ3BCHvy38xUL5OBTUZcLV3LBzqivJOlt3p4AzmSLYT2KHJ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFaUeOV_zA0tZOd7TgpmQWbHqr3QhHWGJ3BCHvy38xUL5OBTUZcLV3LBzqivJOlt3p4AzmSLYT2KHJ/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
