@@ -32,7 +32,7 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Qucinta_Ardilah_Roslan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Qucinta_Ardilah_Roslan@schools.gov.sg</a>
+<p><a href="mailto:Qucinta_Ardilah_Roslan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">qucinta_ardilah_roslan@schools.gov.sg</a>
 </p>
 </td>
 </tr>

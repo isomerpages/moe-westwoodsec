@@ -46,7 +46,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nor_haseena_Masrip@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nor_haseena_Masrip@schools.gov.sg</a>
+<p><a href="mailto:Nor_haseena_Masrip@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_haseena_masrip@schools.gov.sg</a>
 </p>
 </td>
 </tr>

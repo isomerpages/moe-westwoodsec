@@ -46,7 +46,7 @@ variant: tiptap
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Gan_Jia_Min_Crystal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gan_Jia_Min_Crystal@schools.gov.sg</a>
+<p><a href="mailto:Gan_Jia_Min_Crystal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gan_jia_min_crystal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -119,6 +119,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mardiana_roslan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mardiana_roslan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lionel Ng Wei Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ng_Wei_Jun_Lionel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wei_jun_lionel@schools.gov.sg</a>
 </p>
 </td>
 </tr>
