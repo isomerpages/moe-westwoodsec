@@ -4,18 +4,10 @@ permalink: /parents/
 variant: tiptap
 description: ""
 ---
-<h4>2025 Termly Parent Letters</h4>
+<h4>2026 Termly Parent Letters</h4>
 <p></p>
-<p><a href="https://drive.google.com/file/d/1kWax3r-WAeU2Q-RqaiJf1TvaSLqQNlJj/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 1 Parent Letter</a>
+<p><a href="https://drive.google.com/file/d/1NU33dz1oinSw-oSw7gQb8RolqBPG46ne/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 1 Parent Letter</a>
 </p>
-<p><a href="https://drive.google.com/file/d/14MHTqcagZrVuqrU9CREO3ZPh8VogfVJH/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 2 Parent Letter</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1EQA2rD3tzi7LEOO9a9mH6YltMTFK6Rge/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 3 Parent Letter</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1ouwW4mujBNh729B6eiSfWKyRm7Z4mjBB/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 4 Parent Letter</a>
-</p>
-<p></p>
-<p></p>
 <h4>Useful Links</h4>
 <table style="minWidth: 50px">
 <colgroup>
