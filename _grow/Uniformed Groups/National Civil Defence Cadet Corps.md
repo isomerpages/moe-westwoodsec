@@ -32,10 +32,7 @@ to become effective ambassadors of Civil Defence.</p>
 <p>Ms Nicole Yau Zhi Qi</p>
 </li>
 <li>
-<p>Ms Crystal Gan Jia Min</p>
-</li>
-<li>
-<p>Ms Yong Chun Lei Sophia</p>
+<p>Mr Lionel Ng Wei Jun</p>
 </li>
 </ul>
 <p></p>
@@ -67,7 +64,7 @@ to become effective ambassadors of Civil Defence.</p>
 <p>3:00pm - 6:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCDCC room, 2G Classroom, RR 11 and RR 12, FCE Corridor, Basketball court,
+<p>NCDCC room, RR 9, RR 10, 3G Classroom, FCE Corridor, Basketball court,
 Quadrangle</p>
 </td>
 </tr>
