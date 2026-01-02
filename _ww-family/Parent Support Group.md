@@ -39,7 +39,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norashiqin Bte Norain</p>
+<p>Ms Zaffah Binte Jabar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secretary</p>
