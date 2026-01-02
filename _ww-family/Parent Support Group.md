@@ -23,7 +23,7 @@ students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nornani Ab Wahab (Nani)</p>
+<p>Ms Norashiqin Binte Norain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairman</p>
