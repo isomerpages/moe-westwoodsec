@@ -1,6 +1,6 @@
 ---
-title: 2025 Termly Parent Letter
-date: 2025-09-16
+title: 2026 Termly Parent Letter
+date: 2026-01-02
 layout: link
 description: ""
 image: ""
