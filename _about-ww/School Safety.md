@@ -2,52 +2,129 @@
 title: School Safety
 permalink: /about-us/school-safety/
 description: ""
+variant: tiptap
 ---
-In Westwood Secondary School, we believe in providing our students and staff with a safe and secure environment for holistic development and work.  To achieve this purpose, we seek strong collaboration with parents and the community.  
-
-  
-
-### SAFETY POLICIES AND GUIDELINES
-
-Safety policies and Guidelines are communicated to all staff and pupils at the beginning of each work year.
-
-The School Safety Committee, headed by a Vice-Principal and assisted by various HODs, oversees the development and review of all school safety matters.
-
-### GENERAL SAFETY PRECAUTIONS
-
-1.  Safety briefings are conducted to all students on the following areas:
-
-*   Safety in school e.g. in Special Rooms, during Recess, during Physical Activities and Road safety in the school compound.
-*   Safety outside school e.g. while commuting to and from school using public, private transport or by cycling, during Learning Journeys, Outdoor Camps and Overseas Trips.
-*   Exemptions due to medical reasons - Medical clearance obtained for severely overweight and underweight pupils from the School Health Service before engaging them in any health programme.
-*   Inclement weather (Lightning, Haze).
-*   Heat related (Heat stroke/Heat exhaustion) and other injuries.
-*   Waterborne activities.
-*   Use of sports equipment.
-*   National School Games.
-
-2.  Standard Operating Procedures for emergencies in both indoor and outdoor settings are updated and reviewed on a regular basis.
-3.  Minimum of 2 adult supervisors observed for activities that need close supervisions (e.g Learning Journey, adventure training).
-4.  All outdoor adventure facilities and conduct of activities are endorsed by PSOEB and are conducted in accordance to the relevant Standard Operating Procedures and/or guidelines for the specified activities.
-5.  Risk Assessment Management System (RAMS) is conducted prior to any activities, by a team of staff, including service providers/local guides (if applicable), who collectively have adequate knowledge of the nature of the activity and the environment involved.
-6.  All students are insured under the NTUC Income Group Personal Accident Insurance Plan for Students. 
-7.  Emergency evacuation drills are conducted to familiarise students with real-time emergencies.
-8.  School staff are trained and certified in First-Aid, CPR and AED.
-
-### TRAFFIC MANAGEMENT PLAN
-
-Please download Westwood Secondary School Traffic Management Plan [here](/files/School%20Traffic%20Management%20Plan_2020.pdf)
-
-### COMMUNITY PARTNERSHIPS
-
-The school seeks to collaborate with community partners in training and disseminating messages on safety, security and emergency preparedness:  
-
-1.  The Singapore Civil Defence Force (SCDF) in conducting fire evacuation drills for the school population and the Community Emergency Preparedness Programme (CEPP) to train school staff in basic First-Aid, CPR and firefighting skills.
-2.  The Singapore Police Force (SPF) on SGSecure matters.
-3.  The Singapore Road Safety Council, Traffic Police, Land Transport Authority and Town Council on road safety matters.
-
-  
-
-### CLARIFICATIONS 
-
-For further information and clarifications, please do contact us via email [westwood\_ss@moe.edu.sg](mailto:westwood_ss@moe.edu.sg) or call us at 6792 9737.
+<p>At Westwood Secondary School, we are committed to providing a safe and
+secure environment that supports the holistic development of our students
+and the well-being of our staff.&nbsp; To achieve this, we work closely
+with parents and community partners to uphold high standards of safety
+and preparedness.</p>
+<p><strong>SAFETY POLICIES AND GUIDELINES</strong>
+</p>
+<p>Safety policies and guidelines are communicated to all staff and students
+at the beginning of each school year.</p>
+<p>
+<br>The School Safety Committee, chaired by a Vice-Principal and supported
+by various Heads of Department, oversees the development, implementation
+and regular review of all school safety matters.</p>
+<p><strong>GENERAL SAFETY PRECAUTIONS</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Student Safety Briefings</strong>
+<br>Safety briefings are conducted for all students and cover the following
+areas:</p>
+</li>
+</ol>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Safety in school</strong> (e.g. special rooms, recess, physical
+activities, and road safety within the school compound)</p>
+</li>
+<li>
+<p><strong>Safety outside school</strong> (e.g. commuting to and from school
+via public or private transport, cycling, learning journeys, outdoor camps,
+and overseas trips)</p>
+</li>
+<li>
+<p><strong>Medical exemptions</strong>, where medical clearance is obtained
+from the School Health Service for severely overweight or underweight students
+before participation in health programmes</p>
+</li>
+<li>
+<p><strong>Inclement weather conditions</strong> (e.g. lightning and haze)</p>
+</li>
+<li>
+<p><strong>Heat-related conditions</strong> (e.g. heat exhaustion and heat
+stroke) and other injuries</p>
+</li>
+<li>
+<p><strong>Water-based activities</strong>
+</p>
+</li>
+<li>
+<p><strong>Use of sports equipment</strong>
+</p>
+</li>
+<li>
+<p><strong>National School Games</strong>
+</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Emergency Procedures</strong>
+<br>Standard Operating Procedures (SOPs) for emergencies in both indoor and
+outdoor settings are reviewed and updated regularly.</p>
+</li>
+<li>
+<p><strong>Supervision Requirements</strong>
+<br>A minimum of two adult supervisors is required for activities that involve
+close supervision (e.g. learning journeys and adventure training).</p>
+</li>
+<li>
+<p><strong>Outdoor and Adventure Activities</strong>
+<br>All outdoor adventure facilities and activities are endorsed by the Physical
+Sports and Outdoor Education Branch (PSOEB) and conducted in accordance
+with the relevant SOPs and guidelines.</p>
+</li>
+<li>
+<p><strong>Risk Assessment and Management System (RAMS)</strong>
+<br>RAMS is conducted prior to all activities by a team of staff, including
+service providers or local guides where applicable, who collectively possess
+adequate knowledge of the activity and environment involved.</p>
+</li>
+<li>
+<p><strong>Student Insurance Coverage</strong>
+<br>All students are insured under the NTUC Income Group Personal Accident
+Insurance Plan for Students.</p>
+</li>
+<li>
+<p><strong>Emergency Evacuation Drills</strong>
+<br>Emergency evacuation drills are conducted regularly to familiarise students
+with real-time emergency situations.</p>
+</li>
+<li>
+<p><strong>Staff Training</strong>
+<br>School staff are trained and certified in First Aid, CPR, and AED use.</p>
+</li>
+</ol>
+<p></p>
+<p><strong>TRAFFIC MANAGEMENT PLAN</strong>
+</p>
+<p>Please download Westwood Secondary School Traffic Management Plan&nbsp;</p>
+<p></p>
+<p><strong>COMMUNITY PARTNERSHIPS</strong>
+</p>
+<p>The school actively collaborates with community partners to promote safety,
+security, and emergency preparedness:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Singapore Civil Defence Force (SCDF)</strong> – for fire evacuation
+drills and the Community Emergency Preparedness Programme (CEPP), which
+trains staff in basic First Aid, CPR, and firefighting skills.</p>
+</li>
+<li>
+<p><strong>Singapore Police Force (SPF)</strong> – for SGSecure-related matters</p>
+</li>
+<li>
+<p><strong>Singapore Road Safety Council, Traffic Police, Land Transport Authority, and Town Council</strong> –
+for road safety education and initiatives.</p>
+</li>
+</ol>
+<p></p>
+<p><strong>CLARIFICATIONS&nbsp;</strong>
+</p>
+<p>For further information and clarifications, please contact us via email&nbsp;
+<a rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a>&nbsp;or call us at 6792 9737.</p>
+<p></p>
