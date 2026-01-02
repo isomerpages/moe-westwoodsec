@@ -9,16 +9,14 @@ secure environment that supports the holistic development of our students
 and the well-being of our staff.&nbsp; To achieve this, we work closely
 with parents and community partners to uphold high standards of safety
 and preparedness.</p>
-<p><strong>SAFETY POLICIES AND GUIDELINES</strong>
-</p>
+<h4><strong>SAFETY POLICIES AND GUIDELINES</strong></h4>
 <p>Safety policies and guidelines are communicated to all staff and students
 at the beginning of each school year.</p>
 <p>
 <br>The School Safety Committee, chaired by a Vice-Principal and supported
 by various Heads of Department, oversees the development, implementation
 and regular review of all school safety matters.</p>
-<p><strong>GENERAL SAFETY PRECAUTIONS</strong>
-</p>
+<h4><strong>GENERAL SAFETY PRECAUTIONS</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Student Safety Briefings</strong>
@@ -99,13 +97,12 @@ with real-time emergency situations.</p>
 <br>School staff are trained and certified in First Aid, CPR, and AED use.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>TRAFFIC MANAGEMENT PLAN</strong>
+<h4><strong>TRAFFIC MANAGEMENT PLAN</strong></h4>
+<p>Please download Westwood Secondary School Traffic Management Plan&nbsp;
+<a href="/files/School_Traffic_Management_Plan_2026.pdf" rel="noopener nofollow" target="_blank">here.</a>
 </p>
-<p>Please download Westwood Secondary School Traffic Management Plan&nbsp;</p>
 <p></p>
-<p><strong>COMMUNITY PARTNERSHIPS</strong>
-</p>
+<h4><strong>COMMUNITY PARTNERSHIPS</strong></h4>
 <p>The school actively collaborates with community partners to promote safety,
 security, and emergency preparedness:</p>
 <ol data-tight="true" class="tight">
@@ -122,9 +119,7 @@ trains staff in basic First Aid, CPR, and firefighting skills.</p>
 for road safety education and initiatives.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>CLARIFICATIONS&nbsp;</strong>
-</p>
+<h4><strong>CLARIFICATIONS&nbsp;</strong></h4>
 <p>For further information and clarifications, please contact us via email&nbsp;
 <a rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a>&nbsp;or call us at 6792 9737.</p>
 <p></p>
