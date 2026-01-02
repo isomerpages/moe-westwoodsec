@@ -365,6 +365,12 @@ the showcase.</p>
 <br>Xie Hui Ting 1C – 3<sup>rd</sup> Place
 <br>
 <br>Design &amp; Technology Awards 2025 - Certificate of Participations</p>
+<p></p>
+<p>STEM Playground Competition</p>
+<p>Lin Jiaying Hana – Commendation Award</p>
+<p>Nur Eva Binte Johan – Commendation Award</p>
+<p>Nora Nadira Binte Noradee – Commendation Award</p>
+<p>Nuha Alia Binte Fadley Nor – Commendation Award</p>
 </td>
 </tr>
 <tr>
