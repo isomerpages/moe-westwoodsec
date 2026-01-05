@@ -27,7 +27,7 @@ and accountability through Basketball.</p>
 <p>Mr Ahmad Luqman</p>
 </li>
 <li>
-<p>Mr Peh Teow Peng</p>
+<p>Mr Sum Tze Jing</p>
 </li>
 </ul>
 <p></p>

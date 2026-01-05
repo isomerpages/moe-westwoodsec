@@ -20,20 +20,9 @@ for students</p>
 </ul>
 <p><strong>TEACHERS IN-CHARGE</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Lee Rui Ming Caleb</p>
-</li>
-<li>
-<p>Mr Lua Wen Liang</p>
-</li>
-<li>
-<p>Mr Ajaib Singh</p>
-</li>
-<li>
-<p>Ms Qucinta Ardilah Roslan</p>
-</li>
-</ul>
+<p><strong>Boys: </strong>Mr Lee Rui Ming Caleb, Mr Lua Wen Liang and Mr
+Ajaib Singh</p>
+<p><strong>Girls</strong>: Ms Qucinta Ardilah Roslan and Ms Veronica Nair</p>
 <p></p>
 <p><strong>TRAINING DAYS</strong>
 </p>
@@ -57,7 +46,7 @@ for students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Boys: Wednesday &amp; Friday</p>
+<p><strong>Boys</strong>: Wednesday &amp; Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:00pm - 5:30pm</p>
@@ -68,7 +57,7 @@ for students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girls: Monday (C’Div), Tuesday (B’Div), Thursday (All)</p>
+<p>Girls: Tuesday &amp; Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:00pm - 5:30pm</p>

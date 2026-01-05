@@ -32,6 +32,10 @@ cultures and genres.</p>
 <li>
 <p>Mdm Insyirah Jumat</p>
 </li>
+<li>
+<p>Ms Gloria Boey</p>
+<p></p>
+</li>
 </ul>
 <p><strong>TRAINING DAYS</strong>
 </p>
