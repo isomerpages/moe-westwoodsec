@@ -26,9 +26,6 @@ values such as resilience, responsibility and teamwork.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Elia Hamarian</p>
-</li>
-<li>
 <p>Mdm Hanisah Salim</p>
 </li>
 <li>
