@@ -22,8 +22,10 @@ resilience and sportsmanship.</p>
 </ul>
 <p><strong>TEACHERS IN-CHARGE</strong>
 </p>
-<p><strong>Boys : </strong>Mr Lee Teck Choon Robert and Mr Koh Hoe Yap</p>
-<p><strong>Girls : </strong>Ms Mavis Teo and Mr Charles Chou Kin Sang</p>
+<p><strong>Boys : </strong>Mr Lee Teck Choon Robert and Mrs Chew - Foo Suit
+Mei</p>
+<p><strong>Girls : </strong>Ms Mavis Teo, Mr Charles Chou Kin Sang and Ms
+Nurul Syahirah Mustaffa</p>
 <p></p>
 <p><strong>TRAINING DAYS</strong>
 </p>
