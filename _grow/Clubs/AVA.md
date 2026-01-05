@@ -66,11 +66,9 @@ through their involvement in the CCA.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<ul>
-<li>
+<p></p>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -114,11 +112,9 @@ through their involvement in the CCA.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -199,8 +195,6 @@ directing and video editing.
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
 <p><strong>GALLERY</strong>
 </p>
 <p></p>
