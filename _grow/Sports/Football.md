@@ -46,7 +46,7 @@ Ajaib Singh</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Boys: Wednesday &amp; Friday</p>
+<p><strong>Boys</strong>: Wednesday &amp; Friday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:00pm - 5:30pm</p>
@@ -57,7 +57,7 @@ Ajaib Singh</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girls: Monday (C’Div), Tuesday (B’Div), Thursday (All)</p>
+<p>Girls: Tuesday &amp; Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3:00pm - 5:30pm</p>
