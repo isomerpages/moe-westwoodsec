@@ -26,13 +26,13 @@ and activities</p>
 <li>
 <p>Mr Jeffrey Chua</p>
 </li>
+<li>
+<p>Mr Peh Teow Peng</p>
+</li>
 </ul>
 <p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -65,13 +65,8 @@ and activities</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
-</li>
-</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -131,18 +126,11 @@ among the participants. For members of all levels.</p>
 </tr>
 </tbody>
 </table>
-<ul>
-<li>
 <p></p>
-</li>
-<li>
 <p><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROzHz8B7Qq9tRcD4lwOl9cpA8OCn08S-A6gHMepysLy5bukmZSBVGGyfoN5w-6Ez1EW29qZeqz0Eys/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>
