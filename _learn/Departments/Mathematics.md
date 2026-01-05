@@ -37,7 +37,7 @@ as to add value to every Westwood pupil.</p>
 <br>Problem Solving Project</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>May - July
+<p>April - July
 <br>
 <br>
 <br>
@@ -58,7 +58,7 @@ the classroom to solve real world problems in the school and the community.</p>
 <p>March - May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secondary 1 students will be exposed to basic coding as well as computational
+<p>Secondary 1 G3 students will be exposed to basic coding as well as computational
 thinking.</p>
 </td>
 </tr>

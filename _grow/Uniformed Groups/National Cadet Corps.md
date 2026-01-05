@@ -7,17 +7,21 @@ variant: tiptap
 ---
 <h3>OBJECTIVES</h3>
 <p>The National Cadet Corps (NCC) is a premier uniformed youth organisation
-supported by the Ministry of Education (MOE) of Singapore. The primary
-mission of the organisation is to “develop resourceful, responsible, resilient,
-loyal leaders and team players through fun and challenging military-related
-activities.” The NCC has also remained as one of the largest Uniformed
-Groups (UG) in Singapore. Mission: To Nurture Inspiring Leaders and Committed
-Citizens through fun, adventurous and military-related activities. Vision:
-Extraordinary Youth Leaders Motto: To serve with pride and dedication</p>
+supported by the Ministry of Education (MOE) of Singapore, focusing on
+developing resourceful, responsible, resilient individuals. NCC has also
+remained as one of the largest Uniformed Groups (UG) in Singapore.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Mission</strong>: To Nurture Inspiring Leaders and Committed Citizens
-through fun, adventurous and military-related activities.
-<br><strong>Vision</strong>: Extraordinary Youth Leaders
-<br><strong>Motto</strong>: To serve with pride and dedication</p>
+through fun, adventurous, and military-related activities.&nbsp;</p>
+</li>
+<li>
+<p><strong>Vision</strong>: Extraordinary Youth Leaders.</p>
+</li>
+<li>
+<p><strong>Motto:</strong> To serve with Pride and Dedication.</p>
+</li>
+</ul>
 <p><strong>TEACHERS-IN-CHARGE</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -26,9 +30,6 @@ through fun, adventurous and military-related activities.
 </li>
 <li>
 <p>CPT (NCC) Mr How Choon Keat</p>
-</li>
-<li>
-<p>Mr Lee Tze Kerr Scott</p>
 </li>
 <li>
 <p>Mr Ng Hai Guan</p>
@@ -84,6 +85,14 @@ through fun, adventurous and military-related activities.
 <th rowspan="1" colspan="1">
 <p>Award</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction Award for Unit Recognition</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -575,7 +584,7 @@ by competing amongst other school units in a healthy competitive environment.</p
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgl4N8daa061TgabM22R3qjvUflC-QPkdvzRq4sEPuWjIYlJniYIYQ6lqqVGbwycK-xcoxjCG_pmzv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgl4N8daa061TgabM22R3qjvUflC-QPkdvzRq4sEPuWjIYlJniYIYQ6lqqVGbwycK-xcoxjCG_pmzv/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
