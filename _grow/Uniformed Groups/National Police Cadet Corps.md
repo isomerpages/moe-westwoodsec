@@ -23,10 +23,13 @@ Singapore safe.&nbsp;</p>
 <p>Ms Julitta Chia Chia Meng You</p>
 </li>
 <li>
-<p>Mr Zavier Ho Chee Yong</p>
+<p>Mr Scott Lee</p>
 </li>
 <li>
-<p>Ms Gloria Boey Li Ling</p>
+<p>Ms Wang Lee Keow</p>
+</li>
+<li>
+<p>Mr Jeryl Sim</p>
 </li>
 </ul>
 <p></p>
