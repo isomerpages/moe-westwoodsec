@@ -31,10 +31,9 @@ Art Making and Art Appreciation</p>
 <p>Ms Mardiana Roslan</p>
 <p></p>
 </li>
-<li>
+</ul>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -70,11 +69,9 @@ Art Making and Art Appreciation</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>CCA ACHIEVEMENT</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -136,11 +133,9 @@ Aaliyah Binte Hermizan 3G, Ng Xin Jie 3G, <em>&nbsp;</em>Chua Hui Ming 3H</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>PROGRAMMES / EVENTS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -291,15 +286,11 @@ a collaborative graffiti mural.</p>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
+<p></p>
 <p><strong>GALLERY</strong>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeZFU1caHeo-t5MGcHe7a9WYUugoQO6S1eq9uytN6mAXCU91Un-oneyM1diBBV0CslDGbcz3yn-Old/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-</li>
-</ul>
 <p></p>
