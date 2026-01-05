@@ -70,6 +70,7 @@ training</p>
 </li>
 <li>
 <p><a href="/cca/sports/bowling/" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>
+<br><a href="/cca/sports/bowling/" rel="noopener noreferrer nofollow" target="_blank">(No new intake from 2026)</a>
 </p>
 </li>
 <li>
