@@ -29,13 +29,10 @@ in the form of competitions and school and public events</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Priyanka Chakraborty</p>
+<p>Mr Mahathir Aziz</p>
 </li>
 <li>
 <p>Mdm Jaskirath Kaur</p>
-</li>
-<li>
-<p>Mr Mahathir Aziz</p>
 </li>
 </ul>
 <p></p>
