@@ -23,21 +23,18 @@ through their involvement in the CCA.&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mr Terrance Lee</p>
+<p>Mr Terrance Lee Jin Han</p>
 </li>
 <li>
 <p>Mr Lawrence Chia</p>
 </li>
 <li>
-<p>Mr Hamim Bar</p>
+<p>Ms Crystal Gan</p>
 </li>
 </ul>
 <p></p>
-<ul>
-<li>
 <p><strong>TRAINING DAYS</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -69,7 +66,7 @@ through their involvement in the CCA.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-</li>
+<ul>
 <li>
 <p><strong>CCA ACHIEVEMENTS</strong>
 </p>
