@@ -13,7 +13,7 @@ sections:
           url: https://go.gov.sg/pdlpwwss
         - title: student timetable
           description: ""
-          url: https://www.westwoodsec.moe.edu.sg/2026-timetable/
+          url: https://drive.google.com/file/d/17WcSPphacm3zlwEWi4cTal24v4JFSxCw/view?usp=sharing
         - title: school calendar
           description: ""
           url: /general-information/calendar-of-events/
