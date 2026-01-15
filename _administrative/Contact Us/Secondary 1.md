@@ -76,6 +76,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Juslina d/o Sathguru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:juslina_sathguru@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">juslina_sathguru@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lawrence Chia</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,6 +155,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_tze_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_tze_yong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Veronica Nair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:veronica_nair_mohan_nair@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">veronica_nair_mohan_nair@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wang Lee Keow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_lee_keow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_lee_keow@schools.gov.sg</a>
 </p>
 </td>
 </tr>
