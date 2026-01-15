@@ -318,9 +318,8 @@ Education</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Syed_Ali_Bin_Mohamed_Alhabshee.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Wang_Fang.jpg">
 </div>
 </td>
 </tr>
@@ -330,73 +329,53 @@ Education</p>
 <br>LT/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Syed Ali Bin Mohamed Alhabshee</strong>
-<br>LT/Physics</p>
+<p><strong>Mdm Wang Fang</strong> 
+<br>ST/Chinese Language</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Wang_Fang.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Puvaneswari_D_O_Raman.jpg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Wang Fang</strong> 
-<br>ST/Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Puvaneswari d/o Raman</strong> 
-<br>ST/Mathematics</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Farhana_Binte_Mokhtar.jpg">
 </div>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Puvaneswari d/o Raman</strong> 
+<br>ST/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Farhana Mokhtar</strong>
+</p>
+<p>ST/Malay Language</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Ahmad_Luqman_Bin_Ghazali.jpg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Farhana Binte Mokhtar</strong> 
-<br>ST/Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ahmad Luqman Bin Ghazali</strong> 
-<br>ST/CCE</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/ms_lim_shi_lei.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lim Shi Lei</strong>
-<br>ST/Biology</p>
+<p><strong>Mr Ahmad Luqman Ghazali</strong> 
+<br>ST/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Lim Shi Lei</strong>
+<br>ST/Biology</p>
 </td>
 </tr>
 </tbody>
