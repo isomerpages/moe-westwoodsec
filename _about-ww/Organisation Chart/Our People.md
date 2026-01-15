@@ -313,14 +313,6 @@ Education</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mdm_Mousumi_Saha.jpg">
 </div>
@@ -352,7 +344,7 @@ Education</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Puvaneswari_D_O_Raman.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Puvaneswari_D_O_Raman.jpg">
 </div>
 </td>
 </tr>
@@ -374,7 +366,7 @@ Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Ahmad_Luqman_Bin_Ghazali.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Ahmad_Luqman_Bin_Ghazali.jpg">
 </div>
 </td>
 </tr>
