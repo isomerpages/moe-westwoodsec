@@ -38,6 +38,10 @@ who are unable to come onboard Parents Gateway.</p>
 </p>
 </li>
 <li>
+<p><a href="https://drive.google.com/file/d/1UBmhY4kjjiehj40kWdo5Tj4CXdxwVa_D/view?usp=sharing" rel="noopener nofollow" target="_blank">PG Mobile App (Absence Notification) User Guide</a>
+</p>
+</li>
+<li>
 <p><a href="https://pg.moe.edu.sg/faq" rel="noopener noreferrer nofollow" target="_blank">FAQs for parents</a>
 </p>
 </li>
