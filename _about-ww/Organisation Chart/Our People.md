@@ -239,6 +239,9 @@ Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mr_Lee_Teck_Choon_Robert.jpg">
+</div>
 </td>
 </tr>
 <tr>

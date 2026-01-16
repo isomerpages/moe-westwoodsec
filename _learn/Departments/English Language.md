@@ -30,7 +30,6 @@ and Creative Inquirers.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Reading Material
-<br>(for all students)
 <br>
 </p>
 </td>
@@ -40,9 +39,9 @@ and Creative Inquirers.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To encourage good reading habits by engaging students to read widely.</p>
+<p>To encourage good reading habits by engaging all students to read widely.</p>
 <p></p>
-<p>To enhance their literacy skills, expand vocabulary and promote empathy
+<p>To enhance students' literacy skills, expand vocabulary and promote empathy
 and cultural awareness.
 <br>
 </p>
@@ -52,7 +51,6 @@ and cultural awareness.
 <td rowspan="1" colspan="1">
 <p>Morning Pulse (Pre-Assembly Programme)</p>
 <p>Topical podcast (BBC 6 Minute English) and News (CNA Radio 938)</p>
-<p>(for all students)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Whole Year</p>
@@ -66,30 +64,32 @@ and cultural awareness.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Speech Enrichment
-<br>(for Secondary Three students)</p>
+<p>Secondary 3 Writing and Oracy Enrichment Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 2 and 3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>To enable students to draw on a broader repertoire of writing strategies
+to communicate ideas clearly, effectively, and with intention</p>
+<p></p>
 <p>To enable students to employ an appropriate range of verbal and non-verbal
-skills when communicating with others on a personal level.</p>
+skills when communicating with others on a personal level</p>
 <p></p>
 <p>To empower students to engage with individuals and/or groups in different
-scenarios.</p>
+scenarios</p>
 <p></p>
 <p>To instill confidence in students to share and substantiate their views
 in speech</p>
-<p>Encourage students to speak standard English in a formal conversational
+<p></p>
+<p>To encourage students to speak standard English in a formal conversational
 setting, with sufficient emphasis on pronunciation, articulation, appropriate
 pace.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Post-exam Enrichment - Video Production and Content Creation (for Secondary
-3 students)</p>
+<p>Secondary 3 Post-exam Enrichment - Video Production and Content Creation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 4</p>
@@ -98,9 +98,6 @@ pace.</p>
 <p>To appreciate the Semiotic Modes Pentagon when applied onto everyday content
 creation.</p>
 <p></p>
-<p>To apply language skills to different aspects of life, beyond the four
-walls of the English Language classroom.</p>
-<p></p>
 <p>To step into the shoes of a content creator and decide how to use certain
 linguistic and paralinguistic features with an intended purpose in mind.</p>
 </td>
@@ -108,57 +105,30 @@ linguistic and paralinguistic features with an intended purpose in mind.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Live on Festival (LOF) – Essay writing Competition</p>
-<p>(for Secondary Two students) (external)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be able to gain insights on the delicate and emotive nature of organ
-donation and transplantation, and a platform to express their thoughts
-about the topic.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Podcast (in collaboration with ALP &amp; CCE)</p>
-<p>(for Secondary One students)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To develop communication skills through collaboration and articulation
-of ideas.</p>
+<p>To enable Secondary 2 students to gain insights into the delicate and
+emotive nature of organ donation and transplantation.</p>
 <p></p>
-<p>To develop critical thinking skills through evaluation of different perspectives
-and forming well-reasoned opinions.</p>
-<p></p>
-<p>To appreciate the Semiotic Modes Pentagon when applied onto everyday content
-creation.</p>
+<p>To provide students with a platform to articulate and develop their perspectives
+on the topic through writing.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Exposure to Play</p>
-<p>(for Secondary Three and Four students taking Pure and Elective Literature)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To provide the opportunity for students to watch a play come to live.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Literature Learning Journey</p>
-<p>(for Secondary Three and Four students taking Pure and Elective Literature)</p>
+<p>Literature Learning Journeys</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 - 3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>To expose students to dramatic texts and performances, deepening their
+appreciation of how meaning is shaped through dialogue, staging, and performance
+choices.</p>
+<p></p>
 <p>To challenge students to consider and empathise with different perspectives,
 influenced by the settings and contexts they explore.</p>
 <p></p>
@@ -172,29 +142,25 @@ character behaviour, and thematic resonance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>W3/ West Zone Literature Symposium
-<br>(for Secondary Three Literature students) (external)</p>
+<p>West Zone Literature Symposium</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To motivate students in studying the subject.</p>
-<p></p>
-<p>To gain more confidence in articulating their opinions and viewpoints
+<p>To build students' confidence in articulating their opinions and viewpoints
 in public.</p>
 <p></p>
-<p>To develop new perspectives of their literary text as they are exposed
-to diverse viewpoints about the text.</p>
+<p>To broaden students' understandings of their literary text through exposure
+to diverse interpretations.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>W3 Voices of the West Oratorical Competition</p>
-<p>(selected students) (external)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Terms 2/3</p>
+<p>Term 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To promote a culture of oratorical excellence and to encourage purposeful
@@ -217,6 +183,33 @@ interaction amongst students of W3 schools.</p>
 <th rowspan="1" colspan="1">
 <p>AWARD</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Public Speaking Competition</p>
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YMCA Plain English Speaking Awards</p>
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>W3 Voices of the West Oratorical Competition</p>
+<p>Participation</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
