@@ -160,6 +160,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Phoebe Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ying_yi_phoebe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ying_yi_phoebe@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Chen Han</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,6 +191,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_chee_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_chee_yong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Solvia Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:solvia_ng_chu_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">solvia_ng_chu_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
