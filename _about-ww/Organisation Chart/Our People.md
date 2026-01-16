@@ -429,8 +429,9 @@ Education</p>
 <details class="isomer-details">
 <summary>Middle Managers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -448,6 +449,9 @@ Education</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2025/Mr__Chan_Chi_Thio_EDITED.jpg">
 </div>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -461,6 +465,9 @@ Education</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2025/Mr__Foo_Sek_Jin.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -476,6 +483,9 @@ Education</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2025/Mdm__Goh_Sok_Fern.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -489,6 +499,9 @@ Education</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2025/Mdm__Nur_Rakeezah_Bte_Abdul_Rahim.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -504,6 +517,9 @@ Education</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2025/Mr__Foo_Chee_Sian_Eric.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -517,6 +533,9 @@ Education</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2025/Mdm__Nurul_Atika_Binti_Ramli.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -532,6 +551,9 @@ Education</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2025/Mdm__Farah_Zila_Binte_Hassan.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -545,6 +567,9 @@ Education</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2025/Mdm__Tang_Tai_Chi.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -560,6 +585,9 @@ Education</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2025/Mr__Lee_Chuen_Hing_EDITED.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -573,6 +601,9 @@ Education</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2025/Mdm__Natria_Binte_Nor_Siman.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -588,6 +619,9 @@ Education</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2025/Miss__Julitta_Chia_Meng_You.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -602,6 +636,9 @@ Education</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2025/Mdm__Siti_Mahmudah_Bte_Mohd_Omar_EDITED.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -609,6 +646,9 @@ Education</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2025/JAMIE_FOO_BLANK.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
