@@ -66,7 +66,7 @@ have the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.
 <br>
-<br>Click&nbsp;<a href="https://drive.google.com/drive/folders/1iX1utljcXoivlIgx8hdseTeqARIfgtoN" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<br>Click&nbsp;<a href="https://drive.google.com/file/d/1qE1t04IdOL2DvyUKvJAbQpZbR1PQ2Lj_/view" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view the Sexuality Education Programme in Westwood Secondary School.</p>
 <h4>eTeens Programme</h4>
 <p><em>8. eTeens</em> is a programme developed by Health Promotion Board,
