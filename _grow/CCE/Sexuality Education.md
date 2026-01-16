@@ -64,8 +64,8 @@ of the possible consequences of sexual behaviour.</p>
 <p>7.&nbsp;Through the Sexuality Education lessons, secondary students will
 have the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
-issues related to sexuality, which are of prime concern at this age.</p>
-<p>
+issues related to sexuality, which are of prime concern at this age.
+<br>
 <br>Click&nbsp;<a href="https://drive.google.com/drive/folders/1iX1utljcXoivlIgx8hdseTeqARIfgtoN" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view the Sexuality Education Programme in Westwood Secondary School.</p>
 <h4>eTeens Programme</h4>
@@ -148,9 +148,8 @@ form is to be submitted by 31/1/2026.</p>
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also available <a href="https://form.gov.sg/696467e31d3c0dd0562b900a" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
 form is to be submitted by 31/1/2026.</p>
-<p>13. Parents can contact the school at 6792 9737 or email at <a rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.
+<p>13. Parents can contact the school at 6792 9737 or email at <a rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a> for discussion
+or to seek clarification about the school’s Sexuality Education programme.
 <br>
 </p>
 <p></p>
