@@ -65,7 +65,7 @@ Nurul Syahirah Mustaffa</p>
 <p>Girls: Tuesdays and Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday and Thursday: 3:00pm-5:30pm</p>
+<p>Tuesday and Thursday: 3:30pm-5:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday: School Hall</p>
