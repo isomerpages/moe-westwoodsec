@@ -90,8 +90,14 @@ students.&nbsp; &nbsp; &nbsp; &nbsp;</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9<sup>th</sup> Runner Up and 14<sup>th</sup> Runner Up in Singapore Amazing
-Flying Machine Race Cat C2</p>
+<p>9th Runner Up and 14th Runner Up in Singapore Amazing Flying Machine Race
+Cat C2</p>
+<p>&nbsp;</p>
+<p>1<sup>st</sup> Runner Up in Singapore Youth Flying Club Inter-School Aeromodelling
+Competition FPV Drone Race Junior Individual category</p>
+<p>&nbsp;</p>
+<p>Champions Team in Singapore Youth Flying Club Inter-School Aeromodelling
+Competition Launch Glider Junior Category</p>
 </td>
 </tr>
 <tr>
