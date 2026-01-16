@@ -69,29 +69,23 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <br>Click&nbsp;<a href="https://drive.google.com/drive/folders/1iX1utljcXoivlIgx8hdseTeqARIfgtoN" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 view the Sexuality Education Programme in Westwood Secondary School.</p>
 <h4>eTeens Programme</h4>
-<ol start="8" data-tight="true" class="tight">
-<li>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective.
-With the formation of the Communicable Diseases Agency (CDA) on 1 April
-2025, the programme would now be managed by CDA’s Training and Education
-Division instead of HPB. <em>eTeens</em> is conducted in two segments – a
-mass talk segment and a classroom-based programme. The desired outcome
+<p><em>8. eTeens</em> is a programme developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. With the formation of the Communicable Diseases Agency (CDA)
+on 1 April 2025, the programme would now be managed by CDA’s Training and
+Education Division instead of HPB. <em>eTeens</em> is conducted in two segments
+– a mass talk segment and a classroom-based programme. The desired outcome
 of the <em>eTeens</em> programme is that students are empowered to make wise,
 informed and sensible decisions to protect themselves from sexually transmitted
 infectious diseases.
 <br>
 </p>
-</li>
-<li>
-<p>Students are taught skills such as decision-making, assertiveness and
+<p>9. Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-</li>
-</ol>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -144,33 +138,19 @@ of assertiveness and responsible decision-making</p>
 </tbody>
 </table>
 <h3>INFORMATION FOR PARENTS</h3>
-<ol start="10" data-tight="true" class="tight">
-<li>
-<p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens </em>and/or
-supplementary Sexuality Education programmes by MOE-approved external providers.
+<p>10. Parents may opt their children out of the Sexuality Education lessons, <em>eTeens </em>and/or
+supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons </strong>need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="https://form.gov.sg/696469611d3c0dd0562bf681" rel="noopener noreferrer nofollow" target="_blank">here</a> The completed
+form is to be submitted by 31/1/2026.</p>
+<p>12. Parents who wish to opt their children out of the <strong><em>eTeens </em>programme </strong>need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="https://form.gov.sg/696467e31d3c0dd0562b900a" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 31/1/2026.</p>
+<p>13. Parents can contact the school at 6792 9737 or email at <a rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.
 <br>
 </p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons </strong>need
-to complete an opt-out form. You may click <a href="https://form.gov.sg/677f36d57e69fe74e83347b4" rel="noopener nofollow" target="_blank">here</a> to complete
-the opt-out form.
-<br>
-</p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong><em>eTeens </em>programme </strong>need
-to complete an opt-out form. You may click <a href="https://form.gov.sg/677f38919f07cd74ccf16b44" rel="noopener nofollow" target="_blank">here</a> to complete
-the opt-out form.
-<br>
-</p>
-</li>
-<li>
-<p>Parents can contact the school at 6792 9737 or email us at <a rel="noopener noreferrer nofollow" target="_blank"><u>westwood_ss</u>@<u>moe.edu.sg</u></a>&nbsp;for
-discussion or to seek clarification about the school’s sexuality education
-programme.</p>
-</li>
-</ol>
-<p>
-<br>
-</p>
+<p></p>
