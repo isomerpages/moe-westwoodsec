@@ -13,7 +13,7 @@ sections:
           url: https://go.gov.sg/pdlpwwss
         - title: student timetable
           description: ""
-          url: https://drive.google.com/file/d/17WcSPphacm3zlwEWi4cTal24v4JFSxCw/view?usp=sharing
+          url: https://drive.google.com/file/d/1ZA9tMSW1Ivk3TcQh8Id9s1UVRgh3OJFN/view?usp=sharing
         - title: school calendar
           description: ""
           url: /general-information/calendar-of-events/
