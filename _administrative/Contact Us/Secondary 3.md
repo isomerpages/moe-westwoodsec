@@ -100,18 +100,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr How Choon Keat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:how_choon_keat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">how_choon_keat@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Mardiana Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
