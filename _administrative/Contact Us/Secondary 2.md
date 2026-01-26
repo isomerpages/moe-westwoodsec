@@ -63,6 +63,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nurul Syahirah Mustaffa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurul_syahirah_mustaffa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_syahirah_mustaffa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Geraldine Tan</p>
 </td>
 <td rowspan="1" colspan="1">
