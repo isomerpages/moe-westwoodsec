@@ -322,6 +322,6 @@ obstacle course in teams of only ONE member.</p>
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7lwzEbz56BnqaQUtc7MyJCGL_aOmnjRESEhN4ue61j3inUYMmpvOPDKLOG3GEd1Upr48ZOsDzj5dX/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7lwzEbz56BnqaQUtc7MyJCGL_aOmnjRESEhN4ue61j3inUYMmpvOPDKLOG3GEd1Upr48ZOsDzj5dX/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

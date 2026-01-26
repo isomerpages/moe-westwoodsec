@@ -25,34 +25,114 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>- English Language
-<br>- Mother Tongue Languages
-<br>- Mathematics
-<br>- Science
-<br>- Social Studies
-<br>- Geography
-<br>- History
-<br>- Literature
-<br>- Music
-<br>- Art
-<br>- Food and Consumer Education
-<br>- Design and Technology</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>English Language</p>
+</li>
+<li>
+<p>Mother Tongue Languages</p>
+</li>
+<li>
+<p>Mathematics</p>
+</li>
+<li>
+<p>Science</p>
+</li>
+<li>
+<p>Humanities (Social Studies and Humanities Exposure Modules)</p>
+</li>
+<li>
+<p>Geography</p>
+</li>
+<li>
+<p>History</p>
+</li>
+<li>
+<p>Literature</p>
+</li>
+<li>
+<p>Music</p>
+</li>
+<li>
+<p>Art</p>
+</li>
+<li>
+<p>Food and Consumer Education</p>
+</li>
+<li>
+<p>Design and Technology</p>
+</li>
+<li>
+<p>Physical Education</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>- English Language
-<br>- Mother Tongue Languages
-<br>- Elementary Mathematics
-<br>- Additional Mathematics
-<br>- Combined Science &nbsp;(Physics/Chemistry, Biology/Chemistry)
-<br>- Pure Sciences (Chemistry, Physics, Biology)
-<br>- Social Studies
-<br>- Pure and Elective Humanities (Geography, History, Literature in English)
-<br>- Elements of Business Skills
-<br>- Economics
-<br>- Principles of Accounts
-<br>- Art
-<br>- Food and Nutrition
-<br>- Design and Technology</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>English Language</p>
+</li>
+<li>
+<p>Mother Tongue Languages</p>
+</li>
+<li>
+<p>Mathematics</p>
+</li>
+<li>
+<p>Additional Mathematics</p>
+</li>
+<li>
+<p>Science (Physics/Chemistry, Biology/Chemistry)</p>
+</li>
+<li>
+<p>Chemistry</p>
+</li>
+<li>
+<p>Physics</p>
+</li>
+<li>
+<p>Biology</p>
+</li>
+<li>
+<p>Humanities / Social Studies</p>
+</li>
+<li>
+<p>Humanities (Social Studies / Geography, History or Literature in English)</p>
+</li>
+<li>
+<p>Geography</p>
+</li>
+<li>
+<p>History</p>
+</li>
+<li>
+<p>Literature in English</p>
+</li>
+<li>
+<p>Elements of Business Skills</p>
+</li>
+<li>
+<p>Economics</p>
+</li>
+<li>
+<p>Principles of Accounts</p>
+</li>
+<li>
+<p>Art</p>
+</li>
+<li>
+<p>Nutrition and Food Science</p>
+</li>
+<li>
+<p>Design and Technology</p>
+</li>
+<li>
+<p>Computing</p>
+</li>
+<li>
+<p>Physical Education</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
