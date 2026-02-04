@@ -234,7 +234,7 @@ and strengthening team bonds in a meaningful and joyful way.</p>
 <br><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3fd7_HvvoadQSDJp8ousGWfjjB5Tlcy71nPVzEOHDRxS3fcJsnRYogXTbB98rbVG-mQZvDQAs00FY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3fd7_HvvoadQSDJp8ousGWfjjB5Tlcy71nPVzEOHDRxS3fcJsnRYogXTbB98rbVG-mQZvDQAs00FY/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
