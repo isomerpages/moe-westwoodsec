@@ -53,7 +53,7 @@ as Leadership, Personal Mastery, Global Awareness and Community Spiritedness</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Saturday</p>
+<p>Saturday (Odd week)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8:30am to 12:30pm</p>
@@ -64,7 +64,7 @@ as Leadership, Personal Mastery, Global Awareness and Community Spiritedness</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday (once per month)</p>
+<p>Wednesday (Even week)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00 pm – 6.00 pm</p>
@@ -332,7 +332,7 @@ Aid
 <br><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8R1f2vbH086HIIZg6e6HHktqrqs2BEuMZfQc6Gb5C41I8PTIvOZ-tPVgCfJqPQS6v1hODRClySOmK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8R1f2vbH086HIIZg6e6HHktqrqs2BEuMZfQc6Gb5C41I8PTIvOZ-tPVgCfJqPQS6v1hODRClySOmK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>

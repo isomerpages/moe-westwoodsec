@@ -62,7 +62,7 @@ cultures and genres.</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3:00pm - 6:00pm</p>
+<p>3:00pm - 5:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Room</p>
@@ -70,10 +70,10 @@ cultures and genres.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday (Only during competition season)</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:00pm - 5:00pm</p>
+<p>2:00pm - 4:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Room</p>
@@ -82,8 +82,8 @@ cultures and genres.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>CCA ACHIEVEMENT</strong>
-</p>
+<p><strong>CCA ACHIEVEMENT </strong>(Only achievements from 2022 onwards
+are listed.)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -123,32 +123,6 @@ cultures and genres.</p>
 <td rowspan="1" colspan="1">
 <p>Platinum Award for Choir Festival B-Dazzled 2022
 <br>Best Vocals Award Festival B-Dazzled 2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Platinum Award for Choir Festival B-Dazzled 2019</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Diamond Award for Choir Festival B-Dazzled 2018
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2017</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Platinum Award for Choir Festival B-Dazzled 2017</p>
 </td>
 </tr>
 </tbody>
@@ -191,6 +165,18 @@ extensive Choir program that encompasses singing, dancing and acting elements.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chinese New Year and Hari Raya Concert</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>February and March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To develop students’ confidence in self-expression through elements of
+singing in school events.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Choir Farewell (POP)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,6 +185,18 @@ extensive Choir program that encompasses singing, dancing and acting elements.</
 <td rowspan="1" colspan="1">
 <p>The juniors will now say goodbye to their seniors in a day of games, food
 and farewell speeches and performances to celebrate their camaraderie.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Exchange Programs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To foster forward-thinking by participating in exchange programs with
+other choir teams.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -236,7 +234,7 @@ and strengthening team bonds in a meaningful and joyful way.</p>
 <br><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3fd7_HvvoadQSDJp8ousGWfjjB5Tlcy71nPVzEOHDRxS3fcJsnRYogXTbB98rbVG-mQZvDQAs00FY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3fd7_HvvoadQSDJp8ousGWfjjB5Tlcy71nPVzEOHDRxS3fcJsnRYogXTbB98rbVG-mQZvDQAs00FY/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
