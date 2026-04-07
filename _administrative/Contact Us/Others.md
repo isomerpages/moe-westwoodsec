@@ -124,14 +124,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Charis Lee Jing Ying</p>
+<p>Ms Loh Wan Jing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ECG Counsellor
 <br>(Roving)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jing_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jing_ying@schools.gov.sg</a>
+<p><a href="mailto:loh_wan_jing_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wan_jing_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
