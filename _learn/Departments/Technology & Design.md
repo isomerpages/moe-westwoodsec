@@ -496,24 +496,6 @@ of Participation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://focos.hpb.gov.sg/eservices/RecipeAnalysis/RecipeAnalysis.aspx" rel="noopener noreferrer nofollow" target="_blank">Recipe Analyser</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To analyse nutrient content of dishes</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://focos.hpb.gov.sg/Eservices/FIA/FIAPersonalInfo.aspx" rel="noopener noreferrer nofollow" target="_blank">Food Intake Assessment</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To calculate average nutrient intake</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.healthhub.sg/" rel="noopener noreferrer nofollow" target="_blank">Health Hub</a>
 </p>
 </td>
