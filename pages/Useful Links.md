@@ -67,7 +67,7 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">Polytechnic Foundation Programme (PFP)</a>
 </p>
-<p><a href="https://www.ite.edu.sg/admissions/full-time-courses/higher-nitec-dpp" rel="noopener nofollow" target="_blank">Direct Entry Scheme to Polytechnic Programme (DPP)</a>
+<p><a href="https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/higher-nitec-for-dpp/" rel="noopener nofollow" target="_blank">Direct Entry Scheme to Polytechnic Programme (DPP)</a>
 </p>
 <p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener nofollow" target="_blank">Online student insurance claim portal</a>
 </p>
