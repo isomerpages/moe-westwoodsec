@@ -439,7 +439,7 @@ of Participation
 </tbody>
 </table>
 <div class="iframe-wrapper">
-<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSglC6vk2gcHc6tOIkesnqBWmX_-_J7qr6UDnhIMXsIFwCqBLVTCySrcGgAnjwBLTfdKChL0RUnaRS6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSglC6vk2gcHc6tOIkesnqBWmX_-_J7qr6UDnhIMXsIFwCqBLVTCySrcGgAnjwBLTfdKChL0RUnaRS6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Useful Links</h3>
 <p><strong>D&amp;T</strong>
@@ -510,15 +510,6 @@ of Participation
 </td>
 <td rowspan="1" colspan="1">
 <p>To calculate average nutrient intake</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://focos.hpb.gov.sg/eservices/ENCF/" rel="noopener noreferrer nofollow" target="_blank">Energy and Nutrient Composition of Food</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To calculate the amount of energy and nutrient a dish contains.</p>
 </td>
 </tr>
 <tr>
