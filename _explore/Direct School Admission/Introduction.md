@@ -284,7 +284,9 @@ to transfer to another school after the release of the PSLE results</p>
 <p><strong>Learning goes beyond the classroom through authentic experiences, allowing students to apply their learning in meaningful ways.</strong>
 </p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -359,9 +361,6 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </li>
 </ul>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -400,7 +399,6 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 <tr>
