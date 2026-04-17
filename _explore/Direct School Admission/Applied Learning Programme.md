@@ -65,7 +65,7 @@ are ready to tackle real-world challenges.</p>
 <p>Learning goes beyond the classroom through authentic experiences, allowing
 students to apply their learning in meaningful ways.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture3.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture3.png">
 </div>
 </td>
 </tr>
