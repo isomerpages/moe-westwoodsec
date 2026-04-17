@@ -147,8 +147,8 @@ report book)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><strong>APPLICATION PROCEDURE</strong></h4>
+<p><strong>APPLICATION PROCEDURE</strong>
+</p>
 <p><strong>Learning for Life Programme (Arts for Life!)</strong>
 </p>
 <ul>
@@ -160,27 +160,23 @@ form via an in-person audition.</p>
 <li>
 <p>Applicants will need to be present for the audition. The school will only
 consider re-scheduling the in-person audition for applicants who are unwell.</p>
-<p></p>
 </li>
 </ul>
 <p><strong>Concert Band</strong>
 </p>
 <ul>
 <li>
-<p><strong>Email the Teacher-in-charge, Mdm Tang Tai-Chi (<a href="mailto:tang_tai-chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_tai-chi@moe.edu.sg</a>) at least three days in advance of the audition with the following information:</strong>
-</p>
+<p>Email the Teacher-in-charge, Mdm Tang Tai-Chi (<a href="mailto:tang_tai-chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_tai-chi@moe.edu.sg</a>) at least
+three days in advance of the audition with the following information:</p>
 <ul>
 <li>
-<p><strong>The candidate's instrument of choice</strong>
-</p>
+<p>The candidate's instrument of choice</p>
 </li>
 <li>
-<p><strong>The music piece the candidate will perform during the audition</strong>
-</p>
+<p>The music piece the candidate will perform during the audition</p>
 </li>
 <li>
-<p><strong>A copy of the music score for the prepared piece</strong>
-</p>
+<p>A copy of the music score for the prepared piece</p>
 </li>
 </ul>
 </li>
@@ -193,9 +189,9 @@ prepared piece</p>
 </li>
 <li>
 <p>Candidates are to bring their own instrument for the audition</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <p><strong>Modern Dance</strong>
 </p>
 <ul>
@@ -232,7 +228,6 @@ track of the song (commonly known as “minus one”) on audition day</p>
 Panel and thereafter perform on the spot</p>
 </li>
 </ul>
-<p></p>
 <p><strong>Guitar Ensemble</strong>
 </p>
 <ul>
@@ -249,10 +244,9 @@ the audition</p>
 </li>
 <li>
 <p>Candidates are to prepare their own guitar for the audition</p>
-<p></p>
 </li>
 </ul>
-<p><strong>English Drama</strong>
+<p><strong>&nbsp;English Drama</strong>
 </p>
 <ul>
 <li>
@@ -265,6 +259,7 @@ should last between 3 to 5 minutes</p>
 <li>
 <p><strong>Candidates would be expected to have a dialogue scene with a Drama Student</strong>
 </p>
+<p></p>
 </li>
 </ul>
 <p><strong>Visual Arts</strong>
@@ -273,7 +268,7 @@ should last between 3 to 5 minutes</p>
 <li>
 <p>Before the audition, candidates are required to submit a portfolio by
 email to the Teacher-in-charge, Mdm Tang Tai-Chi (<a href="mailto:tang_tai-chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_tai-chi@moe.edu.sg</a>). The
-portfolio must be <u>submitted no later than 21 July 2025</u>
+portfolio must be <u>submitted no later than 10 July 2026</u>
 </p>
 </li>
 <li>
@@ -284,13 +279,11 @@ from other sources</p>
 </li>
 <li>
 <p>Shortlisted portfolios would be granted an audition which would be held
-in either late July or early August 2025</p>
+in either July or early August 2026</p>
 </li>
 <li>
 <p>Candidates would be expected to draw a still-life object given by the
 Panel during the audition</p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <p></p>
