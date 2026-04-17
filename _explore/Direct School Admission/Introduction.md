@@ -19,7 +19,7 @@ passion and talents in one of the following areas:</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/alp1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/alp1.png">
 </div>
 <p><strong>APPLIED LEARNING PROGRAMME</strong> 
 <br>Innovation and Social Entrepreneurship (ISE)
@@ -40,7 +40,7 @@ passion and talents in one of the following areas:</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width=80%" height="auto" width="100%" src="/images/dsa%20sep.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/dsa%20sep.jpg">
 </div>
 <p><strong>SPORTS EXCELLENCE PROGRAMME</strong> 
 <br>
@@ -49,7 +49,7 @@ passion and talents in one of the following areas:</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
 <p><strong>STUDENT LEADERSHIP DEVELOPMENT PROGRAMME</strong>
 </p>
@@ -101,9 +101,10 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 6 May 2026 to 2 June 2026.&nbsp;</strong>
-</p>
-<p><strong>For more details, please refer to MOE website <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a></strong>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 6 May 2026 to 2
+June 2026.&nbsp;</p>
+<p>For more details, please refer to MOE website <strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a></strong>
 </p>
 </td>
 </tr>
@@ -113,31 +114,26 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>For information on the talent areas for DSA&nbsp;</strong>
-</p>
+<p>For information on the talent areas for DSA&nbsp;</p>
 <ul>
 <li>
-<p><strong>Applied Learning Programme – Innovation, Social Entrepreneurship (ISE),</strong>
-</p>
+<p>Applied Learning Programme – Innovation, Social Entrepreneurship (ISE),</p>
 </li>
 <li>
-<p><strong>Learning for Life Programme – Arts for Life!,&nbsp;</strong>
-</p>
+<p>Learning for Life Programme – Arts for Life!,&nbsp;</p>
 </li>
 <li>
-<p><strong>Sport Excellence Programme and&nbsp;</strong>
-</p>
+<p>Sport Excellence Programme and&nbsp;</p>
 </li>
 <li>
-<p><strong>Student Leadership Programme&nbsp;</strong>
-</p>
+<p>Student Leadership Programme&nbsp;</p>
 </li>
 </ul>
-<p><strong>please refer to our school’s website for more information.</strong>
+<p>please refer to our school’s website for more information.</p>
+<p><a href="https://www.westwoodsec.moe.edu.sg/direct-school-admission/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.westwoodsec.moe.edu.sg/direct-school-admission/</u></a>
 </p>
-<p><strong><a href="https://www.westwoodsec.moe.edu.sg/direct-school-admission/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.westwoodsec.moe.edu.sg/direct-school-admission/</u></a></strong>
-</p>
-<p><strong>For more details, please contact us directly at 6792 9737 or email to <a href="mailto:westwood_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a></strong>
+<p>For more details, please contact us directly at 6792 9737 or email to
+<a href="mailto:westwood_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -147,8 +143,7 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Before 3 July 2026</strong>
-</p>
+<p>Before 3 July 2026</p>
 </td>
 </tr>
 <tr>
@@ -157,8 +152,8 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>All shortlisted candidates will be informed via their parent’s official email on the exact date of their selection trial / audition.</strong>
-</p>
+<p>All shortlisted candidates will be informed via their parent’s official
+email on the exact date of their selection trial / audition.</p>
 </td>
 </tr>
 <tr>
@@ -167,21 +162,22 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>All applicants will be informed of the DSA outcome between 17 and 28 August 2026</strong>
+<p>All applicants will be informed of the DSA outcome between<strong> 17 and 28 August 2026</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><em>Parents and students are strongly encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.</em></strong>
-</p>
-<p><strong><em>&nbsp;Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Sec 1-4.</em></strong>
-</p>
-<p><strong><em>Please refer to <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>MOE DSA website</u></a> for the latest update.</em></strong>
-</p>
-<p><strong>For further clarifications and enquiries, please contact Westwood at:</strong>
-</p>
-<p></p>
+<p>Parents and students are strongly encouraged to choose schools wisely
+based on the student's aptitudes and strengths, bearing in mind the schools'
+academic and non-academic requirements, and the programmes available to
+develop the area of talent.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the activities
+related to the talent they are selected for from Sec 1-4.</p>
+<p>Please refer to <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>MOE DSA website</u></a> for
+the latest update. For further clarifications and enquiries, please contact
+Westwood Secondary at:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -194,8 +190,7 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>6792 9737</strong>
-</p>
+<p>6792 9737</p>
 </th>
 </tr>
 <tr>
@@ -204,14 +199,14 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:westwood_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a></strong>
+<p><a href="mailto:westwood_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>For email inquiry, please indicate “<u>Westwood DSA 2026</u>” as the subject title of your email.</strong>
-</p>
+<p>For email inquiry, please indicate “<u>Westwood DSA 2026</u>” as the subject
+title of your email.</p>
 </td>
 </tr>
 </tbody>
