@@ -21,7 +21,7 @@ variant: tiptap
 </p>
 <p><em>Innovation and Social Entrepreneurship (ISE)</em>
 </p>
-<p><em>Innovation &amp; Social Entrepreneurship (ISE)<br> Developing Future-Ready Problem Solvers</em>
+<p><em>Innovation &amp; Social Entrepreneurship (ISE)<br>Developing Future-Ready Problem Solvers</em>
 </p>
 <p><em>At Westwood Secondary School, our Applied Learning Programme empowers students to solve real-world problems through design thinking, entrepreneurship, and sustainability initiatives, building confidence, creativity, and purpose.</em>
 </p>
@@ -64,6 +64,9 @@ are ready to tackle real-world challenges.</p>
 </ul>
 <p>Learning goes beyond the classroom through authentic experiences, allowing
 students to apply their learning in meaningful ways.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture3.png">
+</div>
 </td>
 </tr>
 <tr>
