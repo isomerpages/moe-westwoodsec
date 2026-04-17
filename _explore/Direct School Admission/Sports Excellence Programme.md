@@ -119,7 +119,8 @@ competitions</p>
 </tr>
 </tbody>
 </table>
-<h4><strong><u>DSA Application Instructions</u></strong></h4>
+<p><strong><u>DSA Application Instructions</u></strong>
+</p>
 <p>Applicants are required to attend an interview and selection trial.</p>
 <p>Applicants will be asked to demonstrate skills pertaining to the sport
 that they are interested in applying for.</p>
@@ -127,7 +128,7 @@ that they are interested in applying for.</p>
 to the parents of selected applicants directly.</p>
 <p>Applicants must be present for the selection trial. The school will only
 consider re-scheduling the in-person selection trial for applicants who
-are unwell.</p>
+are unwell and provide a medical certificate.</p>
 <p>
 <br>
 </p>
