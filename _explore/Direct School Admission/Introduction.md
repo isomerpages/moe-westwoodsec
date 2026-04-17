@@ -19,7 +19,7 @@ passion and talents in one of the following areas:</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/alp1.png">
 </div>
 <p><strong>APPLIED LEARNING PROGRAMME</strong> 
 <br>Innovation and Social Entrepreneurship (ISE)
@@ -285,7 +285,7 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture3.png">
 </div>
 </td>
 </tr>
