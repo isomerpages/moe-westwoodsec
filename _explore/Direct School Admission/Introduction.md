@@ -6,10 +6,9 @@ third_nav_title: Direct School Admission
 variant: tiptap
 ---
 <p>Westwood Secondary School warmly welcomes applications from Primary 6
-students through the 2025 Direct School Admission (DSA) Exercise for admission
-to Secondary One in 2026.&nbsp; We welcome Primary 6 students who have
+students through the 2026 Direct School Admission (DSA) Exercise for admission
+to Secondary One in 2027.&nbsp; We welcome Primary 6 students who have
 passion and talents in one of the following areas:</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -18,8 +17,9 @@ passion and talents in one of the following areas:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width=80%" height="auto" width="100%" src="/images/ALP2.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/alp1.png">
 </div>
 <p><strong>APPLIED LEARNING PROGRAMME</strong> 
 <br>Innovation and Social Entrepreneurship (ISE)
@@ -27,31 +27,29 @@ passion and talents in one of the following areas:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/LLP1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
+<p></p>
 <p><strong>LEARNING FOR LIFE PROGRAMME</strong> 
 <br>Arts for Life!</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width=80%" height="auto" width="100%" src="/images/dsa%20sep.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/dsa%20sep.jpg">
 </div>
 <p><strong>SPORTS EXCELLENCE PROGRAMME</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/dsaslb.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
 <p><strong>STUDENT LEADERSHIP DEVELOPMENT PROGRAMME</strong>
 </p>
@@ -60,20 +58,16 @@ passion and talents in one of the following areas:</p>
 </tbody>
 </table>
 <h4><strong>APPLICATION PROCEDURE</strong></h4>
-<p><strong>Phase 1: Dialogue Session with School Leadership Team</strong>
+<p><strong><u>Day 1: Sport Trials / Simulation Challenge / Audition&nbsp;</u></strong>
 </p>
-<p>All shortlisted applicants will start with an in-person Dialogue Session
+<p>Shortlisted applicants will attend an in-person selection trial / audition/
+simulation challenge in their chosen talent area.</p>
+<p><strong><u>Day 2: Dialogue Session with School Leadership Team</u></strong>
+</p>
+<p>Shortlisted applicants will be invited for an in-person dialogue session
 with the School Leadership Team. During this session, the School Leadership
-Team will get a chance to learn about the applicants and the applicant
-will also get a chance to enquire more about Westwood Secondary School.</p>
-<p><strong><u>Phase 2: Simulation Challenge / Audition / Trial / Portfolio submission</u></strong>
-</p>
-<p>On the same day after the Phase 1 Dialogue Session, applicants will move
-on to attend an in-person interview / audition / selection trial in their
-chosen talent area.</p>
-<p>Please <strong><u>click on respective areas</u></strong> for more details
-on the interview / audition / selection trial and the date and time.</p>
-<p></p>
+Team will get a chance to learn about the applicant and for the applicant
+to better understand the opportunities and programmes that we offer.</p>
 <p><strong>APPLICATION OUTCOME</strong>
 </p>
 <ul>
@@ -87,7 +81,7 @@ non-selection of applicants</p>
 </li>
 <li>
 <p>Successful applicants who have accepted the DSA-Sec application are <u>NOT</u> allowed
-to participate in the 2026 Secondary One Posting Exercise</p>
+to participate in the 2027 Secondary One Posting Exercise</p>
 </li>
 <li>
 <p>Successful applicants who have accepted the DSA-Sec application are <u>NOT</u> allowed
@@ -107,7 +101,10 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025 to 3 June 2025 (3 pm). For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</strong>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 6 May 2026 to 2
+June 2026.&nbsp;</p>
+<p>For more details, please refer to MOE website <strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a></strong>
 </p>
 </td>
 </tr>
@@ -117,14 +114,26 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>For information on the talent areas for DSA&nbsp;</strong>
-<br><strong>Applied Learning Programme – Innovation, Social Entrepreneurship (ISE),</strong>
-<br><strong>Learning for Life Programme – Arts for Life!,&nbsp;</strong>
-<br><strong>Sport Excellence Programme and&nbsp;</strong>
-<br><strong>Student Leadership Programme please refer to our school’s website for more information.</strong>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://westwoodsec.moe.edu.sg/direct-school-admission</a>
+<p>For information on the talent areas for DSA&nbsp;</p>
+<ul>
+<li>
+<p>Applied Learning Programme – Innovation, Social Entrepreneurship (ISE),</p>
+</li>
+<li>
+<p>Learning for Life Programme – Arts for Life!,&nbsp;</p>
+</li>
+<li>
+<p>Sport Excellence Programme and&nbsp;</p>
+</li>
+<li>
+<p>Student Leadership Programme&nbsp;</p>
+</li>
+</ul>
+<p>please refer to our school’s website for more information.</p>
+<p><a href="https://www.westwoodsec.moe.edu.sg/direct-school-admission/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.westwoodsec.moe.edu.sg/direct-school-admission/</u></a>
 </p>
-<p><strong>For more details, please contact us directly at 6792 9737 or email to <a href="mailto:westwood_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a>.</strong>
+<p>For more details, please contact us directly at 6792 9737 or email to
+<a href="mailto:westwood_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -134,8 +143,7 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Before 4 July 2025</strong>
-</p>
+<p>Before 3 July 2026</p>
 </td>
 </tr>
 <tr>
@@ -144,11 +152,8 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Dialogue Session followed by respective talent areas Interview / Audition / Trial period from 21 July 2025.</strong>
-<br>
-</p>
-<p><strong>All shortlisted candidates will be informed via their parent’s official email on the exact date of their Interview / Audition /Trial.</strong>
-</p>
+<p>All shortlisted candidates will be informed via their parent’s official
+email on the exact date of their selection trial / audition.</p>
 </td>
 </tr>
 <tr>
@@ -157,29 +162,58 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>All applicants will be informed of the DSA outcome from 25 August to 4 September 2025</strong>
+<p>All applicants will be informed of the DSA outcome between<strong> 17 and 28 August 2026</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><em>&nbsp;Parents and students are strongly encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the schools' academic and non-academic requirements, and the programmes available to develop the area of talent.</em></strong>
+<p>Parents and students are strongly encouraged to choose schools wisely
+based on the student's aptitudes and strengths, bearing in mind the schools'
+academic and non-academic requirements, and the programmes available to
+develop the area of talent.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school, and participate in the activities
+related to the talent they are selected for from Sec 1-4.</p>
+<p>Please refer to <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>MOE DSA website</u></a> for
+the latest update. For further clarifications and enquiries, please contact
+Westwood Secondary at:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Telephone Number:</strong>
 </p>
-<p><strong><em>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Sec 1-4.</em></strong>
+</th>
+<th rowspan="1" colspan="1">
+<p>6792 9737</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address:&nbsp;</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:westwood_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>For email inquiry, please indicate “<u>Westwood DSA 2026</u>” as the subject
+title of your email.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p><strong><em>Please refer to MOE DSA *website for the latest update.</em></strong>
-</p>
-<p><strong>For further clarifications and enquiries, please contact Westwood at:</strong>
-</p>
-<p><strong>Telephone Number: &nbsp; 6792 9737</strong>
-</p>
-<p><strong>Email Address:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="mailto:westwood_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westwood_ss@moe.edu.sg</a></strong>
-</p>
-<p><strong>For email inquiry, please indicate “<u>Westwood DSA 2025</u>” as the subject title of your email.</strong>
-</p>
-<p><strong>&nbsp;* <a href="http://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/secondary/dsa</a></strong>
-</p>
+<p></p>
+<p></p>
 <p>
 <br>
 <br>
