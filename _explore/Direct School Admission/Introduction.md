@@ -6,10 +6,9 @@ third_nav_title: Direct School Admission
 variant: tiptap
 ---
 <p>Westwood Secondary School warmly welcomes applications from Primary 6
-students through the 2025 Direct School Admission (DSA) Exercise for admission
-to Secondary One in 2026.&nbsp; We welcome Primary 6 students who have
+students through the 2026 Direct School Admission (DSA) Exercise for admission
+to Secondary One in 2027.&nbsp; We welcome Primary 6 students who have
 passion and talents in one of the following areas:</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
