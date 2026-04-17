@@ -194,7 +194,7 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong> 6792 9737</strong>
+<p><strong>6792 9737</strong>
 </p>
 </th>
 </tr>
@@ -232,7 +232,7 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 <p><strong><em>Innovation and Social Entrepreneurship (ISE)</em></strong>
 </p>
-<p><strong><em>Innovation &amp; Social Entrepreneurship (ISE)<br> Developing Future-Ready Problem Solvers</em></strong>
+<p><strong><em>Innovation &amp; Social Entrepreneurship (ISE)<br>Developing Future-Ready Problem Solvers</em></strong>
 </p>
 <p><strong><em>At Westwood Secondary School, our Applied Learning Programme empowers students to solve real-world problems through design thinking, entrepreneurship, and sustainability initiatives, building confidence, creativity, and purpose.</em></strong>
 </p>
@@ -247,7 +247,7 @@ to transfer to another school after the release of the PSLE results</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><br>Westwood’s Applied Learning Programme (ALP) in Innovation and Social Entrepreneurship (ISE) develops students into innovative and enterprising individuals who are ready to tackle real-world challenges.</strong>
+<p><strong>Westwood’s Applied Learning Programme (ALP) in Innovation and Social Entrepreneurship (ISE) develops students into innovative and enterprising individuals who are ready to tackle real-world challenges.</strong>
 </p>
 <p><strong>Through a design thinking approach, students learn to:</strong>
 </p>
