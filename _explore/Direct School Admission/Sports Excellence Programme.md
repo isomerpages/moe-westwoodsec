@@ -41,9 +41,6 @@ Zonal or National Inter-schools Championships.</p>
 <p>Basketball (Boys)</p>
 </li>
 <li>
-<p>Bowling (Boys &amp; Girls)</p>
-</li>
-<li>
 <p>Football (Boys &amp; Girls)</p>
 </li>
 <li>
