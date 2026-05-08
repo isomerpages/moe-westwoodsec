@@ -46,8 +46,8 @@ Tamil Language Centre after school.&nbsp;</p>
 <br>- Music
 <br>- Art
 <br>- Food and Consumer Education
-<br>- Design and Technology</p>
-<p>- Physical Education</p>
+<br>- Design and Technology
+<br>- Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- English Language
