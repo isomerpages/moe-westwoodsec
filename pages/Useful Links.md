@@ -29,7 +29,7 @@ Log in to iCON)</p>
 </p>
 <p><a href="https://sites.google.com/moe.edu.sg/wwsscentralisedreportingsite/home" rel="noopener nofollow" target="_blank">WWSS Centralised Reporting Site</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1YoESojxn-5gnmWJAK1Rx0M3Qou_fZGuR/view" rel="noopener nofollow" target="_blank">2025 Student Handbook</a>
+<p><a href="https://drive.google.com/file/d/1KA4n7En-xEDEg2OFuCqMvzmc1z5MI4bC/view" rel="noopener nofollow" target="_blank">2026 Student Handbook</a>
 </p>
 <p><a href="https://go.gov.sg/pytjkj" rel="noopener nofollow" target="_blank">PLD Fault Reporting</a>
 </p>
