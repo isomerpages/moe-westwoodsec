@@ -87,18 +87,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Puvaneswari d/o Raman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:puvaneswari_raman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">puvaneswari_raman@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Farhana Mokhtar</p>
 </td>
 <td rowspan="1" colspan="1">
