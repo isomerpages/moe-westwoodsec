@@ -88,18 +88,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jane Yap</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yap_hui_hian_jane@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_hui_hian_jane@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Mardiana Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
