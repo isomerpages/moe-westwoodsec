@@ -30,9 +30,6 @@ and activities
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Puvaneswari</p>
-</li>
-<li>
 <p>Ms Jade Leong</p>
 </li>
 <li>
@@ -356,7 +353,7 @@ methods and environment.</p>
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRzHWXOfEDyHKRFU3mWrsGcM67NCyxLlp0PbdZPyV_7jXtLa4nZA4nDnfjuxET5nKqLPYFzVERdgu2Y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRzHWXOfEDyHKRFU3mWrsGcM67NCyxLlp0PbdZPyV_7jXtLa4nZA4nDnfjuxET5nKqLPYFzVERdgu2Y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
