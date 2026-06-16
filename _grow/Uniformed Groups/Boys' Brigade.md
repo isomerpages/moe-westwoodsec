@@ -23,12 +23,6 @@ as Leadership, Personal Mastery, Global Awareness and Community Spiritedness</p>
 <li>
 <p>Ms Geraldine Tan</p>
 </li>
-<li>
-<p>Mr Terence Tsang</p>
-</li>
-<li>
-<p>Ms Jane Yap</p>
-</li>
 </ul>
 <p></p>
 <p><strong>CCA TRAINING DAYS</strong>
