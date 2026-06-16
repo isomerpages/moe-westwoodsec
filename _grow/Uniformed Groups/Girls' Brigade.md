@@ -23,9 +23,6 @@ physical, educational and social domain</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Belicia Ong Sze Han&nbsp;</p>
-</li>
-<li>
 <p>Mdm Wang Fang</p>
 </li>
 <li>
@@ -306,7 +303,7 @@ with the GB objectives for the year: Growing Girls, Becoming Leaders.
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQotQ4PB4zXAWytBl-P9uCbe8KrU4MSJP_dMjoDlTKFh5ifz5eqwiFjlzMyPMEm1Aa1Ib7s_EQ7eLFR/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQotQ4PB4zXAWytBl-P9uCbe8KrU4MSJP_dMjoDlTKFh5ifz5eqwiFjlzMyPMEm1Aa1Ib7s_EQ7eLFR/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
