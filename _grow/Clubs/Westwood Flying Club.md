@@ -24,9 +24,6 @@ students.&nbsp; &nbsp; &nbsp; &nbsp;</p>
 <li>
 <p>Mdm Li Aili</p>
 </li>
-<li>
-<p>Ms Lim Simin</p>
-</li>
 </ul>
 <p></p>
 <p><strong>TRAINING DAYS</strong>
