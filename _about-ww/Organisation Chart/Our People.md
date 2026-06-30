@@ -70,9 +70,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Goh_Sok_Fern.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -80,7 +78,7 @@ variant: tiptap
 <p><strong>Mr Foo Sek Jin<br></strong>HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Goh Sok Fern<br></strong>HOD/Science</p>
+<p><strong>Mr Ng Wuay Boon<br></strong>HOD/Science</p>
 </td>
 </tr>
 <tr>
@@ -106,23 +104,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Nur_Hidayah_Binte_Moktar.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mr__Foo_Chee_Sian_Eric.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nur Hidayah Bte Moktar<br></strong> School Staff Developer</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mr__Foo_Chee_Sian_Eric.jpg">
+</div>
+<p><strong>Mr Foo Chee Sian Eric<br></strong>HOD/PE CCA<strong><br></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Foo Chee Sian Eric<br></strong>HOD/PE CCA</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -191,9 +188,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Loh_May_Kay_Maria__Luo_Meiqi_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -203,7 +198,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Loh May-Kay Maria<br></strong>SH/History &amp; Social Studies</p>
+<p><strong>Ms Jamie Foo</strong>
+</p>
+<p>SH/English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lee Chuen Hing<br></strong>SH/ICT</p>
@@ -291,9 +288,7 @@ Education</p>
 <br>SH/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Jamie Foo</strong>
-</p>
-<p>SH/English</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -337,7 +332,7 @@ Education</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Puvaneswari_D_O_Raman.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/ms_lim_shi_lei.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -348,8 +343,8 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Puvaneswari d/o Raman</strong> 
-<br>ST/Mathematics</p>
+<p><strong>Mdm Lim Shi Lei</strong>
+<br>ST/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Farhana Mokhtar</strong>
@@ -364,9 +359,7 @@ Education</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/ms_lim_shi_lei.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -375,8 +368,7 @@ Education</p>
 <br>ST/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lim Shi Lei</strong>
-<br>ST/Biology</p>
+<p></p>
 </td>
 </tr>
 </tbody>
