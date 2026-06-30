@@ -63,17 +63,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hidayah Moktar&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hidayah_moktar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_moktar@schools.gov.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Fauziah Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,13 +123,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Sok Fern</p>
+<p>Mr Ng Wuay Boon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_sok_fern@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sok_fern@schools.gov.sg</a>
+<p><a href="mailto:ng_wuay_boon@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_wuay_boon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -309,18 +298,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_teck_choon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_choon@schools.gov.sg</a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Loh May-Kay Maria</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH/History &amp; Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_may-kay_maria@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_may-kay_maria@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 <tr>
