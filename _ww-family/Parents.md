@@ -10,6 +10,8 @@ description: ""
 </p>
 <p><a href="https://drive.google.com/file/d/1clCVkPN3i6KxChQjE839pDUMWGEwWxiU/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 2 Parent Letter</a>
 </p>
+<p><a href="https://drive.google.com/file/d/1-oTmJ0Jb4xJOdHUgooGCY79o9ZINMXKH/view?usp=sharing" rel="noopener nofollow" target="_blank">Term 3 Parent Letter</a>
+</p>
 <h4>Useful Links</h4>
 <table style="minWidth: 50px">
 <colgroup>
