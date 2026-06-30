@@ -78,7 +78,7 @@ variant: tiptap
 <p><strong>Mr Foo Sek Jin<br></strong>HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr  Ng Wuay Boon<br></strong>HOD/Science</p>
+<p><strong>Mr Ng Wuay Boon<br></strong>HOD/Science</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mr__Foo_Chee_Sian_Eric.jpg">
 </div>
-<p><strong>Mr Foo Chee Sian Eric<br></strong>HOD/PE CCA<strong><br></strong> 
+<p><strong>Mr Foo Chee Sian Eric<br></strong>HOD/PE CCA<strong><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -332,7 +332,7 @@ Education</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Puvaneswari_D_O_Raman.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/ms_lim_shi_lei.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -343,8 +343,8 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Puvaneswari d/o Raman</strong> 
-<br>ST/Mathematics</p>
+<p><strong>Mdm Lim Shi Lei</strong>
+<br>ST/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Farhana Mokhtar</strong>
@@ -359,9 +359,7 @@ Education</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/ms_lim_shi_lei.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -370,8 +368,7 @@ Education</p>
 <br>ST/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lim Shi Lei</strong>
-<br>ST/Biology</p>
+<p></p>
 </td>
 </tr>
 </tbody>
