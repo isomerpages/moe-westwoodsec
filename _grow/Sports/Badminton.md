@@ -22,10 +22,10 @@ resilience and sportsmanship.</p>
 </ul>
 <p><strong>TEACHERS IN-CHARGE</strong>
 </p>
-<p><strong>Boys : </strong>Mr Lee Teck Choon Robert and Mrs Chew - Foo Suit
-Mei</p>
-<p><strong>Girls : </strong>Ms Mavis Teo, Mr Charles Chou Kin Sang and Ms
-Nurul Syahirah Mustaffa</p>
+<p><strong>Boys : </strong>Mr Charles Chou,<strong> </strong>Mr Liaw Jin
+Kai Dion</p>
+<p><strong>Girls : </strong>Ms Mavis Teo, Mr Koh Hoe Yap and Mrs Chew - Foo
+Suit Mei</p>
 <p></p>
 <p><strong>TRAINING DAYS</strong>
 </p>
@@ -187,6 +187,6 @@ to improve team bonding as well.</p>
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0naQSFBo2iM5B4F2UUMBp21IwoVSxVsF8loICWJo5nPbP9obfEka4TqNkUovzCx0aMcoQqlJSIfD6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0naQSFBo2iM5B4F2UUMBp21IwoVSxVsF8loICWJo5nPbP9obfEka4TqNkUovzCx0aMcoQqlJSIfD6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

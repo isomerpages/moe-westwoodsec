@@ -34,6 +34,9 @@ in the form of competitions and school and public events</p>
 <li>
 <p>Mdm Jaskirath Kaur</p>
 </li>
+<li>
+<p>Ms Juslina D/O Sathguru</p>
+</li>
 </ul>
 <p></p>
 <p><strong>TRAINING DAYS</strong>
@@ -250,6 +253,6 @@ of drama and touches on key issues and challenges in today’s world.</p>
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv5GaA2JocQS-fAJ8EX2GTnhLp-NpV0BwceqLtSVtRJdM-J0ZPEyBma_2fCSOSxvvbg_O71I7EyeZt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv5GaA2JocQS-fAJ8EX2GTnhLp-NpV0BwceqLtSVtRJdM-J0ZPEyBma_2fCSOSxvvbg_O71I7EyeZt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
