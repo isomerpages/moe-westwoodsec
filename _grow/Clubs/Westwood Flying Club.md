@@ -24,6 +24,9 @@ students.&nbsp; &nbsp; &nbsp; &nbsp;</p>
 <li>
 <p>Mdm Li Aili</p>
 </li>
+<li>
+<p>Ms Toh Xin Yi</p>
+</li>
 </ul>
 <p></p>
 <p><strong>TRAINING DAYS</strong>
