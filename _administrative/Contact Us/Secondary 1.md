@@ -52,6 +52,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Liaw Jin Kai Dion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Liaw_Jin_Kai_Dion@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liaw_Jin_Kai_Dion@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Insyirah Jumat&nbsp;&nbsp;&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,6 +71,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:insyirah_jumat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">insyirah_jumat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Phoebe Lim Ying Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ying_yi_phoebe@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ying_yi_phoebe@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -119,6 +143,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_jie_min_jamie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_jie_min_jamie@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Kang Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ng_kang_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_kang_leng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
