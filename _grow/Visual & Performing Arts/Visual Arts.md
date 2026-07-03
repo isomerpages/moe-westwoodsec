@@ -290,7 +290,7 @@ a collaborative graffiti mural.</p>
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeZFU1caHeo-t5MGcHe7a9WYUugoQO6S1eq9uytN6mAXCU91Un-oneyM1diBBV0CslDGbcz3yn-Old/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeZFU1caHeo-t5MGcHe7a9WYUugoQO6S1eq9uytN6mAXCU91Un-oneyM1diBBV0CslDGbcz3yn-Old/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
