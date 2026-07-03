@@ -33,6 +33,9 @@ and activities
 <p>Ms Jade Leong</p>
 </li>
 <li>
+<p>Lim Ying Yi, Phoebe</p>
+</li>
+<li>
 <p>Ms Li Yang</p>
 <p></p>
 </li>
