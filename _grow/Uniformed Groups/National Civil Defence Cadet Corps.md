@@ -26,13 +26,16 @@ to become effective ambassadors of Civil Defence.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Lim Lay Ping</p>
-</li>
-<li>
 <p>Ms Nicole Yau Zhi Qi</p>
 </li>
 <li>
-<p>Mr Lionel Ng Wei Jun</p>
+<p>Ms Lim Lay Ping</p>
+</li>
+<li>
+<p>Ms Kee Ming Feng</p>
+</li>
+<li>
+<p>Mr Muhammad Hasif Bin Salehin</p>
 </li>
 </ul>
 <p></p>
@@ -415,7 +418,7 @@ the development of skills, character and values</p>
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRHuMWBmiuq-ngKjo0WMGdy7hi30gDqf2F8booSXqFmCJGBnU-s0RBp_9USOEsoG0qm9JGH5PZ0Rke/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRHuMWBmiuq-ngKjo0WMGdy7hi30gDqf2F8booSXqFmCJGBnU-s0RBp_9USOEsoG0qm9JGH5PZ0Rke/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
