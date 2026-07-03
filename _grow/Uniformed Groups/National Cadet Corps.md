@@ -32,6 +32,9 @@ through fun, adventurous, and military-related activities.&nbsp;</p>
 <p>CPT (NCC) Mr How Choon Keat</p>
 </li>
 <li>
+<p>Mr Ng Yu Heng</p>
+</li>
+<li>
 <p>Mr Ng Hai Guan</p>
 </li>
 </ul>
@@ -584,7 +587,7 @@ by competing amongst other school units in a healthy competitive environment.</p
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgl4N8daa061TgabM22R3qjvUflC-QPkdvzRq4sEPuWjIYlJniYIYQ6lqqVGbwycK-xcoxjCG_pmzv/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgl4N8daa061TgabM22R3qjvUflC-QPkdvzRq4sEPuWjIYlJniYIYQ6lqqVGbwycK-xcoxjCG_pmzv/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
