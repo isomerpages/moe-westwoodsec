@@ -30,7 +30,7 @@ themselves.&nbsp;</p>
 <p>Mdm Farah Zila Hassan</p>
 </li>
 <li>
-<p>Mr Lim Jun Wei</p>
+<p>Ms Nurhanum Binte Shrudin</p>
 <p></p>
 </li>
 </ul>
@@ -249,7 +249,7 @@ from the experts of the dance scene.</p>
 <br><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTA09gJjqeuPmK9nOZQinFgPYvP008UZN7wSzzaIAiFpK34SHGzFMnJpWs06HIprrrvSLFMPqujeNNc/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTA09gJjqeuPmK9nOZQinFgPYvP008UZN7wSzzaIAiFpK34SHGzFMnJpWs06HIprrrvSLFMPqujeNNc/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
