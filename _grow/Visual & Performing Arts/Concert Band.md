@@ -32,7 +32,10 @@ subjects.
 <p>Mrs Jasmine Wong</p>
 </li>
 <li>
-<p>Ms Jovin Tan Wen Lin
+<p>Ms Jovin Tan Wen Lin</p>
+</li>
+<li>
+<p>Ms Solvia Ng Chu Yi
 <br>
 </p>
 </li>
@@ -306,7 +309,7 @@ application of values, knowledge and skills.</p>
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3T_nz-hTJ26LBrtmZZIKzj2gZAFk5izUH-RrdzM2z1-hb5VU2bDuEQu4Xp7JkP8DkjKN2BlwxHX0g/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3T_nz-hTJ26LBrtmZZIKzj2gZAFk5izUH-RrdzM2z1-hb5VU2bDuEQu4Xp7JkP8DkjKN2BlwxHX0g/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
