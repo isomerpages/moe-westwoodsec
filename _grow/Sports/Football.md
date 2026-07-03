@@ -22,7 +22,8 @@ for students</p>
 </p>
 <p><strong>Boys: </strong>Mr Lee Rui Ming Caleb, Mr Lua Wen Liang and Mr
 Ajaib Singh</p>
-<p><strong>Girls</strong>: Ms Qucinta Ardilah Roslan and Ms Veronica Nair</p>
+<p><strong>Girls</strong>: Ms Qucinta Ardilah Roslan, Mr Muhammad Fitri Mohammad
+Yassin and Ms Au Bei Lyn</p>
 <p></p>
 <p><strong>TRAINING DAYS</strong>
 </p>
@@ -197,7 +198,7 @@ leadership skills.</p>
 <p><strong>GALLERY</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTzSrqtbFGId31aqucCGwQmrsu-0oFlW760fQCpb2jr8umq_3Y4Q1T_c-4Ejqd-EGJgKwCvdqHGy4Qa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTzSrqtbFGId31aqucCGwQmrsu-0oFlW760fQCpb2jr8umq_3Y4Q1T_c-4Ejqd-EGJgKwCvdqHGy4Qa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p></p>
