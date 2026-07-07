@@ -104,7 +104,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Nadia_Bte_Eddy_Razali.jpg">
+</div>
+<p><strong>Mdm Nadia Binte Eddy Razali </strong>
+</p>
+<p>SSD (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -214,9 +219,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Nadia_Bte_Eddy_Razali.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -224,8 +227,8 @@ variant: tiptap
 <p><strong>Mdm Siti Mahmudah Omar<br></strong>SH/Mathematics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nadia Binte Eddy Razali <br></strong>SH/Character &amp; Citizenship
-Education</p>
+<p><strong>Ms Mavis Teo<br></strong>SH/Character &amp; Citizenship Education
+(Covering)</p>
 </td>
 </tr>
 <tr>
