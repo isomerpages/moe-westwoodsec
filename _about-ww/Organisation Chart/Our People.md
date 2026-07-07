@@ -107,7 +107,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Nadia_Bte_Eddy_Razali.jpg">
 </div>
-<p><strong>Mdm Nadia Binte Eddy Razali </strong>
+<p><strong>Mdm Nadia Binte Eddy Razali</strong>
 </p>
 <p>SSD (Covering)</p>
 </td>
