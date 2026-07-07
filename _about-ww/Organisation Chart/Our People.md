@@ -5,15 +5,36 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<h4>School Leaders</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org chart 2026/School_leaders_photos.png">
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Middle Managers</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h2><strong>School Leaders</strong></h2>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Brian Tan</strong>
+</p>
+<p>Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Derrick Hoi Weng Kit</strong>
+</p>
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Theodora Huang Xinyi</strong>
+</p>
+<p>Vice-Principal</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Middle Managers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -22,183 +43,86 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Mdm_Fauziah_Bte_Ahmad.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mr__Chan_Chi_Thio.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Fauziah Bte Ahmad</strong>
 </p>
 <p>HOD/Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chan Chi Thio<br></strong>HOD/ICT (Covering)</p>
+<p><strong>Mr Chan Chi Thio</strong>
+</p>
+<p>HOD/ICT (Covering)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Zhong_Shenghan_Desmond_400.jpg">
-</div>
+<p><strong>Mr Zhong Shenghan Desmond</strong>
+</p>
+<p>HOD/Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Li_Yundong.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Zhong Shenghan Desmond<br></strong>HOD/Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Li Yundong<br></strong>HOD/Mother Tongue Languages</p>
+<p><strong>Mr Li Yundong</strong>
+</p>
+<p>HOD/Mother Tongue Languages</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mr__Foo_Sek_Jin.jpg">
-</div>
+<p><strong>Mr Foo Sek Jin</strong>
+</p>
+<p>HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Foo Sek Jin<br></strong>HOD/Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ng Wuay Boon<br></strong>HOD/Science</p>
+<p><strong>Mr Ng Wuay Boon</strong>
+</p>
+<p>HOD/Science</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mr_heng_yih_foo_hector.jpg">
-</div>
+<p><strong>Mr Heng Yih Foo Hector</strong>
+</p>
+<p>HOD/Technology &amp; Design</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Nur_Rakeezah_Bte_Abdul_Rahim.jpg">
-</div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Heng Yih Foo Hector<br></strong>HOD/Technology &amp; Design</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Nur Rakeezah Bte Abdul Rahim<br></strong>HOD/Student Management</p>
+<p><strong>Mdm Nur Rakeezah Bte Abdul Rahim</strong>
+</p>
+<p>HOD/Student Management</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Nadia_Bte_Eddy_Razali.jpg">
-</div>
 <p><strong>Mdm Nadia Binte Eddy Razali</strong>
 </p>
-<p>SSD (Covering)</p>
+<p>School Staff Developer (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mr__Foo_Chee_Sian_Eric.jpg">
-</div>
-<p><strong>Mr Foo Chee Sian Eric<br></strong>HOD/PE CCA<strong><br></strong>
+<p><strong>Mr Foo Chee Sian Eric</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Miss_Maria_Bte_Marzuki.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Nurul_Atika_Binti_Ramli.jpg">
-</div>
+<p>HOD/PE CCA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Maria Marzuki</strong>
-<br>Year Head/Lower Sec</p>
+</p>
+<p>Year Head/Lower Sec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nurul Atika Bte Ramli<br></strong>Year Head/Upper Sec</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mr__John_Tan_Yeong_Kuen.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Ms_Farah_Zila_Binte_Hassan.jpg">
-</div>
+<p><strong>Mdm Nurul Atika Bte Ramli</strong>
+</p>
+<p>Year Head/Upper Sec</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tan Yeong Kuen John<br></strong>Assistant Year Head</p>
+<p><strong>Mr Tan Yeong Kuen John</strong>
+</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Farah Zila Hassan</strong>
-<br>Assistant Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/miss%20teo%20shi%20yun%20madeline.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Tang_Tai_Chi.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Teo Shi Yun Madeline<br></strong>SH/Food &amp; Nutrition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Tang Tai-Chi</strong>
-<br>SH/Aesthetics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Lee_Chuen_Hing.jpg">
-</div>
+</p>
+<p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
@@ -208,87 +132,64 @@ variant: tiptap
 <p>SH/English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lee Chuen Hing<br></strong>SH/ICT</p>
+<p><strong>Mdm Tang Tai-Chi</strong>
+</p>
+<p>SH/Aesthetics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mdm__Siti_Mahmudah_Bte_Mohd_Omar.jpg">
-</div>
+<p><strong>Mdm Siti Mahmudah Omar</strong>
+</p>
+<p>SH/Mathematics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Siti Mahmudah Omar<br></strong>SH/Mathematics (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Mavis Teo<br></strong>SH/Character &amp; Citizenship Education
-(Covering)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/miss melissa manuela rama shan.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mr_Lee_Teck_Choon_Robert.jpg">
-</div>
+<p><strong>Mr Lee Chuen Hing</strong>
+</p>
+<p>SH/ICT</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Melissa Manuela</strong>
-<br>SH/Chemistry</p>
+</p>
+<p>SH/Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lee Teck Choon Robert<br></strong>SH/Physical Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Ms_Natria_Binte_Nor_Siman.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Miss_Lim_Lay_Ping.jpg">
-</div>
+<p><strong>Mr Lee Teck Choon Robert</strong>
+</p>
+<p>SH/Physical Education</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Natria Nor Siman</strong>
-<br>SH/21CC</p>
+</p>
+<p>SH/21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Lim Lay Ping</strong>
-<br>SH/Student Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Chart 2024/Miss_Julitta_Chia_Meng_You.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</p>
+<p>SH/Student Management</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Julitta Chia Meng You</strong>
-<br>SH/Literature</p>
+</p>
+<p>SH/Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Teo Shi Yun Madeline</strong>
+</p>
+<p>SH/Food &amp; Nutrition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Mavis Teo</strong>
+</p>
+<p>SH/Character &amp; Citizenship Education (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -296,13 +197,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Lead Teachers &amp; Senior Teachers</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h3><strong>Lead Teachers &amp; Senior Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -311,43 +206,21 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mdm_Mousumi_Saha.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Wang_Fang.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Saha Mousumi</strong>
-<br>LT/English Language</p>
+</p>
+<p>LT/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Wang Fang</strong> 
-<br>ST/Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/ms_lim_shi_lei.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mdm_Farhana_Binte_Mokhtar.jpg">
-</div>
+<p><strong>Mdm Wang Fang</strong>
+</p>
+<p>ST/Chinese Language</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Lim Shi Lei</strong>
-<br>ST/Biology</p>
+</p>
+<p>ST/Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Farhana Mokhtar</strong>
@@ -357,18 +230,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Ahmad_Luqman_Bin_Ghazali.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ahmad Luqman Ghazali</strong> 
-<br>ST/CCE</p>
+<p><strong>Mr Ahmad Luqman Ghazali</strong>
+</p>
+<p>ST/CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -376,35 +240,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Executive and Administrative Staff</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<h3><strong>Executive and Administrative Staff</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/Mr_Wang_Pok_Shien.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Org Pics/mdm_nor_haseena_binte_masrip.jpg">
-</div>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Wang Pok Shien</strong>
@@ -419,7 +261,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
 <p></p>
