@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xzSm9TFTrEw?si=6k45AEg8EYaHTW1A"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xzSm9TFTrEw?si=6k45AEg8EYaHTW1A"></iframe>
 </div>
 <h3>Visual and Performing Arts</h3>
 <p>The VPA strives to give students a unique opportunity to develop a lifelong
@@ -31,7 +31,7 @@ and heritage.</p>
 </p>
 </li>
 <li>
-<p><a href="/cca/visual-and-performing-arts/show-choir/" rel="noopener noreferrer nofollow" target="_blank">Show Choir</a>
+<p><a href="https://www.westwoodsec.moe.edu.sg/cca/visual-and-performing-arts/choir/" rel="noopener nofollow" target="_blank">Show Choir</a>
 </p>
 </li>
 <li>
