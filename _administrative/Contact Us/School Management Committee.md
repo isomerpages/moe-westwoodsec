@@ -171,6 +171,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Nadia Eddy Razali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nadia_eddy_razali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_eddy_razali@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Maria Marzuki</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,13 +231,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadia Eddy Razali</p>
+<p>Ms Mavis Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Character &amp; Citizenship Education</p>
+<p>SH/Character &amp; Citizenship Education (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nadia_eddy_razali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_eddy_razali@schools.gov.sg</a>
+<p><a href="mailto:mavis_teo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mavis_teo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
