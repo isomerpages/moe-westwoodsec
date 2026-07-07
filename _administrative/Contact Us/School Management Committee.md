@@ -237,7 +237,7 @@ variant: tiptap
 <p>SH/Character &amp; Citizenship Education (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mavis_teo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mavis_teo@schools.gov.sg</a> 
+<p><a href="mailto:mavis_teo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mavis_teo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
